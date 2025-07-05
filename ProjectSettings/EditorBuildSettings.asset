@@ -6,27 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/GeoQuest/Scenes/GeoLevel_0.unity
-    guid: 67f89a52f9168b8449223174d130a382
+    path: Assets/Scenes/MenuLevel.unity
+    guid: 2fa55462fc719a848b33dd6097f67562
   - enabled: 1
-    path: Assets/GeoQuest/Scenes/GeoLevel_1.unity
-    guid: fd049438e13b899419a464965ff76ad1
+    path: Assets/Scenes/Level_1.unity
+    guid: 63bfa8c991160f74bb68a3153b8a87db
   - enabled: 1
-    path: Assets/GeoQuest/Scenes/GeoLevel_2.unity
-    guid: cb26e43344762a348ab00f9f5a3d03c6
-  - enabled: 1
-    path: Assets/GeoQuest/Scenes/GeoLevel_4.unity
-    guid: 2eaa9e10406686940affcc3720724a16
-  - enabled: 1
-    path: Assets/GeoQuest/Scenes/GeoLevel_3.unity
-    guid: 0131e8efc64883c438f9993560b19508
-  - enabled: 1
-    path: Assets/GeoQuest/Scenes/GeoLevel_5.unity
-    guid: a66ffc3b17a31f4458cdf515c53baa31
-  - enabled: 1
-    path: Assets/GeoQuest/Scenes/GeoLevel_6.unity
-    guid: 11eca06daa38e204ea4bf2db243f7ba2
-  - enabled: 1
-    path: Assets/GeoQuest/Scenes/GeoLevel_7.unity
-    guid: fdbf6e7b41c64df4d8b465b860c544eb
+    path: Assets/Scenes/Level_2.unity
+    guid: 74b4313935e200c469f2b80a94b965d4
   m_configObjects: {}
