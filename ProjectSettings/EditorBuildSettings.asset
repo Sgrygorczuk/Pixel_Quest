@@ -5,13 +5,20 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/MenuLevel.unity
     guid: 2fa55462fc719a848b33dd6097f67562
   - enabled: 1
+    path: Assets/Scenes/PS132_Example_2.unity
+    guid: 9da1078648f31034ea7523dc8d408cc3
+  - enabled: 1
+    path: Assets/Scenes/PS132_Example_With Art.unity
+    guid: 8ae2d1f1438792f4297656727a74aefe
+  - enabled: 0
     path: Assets/Scenes/Level_1.unity
     guid: 63bfa8c991160f74bb68a3153b8a87db
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Level_2.unity
     guid: 74b4313935e200c469f2b80a94b965d4
   m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0

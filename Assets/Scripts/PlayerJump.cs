@@ -40,13 +40,13 @@ public class PlayerJump : MonoBehaviour
         // Checks if player is trying to jump/can jump 
         if (Input.GetKeyDown(KeyCode.Space) && (_groundCheck || _waterCheck))
         {
-            _rigidbody2D.velocity = new Vector2(_rigidbody2D.velocity.x, jumpForce);
+            _rigidbody2D.linearVelocity = new Vector2(_rigidbody2D.linearVelocity.x, jumpForce);
         }
 
         // Checks if the gravity should be getting faster 
-        if(_rigidbody2D.velocity.y < 0 && !_waterCheck)
+        if(_rigidbody2D.linearVelocity.y < 0 && !_waterCheck)
         {
-            _rigidbody2D.velocity -= _gravityVector * (fallForce * Time.deltaTime);
+            _rigidbody2D.linearVelocity -= _gravityVector * (fallForce * Time.deltaTime);
         }
     }
 

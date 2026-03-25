@@ -26,7 +26,7 @@ public class WalkingEnemyController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        _rigidbody2D.velocity = new Vector2(speed * direction, _rigidbody2D.velocity.y);
+        _rigidbody2D.linearVelocity = new Vector2(speed * direction, _rigidbody2D.linearVelocity.y);
 
         // Checks if player is touching ground 
         _groundCheck = Physics2D.OverlapCapsule(feetCollider.position, new Vector2(CapsuleHeight, CapsuleRadius), CapsuleDirection2D.Horizontal, 0, groundMask);

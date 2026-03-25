@@ -25,6 +25,6 @@ public class PlayerMovement : MonoBehaviour
         else { _spriteRenderer.flipX = false;}
 
         // Give the speed to the rigidbody  
-        _rigidbody2D.velocity = new Vector2(xMultiplier * xMovement, _rigidbody2D.velocity.y);
+        _rigidbody2D.linearVelocity = new Vector2(xMultiplier * xMovement, _rigidbody2D.linearVelocity.y);
     }
 }
