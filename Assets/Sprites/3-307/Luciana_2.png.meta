@@ -1,0 +1,513 @@
+fileFormatVersion: 2
+guid: f1dc53ea33cccc54dbc667760c1a8df5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5380664534684691436
+    second: Luciana_2_0
+  - first:
+      213: -2567116141433909975
+    second: Luciana_2_1
+  - first:
+      213: 4094999301971002387
+    second: Luciana_2_2
+  - first:
+      213: -7965476984336677179
+    second: Luciana_2_3
+  - first:
+      213: -4300398148063153479
+    second: Luciana_2_4
+  - first:
+      213: -1066479118821701748
+    second: Luciana_2_5
+  - first:
+      213: -1205098064873218862
+    second: Luciana_2_6
+  - first:
+      213: 2808875133800357227
+    second: Luciana_2_7
+  - first:
+      213: -3810102052713259590
+    second: Luciana_2_8
+  - first:
+      213: 3565787487335683065
+    second: Luciana_2_9
+  - first:
+      213: 422395427177790831
+    second: Luciana_2_10
+  - first:
+      213: 9117727743592793935
+    second: Luciana_2_11
+  - first:
+      213: 9022606205392826982
+    second: Luciana_2_12
+  - first:
+      213: -7393937139960585470
+    second: Luciana_2_13
+  - first:
+      213: 1533857208769774103
+    second: Luciana_2_14
+  - first:
+      213: 8594840412962119480
+    second: Luciana_2_15
+  - first:
+      213: -965818089595283951
+    second: Luciana_2_16
+  - first:
+      213: 3145640382078780209
+    second: Luciana_2_17
+  - first:
+      213: 1418934201782922721
+    second: Luciana_2_18
+  - first:
+      213: -2435689199116771289
+    second: Luciana_2_19
+  - first:
+      213: -8400675901950224223
+    second: Luciana_2_20
+  - first:
+      213: -6310392954143477390
+    second: Luciana_2_21
+  - first:
+      213: 3759705980851805948
+    second: Luciana_2_22
+  - first:
+      213: -6661240643250445479
+    second: Luciana_2_23
+  - first:
+      213: 3132836297948223377
+    second: Luciana_2_24
+  - first:
+      213: -8340210417789521147
+    second: Luciana_2_25
+  - first:
+      213: -8216649439322827973
+    second: Luciana_2_26
+  - first:
+      213: 7750555329487945574
+    second: Luciana_2_27
+  - first:
+      213: 3252801942457147710
+    second: Luciana_2_28
+  - first:
+      213: 6922278112603560048
+    second: Luciana_2_29
+  - first:
+      213: 590605218077703986
+    second: Luciana_2_30
+  - first:
+      213: -8412477710756069409
+    second: Luciana_2_31
+  - first:
+      213: 5940733467384138433
+    second: Luciana_2_32
+  - first:
+      213: 9039154166572756604
+    second: Luciana_2_33
+  - first:
+      213: -4669084432586064052
+    second: Luciana_2_34
+  - first:
+      213: 4589260137436049789
+    second: Luciana_2_35
+  - first:
+      213: -6894994518240609744
+    second: Luciana_2_36
+  - first:
+      213: -1468296632454390005
+    second: Luciana_2_37
+  - first:
+      213: 7423325998668551584
+    second: Luciana_2_38
+  - first:
+      213: -7462515020723629829
+    second: Luciana_2_39
+  - first:
+      213: -2948911319052247931
+    second: Luciana_2_40
+  - first:
+      213: -565655359626794951
+    second: Luciana_2_41
+  - first:
+      213: -8344515886788216840
+    second: Luciana_2_42
+  - first:
+      213: 4149431908639449944
+    second: Luciana_2_43
+  - first:
+      213: 9070145979418827521
+    second: Luciana_2_44
+  - first:
+      213: -5150102613828640011
+    second: Luciana_2_45
+  - first:
+      213: 5124029128600065672
+    second: Luciana_2_46
+  - first:
+      213: -8994307594635418026
+    second: Luciana_2_47
+  - first:
+      213: 3838739721129890210
+    second: Luciana_2_48
+  - first:
+      213: 8215147598266254191
+    second: Luciana_2_49
+  - first:
+      213: -7931637201795433690
+    second: Luciana_2_50
+  - first:
+      213: 5496432770942321753
+    second: Luciana_2_51
+  - first:
+      213: 1432021373329713026
+    second: Luciana_2_52
+  - first:
+      213: 4958066365312389486
+    second: Luciana_2_53
+  - first:
+      213: -2710459825260908249
+    second: Luciana_2_54
+  - first:
+      213: 210473891250302559
+    second: Luciana_2_55
+  - first:
+      213: -4602968517785566596
+    second: Luciana_2_56
+  - first:
+      213: 5052413724107934806
+    second: Luciana_2_57
+  - first:
+      213: 5194219081721360265
+    second: Luciana_2_58
+  - first:
+      213: -7605456891714634989
+    second: Luciana_2_59
+  - first:
+      213: -535505578341500679
+    second: Luciana_2_60
+  - first:
+      213: 8679939362932978888
+    second: Luciana_2_61
+  - first:
+      213: -8695370294241456176
+    second: Luciana_2_62
+  - first:
+      213: 4644263856917900490
+    second: Luciana_2_63
+  - first:
+      213: 9038483950400375417
+    second: Luciana_2_64
+  - first:
+      213: -2525417141415247057
+    second: Luciana_2_65
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Luciana_2_35
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 2198
+        width: 529
+        height: 484
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d717cb1b7c350bf30800000000000000
+      internalID: 4589260137436049789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luciana_2_36
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 2310
+        width: 311
+        height: 331
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03ab004540f0050a0800000000000000
+      internalID: -6894994518240609744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luciana_2_37
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 2175
+        width: 363
+        height: 289
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0f57adfdff8f9be0800000000000000
+      internalID: -1468296632454390005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luciana_2_50
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1434
+        width: 395
+        height: 334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62bb5b31df92de190800000000000000
+      internalID: -7931637201795433690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luciana_2_51
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 1372
+        width: 1070
+        height: 459
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95445dbdb70474c40800000000000000
+      internalID: 5496432770942321753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luciana_2_64
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 434
+        width: 1696
+        height: 473
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97a0fa3d3452f6d70800000000000000
+      internalID: 9038483950400375417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: fe573588cabde454488538fa7d9a8027
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Luciana_2_0: 5380664534684691436
+      Luciana_2_1: -2567116141433909975
+      Luciana_2_10: 422395427177790831
+      Luciana_2_11: 9117727743592793935
+      Luciana_2_12: 9022606205392826982
+      Luciana_2_13: -7393937139960585470
+      Luciana_2_14: 1533857208769774103
+      Luciana_2_15: 8594840412962119480
+      Luciana_2_16: -965818089595283951
+      Luciana_2_17: 3145640382078780209
+      Luciana_2_18: 1418934201782922721
+      Luciana_2_19: -2435689199116771289
+      Luciana_2_2: 4094999301971002387
+      Luciana_2_20: -8400675901950224223
+      Luciana_2_21: -6310392954143477390
+      Luciana_2_22: 3759705980851805948
+      Luciana_2_23: -6661240643250445479
+      Luciana_2_24: 3132836297948223377
+      Luciana_2_25: -8340210417789521147
+      Luciana_2_26: -8216649439322827973
+      Luciana_2_27: 7750555329487945574
+      Luciana_2_28: 3252801942457147710
+      Luciana_2_29: 6922278112603560048
+      Luciana_2_3: -7965476984336677179
+      Luciana_2_30: 590605218077703986
+      Luciana_2_31: -8412477710756069409
+      Luciana_2_32: 5940733467384138433
+      Luciana_2_33: 9039154166572756604
+      Luciana_2_34: -4669084432586064052
+      Luciana_2_35: 4589260137436049789
+      Luciana_2_36: -6894994518240609744
+      Luciana_2_37: -1468296632454390005
+      Luciana_2_38: 7423325998668551584
+      Luciana_2_39: -7462515020723629829
+      Luciana_2_4: -4300398148063153479
+      Luciana_2_40: -2948911319052247931
+      Luciana_2_41: -565655359626794951
+      Luciana_2_42: -8344515886788216840
+      Luciana_2_43: 4149431908639449944
+      Luciana_2_44: 9070145979418827521
+      Luciana_2_45: -5150102613828640011
+      Luciana_2_46: 5124029128600065672
+      Luciana_2_47: -8994307594635418026
+      Luciana_2_48: 3838739721129890210
+      Luciana_2_49: 8215147598266254191
+      Luciana_2_5: -1066479118821701748
+      Luciana_2_50: -7931637201795433690
+      Luciana_2_51: 5496432770942321753
+      Luciana_2_52: 1432021373329713026
+      Luciana_2_53: 4958066365312389486
+      Luciana_2_54: -2710459825260908249
+      Luciana_2_55: 210473891250302559
+      Luciana_2_56: -4602968517785566596
+      Luciana_2_57: 5052413724107934806
+      Luciana_2_58: 5194219081721360265
+      Luciana_2_59: -7605456891714634989
+      Luciana_2_6: -1205098064873218862
+      Luciana_2_60: -535505578341500679
+      Luciana_2_61: 8679939362932978888
+      Luciana_2_62: -8695370294241456176
+      Luciana_2_63: 4644263856917900490
+      Luciana_2_64: 9038483950400375417
+      Luciana_2_65: -2525417141415247057
+      Luciana_2_7: 2808875133800357227
+      Luciana_2_8: -3810102052713259590
+      Luciana_2_9: 3565787487335683065
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

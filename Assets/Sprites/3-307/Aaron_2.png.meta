@@ -1,0 +1,523 @@
+fileFormatVersion: 2
+guid: 7131a93c502aff340ab978a0202e136c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5351606325849845531
+    second: Aaron_2_0
+  - first:
+      213: 479817522772014411
+    second: Aaron_2_1
+  - first:
+      213: 2532734986504809797
+    second: Aaron_2_2
+  - first:
+      213: -7000194858487365777
+    second: Aaron_2_3
+  - first:
+      213: -5936305006796104431
+    second: Aaron_2_4
+  - first:
+      213: -3001053766442590003
+    second: Aaron_2_5
+  - first:
+      213: -7038042520599274436
+    second: Aaron_2_6
+  - first:
+      213: 6577482428712853334
+    second: Aaron_2_7
+  - first:
+      213: -6230775773196898311
+    second: Aaron_2_8
+  - first:
+      213: 163633790751297837
+    second: Aaron_2_9
+  - first:
+      213: -863756377876538966
+    second: Aaron_2_10
+  - first:
+      213: -4394341502856456579
+    second: Aaron_2_11
+  - first:
+      213: 618812181134833967
+    second: Aaron_2_12
+  - first:
+      213: -5823748499900868446
+    second: Aaron_2_13
+  - first:
+      213: -4251643562319679369
+    second: Aaron_2_14
+  - first:
+      213: -2463573396439096589
+    second: Aaron_2_15
+  - first:
+      213: -8462302911299073075
+    second: Aaron_2_16
+  - first:
+      213: -7586558380412961379
+    second: Aaron_2_17
+  - first:
+      213: 7820661204896669808
+    second: Aaron_2_18
+  - first:
+      213: -2653800340748907464
+    second: Aaron_2_19
+  - first:
+      213: -6309884978378895903
+    second: Aaron_2_20
+  - first:
+      213: -2031763827398112316
+    second: Aaron_2_21
+  - first:
+      213: -4609411901480972371
+    second: Aaron_2_22
+  - first:
+      213: 1595964520669634048
+    second: Aaron_2_23
+  - first:
+      213: 6561555194379805749
+    second: Aaron_2_24
+  - first:
+      213: 1367072200808424674
+    second: Aaron_2_25
+  - first:
+      213: 4030699307005856433
+    second: Aaron_2_26
+  - first:
+      213: 7194794176737103510
+    second: Aaron_2_27
+  - first:
+      213: -8067618946417495928
+    second: Aaron_2_28
+  - first:
+      213: 2552106978281720991
+    second: Aaron_2_29
+  - first:
+      213: 8926514796550205382
+    second: Aaron_2_30
+  - first:
+      213: 5445138813440672265
+    second: Aaron_2_31
+  - first:
+      213: -3328865720956112073
+    second: Aaron_2_32
+  - first:
+      213: 7017102529029200080
+    second: Aaron_2_33
+  - first:
+      213: 6841060070151844913
+    second: Aaron_2_34
+  - first:
+      213: -4571997237497458470
+    second: Aaron_2_35
+  - first:
+      213: 3138277568317298298
+    second: Aaron_2_36
+  - first:
+      213: 7920819334615172257
+    second: Aaron_2_37
+  - first:
+      213: -9186100851532453490
+    second: Aaron_2_38
+  - first:
+      213: 6944275153324113475
+    second: Aaron_2_39
+  - first:
+      213: 4690194971407964036
+    second: Aaron_2_40
+  - first:
+      213: 8562262057698119883
+    second: Aaron_2_41
+  - first:
+      213: 6253399105156462280
+    second: Aaron_2_42
+  - first:
+      213: 9014212341080576086
+    second: Aaron_2_43
+  - first:
+      213: 173392037421492591
+    second: Aaron_2_44
+  - first:
+      213: 6198058188740772241
+    second: Aaron_2_45
+  - first:
+      213: -2037866021815922393
+    second: Aaron_2_46
+  - first:
+      213: 6953118404906750885
+    second: Aaron_2_47
+  - first:
+      213: -5781292842894429301
+    second: Aaron_2_48
+  - first:
+      213: -1085443228525358534
+    second: Aaron_2_49
+  - first:
+      213: 716723796078555341
+    second: Aaron_2_50
+  - first:
+      213: -4663023228109598475
+    second: Aaron_2_51
+  - first:
+      213: -6706403932181255700
+    second: Aaron_2_52
+  - first:
+      213: 7003998375096788742
+    second: Aaron_2_53
+  - first:
+      213: -1399837689627129736
+    second: Aaron_2_54
+  - first:
+      213: 7550748110522838231
+    second: Aaron_2_55
+  - first:
+      213: -1235346493669260066
+    second: Aaron_2_56
+  - first:
+      213: 4058091125435399034
+    second: Aaron_2_57
+  - first:
+      213: -3002803503958934560
+    second: Aaron_2_58
+  - first:
+      213: -9210385142988406042
+    second: Aaron_2_59
+  - first:
+      213: -4640298491703256368
+    second: Aaron_2_60
+  - first:
+      213: -1505748997154874282
+    second: Aaron_2_61
+  - first:
+      213: -3278707431415567313
+    second: Aaron_2_62
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Aaron_2_33
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 2179
+        width: 536
+        height: 533
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 3, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d8d74b6291c16160800000000000000
+      internalID: 7017102529029200080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aaron_2_34
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 2327
+        width: 266
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 134728863e350fe50800000000000000
+      internalID: 6841060070151844913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aaron_2_35
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 2182
+        width: 530
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad095e86cb00d80c0800000000000000
+      internalID: -4571997237497458470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aaron_2_48
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1354
+        width: 513
+        height: 391
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b83f4cc3ac8b4cfa0800000000000000
+      internalID: -5781292842894429301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aaron_2_49
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 1433
+        width: 977
+        height: 451
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3294e3722bbfe0f0800000000000000
+      internalID: -1085443228525358534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aaron_2_62
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 452
+        width: 1463
+        height: 428
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2caa0466f0bf72d0800000000000000
+      internalID: -3278707431415567313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aaron_2_0
+      rect:
+        serializedVersion: 2
+        x: 1873
+        y: 2366
+        width: 198
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df1bda5e78090f34f90e687130344129
+      internalID: 5351606325849845531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 7762263d2ee548f49ae51609cafab774
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Aaron_2_0: 5351606325849845531
+      Aaron_2_1: 479817522772014411
+      Aaron_2_10: -863756377876538966
+      Aaron_2_11: -4394341502856456579
+      Aaron_2_12: 618812181134833967
+      Aaron_2_13: -5823748499900868446
+      Aaron_2_14: -4251643562319679369
+      Aaron_2_15: -2463573396439096589
+      Aaron_2_16: -8462302911299073075
+      Aaron_2_17: -7586558380412961379
+      Aaron_2_18: 7820661204896669808
+      Aaron_2_19: -2653800340748907464
+      Aaron_2_2: 2532734986504809797
+      Aaron_2_20: -6309884978378895903
+      Aaron_2_21: -2031763827398112316
+      Aaron_2_22: -4609411901480972371
+      Aaron_2_23: 1595964520669634048
+      Aaron_2_24: 6561555194379805749
+      Aaron_2_25: 1367072200808424674
+      Aaron_2_26: 4030699307005856433
+      Aaron_2_27: 7194794176737103510
+      Aaron_2_28: -8067618946417495928
+      Aaron_2_29: 2552106978281720991
+      Aaron_2_3: -7000194858487365777
+      Aaron_2_30: 8926514796550205382
+      Aaron_2_31: 5445138813440672265
+      Aaron_2_32: -3328865720956112073
+      Aaron_2_33: 7017102529029200080
+      Aaron_2_34: 6841060070151844913
+      Aaron_2_35: -4571997237497458470
+      Aaron_2_36: 3138277568317298298
+      Aaron_2_37: 7920819334615172257
+      Aaron_2_38: -9186100851532453490
+      Aaron_2_39: 6944275153324113475
+      Aaron_2_4: -5936305006796104431
+      Aaron_2_40: 4690194971407964036
+      Aaron_2_41: 8562262057698119883
+      Aaron_2_42: 6253399105156462280
+      Aaron_2_43: 9014212341080576086
+      Aaron_2_44: 173392037421492591
+      Aaron_2_45: 6198058188740772241
+      Aaron_2_46: -2037866021815922393
+      Aaron_2_47: 6953118404906750885
+      Aaron_2_48: -5781292842894429301
+      Aaron_2_49: -1085443228525358534
+      Aaron_2_5: -3001053766442590003
+      Aaron_2_50: 716723796078555341
+      Aaron_2_51: -4663023228109598475
+      Aaron_2_52: -6706403932181255700
+      Aaron_2_53: 7003998375096788742
+      Aaron_2_54: -1399837689627129736
+      Aaron_2_55: 7550748110522838231
+      Aaron_2_56: -1235346493669260066
+      Aaron_2_57: 4058091125435399034
+      Aaron_2_58: -3002803503958934560
+      Aaron_2_59: -9210385142988406042
+      Aaron_2_6: -7038042520599274436
+      Aaron_2_60: -4640298491703256368
+      Aaron_2_61: -1505748997154874282
+      Aaron_2_62: -3278707431415567313
+      Aaron_2_7: 6577482428712853334
+      Aaron_2_8: -6230775773196898311
+      Aaron_2_9: 163633790751297837
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

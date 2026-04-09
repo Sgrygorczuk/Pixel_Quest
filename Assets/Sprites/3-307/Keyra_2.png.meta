@@ -1,0 +1,409 @@
+fileFormatVersion: 2
+guid: d2cf84f443fed1141be1bfe91c698696
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4648363637648417540
+    second: Keyra_2_0
+  - first:
+      213: -8178400047604432206
+    second: Keyra_2_1
+  - first:
+      213: 8507472726571465776
+    second: Keyra_2_2
+  - first:
+      213: -3521760259661017265
+    second: Keyra_2_3
+  - first:
+      213: -8178585739116276669
+    second: Keyra_2_4
+  - first:
+      213: 1213402356108586176
+    second: Keyra_2_5
+  - first:
+      213: 1742414095115451557
+    second: Keyra_2_6
+  - first:
+      213: 4648250527901286745
+    second: Keyra_2_7
+  - first:
+      213: -3766013318039880723
+    second: Keyra_2_8
+  - first:
+      213: -4442117665395142201
+    second: Keyra_2_9
+  - first:
+      213: 4843128690455206038
+    second: Keyra_2_10
+  - first:
+      213: -1562396375565429656
+    second: Keyra_2_11
+  - first:
+      213: -4107997278733780322
+    second: Keyra_2_12
+  - first:
+      213: -8097340700422003583
+    second: Keyra_2_13
+  - first:
+      213: -2367347789515622205
+    second: Keyra_2_14
+  - first:
+      213: 3311676127068833126
+    second: Keyra_2_15
+  - first:
+      213: -1778722076890384071
+    second: Keyra_2_16
+  - first:
+      213: -8180739761385630808
+    second: Keyra_2_17
+  - first:
+      213: -6302053314050483196
+    second: Keyra_2_18
+  - first:
+      213: -2926544932505736557
+    second: Keyra_2_19
+  - first:
+      213: 6679510520721988000
+    second: Keyra_2_20
+  - first:
+      213: -2281514326165662514
+    second: Keyra_2_21
+  - first:
+      213: 5369468146619282770
+    second: Keyra_2_22
+  - first:
+      213: -4303613056609624543
+    second: Keyra_2_23
+  - first:
+      213: 6437215763654202930
+    second: Keyra_2_24
+  - first:
+      213: -5944187065652861907
+    second: Keyra_2_25
+  - first:
+      213: 6748515161364216502
+    second: Keyra_2_26
+  - first:
+      213: -3745083605149343593
+    second: Keyra_2_27
+  - first:
+      213: -7897432615098206928
+    second: Keyra_2_28
+  - first:
+      213: 1433470357421718309
+    second: Keyra_2_29
+  - first:
+      213: 5098863443863411965
+    second: Keyra_2_30
+  - first:
+      213: -2536157879917264781
+    second: Keyra_2_31
+  - first:
+      213: -7505518670140401039
+    second: Keyra_2_32
+  - first:
+      213: 3388678393405192320
+    second: Keyra_2_33
+  - first:
+      213: -7802848444140088298
+    second: Keyra_2_34
+  - first:
+      213: -4170627834469772325
+    second: Keyra_2_35
+  - first:
+      213: 7062742739984823186
+    second: Keyra_2_36
+  - first:
+      213: -2936809790181234262
+    second: Keyra_2_37
+  - first:
+      213: -2228209175267861601
+    second: Keyra_2_38
+  - first:
+      213: -3318901659764840159
+    second: Keyra_2_39
+  - first:
+      213: 5525812578431701538
+    second: Keyra_2_40
+  - first:
+      213: -7092405845108624949
+    second: Keyra_2_41
+  - first:
+      213: -860838266306478444
+    second: Keyra_2_42
+  - first:
+      213: 8335823397278533056
+    second: Keyra_2_43
+  - first:
+      213: -2335822309102521116
+    second: Keyra_2_44
+  - first:
+      213: 3351408938131294966
+    second: Keyra_2_45
+  - first:
+      213: -4673601442750063515
+    second: Keyra_2_46
+  - first:
+      213: 5843719270597103091
+    second: Keyra_2_47
+  - first:
+      213: -3884409364536033831
+    second: Keyra_2_48
+  - first:
+      213: 2845037734500131970
+    second: Keyra_2_49
+  - first:
+      213: -5915337123686944038
+    second: Keyra_2_50
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Keyra_2_22
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 2183
+        width: 310
+        height: 459
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2557408a4de248a40800000000000000
+      internalID: 5369468146619282770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyra_2_23
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 2318
+        width: 370
+        height: 315
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12edc0ef9be7644c0800000000000000
+      internalID: -4303613056609624543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyra_2_24
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 2343
+        width: 310
+        height: 309
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 236572791a5955950800000000000000
+      internalID: 6437215763654202930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyra_2_36
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1549
+        width: 400
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 293b3cc1a17e30260800000000000000
+      internalID: 7062742739984823186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 1d5df0fa8ba046041bb290c19509d58f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Keyra_2_0: -4648363637648417540
+      Keyra_2_1: -8178400047604432206
+      Keyra_2_10: 4843128690455206038
+      Keyra_2_11: -1562396375565429656
+      Keyra_2_12: -4107997278733780322
+      Keyra_2_13: -8097340700422003583
+      Keyra_2_14: -2367347789515622205
+      Keyra_2_15: 3311676127068833126
+      Keyra_2_16: -1778722076890384071
+      Keyra_2_17: -8180739761385630808
+      Keyra_2_18: -6302053314050483196
+      Keyra_2_19: -2926544932505736557
+      Keyra_2_2: 8507472726571465776
+      Keyra_2_20: 6679510520721988000
+      Keyra_2_21: -2281514326165662514
+      Keyra_2_22: 5369468146619282770
+      Keyra_2_23: -4303613056609624543
+      Keyra_2_24: 6437215763654202930
+      Keyra_2_25: -5944187065652861907
+      Keyra_2_26: 6748515161364216502
+      Keyra_2_27: -3745083605149343593
+      Keyra_2_28: -7897432615098206928
+      Keyra_2_29: 1433470357421718309
+      Keyra_2_3: -3521760259661017265
+      Keyra_2_30: 5098863443863411965
+      Keyra_2_31: -2536157879917264781
+      Keyra_2_32: -7505518670140401039
+      Keyra_2_33: 3388678393405192320
+      Keyra_2_34: -7802848444140088298
+      Keyra_2_35: -4170627834469772325
+      Keyra_2_36: 7062742739984823186
+      Keyra_2_37: -2936809790181234262
+      Keyra_2_38: -2228209175267861601
+      Keyra_2_39: -3318901659764840159
+      Keyra_2_4: -8178585739116276669
+      Keyra_2_40: 5525812578431701538
+      Keyra_2_41: -7092405845108624949
+      Keyra_2_42: -860838266306478444
+      Keyra_2_43: 8335823397278533056
+      Keyra_2_44: -2335822309102521116
+      Keyra_2_45: 3351408938131294966
+      Keyra_2_46: -4673601442750063515
+      Keyra_2_47: 5843719270597103091
+      Keyra_2_48: -3884409364536033831
+      Keyra_2_49: 2845037734500131970
+      Keyra_2_5: 1213402356108586176
+      Keyra_2_50: -5915337123686944038
+      Keyra_2_6: 1742414095115451557
+      Keyra_2_7: 4648250527901286745
+      Keyra_2_8: -3766013318039880723
+      Keyra_2_9: -4442117665395142201
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

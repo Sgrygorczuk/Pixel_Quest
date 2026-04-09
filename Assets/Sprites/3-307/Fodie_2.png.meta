@@ -1,0 +1,505 @@
+fileFormatVersion: 2
+guid: 60ee2303f7e5c39419a04d7f309c1475
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7346876355729336298
+    second: Fodie_2_0
+  - first:
+      213: -4916325318563821950
+    second: Fodie_2_1
+  - first:
+      213: 3143404429585420226
+    second: Fodie_2_2
+  - first:
+      213: -2929391108836899472
+    second: Fodie_2_3
+  - first:
+      213: -8974190708435664573
+    second: Fodie_2_4
+  - first:
+      213: 4696480136809440408
+    second: Fodie_2_5
+  - first:
+      213: -709975038454874891
+    second: Fodie_2_6
+  - first:
+      213: -8103077738818183521
+    second: Fodie_2_7
+  - first:
+      213: -3726431947579690436
+    second: Fodie_2_8
+  - first:
+      213: -4504505764496141883
+    second: Fodie_2_9
+  - first:
+      213: -6036011608287444132
+    second: Fodie_2_10
+  - first:
+      213: 3657769560332373066
+    second: Fodie_2_11
+  - first:
+      213: 8066210858173759890
+    second: Fodie_2_12
+  - first:
+      213: -8399145945436740937
+    second: Fodie_2_13
+  - first:
+      213: -3391883880849340303
+    second: Fodie_2_14
+  - first:
+      213: 1700247762821579338
+    second: Fodie_2_15
+  - first:
+      213: -7080197536405035169
+    second: Fodie_2_16
+  - first:
+      213: 1129722575341312128
+    second: Fodie_2_17
+  - first:
+      213: 5929920306652507634
+    second: Fodie_2_18
+  - first:
+      213: 8824417423709948640
+    second: Fodie_2_19
+  - first:
+      213: 2218269440255782969
+    second: Fodie_2_20
+  - first:
+      213: -856098623472331485
+    second: Fodie_2_21
+  - first:
+      213: 3184133751058858616
+    second: Fodie_2_22
+  - first:
+      213: 2263761757645533348
+    second: Fodie_2_23
+  - first:
+      213: -5336302421399917359
+    second: Fodie_2_24
+  - first:
+      213: -6818730594889082895
+    second: Fodie_2_25
+  - first:
+      213: 7394669495592577923
+    second: Fodie_2_26
+  - first:
+      213: 3324697697154282488
+    second: Fodie_2_27
+  - first:
+      213: 3476663086633569086
+    second: Fodie_2_28
+  - first:
+      213: 2741541792674055652
+    second: Fodie_2_29
+  - first:
+      213: 2011777334003130515
+    second: Fodie_2_30
+  - first:
+      213: -1926250156678006486
+    second: Fodie_2_31
+  - first:
+      213: -2879968908685287711
+    second: Fodie_2_32
+  - first:
+      213: -8819268276500599218
+    second: Fodie_2_33
+  - first:
+      213: 2458062882847854793
+    second: Fodie_2_34
+  - first:
+      213: 8458285210097025794
+    second: Fodie_2_35
+  - first:
+      213: -876669695955697508
+    second: Fodie_2_36
+  - first:
+      213: 1276645710734756192
+    second: Fodie_2_37
+  - first:
+      213: 7356838267158849324
+    second: Fodie_2_38
+  - first:
+      213: -7055613272003997095
+    second: Fodie_2_39
+  - first:
+      213: -7274520518380603664
+    second: Fodie_2_40
+  - first:
+      213: -3940129479896895852
+    second: Fodie_2_41
+  - first:
+      213: 5740775111954346394
+    second: Fodie_2_42
+  - first:
+      213: 4570638517740029375
+    second: Fodie_2_43
+  - first:
+      213: 4182981045849698304
+    second: Fodie_2_44
+  - first:
+      213: 2539041639851880194
+    second: Fodie_2_45
+  - first:
+      213: 6264663177820237749
+    second: Fodie_2_46
+  - first:
+      213: -6879647127814197759
+    second: Fodie_2_47
+  - first:
+      213: -1221296495541212230
+    second: Fodie_2_48
+  - first:
+      213: 3942715790390100815
+    second: Fodie_2_49
+  - first:
+      213: 8955060688789947941
+    second: Fodie_2_50
+  - first:
+      213: 1211214805040409490
+    second: Fodie_2_51
+  - first:
+      213: 2320448799149292514
+    second: Fodie_2_52
+  - first:
+      213: -8651366745860604661
+    second: Fodie_2_53
+  - first:
+      213: 1465123167474978312
+    second: Fodie_2_54
+  - first:
+      213: -6832402588424939721
+    second: Fodie_2_55
+  - first:
+      213: -7320357117564263615
+    second: Fodie_2_56
+  - first:
+      213: 7929043179459232313
+    second: Fodie_2_57
+  - first:
+      213: -6604808497252177726
+    second: Fodie_2_58
+  - first:
+      213: -8624405868142812756
+    second: Fodie_2_59
+  - first:
+      213: -6806115301517556470
+    second: Fodie_2_60
+  - first:
+      213: -7794050534860202746
+    second: Fodie_2_61
+  - first:
+      213: 2087286365945670108
+    second: Fodie_2_62
+  - first:
+      213: 5212036557420731571
+    second: Fodie_2_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fodie_2_29
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 2226
+        width: 305
+        height: 389
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e589313cb9eb0620800000000000000
+      internalID: 2741541792674055652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fodie_2_30
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 2205
+        width: 387
+        height: 510
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 390607093d44beb10800000000000000
+      internalID: 2011777334003130515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fodie_2_31
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 2272
+        width: 454
+        height: 374
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a29baae20b59445e0800000000000000
+      internalID: -1926250156678006486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fodie_2_45
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 1454
+        width: 861
+        height: 284
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20feb454bec7c3320800000000000000
+      internalID: 2539041639851880194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fodie_2_50
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 1372
+        width: 152
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 526c3612044c64c70800000000000000
+      internalID: 8955060688789947941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fodie_2_63
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 564
+        width: 1166
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bc996962afd45840800000000000000
+      internalID: 5212036557420731571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 80838a1356986bb458dede0b4bf625c7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Fodie_2_0: 7346876355729336298
+      Fodie_2_1: -4916325318563821950
+      Fodie_2_10: -6036011608287444132
+      Fodie_2_11: 3657769560332373066
+      Fodie_2_12: 8066210858173759890
+      Fodie_2_13: -8399145945436740937
+      Fodie_2_14: -3391883880849340303
+      Fodie_2_15: 1700247762821579338
+      Fodie_2_16: -7080197536405035169
+      Fodie_2_17: 1129722575341312128
+      Fodie_2_18: 5929920306652507634
+      Fodie_2_19: 8824417423709948640
+      Fodie_2_2: 3143404429585420226
+      Fodie_2_20: 2218269440255782969
+      Fodie_2_21: -856098623472331485
+      Fodie_2_22: 3184133751058858616
+      Fodie_2_23: 2263761757645533348
+      Fodie_2_24: -5336302421399917359
+      Fodie_2_25: -6818730594889082895
+      Fodie_2_26: 7394669495592577923
+      Fodie_2_27: 3324697697154282488
+      Fodie_2_28: 3476663086633569086
+      Fodie_2_29: 2741541792674055652
+      Fodie_2_3: -2929391108836899472
+      Fodie_2_30: 2011777334003130515
+      Fodie_2_31: -1926250156678006486
+      Fodie_2_32: -2879968908685287711
+      Fodie_2_33: -8819268276500599218
+      Fodie_2_34: 2458062882847854793
+      Fodie_2_35: 8458285210097025794
+      Fodie_2_36: -876669695955697508
+      Fodie_2_37: 1276645710734756192
+      Fodie_2_38: 7356838267158849324
+      Fodie_2_39: -7055613272003997095
+      Fodie_2_4: -8974190708435664573
+      Fodie_2_40: -7274520518380603664
+      Fodie_2_41: -3940129479896895852
+      Fodie_2_42: 5740775111954346394
+      Fodie_2_43: 4570638517740029375
+      Fodie_2_44: 4182981045849698304
+      Fodie_2_45: 2539041639851880194
+      Fodie_2_46: 6264663177820237749
+      Fodie_2_47: -6879647127814197759
+      Fodie_2_48: -1221296495541212230
+      Fodie_2_49: 3942715790390100815
+      Fodie_2_5: 4696480136809440408
+      Fodie_2_50: 8955060688789947941
+      Fodie_2_51: 1211214805040409490
+      Fodie_2_52: 2320448799149292514
+      Fodie_2_53: -8651366745860604661
+      Fodie_2_54: 1465123167474978312
+      Fodie_2_55: -6832402588424939721
+      Fodie_2_56: -7320357117564263615
+      Fodie_2_57: 7929043179459232313
+      Fodie_2_58: -6604808497252177726
+      Fodie_2_59: -8624405868142812756
+      Fodie_2_6: -709975038454874891
+      Fodie_2_60: -6806115301517556470
+      Fodie_2_61: -7794050534860202746
+      Fodie_2_62: 2087286365945670108
+      Fodie_2_63: 5212036557420731571
+      Fodie_2_7: -8103077738818183521
+      Fodie_2_8: -3726431947579690436
+      Fodie_2_9: -4504505764496141883
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

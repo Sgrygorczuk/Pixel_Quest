@@ -1,0 +1,505 @@
+fileFormatVersion: 2
+guid: 992e67595aaa0684d927e274a2ada9d7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -984750610456583931
+    second: Raisy_2_0
+  - first:
+      213: 5670857978663371507
+    second: Raisy_2_1
+  - first:
+      213: -6328442833980651297
+    second: Raisy_2_2
+  - first:
+      213: -7402460848965673169
+    second: Raisy_2_3
+  - first:
+      213: -8954981068365373902
+    second: Raisy_2_4
+  - first:
+      213: -8257688952616191177
+    second: Raisy_2_5
+  - first:
+      213: 6163563607544725129
+    second: Raisy_2_6
+  - first:
+      213: -7001254649083858633
+    second: Raisy_2_7
+  - first:
+      213: -191645890263994921
+    second: Raisy_2_8
+  - first:
+      213: -7201947700160022649
+    second: Raisy_2_9
+  - first:
+      213: -3475271157336704283
+    second: Raisy_2_10
+  - first:
+      213: -7157957761764536122
+    second: Raisy_2_11
+  - first:
+      213: -5991305565652564175
+    second: Raisy_2_12
+  - first:
+      213: -9020020454382144870
+    second: Raisy_2_13
+  - first:
+      213: -9202438426388895100
+    second: Raisy_2_14
+  - first:
+      213: 5116316855904482514
+    second: Raisy_2_15
+  - first:
+      213: -8563021916320239524
+    second: Raisy_2_16
+  - first:
+      213: 4166354022151001014
+    second: Raisy_2_17
+  - first:
+      213: 5294301899379292796
+    second: Raisy_2_18
+  - first:
+      213: -6257640462748038654
+    second: Raisy_2_19
+  - first:
+      213: 4555092462155242373
+    second: Raisy_2_20
+  - first:
+      213: 6718516488272841956
+    second: Raisy_2_21
+  - first:
+      213: 7174051351290685715
+    second: Raisy_2_22
+  - first:
+      213: 5555199352130348665
+    second: Raisy_2_23
+  - first:
+      213: -2627173569024599784
+    second: Raisy_2_24
+  - first:
+      213: 4417721578908800071
+    second: Raisy_2_25
+  - first:
+      213: 1022147527223884613
+    second: Raisy_2_26
+  - first:
+      213: -390575847044632601
+    second: Raisy_2_27
+  - first:
+      213: -7986567285485960055
+    second: Raisy_2_28
+  - first:
+      213: 3269809371340916914
+    second: Raisy_2_29
+  - first:
+      213: -5198101747687854176
+    second: Raisy_2_30
+  - first:
+      213: 3042327643017112272
+    second: Raisy_2_31
+  - first:
+      213: 5514051690862543838
+    second: Raisy_2_32
+  - first:
+      213: 4043195283766199706
+    second: Raisy_2_33
+  - first:
+      213: -1560149275741948071
+    second: Raisy_2_34
+  - first:
+      213: 1477710679551514222
+    second: Raisy_2_35
+  - first:
+      213: -7325424776044007123
+    second: Raisy_2_36
+  - first:
+      213: 5759920414957514389
+    second: Raisy_2_37
+  - first:
+      213: -1257709745727693827
+    second: Raisy_2_38
+  - first:
+      213: -2574626123915300401
+    second: Raisy_2_39
+  - first:
+      213: 5225841243414030543
+    second: Raisy_2_40
+  - first:
+      213: 3649317436296511134
+    second: Raisy_2_41
+  - first:
+      213: -8908149470660646681
+    second: Raisy_2_42
+  - first:
+      213: -181002673250194794
+    second: Raisy_2_43
+  - first:
+      213: -5956098014662790095
+    second: Raisy_2_44
+  - first:
+      213: -6213800192386871148
+    second: Raisy_2_45
+  - first:
+      213: 5356716289619068357
+    second: Raisy_2_46
+  - first:
+      213: 6047735424972075040
+    second: Raisy_2_47
+  - first:
+      213: 6668173588874467754
+    second: Raisy_2_48
+  - first:
+      213: 169898992842332129
+    second: Raisy_2_49
+  - first:
+      213: -1950041110393213955
+    second: Raisy_2_50
+  - first:
+      213: 6981455777631868348
+    second: Raisy_2_51
+  - first:
+      213: -402406182178201582
+    second: Raisy_2_52
+  - first:
+      213: -6110880940163011979
+    second: Raisy_2_53
+  - first:
+      213: -6448501183034242834
+    second: Raisy_2_54
+  - first:
+      213: 820581705275744272
+    second: Raisy_2_55
+  - first:
+      213: 694325474766774159
+    second: Raisy_2_56
+  - first:
+      213: -9180103073842400882
+    second: Raisy_2_57
+  - first:
+      213: 3953766289513424708
+    second: Raisy_2_58
+  - first:
+      213: -3839957281766557714
+    second: Raisy_2_59
+  - first:
+      213: 5588983576951075337
+    second: Raisy_2_60
+  - first:
+      213: -1761088413287216595
+    second: Raisy_2_61
+  - first:
+      213: 6909066730990180795
+    second: Raisy_2_62
+  - first:
+      213: -2647496261532511720
+    second: Raisy_2_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Raisy_2_33
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 2268
+        width: 388
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a954b6650b05c1830800000000000000
+      internalID: 4043195283766199706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raisy_2_34
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 2328
+        width: 428
+        height: 365
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95771deef7c395ae0800000000000000
+      internalID: -1560149275741948071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raisy_2_35
+      rect:
+        serializedVersion: 2
+        x: 1715
+        y: 2217
+        width: 479
+        height: 425
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e661877a802e18410800000000000000
+      internalID: 1477710679551514222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raisy_2_47
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1376
+        width: 564
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 020b105a35fdde350800000000000000
+      internalID: 6047735424972075040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raisy_2_48
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 1406
+        width: 689
+        height: 394
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa91181bc8c1a8c50800000000000000
+      internalID: 6668173588874467754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raisy_2_62
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 412
+        width: 2009
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb99326069fe1ef50800000000000000
+      internalID: 6909066730990180795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 2b1eb89416945404d84477601407fd9e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Raisy_2_0: -984750610456583931
+      Raisy_2_1: 5670857978663371507
+      Raisy_2_10: -3475271157336704283
+      Raisy_2_11: -7157957761764536122
+      Raisy_2_12: -5991305565652564175
+      Raisy_2_13: -9020020454382144870
+      Raisy_2_14: -9202438426388895100
+      Raisy_2_15: 5116316855904482514
+      Raisy_2_16: -8563021916320239524
+      Raisy_2_17: 4166354022151001014
+      Raisy_2_18: 5294301899379292796
+      Raisy_2_19: -6257640462748038654
+      Raisy_2_2: -6328442833980651297
+      Raisy_2_20: 4555092462155242373
+      Raisy_2_21: 6718516488272841956
+      Raisy_2_22: 7174051351290685715
+      Raisy_2_23: 5555199352130348665
+      Raisy_2_24: -2627173569024599784
+      Raisy_2_25: 4417721578908800071
+      Raisy_2_26: 1022147527223884613
+      Raisy_2_27: -390575847044632601
+      Raisy_2_28: -7986567285485960055
+      Raisy_2_29: 3269809371340916914
+      Raisy_2_3: -7402460848965673169
+      Raisy_2_30: -5198101747687854176
+      Raisy_2_31: 3042327643017112272
+      Raisy_2_32: 5514051690862543838
+      Raisy_2_33: 4043195283766199706
+      Raisy_2_34: -1560149275741948071
+      Raisy_2_35: 1477710679551514222
+      Raisy_2_36: -7325424776044007123
+      Raisy_2_37: 5759920414957514389
+      Raisy_2_38: -1257709745727693827
+      Raisy_2_39: -2574626123915300401
+      Raisy_2_4: -8954981068365373902
+      Raisy_2_40: 5225841243414030543
+      Raisy_2_41: 3649317436296511134
+      Raisy_2_42: -8908149470660646681
+      Raisy_2_43: -181002673250194794
+      Raisy_2_44: -5956098014662790095
+      Raisy_2_45: -6213800192386871148
+      Raisy_2_46: 5356716289619068357
+      Raisy_2_47: 6047735424972075040
+      Raisy_2_48: 6668173588874467754
+      Raisy_2_49: 169898992842332129
+      Raisy_2_5: -8257688952616191177
+      Raisy_2_50: -1950041110393213955
+      Raisy_2_51: 6981455777631868348
+      Raisy_2_52: -402406182178201582
+      Raisy_2_53: -6110880940163011979
+      Raisy_2_54: -6448501183034242834
+      Raisy_2_55: 820581705275744272
+      Raisy_2_56: 694325474766774159
+      Raisy_2_57: -9180103073842400882
+      Raisy_2_58: 3953766289513424708
+      Raisy_2_59: -3839957281766557714
+      Raisy_2_6: 6163563607544725129
+      Raisy_2_60: 5588983576951075337
+      Raisy_2_61: -1761088413287216595
+      Raisy_2_62: 6909066730990180795
+      Raisy_2_63: -2647496261532511720
+      Raisy_2_7: -7001254649083858633
+      Raisy_2_8: -191645890263994921
+      Raisy_2_9: -7201947700160022649
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

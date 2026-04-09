@@ -1,0 +1,469 @@
+fileFormatVersion: 2
+guid: 42026490fbeb7c2459dab627e8c68887
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7317648992347596802
+    second: Lucas_2_0
+  - first:
+      213: -3825583790288040795
+    second: Lucas_2_1
+  - first:
+      213: -6330110998870742115
+    second: Lucas_2_2
+  - first:
+      213: 1754948173250966748
+    second: Lucas_2_3
+  - first:
+      213: 8370362885232816667
+    second: Lucas_2_4
+  - first:
+      213: 4738471815119045468
+    second: Lucas_2_5
+  - first:
+      213: 6456426741275798864
+    second: Lucas_2_6
+  - first:
+      213: -4604049898093117262
+    second: Lucas_2_7
+  - first:
+      213: -4759005482521664488
+    second: Lucas_2_8
+  - first:
+      213: 8239642333049821342
+    second: Lucas_2_9
+  - first:
+      213: -1145996446833635520
+    second: Lucas_2_10
+  - first:
+      213: 6700507894471221830
+    second: Lucas_2_11
+  - first:
+      213: -3445794129587025078
+    second: Lucas_2_12
+  - first:
+      213: 6161487307244802762
+    second: Lucas_2_13
+  - first:
+      213: 6437362640089141433
+    second: Lucas_2_14
+  - first:
+      213: -1493791815662090319
+    second: Lucas_2_15
+  - first:
+      213: -1286959117949014021
+    second: Lucas_2_16
+  - first:
+      213: -1011261310555189423
+    second: Lucas_2_17
+  - first:
+      213: 1969363371828187406
+    second: Lucas_2_18
+  - first:
+      213: -744347382381269833
+    second: Lucas_2_19
+  - first:
+      213: 2455181918567316663
+    second: Lucas_2_20
+  - first:
+      213: 5420497822921979440
+    second: Lucas_2_21
+  - first:
+      213: -4020347121826089148
+    second: Lucas_2_22
+  - first:
+      213: -7454800826141281787
+    second: Lucas_2_23
+  - first:
+      213: 8079712772793323357
+    second: Lucas_2_24
+  - first:
+      213: 8045619076295528049
+    second: Lucas_2_25
+  - first:
+      213: -3367806903792289623
+    second: Lucas_2_26
+  - first:
+      213: -6449442061176387314
+    second: Lucas_2_27
+  - first:
+      213: -4595005327739454077
+    second: Lucas_2_28
+  - first:
+      213: -1869371855787258380
+    second: Lucas_2_29
+  - first:
+      213: -824919923700347719
+    second: Lucas_2_30
+  - first:
+      213: 2007061517654648448
+    second: Lucas_2_31
+  - first:
+      213: 2878946115714070768
+    second: Lucas_2_32
+  - first:
+      213: -1816010074797591130
+    second: Lucas_2_33
+  - first:
+      213: 6074830728933236459
+    second: Lucas_2_34
+  - first:
+      213: 7019279625048954887
+    second: Lucas_2_35
+  - first:
+      213: -5176132812785953610
+    second: Lucas_2_36
+  - first:
+      213: 5869655506410265638
+    second: Lucas_2_37
+  - first:
+      213: 8750872915378393291
+    second: Lucas_2_38
+  - first:
+      213: -626807583997190385
+    second: Lucas_2_39
+  - first:
+      213: 3945245263339523196
+    second: Lucas_2_40
+  - first:
+      213: -3238834757881269516
+    second: Lucas_2_41
+  - first:
+      213: 7507750943136226724
+    second: Lucas_2_42
+  - first:
+      213: -7908878497768927968
+    second: Lucas_2_43
+  - first:
+      213: 5889657311613879021
+    second: Lucas_2_44
+  - first:
+      213: 4937100647895883775
+    second: Lucas_2_45
+  - first:
+      213: -5883644467762989680
+    second: Lucas_2_46
+  - first:
+      213: -1916121556837365978
+    second: Lucas_2_47
+  - first:
+      213: 5168123838730119552
+    second: Lucas_2_48
+  - first:
+      213: 9079121314143545435
+    second: Lucas_2_49
+  - first:
+      213: -1218039709044018827
+    second: Lucas_2_50
+  - first:
+      213: -5686592457447753134
+    second: Lucas_2_51
+  - first:
+      213: 8998575446158369121
+    second: Lucas_2_52
+  - first:
+      213: -4193779023559781845
+    second: Lucas_2_53
+  - first:
+      213: -9038048043132683245
+    second: Lucas_2_54
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lucas_2_30
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 2261
+        width: 306
+        height: 446
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bcc2b333bb4d84f0800000000000000
+      internalID: -824919923700347719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas_2_31
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 2330
+        width: 396
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 086692201d38adb10800000000000000
+      internalID: 2007061517654648448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas_2_32
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 2200
+        width: 449
+        height: 465
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f8b0aa2d3214f720800000000000000
+      internalID: 2878946115714070768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas_2_37
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 1374
+        width: 893
+        height: 448
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62cdf759594357150800000000000000
+      internalID: 5869655506410265638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas_2_41
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1421
+        width: 235
+        height: 429
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f27c42a2f85d03d0800000000000000
+      internalID: -3238834757881269516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas_2_54
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 518
+        width: 1551
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31c792eb037629280800000000000000
+      internalID: -9038048043132683245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 11b3222733f78ef4e83bc3dc3ed46c19
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Lucas_2_0: 7317648992347596802
+      Lucas_2_1: -3825583790288040795
+      Lucas_2_10: -1145996446833635520
+      Lucas_2_11: 6700507894471221830
+      Lucas_2_12: -3445794129587025078
+      Lucas_2_13: 6161487307244802762
+      Lucas_2_14: 6437362640089141433
+      Lucas_2_15: -1493791815662090319
+      Lucas_2_16: -1286959117949014021
+      Lucas_2_17: -1011261310555189423
+      Lucas_2_18: 1969363371828187406
+      Lucas_2_19: -744347382381269833
+      Lucas_2_2: -6330110998870742115
+      Lucas_2_20: 2455181918567316663
+      Lucas_2_21: 5420497822921979440
+      Lucas_2_22: -4020347121826089148
+      Lucas_2_23: -7454800826141281787
+      Lucas_2_24: 8079712772793323357
+      Lucas_2_25: 8045619076295528049
+      Lucas_2_26: -3367806903792289623
+      Lucas_2_27: -6449442061176387314
+      Lucas_2_28: -4595005327739454077
+      Lucas_2_29: -1869371855787258380
+      Lucas_2_3: 1754948173250966748
+      Lucas_2_30: -824919923700347719
+      Lucas_2_31: 2007061517654648448
+      Lucas_2_32: 2878946115714070768
+      Lucas_2_33: -1816010074797591130
+      Lucas_2_34: 6074830728933236459
+      Lucas_2_35: 7019279625048954887
+      Lucas_2_36: -5176132812785953610
+      Lucas_2_37: 5869655506410265638
+      Lucas_2_38: 8750872915378393291
+      Lucas_2_39: -626807583997190385
+      Lucas_2_4: 8370362885232816667
+      Lucas_2_40: 3945245263339523196
+      Lucas_2_41: -3238834757881269516
+      Lucas_2_42: 7507750943136226724
+      Lucas_2_43: -7908878497768927968
+      Lucas_2_44: 5889657311613879021
+      Lucas_2_45: 4937100647895883775
+      Lucas_2_46: -5883644467762989680
+      Lucas_2_47: -1916121556837365978
+      Lucas_2_48: 5168123838730119552
+      Lucas_2_49: 9079121314143545435
+      Lucas_2_5: 4738471815119045468
+      Lucas_2_50: -1218039709044018827
+      Lucas_2_51: -5686592457447753134
+      Lucas_2_52: 8998575446158369121
+      Lucas_2_53: -4193779023559781845
+      Lucas_2_54: -9038048043132683245
+      Lucas_2_6: 6456426741275798864
+      Lucas_2_7: -4604049898093117262
+      Lucas_2_8: -4759005482521664488
+      Lucas_2_9: 8239642333049821342
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,793 @@
+fileFormatVersion: 2
+guid: 2aa7252aaaf20384e918fbcc89dd5ad4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8088750293054750331
+    second: Lucia_2_0
+  - first:
+      213: -7519481057718964181
+    second: Lucia_2_1
+  - first:
+      213: -2414894734754505370
+    second: Lucia_2_2
+  - first:
+      213: -2522112759941493266
+    second: Lucia_2_3
+  - first:
+      213: 1774240240648426255
+    second: Lucia_2_4
+  - first:
+      213: 830488749032999501
+    second: Lucia_2_5
+  - first:
+      213: 9213733173956638406
+    second: Lucia_2_6
+  - first:
+      213: 8280728614451759023
+    second: Lucia_2_7
+  - first:
+      213: 2595149936999984173
+    second: Lucia_2_8
+  - first:
+      213: -9002055078411114699
+    second: Lucia_2_9
+  - first:
+      213: -1544948209617519357
+    second: Lucia_2_10
+  - first:
+      213: -4906887675718940052
+    second: Lucia_2_11
+  - first:
+      213: -5724330580893335658
+    second: Lucia_2_12
+  - first:
+      213: 447606004064351847
+    second: Lucia_2_13
+  - first:
+      213: -5201224256913835156
+    second: Lucia_2_14
+  - first:
+      213: -2191196206761806952
+    second: Lucia_2_15
+  - first:
+      213: -9222073159449602390
+    second: Lucia_2_16
+  - first:
+      213: 6416768988558075113
+    second: Lucia_2_17
+  - first:
+      213: -4980527903354637849
+    second: Lucia_2_18
+  - first:
+      213: -9189645376851042008
+    second: Lucia_2_19
+  - first:
+      213: -898834890029628721
+    second: Lucia_2_20
+  - first:
+      213: -3928504135798085956
+    second: Lucia_2_21
+  - first:
+      213: 8321846599828421311
+    second: Lucia_2_22
+  - first:
+      213: 783069134832766907
+    second: Lucia_2_23
+  - first:
+      213: 391163091565256322
+    second: Lucia_2_24
+  - first:
+      213: -4049336950529668664
+    second: Lucia_2_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lucia_2_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2505
+        width: 2487
+        height: 793
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7e7d561983014070800000000000000
+      internalID: 8088750293054750331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucia_2_1
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 2461
+        width: 73
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b20f16361df65a790800000000000000
+      internalID: -7519481057718964181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucia_2_2
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 2182
+        width: 305
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66d1ffc88029c7ed0800000000000000
+      internalID: -2414894734754505370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucia_2_3
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 2455
+        width: 22
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eed053cbec7affcd0800000000000000
+      internalID: -2522112759941493266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucia_2_4
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 2376
+        width: 300
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f039d0a391e5f9810800000000000000
+      internalID: 1774240240648426255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucia_2_5
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 2461
+        width: 13
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4a021cfd1d768b00800000000000000
+      internalID: 830488749032999501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucia_2_6
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 2293
+        width: 389
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c6fae85181cddf70800000000000000
+      internalID: 9213733173956638406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucia_2_7
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 2430
+        width: 13
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa74fc93dce0be270800000000000000
+      internalID: 8280728614451759023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucia_2_8
+      rect:
+        serializedVersion: 2
+        x: 2226
+        y: 2467
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2ce2c53e13d30420800000000000000
+      internalID: 2595149936999984173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucia_2_9
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 2437
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 537edc2e996421380800000000000000
+      internalID: -9002055078411114699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucia_2_10
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 2389
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d3f51f9cd3f8ae0800000000000000
+      internalID: -1544948209617519357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucia_2_11
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 2370
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6ac70028ab37ebb0800000000000000
+      internalID: -4906887675718940052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucia_2_12
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 2351
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69f72fc5aa71f80b0800000000000000
+      internalID: -5724330580893335658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucia_2_13
+      rect:
+        serializedVersion: 2
+        x: 1829
+        y: 2323
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76676970a47363600800000000000000
+      internalID: 447606004064351847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucia_2_14
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 2298
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b7189781a81d7b0800000000000000
+      internalID: -5201224256913835156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucia_2_15
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 2278
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89377cec8ae4791e0800000000000000
+      internalID: -2191196206761806952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucia_2_16
+      rect:
+        serializedVersion: 2
+        x: 1906
+        y: 2265
+        width: 39
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa69756725d940080800000000000000
+      internalID: -9222073159449602390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucia_2_17
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 2278
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e42fb8c561fc0950800000000000000
+      internalID: 6416768988558075113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucia_2_18
+      rect:
+        serializedVersion: 2
+        x: 2059
+        y: 2273
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e130a6824c91eab0800000000000000
+      internalID: -4980527903354637849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucia_2_19
+      rect:
+        serializedVersion: 2
+        x: 2098
+        y: 2278
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 821abf4f732d77080800000000000000
+      internalID: -9189645376851042008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucia_2_20
+      rect:
+        serializedVersion: 2
+        x: 1828
+        y: 2227
+        width: 12
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc28e040e62b683f0800000000000000
+      internalID: -898834890029628721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucia_2_21
+      rect:
+        serializedVersion: 2
+        x: 2216
+        y: 2265
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb62a177d462b79c0800000000000000
+      internalID: -3928504135798085956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucia_2_22
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 2189
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbab01a34632d7370800000000000000
+      internalID: 8321846599828421311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucia_2_23
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 2180
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbf8740ba350eda00800000000000000
+      internalID: 783069134832766907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucia_2_24
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 2028
+        width: 620
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28e9df162c0bd6500800000000000000
+      internalID: 391163091565256322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucia_2_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2494
+        height: 2166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c9c0df6f7dddc7c0800000000000000
+      internalID: -4049336950529668664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Lucia_2_0: 8088750293054750331
+      Lucia_2_1: -7519481057718964181
+      Lucia_2_10: -1544948209617519357
+      Lucia_2_11: -4906887675718940052
+      Lucia_2_12: -5724330580893335658
+      Lucia_2_13: 447606004064351847
+      Lucia_2_14: -5201224256913835156
+      Lucia_2_15: -2191196206761806952
+      Lucia_2_16: -9222073159449602390
+      Lucia_2_17: 6416768988558075113
+      Lucia_2_18: -4980527903354637849
+      Lucia_2_19: -9189645376851042008
+      Lucia_2_2: -2414894734754505370
+      Lucia_2_20: -898834890029628721
+      Lucia_2_21: -3928504135798085956
+      Lucia_2_22: 8321846599828421311
+      Lucia_2_23: 783069134832766907
+      Lucia_2_24: 391163091565256322
+      Lucia_2_25: -4049336950529668664
+      Lucia_2_3: -2522112759941493266
+      Lucia_2_4: 1774240240648426255
+      Lucia_2_5: 830488749032999501
+      Lucia_2_6: 9213733173956638406
+      Lucia_2_7: 8280728614451759023
+      Lucia_2_8: 2595149936999984173
+      Lucia_2_9: -9002055078411114699
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

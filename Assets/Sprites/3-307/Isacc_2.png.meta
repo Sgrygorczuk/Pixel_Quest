@@ -1,0 +1,477 @@
+fileFormatVersion: 2
+guid: d430463e2f3112d40bd6754fa98bf299
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5718846505286775170
+    second: Isacc_2_0
+  - first:
+      213: -7871307632584149590
+    second: Isacc_2_1
+  - first:
+      213: 8912928902415451242
+    second: Isacc_2_2
+  - first:
+      213: -2068274642613764493
+    second: Isacc_2_3
+  - first:
+      213: 2808319309509541948
+    second: Isacc_2_4
+  - first:
+      213: 3306334536693279350
+    second: Isacc_2_5
+  - first:
+      213: -5741662864900187513
+    second: Isacc_2_6
+  - first:
+      213: 2103209468536008658
+    second: Isacc_2_7
+  - first:
+      213: 7804863240458319031
+    second: Isacc_2_8
+  - first:
+      213: -6420315127708569439
+    second: Isacc_2_9
+  - first:
+      213: -3986779209857287847
+    second: Isacc_2_10
+  - first:
+      213: 1865466081047629218
+    second: Isacc_2_11
+  - first:
+      213: -7700989620897941255
+    second: Isacc_2_12
+  - first:
+      213: 7483108473516039550
+    second: Isacc_2_13
+  - first:
+      213: -4532462672974184127
+    second: Isacc_2_14
+  - first:
+      213: -2297320760401426980
+    second: Isacc_2_15
+  - first:
+      213: 1317413053907470022
+    second: Isacc_2_16
+  - first:
+      213: -8269776454384071379
+    second: Isacc_2_17
+  - first:
+      213: -2007022667542976917
+    second: Isacc_2_18
+  - first:
+      213: -5697204970160049465
+    second: Isacc_2_19
+  - first:
+      213: 3010003517332453612
+    second: Isacc_2_20
+  - first:
+      213: -9047957647123459332
+    second: Isacc_2_21
+  - first:
+      213: 3049995418081614481
+    second: Isacc_2_22
+  - first:
+      213: 1217744867171213577
+    second: Isacc_2_23
+  - first:
+      213: 2004961417478739586
+    second: Isacc_2_24
+  - first:
+      213: 1392369420393924016
+    second: Isacc_2_25
+  - first:
+      213: -299181577697708210
+    second: Isacc_2_26
+  - first:
+      213: -7981758802410535178
+    second: Isacc_2_27
+  - first:
+      213: 7668557024935370435
+    second: Isacc_2_28
+  - first:
+      213: -5220479026251563104
+    second: Isacc_2_29
+  - first:
+      213: -6083379888293179068
+    second: Isacc_2_30
+  - first:
+      213: -2408208135407313320
+    second: Isacc_2_31
+  - first:
+      213: 6042375864729814291
+    second: Isacc_2_32
+  - first:
+      213: 6109970416661420972
+    second: Isacc_2_33
+  - first:
+      213: -4133699307455480108
+    second: Isacc_2_34
+  - first:
+      213: -7297310808249675788
+    second: Isacc_2_35
+  - first:
+      213: 8195239347670130198
+    second: Isacc_2_36
+  - first:
+      213: -2869623596990674648
+    second: Isacc_2_37
+  - first:
+      213: -673490404218696974
+    second: Isacc_2_38
+  - first:
+      213: -2504080070466820374
+    second: Isacc_2_39
+  - first:
+      213: 6989849046309439949
+    second: Isacc_2_40
+  - first:
+      213: 1280300457450807563
+    second: Isacc_2_41
+  - first:
+      213: -1643742991798278829
+    second: Isacc_2_42
+  - first:
+      213: 2387239102257877609
+    second: Isacc_2_43
+  - first:
+      213: 4331780155052855518
+    second: Isacc_2_44
+  - first:
+      213: 2075110027536965588
+    second: Isacc_2_45
+  - first:
+      213: 3880950733103018256
+    second: Isacc_2_46
+  - first:
+      213: 2367977605612941416
+    second: Isacc_2_47
+  - first:
+      213: 4235614597069694883
+    second: Isacc_2_48
+  - first:
+      213: 3072960486892159711
+    second: Isacc_2_49
+  - first:
+      213: -5097939669623222010
+    second: Isacc_2_50
+  - first:
+      213: 1523767129893014767
+    second: Isacc_2_51
+  - first:
+      213: -3933240180990049914
+    second: Isacc_2_52
+  - first:
+      213: -5089762232414032333
+    second: Isacc_2_53
+  - first:
+      213: 6985127949229676282
+    second: Isacc_2_54
+  - first:
+      213: 8807766741188905640
+    second: Isacc_2_55
+  - first:
+      213: 8179101031211931489
+    second: Isacc_2_56
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Isacc_2_14
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 2206
+        width: 251
+        height: 379
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14108a386357911c0800000000000000
+      internalID: -4532462672974184127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isacc_2_28
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 2345
+        width: 239
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ce59130cff2c6a60800000000000000
+      internalID: 7668557024935370435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isacc_2_29
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 2199
+        width: 518
+        height: 523
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aff5e22cf12d87b0800000000000000
+      internalID: -5220479026251563104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isacc_2_41
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1413
+        width: 421
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0120249b7a84c110800000000000000
+      internalID: 1280300457450807563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isacc_2_42
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 1597
+        width: 852
+        height: 371
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35563d735704039e0800000000000000
+      internalID: -1643742991798278829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isacc_2_55
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 432
+        width: 2016
+        height: 539
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aa80118f297b3a70800000000000000
+      internalID: 8807766741188905640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e29424014e1e9ac45a92aaf231892262
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Isacc_2_0: 5718846505286775170
+      Isacc_2_1: -7871307632584149590
+      Isacc_2_10: -3986779209857287847
+      Isacc_2_11: 1865466081047629218
+      Isacc_2_12: -7700989620897941255
+      Isacc_2_13: 7483108473516039550
+      Isacc_2_14: -4532462672974184127
+      Isacc_2_15: -2297320760401426980
+      Isacc_2_16: 1317413053907470022
+      Isacc_2_17: -8269776454384071379
+      Isacc_2_18: -2007022667542976917
+      Isacc_2_19: -5697204970160049465
+      Isacc_2_2: 8912928902415451242
+      Isacc_2_20: 3010003517332453612
+      Isacc_2_21: -9047957647123459332
+      Isacc_2_22: 3049995418081614481
+      Isacc_2_23: 1217744867171213577
+      Isacc_2_24: 2004961417478739586
+      Isacc_2_25: 1392369420393924016
+      Isacc_2_26: -299181577697708210
+      Isacc_2_27: -7981758802410535178
+      Isacc_2_28: 7668557024935370435
+      Isacc_2_29: -5220479026251563104
+      Isacc_2_3: -2068274642613764493
+      Isacc_2_30: -6083379888293179068
+      Isacc_2_31: -2408208135407313320
+      Isacc_2_32: 6042375864729814291
+      Isacc_2_33: 6109970416661420972
+      Isacc_2_34: -4133699307455480108
+      Isacc_2_35: -7297310808249675788
+      Isacc_2_36: 8195239347670130198
+      Isacc_2_37: -2869623596990674648
+      Isacc_2_38: -673490404218696974
+      Isacc_2_39: -2504080070466820374
+      Isacc_2_4: 2808319309509541948
+      Isacc_2_40: 6989849046309439949
+      Isacc_2_41: 1280300457450807563
+      Isacc_2_42: -1643742991798278829
+      Isacc_2_43: 2387239102257877609
+      Isacc_2_44: 4331780155052855518
+      Isacc_2_45: 2075110027536965588
+      Isacc_2_46: 3880950733103018256
+      Isacc_2_47: 2367977605612941416
+      Isacc_2_48: 4235614597069694883
+      Isacc_2_49: 3072960486892159711
+      Isacc_2_5: 3306334536693279350
+      Isacc_2_50: -5097939669623222010
+      Isacc_2_51: 1523767129893014767
+      Isacc_2_52: -3933240180990049914
+      Isacc_2_53: -5089762232414032333
+      Isacc_2_54: 6985127949229676282
+      Isacc_2_55: 8807766741188905640
+      Isacc_2_56: 8179101031211931489
+      Isacc_2_6: -5741662864900187513
+      Isacc_2_7: 2103209468536008658
+      Isacc_2_8: 7804863240458319031
+      Isacc_2_9: -6420315127708569439
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1391 @@
+fileFormatVersion: 2
+guid: 4c78bc895c0f1994fa226904a557cb15
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -365853085094109745
+    second: Juliet_2_0
+  - first:
+      213: 2106023831703892619
+    second: Juliet_2_1
+  - first:
+      213: -8697304882148690985
+    second: Juliet_2_2
+  - first:
+      213: -6192894610995676840
+    second: Juliet_2_3
+  - first:
+      213: 881761262752912336
+    second: Juliet_2_4
+  - first:
+      213: -8600329662115896727
+    second: Juliet_2_5
+  - first:
+      213: -1396072256468992431
+    second: Juliet_2_6
+  - first:
+      213: 9150298337377351630
+    second: Juliet_2_7
+  - first:
+      213: -232347528094806936
+    second: Juliet_2_8
+  - first:
+      213: 5269856761439376543
+    second: Juliet_2_9
+  - first:
+      213: -32789311765764207
+    second: Juliet_2_10
+  - first:
+      213: 6201612408939198417
+    second: Juliet_2_11
+  - first:
+      213: 1657506476893855609
+    second: Juliet_2_12
+  - first:
+      213: -1781321747677876929
+    second: Juliet_2_13
+  - first:
+      213: 6249855542735257022
+    second: Juliet_2_14
+  - first:
+      213: 7140677003035217103
+    second: Juliet_2_15
+  - first:
+      213: -5282077688259692267
+    second: Juliet_2_16
+  - first:
+      213: -770881134260911246
+    second: Juliet_2_17
+  - first:
+      213: 354856414554346757
+    second: Juliet_2_18
+  - first:
+      213: -508506503322436584
+    second: Juliet_2_19
+  - first:
+      213: -4757022291949742010
+    second: Juliet_2_20
+  - first:
+      213: -6957960357552905787
+    second: Juliet_2_21
+  - first:
+      213: -609451535321039483
+    second: Juliet_2_22
+  - first:
+      213: -2109405158562074138
+    second: Juliet_2_23
+  - first:
+      213: 4077374043458086933
+    second: Juliet_2_24
+  - first:
+      213: -8062558745541989653
+    second: Juliet_2_25
+  - first:
+      213: -8827647450429890344
+    second: Juliet_2_26
+  - first:
+      213: -6988729262649496823
+    second: Juliet_2_27
+  - first:
+      213: -1134765665193466982
+    second: Juliet_2_28
+  - first:
+      213: -7950427027068942118
+    second: Juliet_2_29
+  - first:
+      213: 6571766677617270469
+    second: Juliet_2_30
+  - first:
+      213: -2541109679274784288
+    second: Juliet_2_31
+  - first:
+      213: 5103490316931440208
+    second: Juliet_2_32
+  - first:
+      213: 2749707945421416160
+    second: Juliet_2_33
+  - first:
+      213: 8922438435878517918
+    second: Juliet_2_34
+  - first:
+      213: 6326888398830163969
+    second: Juliet_2_35
+  - first:
+      213: 3393795335095952075
+    second: Juliet_2_36
+  - first:
+      213: -1028326915195115301
+    second: Juliet_2_37
+  - first:
+      213: 3548429125361079205
+    second: Juliet_2_38
+  - first:
+      213: 7371989554420193026
+    second: Juliet_2_39
+  - first:
+      213: -7457421222612210225
+    second: Juliet_2_40
+  - first:
+      213: 2110917928282846428
+    second: Juliet_2_41
+  - first:
+      213: 5797120977577763723
+    second: Juliet_2_42
+  - first:
+      213: -3903934837332814881
+    second: Juliet_2_43
+  - first:
+      213: 7933715380612365777
+    second: Juliet_2_44
+  - first:
+      213: -5574991623333679128
+    second: Juliet_2_45
+  - first:
+      213: -5648671333165454864
+    second: Juliet_2_46
+  - first:
+      213: 8753362194907870338
+    second: Juliet_2_47
+  - first:
+      213: -664669986494314856
+    second: Juliet_2_48
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Juliet_2_0
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 3067
+        width: 111
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcd1cf6be8a3ceaf0800000000000000
+      internalID: -365853085094109745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juliet_2_1
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 3060
+        width: 730
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b82b73944891a3d10800000000000000
+      internalID: 2106023831703892619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juliet_2_2
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 3075
+        width: 76
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d3b14c3a47fc4780800000000000000
+      internalID: -8697304882148690985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juliet_2_3
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 3073
+        width: 99
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 859fb24a92b6e0aa0800000000000000
+      internalID: -6192894610995676840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juliet_2_4
+      rect:
+        serializedVersion: 2
+        x: 1979
+        y: 3066
+        width: 202
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d3561b5235ac3c00800000000000000
+      internalID: 881761262752912336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juliet_2_5
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 2863
+        width: 68
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 962a3522dbd75a880800000000000000
+      internalID: -8600329662115896727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juliet_2_6
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 2862
+        width: 19
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15e3360fda720ace0800000000000000
+      internalID: -1396072256468992431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juliet_2_7
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 2865
+        width: 80
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec779348bd36cfe70800000000000000
+      internalID: 9150298337377351630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juliet_2_8
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 2934
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86c087b772986ccf0800000000000000
+      internalID: -232347528094806936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juliet_2_9
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 2866
+        width: 84
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f94d8cabdca422940800000000000000
+      internalID: 5269856761439376543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juliet_2_10
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 2866
+        width: 60
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 197a5cf6b428b8ff0800000000000000
+      internalID: -32789311765764207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juliet_2_11
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 2866
+        width: 55
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d7b97dd0ad801650800000000000000
+      internalID: 6201612408939198417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juliet_2_12
+      rect:
+        serializedVersion: 2
+        x: 1933
+        y: 2866
+        width: 37
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97fda20eb55a00710800000000000000
+      internalID: 1657506476893855609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juliet_2_13
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 2866
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3d6bfeee497747e0800000000000000
+      internalID: -1781321747677876929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juliet_2_14
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 2867
+        width: 58
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebdbd32c082fbb650800000000000000
+      internalID: 6249855542735257022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juliet_2_15
+      rect:
+        serializedVersion: 2
+        x: 2087
+        y: 2867
+        width: 18
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcc07bdb6e7c81360800000000000000
+      internalID: 7140677003035217103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juliet_2_16
+      rect:
+        serializedVersion: 2
+        x: 2109
+        y: 2867
+        width: 61
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 519b343045a42b6b0800000000000000
+      internalID: -5282077688259692267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juliet_2_17
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 2862
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 273045451b74d45f0800000000000000
+      internalID: -770881134260911246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juliet_2_18
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 2839
+        width: 58
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 505d7c76704bce400800000000000000
+      internalID: 354856414554346757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juliet_2_19
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 2862
+        width: 61
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81c7d77870c61f8f0800000000000000
+      internalID: -508506503322436584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juliet_2_20
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 2863
+        width: 38
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64898b3ed69abfdb0800000000000000
+      internalID: -4757022291949742010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juliet_2_21
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 2865
+        width: 63
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c12fce6beb507f90800000000000000
+      internalID: -6957960357552905787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juliet_2_22
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 2865
+        width: 19
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58d7f51ce0bca87f0800000000000000
+      internalID: -609451535321039483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juliet_2_23
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 2866
+        width: 56
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e1f7843f23e9b2e0800000000000000
+      internalID: -2109405158562074138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juliet_2_24
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 2142
+        width: 688
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 518a7b4f61eb59830800000000000000
+      internalID: 4077374043458086933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juliet_2_25
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 2220
+        width: 583
+        height: 576
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bea2047c9890c1090800000000000000
+      internalID: -8062558745541989653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juliet_2_26
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 2215
+        width: 590
+        height: 581
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d06eba2a65ed7580800000000000000
+      internalID: -8827647450429890344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juliet_2_27
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 2004
+        width: 81
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90b266473cb030f90800000000000000
+      internalID: -6988729262649496823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juliet_2_28
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 2005
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9365d6c3a08040f0800000000000000
+      internalID: -1134765665193466982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juliet_2_29
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 2005
+        width: 61
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad804e6fdb86aa190800000000000000
+      internalID: -7950427027068942118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juliet_2_30
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 2005
+        width: 19
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ce502e79fa933b50800000000000000
+      internalID: 6571766677617270469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juliet_2_31
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 1395
+        width: 1310
+        height: 681
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e90587c53a2cbcd0800000000000000
+      internalID: -2541109679274784288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juliet_2_32
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 2010
+        width: 68
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05e185f576d33d640800000000000000
+      internalID: 5103490316931440208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juliet_2_33
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 2010
+        width: 17
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e6a9eacecce82620800000000000000
+      internalID: 2749707945421416160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juliet_2_34
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 2010
+        width: 72
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9cb4dcfb7ed2db70800000000000000
+      internalID: 8922438435878517918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juliet_2_35
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1391
+        width: 585
+        height: 597
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 108dfc93a7f9dc750800000000000000
+      internalID: 6326888398830163969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juliet_2_36
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 1146
+        width: 68
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc2a5cc40ee291f20800000000000000
+      internalID: 3393795335095952075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juliet_2_37
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 1146
+        width: 61
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd862d27e16aab1f0800000000000000
+      internalID: -1028326915195115301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juliet_2_38
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 1146
+        width: 58
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a31cc73d7d8e3130800000000000000
+      internalID: 3548429125361079205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juliet_2_39
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 1146
+        width: 38
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2071b17f0719e4660800000000000000
+      internalID: 7371989554420193026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juliet_2_40
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 1145
+        width: 57
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcd6dbdb8eae18890800000000000000
+      internalID: -7457421222612210225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juliet_2_41
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 1146
+        width: 61
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd47d41fbac7b4d10800000000000000
+      internalID: 2110917928282846428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juliet_2_42
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 1146
+        width: 38
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b83ec7c80d2837050800000000000000
+      internalID: 5797120977577763723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juliet_2_43
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 1146
+        width: 138
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd3518a03ff62d9c0800000000000000
+      internalID: -3903934837332814881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juliet_2_44
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 1146
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ddf372aa183a1e60800000000000000
+      internalID: 7933715380612365777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juliet_2_45
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 1147
+        width: 17
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8efea69f7a6a1a2b0800000000000000
+      internalID: -5574991623333679128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juliet_2_46
+      rect:
+        serializedVersion: 2
+        x: 1529
+        y: 1147
+        width: 17
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f9adb5b953eb91b0800000000000000
+      internalID: -5648671333165454864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juliet_2_47
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 1146
+        width: 53
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28431d9f9803a7970800000000000000
+      internalID: 8753362194907870338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juliet_2_48
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 390
+        width: 2092
+        height: 669
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 896842a3b2e96c6f0800000000000000
+      internalID: -664669986494314856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Juliet_2_0: -365853085094109745
+      Juliet_2_1: 2106023831703892619
+      Juliet_2_10: -32789311765764207
+      Juliet_2_11: 6201612408939198417
+      Juliet_2_12: 1657506476893855609
+      Juliet_2_13: -1781321747677876929
+      Juliet_2_14: 6249855542735257022
+      Juliet_2_15: 7140677003035217103
+      Juliet_2_16: -5282077688259692267
+      Juliet_2_17: -770881134260911246
+      Juliet_2_18: 354856414554346757
+      Juliet_2_19: -508506503322436584
+      Juliet_2_2: -8697304882148690985
+      Juliet_2_20: -4757022291949742010
+      Juliet_2_21: -6957960357552905787
+      Juliet_2_22: -609451535321039483
+      Juliet_2_23: -2109405158562074138
+      Juliet_2_24: 4077374043458086933
+      Juliet_2_25: -8062558745541989653
+      Juliet_2_26: -8827647450429890344
+      Juliet_2_27: -6988729262649496823
+      Juliet_2_28: -1134765665193466982
+      Juliet_2_29: -7950427027068942118
+      Juliet_2_3: -6192894610995676840
+      Juliet_2_30: 6571766677617270469
+      Juliet_2_31: -2541109679274784288
+      Juliet_2_32: 5103490316931440208
+      Juliet_2_33: 2749707945421416160
+      Juliet_2_34: 8922438435878517918
+      Juliet_2_35: 6326888398830163969
+      Juliet_2_36: 3393795335095952075
+      Juliet_2_37: -1028326915195115301
+      Juliet_2_38: 3548429125361079205
+      Juliet_2_39: 7371989554420193026
+      Juliet_2_4: 881761262752912336
+      Juliet_2_40: -7457421222612210225
+      Juliet_2_41: 2110917928282846428
+      Juliet_2_42: 5797120977577763723
+      Juliet_2_43: -3903934837332814881
+      Juliet_2_44: 7933715380612365777
+      Juliet_2_45: -5574991623333679128
+      Juliet_2_46: -5648671333165454864
+      Juliet_2_47: 8753362194907870338
+      Juliet_2_48: -664669986494314856
+      Juliet_2_5: -8600329662115896727
+      Juliet_2_6: -1396072256468992431
+      Juliet_2_7: 9150298337377351630
+      Juliet_2_8: -232347528094806936
+      Juliet_2_9: 5269856761439376543
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

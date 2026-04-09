@@ -1,0 +1,481 @@
+fileFormatVersion: 2
+guid: 746f97b9e15bdf340a1e29da82f09d0e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 660296893410384651
+    second: Evelyn_2_0
+  - first:
+      213: -5334628417456277428
+    second: Evelyn_2_1
+  - first:
+      213: 3684243637241755565
+    second: Evelyn_2_2
+  - first:
+      213: 3465189542188203266
+    second: Evelyn_2_3
+  - first:
+      213: -4907444413039702402
+    second: Evelyn_2_4
+  - first:
+      213: -8274608561845700489
+    second: Evelyn_2_5
+  - first:
+      213: 1295204876635841650
+    second: Evelyn_2_6
+  - first:
+      213: 8179270425977985364
+    second: Evelyn_2_7
+  - first:
+      213: 185751412054445442
+    second: Evelyn_2_8
+  - first:
+      213: -1490713828880764989
+    second: Evelyn_2_9
+  - first:
+      213: -6319619518861849908
+    second: Evelyn_2_10
+  - first:
+      213: -498629181411050448
+    second: Evelyn_2_11
+  - first:
+      213: 4182562136706813751
+    second: Evelyn_2_12
+  - first:
+      213: -996660659738609197
+    second: Evelyn_2_13
+  - first:
+      213: 5688410029694420165
+    second: Evelyn_2_14
+  - first:
+      213: -4862278821086089244
+    second: Evelyn_2_15
+  - first:
+      213: 1145740142928297001
+    second: Evelyn_2_16
+  - first:
+      213: -1958611194290798291
+    second: Evelyn_2_17
+  - first:
+      213: 8554533310398626094
+    second: Evelyn_2_18
+  - first:
+      213: -7243566899787693766
+    second: Evelyn_2_19
+  - first:
+      213: 5463376980394277228
+    second: Evelyn_2_20
+  - first:
+      213: 6707157930330948347
+    second: Evelyn_2_21
+  - first:
+      213: 4060555073101715906
+    second: Evelyn_2_22
+  - first:
+      213: -1256971748868590389
+    second: Evelyn_2_23
+  - first:
+      213: -5971421385500209681
+    second: Evelyn_2_24
+  - first:
+      213: -5423049673072158323
+    second: Evelyn_2_25
+  - first:
+      213: 1036751005581989381
+    second: Evelyn_2_26
+  - first:
+      213: -8771706203595934127
+    second: Evelyn_2_27
+  - first:
+      213: 178589726293614597
+    second: Evelyn_2_28
+  - first:
+      213: -522877261566788678
+    second: Evelyn_2_29
+  - first:
+      213: -5144303627398861614
+    second: Evelyn_2_30
+  - first:
+      213: -3299035013103152125
+    second: Evelyn_2_31
+  - first:
+      213: 3754053724215429411
+    second: Evelyn_2_32
+  - first:
+      213: -159193529756224969
+    second: Evelyn_2_33
+  - first:
+      213: 3500182774751592927
+    second: Evelyn_2_34
+  - first:
+      213: -841888694716154261
+    second: Evelyn_2_35
+  - first:
+      213: -2351115643632144672
+    second: Evelyn_2_36
+  - first:
+      213: 527941346987011747
+    second: Evelyn_2_37
+  - first:
+      213: -6356766797477954180
+    second: Evelyn_2_38
+  - first:
+      213: 4740557942422003246
+    second: Evelyn_2_39
+  - first:
+      213: 2322631012935543399
+    second: Evelyn_2_40
+  - first:
+      213: -5014292306890252847
+    second: Evelyn_2_41
+  - first:
+      213: -4777950649118468436
+    second: Evelyn_2_42
+  - first:
+      213: -8161396934200077005
+    second: Evelyn_2_43
+  - first:
+      213: -7360671699677808522
+    second: Evelyn_2_44
+  - first:
+      213: -9175968984661315239
+    second: Evelyn_2_45
+  - first:
+      213: -5430428686972474936
+    second: Evelyn_2_46
+  - first:
+      213: -4701661659291282975
+    second: Evelyn_2_47
+  - first:
+      213: 712273394298925020
+    second: Evelyn_2_48
+  - first:
+      213: -6166749485300533296
+    second: Evelyn_2_49
+  - first:
+      213: 4383821501131049167
+    second: Evelyn_2_50
+  - first:
+      213: 5785805957905966198
+    second: Evelyn_2_51
+  - first:
+      213: 7367495127073262430
+    second: Evelyn_2_52
+  - first:
+      213: 5597084878341333896
+    second: Evelyn_2_53
+  - first:
+      213: -6619438060402418233
+    second: Evelyn_2_54
+  - first:
+      213: 9046073585962585972
+    second: Evelyn_2_55
+  - first:
+      213: 8950132362129776273
+    second: Evelyn_2_56
+  - first:
+      213: 6017559352323227462
+    second: Evelyn_2_57
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Evelyn_2_28
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 2203
+        width: 349
+        height: 540
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 500e34ce86a7a7200800000000000000
+      internalID: 178589726293614597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evelyn_2_29
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 2313
+        width: 420
+        height: 438
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abbbe23a6ed5eb8f0800000000000000
+      internalID: -522877261566788678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evelyn_2_30
+      rect:
+        serializedVersion: 2
+        x: 1966
+        y: 2211
+        width: 125
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dc23284b13cb98b0800000000000000
+      internalID: -5144303627398861614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evelyn_2_42
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 1462
+        width: 365
+        height: 377
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca652f4033f41bdb0800000000000000
+      internalID: -4777950649118468436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evelyn_2_43
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 1388
+        width: 1226
+        height: 404
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 335da02bab4ecbe80800000000000000
+      internalID: -8161396934200077005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evelyn_2_57
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 435
+        width: 2009
+        height: 327
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64f3e0a395aa28350800000000000000
+      internalID: 6017559352323227462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 52c11575b4ee98d469e8acb6f62e0e85
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Evelyn_2_0: 660296893410384651
+      Evelyn_2_1: -5334628417456277428
+      Evelyn_2_10: -6319619518861849908
+      Evelyn_2_11: -498629181411050448
+      Evelyn_2_12: 4182562136706813751
+      Evelyn_2_13: -996660659738609197
+      Evelyn_2_14: 5688410029694420165
+      Evelyn_2_15: -4862278821086089244
+      Evelyn_2_16: 1145740142928297001
+      Evelyn_2_17: -1958611194290798291
+      Evelyn_2_18: 8554533310398626094
+      Evelyn_2_19: -7243566899787693766
+      Evelyn_2_2: 3684243637241755565
+      Evelyn_2_20: 5463376980394277228
+      Evelyn_2_21: 6707157930330948347
+      Evelyn_2_22: 4060555073101715906
+      Evelyn_2_23: -1256971748868590389
+      Evelyn_2_24: -5971421385500209681
+      Evelyn_2_25: -5423049673072158323
+      Evelyn_2_26: 1036751005581989381
+      Evelyn_2_27: -8771706203595934127
+      Evelyn_2_28: 178589726293614597
+      Evelyn_2_29: -522877261566788678
+      Evelyn_2_3: 3465189542188203266
+      Evelyn_2_30: -5144303627398861614
+      Evelyn_2_31: -3299035013103152125
+      Evelyn_2_32: 3754053724215429411
+      Evelyn_2_33: -159193529756224969
+      Evelyn_2_34: 3500182774751592927
+      Evelyn_2_35: -841888694716154261
+      Evelyn_2_36: -2351115643632144672
+      Evelyn_2_37: 527941346987011747
+      Evelyn_2_38: -6356766797477954180
+      Evelyn_2_39: 4740557942422003246
+      Evelyn_2_4: -4907444413039702402
+      Evelyn_2_40: 2322631012935543399
+      Evelyn_2_41: -5014292306890252847
+      Evelyn_2_42: -4777950649118468436
+      Evelyn_2_43: -8161396934200077005
+      Evelyn_2_44: -7360671699677808522
+      Evelyn_2_45: -9175968984661315239
+      Evelyn_2_46: -5430428686972474936
+      Evelyn_2_47: -4701661659291282975
+      Evelyn_2_48: 712273394298925020
+      Evelyn_2_49: -6166749485300533296
+      Evelyn_2_5: -8274608561845700489
+      Evelyn_2_50: 4383821501131049167
+      Evelyn_2_51: 5785805957905966198
+      Evelyn_2_52: 7367495127073262430
+      Evelyn_2_53: 5597084878341333896
+      Evelyn_2_54: -6619438060402418233
+      Evelyn_2_55: 9046073585962585972
+      Evelyn_2_56: 8950132362129776273
+      Evelyn_2_57: 6017559352323227462
+      Evelyn_2_6: 1295204876635841650
+      Evelyn_2_7: 8179270425977985364
+      Evelyn_2_8: 185751412054445442
+      Evelyn_2_9: -1490713828880764989
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

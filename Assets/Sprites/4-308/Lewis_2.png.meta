@@ -1,0 +1,1703 @@
+fileFormatVersion: 2
+guid: c71ed4467b9b70a49876ef3742ce56b0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1663508214507715818
+    second: Lewis_2_0
+  - first:
+      213: 5675302544724332514
+    second: Lewis_2_1
+  - first:
+      213: 6797438169094360932
+    second: Lewis_2_2
+  - first:
+      213: -4106415148155470688
+    second: Lewis_2_3
+  - first:
+      213: 5367479732180778359
+    second: Lewis_2_4
+  - first:
+      213: -3658192818873667799
+    second: Lewis_2_5
+  - first:
+      213: -214792289819785965
+    second: Lewis_2_6
+  - first:
+      213: -4371347288448129009
+    second: Lewis_2_7
+  - first:
+      213: -7510155670420468352
+    second: Lewis_2_8
+  - first:
+      213: -2924933169349248992
+    second: Lewis_2_9
+  - first:
+      213: 1407085683593962060
+    second: Lewis_2_10
+  - first:
+      213: 1151876614706204367
+    second: Lewis_2_11
+  - first:
+      213: 4394971746337842324
+    second: Lewis_2_12
+  - first:
+      213: -2878762458444120468
+    second: Lewis_2_13
+  - first:
+      213: 5934484909658271936
+    second: Lewis_2_14
+  - first:
+      213: 763120161824823515
+    second: Lewis_2_15
+  - first:
+      213: 3375297746622190398
+    second: Lewis_2_16
+  - first:
+      213: -7980912010241313701
+    second: Lewis_2_17
+  - first:
+      213: 7937730412081359203
+    second: Lewis_2_18
+  - first:
+      213: 6907919067740113827
+    second: Lewis_2_19
+  - first:
+      213: 1571966112067562205
+    second: Lewis_2_20
+  - first:
+      213: 878672608944313030
+    second: Lewis_2_21
+  - first:
+      213: 134591913185195834
+    second: Lewis_2_22
+  - first:
+      213: -260002672814959757
+    second: Lewis_2_23
+  - first:
+      213: 2901146617352676856
+    second: Lewis_2_24
+  - first:
+      213: 5664009145640137422
+    second: Lewis_2_25
+  - first:
+      213: -251222123665025782
+    second: Lewis_2_26
+  - first:
+      213: 8981990903959691630
+    second: Lewis_2_27
+  - first:
+      213: 6177436568703826302
+    second: Lewis_2_28
+  - first:
+      213: 18335797271765943
+    second: Lewis_2_29
+  - first:
+      213: 4255607456903522363
+    second: Lewis_2_30
+  - first:
+      213: 7951514119494741019
+    second: Lewis_2_31
+  - first:
+      213: 2854117590231061952
+    second: Lewis_2_32
+  - first:
+      213: -7439557983875071921
+    second: Lewis_2_33
+  - first:
+      213: -4960238146910610574
+    second: Lewis_2_34
+  - first:
+      213: -7206603145567701840
+    second: Lewis_2_35
+  - first:
+      213: 8008201889932202256
+    second: Lewis_2_36
+  - first:
+      213: 752779748238935371
+    second: Lewis_2_37
+  - first:
+      213: 5710265526564568404
+    second: Lewis_2_38
+  - first:
+      213: 4756251978319607930
+    second: Lewis_2_39
+  - first:
+      213: -8105913428644363132
+    second: Lewis_2_40
+  - first:
+      213: -4541907917937017495
+    second: Lewis_2_41
+  - first:
+      213: -6049782610891557298
+    second: Lewis_2_42
+  - first:
+      213: -4548975903551674612
+    second: Lewis_2_43
+  - first:
+      213: 4334753251231106332
+    second: Lewis_2_44
+  - first:
+      213: 673801993041865223
+    second: Lewis_2_45
+  - first:
+      213: 6691143400188542686
+    second: Lewis_2_46
+  - first:
+      213: 3806198516002818131
+    second: Lewis_2_47
+  - first:
+      213: -8300807328388579036
+    second: Lewis_2_48
+  - first:
+      213: -15592017222930067
+    second: Lewis_2_49
+  - first:
+      213: -7992672020927360644
+    second: Lewis_2_50
+  - first:
+      213: 855446426710261730
+    second: Lewis_2_51
+  - first:
+      213: 1474655882055370394
+    second: Lewis_2_52
+  - first:
+      213: 1631760165351105857
+    second: Lewis_2_53
+  - first:
+      213: -6094429824079425959
+    second: Lewis_2_54
+  - first:
+      213: 3564172602282491523
+    second: Lewis_2_55
+  - first:
+      213: -3045924625292138102
+    second: Lewis_2_56
+  - first:
+      213: -967394790754093974
+    second: Lewis_2_57
+  - first:
+      213: -2035733479950160157
+    second: Lewis_2_58
+  - first:
+      213: 4415946448631399208
+    second: Lewis_2_59
+  - first:
+      213: -5947799613259390410
+    second: Lewis_2_60
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lewis_2_0
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 3180
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aec3dae48e7f51710800000000000000
+      internalID: 1663508214507715818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lewis_2_1
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 3052
+        width: 97
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ef0a2b6899b2ce40800000000000000
+      internalID: 5675302544724332514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lewis_2_2
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 3062
+        width: 107
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46f0d8b100a555e50800000000000000
+      internalID: 6797438169094360932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lewis_2_3
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 3056
+        width: 125
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0acf8e1fd251307c0800000000000000
+      internalID: -4106415148155470688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lewis_2_4
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 3034
+        width: 130
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77d7eb7d06e1d7a40800000000000000
+      internalID: 5367479732180778359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lewis_2_5
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 2998
+        width: 88
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92f662f530d7b3dc0800000000000000
+      internalID: -3658192818873667799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lewis_2_6
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 2918
+        width: 98
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3158cc8ec87e40df0800000000000000
+      internalID: -214792289819785965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lewis_2_7
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 3026
+        width: 93
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f08ae223dcad553c0800000000000000
+      internalID: -4371347288448129009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lewis_2_8
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 3025
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08dc3b0553196c790800000000000000
+      internalID: -7510155670420468352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lewis_2_9
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 3025
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0283e2987cc8867d0800000000000000
+      internalID: -2924933169349248992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lewis_2_10
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 3025
+        width: 59
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c42e72369f8f68310800000000000000
+      internalID: 1407085683593962060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lewis_2_11
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 3017
+        width: 730
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fce84ac9da94cff00800000000000000
+      internalID: 1151876614706204367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lewis_2_12
+      rect:
+        serializedVersion: 2
+        x: 1966
+        y: 3019
+        width: 204
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 494685a84831efc30800000000000000
+      internalID: 4394971746337842324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lewis_2_13
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 2979
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6e35bfdbc49c08d0800000000000000
+      internalID: -2878762458444120468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lewis_2_14
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 2818
+        width: 68
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c0f81545968b5250800000000000000
+      internalID: 5934484909658271936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lewis_2_15
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 2818
+        width: 20
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd8d1867eb5279a00800000000000000
+      internalID: 763120161824823515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lewis_2_16
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 2816
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e33979eda6777de20800000000000000
+      internalID: 3375297746622190398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lewis_2_17
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 2795
+        width: 58
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b54fae5bfca1e3190800000000000000
+      internalID: -7980912010241313701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lewis_2_18
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 2817
+        width: 61
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 369aceef0cb782e60800000000000000
+      internalID: 7937730412081359203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lewis_2_19
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 2819
+        width: 39
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ab0cc9dacbdddf50800000000000000
+      internalID: 6907919067740113827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lewis_2_20
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 2855
+        width: 60
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda2dbca9deb0d510800000000000000
+      internalID: 1571966112067562205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lewis_2_21
+      rect:
+        serializedVersion: 2
+        x: 1717
+        y: 2819
+        width: 85
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c2ddf9151ca13c00800000000000000
+      internalID: 878672608944313030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lewis_2_22
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 2819
+        width: 60
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a373b07c1aa2ed100800000000000000
+      internalID: 134591913185195834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lewis_2_23
+      rect:
+        serializedVersion: 2
+        x: 1867
+        y: 2819
+        width: 55
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 373563652f8446cf0800000000000000
+      internalID: -260002672814959757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lewis_2_24
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2819
+        width: 36
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f5e1a04a71f24820800000000000000
+      internalID: 2901146617352676856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lewis_2_25
+      rect:
+        serializedVersion: 2
+        x: 1954
+        y: 2819
+        width: 61
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec2b17a0f4a9a9e40800000000000000
+      internalID: 5664009145640137422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lewis_2_26
+      rect:
+        serializedVersion: 2
+        x: 2017
+        y: 2819
+        width: 77
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a051a3f3fca738cf0800000000000000
+      internalID: -251222123665025782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lewis_2_27
+      rect:
+        serializedVersion: 2
+        x: 2098
+        y: 2819
+        width: 61
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e61ae46732176ac70800000000000000
+      internalID: 8981990903959691630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lewis_2_28
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 2166
+        width: 584
+        height: 581
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e79791c64d9aab550800000000000000
+      internalID: 6177436568703826302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lewis_2_29
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 2505
+        width: 44
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b3ae0b7f44214000800000000000000
+      internalID: 18335797271765943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lewis_2_30
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 2504
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b38ec345f64fe0b30800000000000000
+      internalID: 4255607456903522363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lewis_2_31
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 2505
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1cacf676f3795e60800000000000000
+      internalID: 7951514119494741019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lewis_2_32
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 2505
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c59ae893dcdb9720800000000000000
+      internalID: 2854117590231061952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lewis_2_33
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 2173
+        width: 595
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f40843d1e6161c890800000000000000
+      internalID: -7439557983875071921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lewis_2_34
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 2169
+        width: 588
+        height: 580
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27b1d049fa1b92bb0800000000000000
+      internalID: -4960238146910610574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lewis_2_35
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 1958
+        width: 83
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b4793f0f900dfb90800000000000000
+      internalID: -7206603145567701840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lewis_2_36
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1959
+        width: 19
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 011550b8039d22f60800000000000000
+      internalID: 8008201889932202256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lewis_2_37
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 1961
+        width: 68
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b45c3ef4139627a00800000000000000
+      internalID: 752779748238935371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lewis_2_38
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 1961
+        width: 19
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45d3a0cfd30fe3f40800000000000000
+      internalID: 5710265526564568404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lewis_2_39
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 1959
+        width: 72
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a783dfd79f9910240800000000000000
+      internalID: 4756251978319607930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lewis_2_40
+      rect:
+        serializedVersion: 2
+        x: 1788
+        y: 2043
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48485910fa2028f80800000000000000
+      internalID: -8105913428644363132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lewis_2_41
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 1958
+        width: 62
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96d74dc00d6e7f0c0800000000000000
+      internalID: -4541907917937017495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lewis_2_42
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1958
+        width: 59
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e46397db4cada0ca0800000000000000
+      internalID: -6049782610891557298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lewis_2_43
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 1961
+        width: 61
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c07adf8648aced0c0800000000000000
+      internalID: -4548975903551674612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lewis_2_44
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 1960
+        width: 62
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1589909d13282c30800000000000000
+      internalID: 4334753251231106332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lewis_2_45
+      rect:
+        serializedVersion: 2
+        x: 1762
+        y: 1961
+        width: 125
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70ae53cb753d95900800000000000000
+      internalID: 673801993041865223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lewis_2_46
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1342
+        width: 585
+        height: 586
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edeff65a877bbdc50800000000000000
+      internalID: 6691143400188542686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lewis_2_47
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 1348
+        width: 1305
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35887fa526552d430800000000000000
+      internalID: 3806198516002818131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lewis_2_48
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 1097
+        width: 68
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4218072e6bb9dcc80800000000000000
+      internalID: -8300807328388579036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lewis_2_49
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 1097
+        width: 61
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d617818942b98cff0800000000000000
+      internalID: -15592017222930067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lewis_2_50
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 1097
+        width: 59
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c71db6ad423541190800000000000000
+      internalID: -7992672020927360644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lewis_2_51
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 1097
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ef31742ef72fdb00800000000000000
+      internalID: 855446426710261730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lewis_2_52
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 1097
+        width: 58
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a96c9df26b7077410800000000000000
+      internalID: 1474655882055370394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lewis_2_53
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 1097
+        width: 61
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 145a266993d25a610800000000000000
+      internalID: 1631760165351105857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lewis_2_54
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 1097
+        width: 39
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95e033b5d5c3c6ba0800000000000000
+      internalID: -6094429824079425959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lewis_2_55
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 1097
+        width: 139
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38e3a35191c767130800000000000000
+      internalID: 3564172602282491523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lewis_2_56
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 1097
+        width: 58
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a89e8d8f0b3bab5d0800000000000000
+      internalID: -3045924625292138102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lewis_2_57
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 1098
+        width: 19
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a64f983309f1392f0800000000000000
+      internalID: -967394790754093974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lewis_2_58
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 1098
+        width: 17
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ee633e8f2f9fb3e0800000000000000
+      internalID: -2035733479950160157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lewis_2_59
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 1097
+        width: 53
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82382d9f5e7984d30800000000000000
+      internalID: 4415946448631399208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lewis_2_60
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 371
+        width: 2097
+        height: 622
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 632e778b3cb257da0800000000000000
+      internalID: -5947799613259390410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Lewis_2_0: 1663508214507715818
+      Lewis_2_1: 5675302544724332514
+      Lewis_2_10: 1407085683593962060
+      Lewis_2_11: 1151876614706204367
+      Lewis_2_12: 4394971746337842324
+      Lewis_2_13: -2878762458444120468
+      Lewis_2_14: 5934484909658271936
+      Lewis_2_15: 763120161824823515
+      Lewis_2_16: 3375297746622190398
+      Lewis_2_17: -7980912010241313701
+      Lewis_2_18: 7937730412081359203
+      Lewis_2_19: 6907919067740113827
+      Lewis_2_2: 6797438169094360932
+      Lewis_2_20: 1571966112067562205
+      Lewis_2_21: 878672608944313030
+      Lewis_2_22: 134591913185195834
+      Lewis_2_23: -260002672814959757
+      Lewis_2_24: 2901146617352676856
+      Lewis_2_25: 5664009145640137422
+      Lewis_2_26: -251222123665025782
+      Lewis_2_27: 8981990903959691630
+      Lewis_2_28: 6177436568703826302
+      Lewis_2_29: 18335797271765943
+      Lewis_2_3: -4106415148155470688
+      Lewis_2_30: 4255607456903522363
+      Lewis_2_31: 7951514119494741019
+      Lewis_2_32: 2854117590231061952
+      Lewis_2_33: -7439557983875071921
+      Lewis_2_34: -4960238146910610574
+      Lewis_2_35: -7206603145567701840
+      Lewis_2_36: 8008201889932202256
+      Lewis_2_37: 752779748238935371
+      Lewis_2_38: 5710265526564568404
+      Lewis_2_39: 4756251978319607930
+      Lewis_2_4: 5367479732180778359
+      Lewis_2_40: -8105913428644363132
+      Lewis_2_41: -4541907917937017495
+      Lewis_2_42: -6049782610891557298
+      Lewis_2_43: -4548975903551674612
+      Lewis_2_44: 4334753251231106332
+      Lewis_2_45: 673801993041865223
+      Lewis_2_46: 6691143400188542686
+      Lewis_2_47: 3806198516002818131
+      Lewis_2_48: -8300807328388579036
+      Lewis_2_49: -15592017222930067
+      Lewis_2_5: -3658192818873667799
+      Lewis_2_50: -7992672020927360644
+      Lewis_2_51: 855446426710261730
+      Lewis_2_52: 1474655882055370394
+      Lewis_2_53: 1631760165351105857
+      Lewis_2_54: -6094429824079425959
+      Lewis_2_55: 3564172602282491523
+      Lewis_2_56: -3045924625292138102
+      Lewis_2_57: -967394790754093974
+      Lewis_2_58: -2035733479950160157
+      Lewis_2_59: 4415946448631399208
+      Lewis_2_6: -214792289819785965
+      Lewis_2_60: -5947799613259390410
+      Lewis_2_7: -4371347288448129009
+      Lewis_2_8: -7510155670420468352
+      Lewis_2_9: -2924933169349248992
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

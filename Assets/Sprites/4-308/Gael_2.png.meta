@@ -1,0 +1,1469 @@
+fileFormatVersion: 2
+guid: 3f686b12852bea54f9739b34533243c2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8670819673562333402
+    second: Gael_2_0
+  - first:
+      213: 8832740653798193650
+    second: Gael_2_1
+  - first:
+      213: -3207418001476294435
+    second: Gael_2_2
+  - first:
+      213: -1722645348211988365
+    second: Gael_2_3
+  - first:
+      213: -656135626562201148
+    second: Gael_2_4
+  - first:
+      213: 2952678168161828138
+    second: Gael_2_5
+  - first:
+      213: -4614527401124292097
+    second: Gael_2_6
+  - first:
+      213: 6343555665277336245
+    second: Gael_2_7
+  - first:
+      213: 4473171877758113571
+    second: Gael_2_8
+  - first:
+      213: 8289979355451367865
+    second: Gael_2_9
+  - first:
+      213: 8516366050400370663
+    second: Gael_2_10
+  - first:
+      213: 1357705970305578170
+    second: Gael_2_11
+  - first:
+      213: -9107679234722563019
+    second: Gael_2_12
+  - first:
+      213: -2200469141683134922
+    second: Gael_2_13
+  - first:
+      213: 4154572449931010251
+    second: Gael_2_14
+  - first:
+      213: 3226640516850159161
+    second: Gael_2_15
+  - first:
+      213: 39823164902817959
+    second: Gael_2_16
+  - first:
+      213: -4384073298297229521
+    second: Gael_2_17
+  - first:
+      213: -7019663623225803152
+    second: Gael_2_18
+  - first:
+      213: 2273614010537919716
+    second: Gael_2_19
+  - first:
+      213: -471066061021057771
+    second: Gael_2_20
+  - first:
+      213: 3380448081784099834
+    second: Gael_2_21
+  - first:
+      213: -8389671345973181135
+    second: Gael_2_22
+  - first:
+      213: 2369193568953508569
+    second: Gael_2_23
+  - first:
+      213: -7672410615250550288
+    second: Gael_2_24
+  - first:
+      213: 3010590467272751688
+    second: Gael_2_25
+  - first:
+      213: -2345341634316376877
+    second: Gael_2_26
+  - first:
+      213: 4402250540385812452
+    second: Gael_2_27
+  - first:
+      213: 8766718375559112386
+    second: Gael_2_28
+  - first:
+      213: 2850131436754189511
+    second: Gael_2_29
+  - first:
+      213: 7370840949874542180
+    second: Gael_2_30
+  - first:
+      213: 7573182859736767511
+    second: Gael_2_31
+  - first:
+      213: 6610019965784512305
+    second: Gael_2_32
+  - first:
+      213: -3199940353835363256
+    second: Gael_2_33
+  - first:
+      213: -3894614879739975117
+    second: Gael_2_34
+  - first:
+      213: 4861354852430675779
+    second: Gael_2_35
+  - first:
+      213: 7903224183985657841
+    second: Gael_2_36
+  - first:
+      213: -4914996408907421991
+    second: Gael_2_37
+  - first:
+      213: -4890641252100763281
+    second: Gael_2_38
+  - first:
+      213: -6740546692611212870
+    second: Gael_2_39
+  - first:
+      213: -4765278039864688498
+    second: Gael_2_40
+  - first:
+      213: -8715724501678723584
+    second: Gael_2_41
+  - first:
+      213: -7458512304636515589
+    second: Gael_2_42
+  - first:
+      213: -8124487432728524436
+    second: Gael_2_43
+  - first:
+      213: 7753903748012333657
+    second: Gael_2_44
+  - first:
+      213: -344628333550842479
+    second: Gael_2_45
+  - first:
+      213: -2504699982718178936
+    second: Gael_2_46
+  - first:
+      213: 3280375838597274525
+    second: Gael_2_47
+  - first:
+      213: 8273494078763565164
+    second: Gael_2_48
+  - first:
+      213: 4184342141115091291
+    second: Gael_2_49
+  - first:
+      213: 6286942165687852686
+    second: Gael_2_50
+  - first:
+      213: -5852577464322623341
+    second: Gael_2_51
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gael_2_0
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 3031
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62f39d5627f0ba780800000000000000
+      internalID: -8670819673562333402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gael_2_1
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 3011
+        width: 813
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f9fac6a3d2349a70800000000000000
+      internalID: 8832740653798193650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gael_2_2
+      rect:
+        serializedVersion: 2
+        x: 1834
+        y: 3057
+        width: 97
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd8efcf3256fc73d0800000000000000
+      internalID: -3207418001476294435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gael_2_3
+      rect:
+        serializedVersion: 2
+        x: 1929
+        y: 3049
+        width: 204
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37868d9ce2fe718e0800000000000000
+      internalID: -1722645348211988365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gael_2_4
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 2824
+        width: 68
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c9184ebf10f4e6f0800000000000000
+      internalID: -656135626562201148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gael_2_5
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 2826
+        width: 20
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2d365566250af820800000000000000
+      internalID: 2952678168161828138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gael_2_6
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 2837
+        width: 78
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff91ea907c7e5ffb0800000000000000
+      internalID: -4614527401124292097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gael_2_7
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 2910
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bab5c99446d80850800000000000000
+      internalID: 6343555665277336245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gael_2_8
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 2846
+        width: 84
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3271a097f16e31e30800000000000000
+      internalID: 4473171877758113571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gael_2_9
+      rect:
+        serializedVersion: 2
+        x: 1772
+        y: 2847
+        width: 60
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b120053d4ceb0370800000000000000
+      internalID: 8289979355451367865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gael_2_10
+      rect:
+        serializedVersion: 2
+        x: 1834
+        y: 2848
+        width: 55
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef7f4b1dc5303670800000000000000
+      internalID: 8516366050400370663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gael_2_11
+      rect:
+        serializedVersion: 2
+        x: 1886
+        y: 2849
+        width: 37
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab4bd75f26a87d210800000000000000
+      internalID: 1357705970305578170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gael_2_12
+      rect:
+        serializedVersion: 2
+        x: 1922
+        y: 2850
+        width: 59
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53cf8269df50b9180800000000000000
+      internalID: -9107679234722563019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gael_2_13
+      rect:
+        serializedVersion: 2
+        x: 1983
+        y: 2851
+        width: 57
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63e94c669fc5671e0800000000000000
+      internalID: -2200469141683134922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gael_2_14
+      rect:
+        serializedVersion: 2
+        x: 2039
+        y: 2851
+        width: 19
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc023cf91a108a930800000000000000
+      internalID: 4154572449931010251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gael_2_15
+      rect:
+        serializedVersion: 2
+        x: 2062
+        y: 2853
+        width: 61
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93e8cb0647457cc20800000000000000
+      internalID: 3226640516850159161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gael_2_16
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 2826
+        width: 62
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a04ddd15fa7d8000800000000000000
+      internalID: 39823164902817959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gael_2_17
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 2804
+        width: 56
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2fe7b12094a823c0800000000000000
+      internalID: -4384073298297229521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gael_2_18
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2827
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07ef4ee5025259e90800000000000000
+      internalID: -7019663623225803152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gael_2_19
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 2830
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e4c67e75ef7d8f10800000000000000
+      internalID: 2273614010537919716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gael_2_20
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 2838
+        width: 61
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51de81fc9ef6679f0800000000000000
+      internalID: -471066061021057771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gael_2_21
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 2840
+        width: 18
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af35468be93c9ee20800000000000000
+      internalID: 3380448081784099834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gael_2_22
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 2840
+        width: 57
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 135cef87c56e19b80800000000000000
+      internalID: -8389671345973181135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gael_2_23
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 2172
+        width: 590
+        height: 585
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d22d999ff011e020800000000000000
+      internalID: 2369193568953508569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gael_2_24
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 2191
+        width: 590
+        height: 582
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f10e03123f168590800000000000000
+      internalID: -7672410615250550288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gael_2_25
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 2198
+        width: 589
+        height: 585
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84a38f54414c7c920800000000000000
+      internalID: 3010590467272751688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gael_2_26
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1968
+        width: 82
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d463a1b53ca37fd0800000000000000
+      internalID: -2345341634316376877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gael_2_27
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1970
+        width: 62
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4efb7f7da8fe71d30800000000000000
+      internalID: 4402250540385812452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gael_2_28
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 1971
+        width: 61
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c6271d1ae3a9a970800000000000000
+      internalID: 8766718375559112386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gael_2_29
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 1971
+        width: 21
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cc38eae073bd8720800000000000000
+      internalID: 2850131436754189511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gael_2_30
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 1988
+        width: 66
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 466cc21aacc7a4660800000000000000
+      internalID: 7370840949874542180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gael_2_31
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 1989
+        width: 17
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71cdfadbfa9591960800000000000000
+      internalID: 7573182859736767511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gael_2_32
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 1989
+        width: 60
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13753d233228bbb50800000000000000
+      internalID: 6610019965784512305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gael_2_33
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 1989
+        width: 71
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8449433c3378793d0800000000000000
+      internalID: -3199940353835363256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gael_2_34
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 1990
+        width: 60
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33ae524c66c83f9c0800000000000000
+      internalID: -3894614879739975117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gael_2_35
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 1991
+        width: 38
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34f70425b70077340800000000000000
+      internalID: 4861354852430675779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gael_2_36
+      rect:
+        serializedVersion: 2
+        x: 1777
+        y: 1993
+        width: 88
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f7ddb2b584edad60800000000000000
+      internalID: 7903224183985657841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gael_2_37
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1354
+        width: 592
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d6a0ce8ecc6acbb0800000000000000
+      internalID: -4914996408907421991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gael_2_38
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1368
+        width: 1310
+        height: 601
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6199a461b3f02cb0800000000000000
+      internalID: -4890641252100763281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gael_2_39
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 1116
+        width: 68
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab979fafe74c472a0800000000000000
+      internalID: -6740546692611212870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gael_2_40
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1117
+        width: 60
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8045e9ced45eddb0800000000000000
+      internalID: -4765278039864688498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gael_2_41
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 1117
+        width: 59
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00e654d5eb68b0780800000000000000
+      internalID: -8715724501678723584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gael_2_42
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 1119
+        width: 38
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfaa249639a0e7890800000000000000
+      internalID: -7458512304636515589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gael_2_43
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 1120
+        width: 57
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c69471ea9b5004f80800000000000000
+      internalID: -8124487432728524436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gael_2_44
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 1120
+        width: 62
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95a58da70666b9b60800000000000000
+      internalID: 7753903748012333657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gael_2_45
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 1123
+        width: 38
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19dca274b52a73bf0800000000000000
+      internalID: -344628333550842479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gael_2_46
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1121
+        width: 138
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 889e72dd2a48d3dd0800000000000000
+      internalID: -2504699982718178936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gael_2_47
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 1124
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9b5d5de17c368d20800000000000000
+      internalID: 3280375838597274525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gael_2_48
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 1126
+        width: 20
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c600000a70b51d270800000000000000
+      internalID: 8273494078763565164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gael_2_49
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 1126
+        width: 20
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b59ccdbf105c11a30800000000000000
+      internalID: 4184342141115091291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gael_2_50
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 1126
+        width: 54
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8edf3d0794bf3750800000000000000
+      internalID: 6286942165687852686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gael_2_51
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 401
+        width: 2072
+        height: 613
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 398f792fdc777cea0800000000000000
+      internalID: -5852577464322623341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Gael_2_0: -8670819673562333402
+      Gael_2_1: 8832740653798193650
+      Gael_2_10: 8516366050400370663
+      Gael_2_11: 1357705970305578170
+      Gael_2_12: -9107679234722563019
+      Gael_2_13: -2200469141683134922
+      Gael_2_14: 4154572449931010251
+      Gael_2_15: 3226640516850159161
+      Gael_2_16: 39823164902817959
+      Gael_2_17: -4384073298297229521
+      Gael_2_18: -7019663623225803152
+      Gael_2_19: 2273614010537919716
+      Gael_2_2: -3207418001476294435
+      Gael_2_20: -471066061021057771
+      Gael_2_21: 3380448081784099834
+      Gael_2_22: -8389671345973181135
+      Gael_2_23: 2369193568953508569
+      Gael_2_24: -7672410615250550288
+      Gael_2_25: 3010590467272751688
+      Gael_2_26: -2345341634316376877
+      Gael_2_27: 4402250540385812452
+      Gael_2_28: 8766718375559112386
+      Gael_2_29: 2850131436754189511
+      Gael_2_3: -1722645348211988365
+      Gael_2_30: 7370840949874542180
+      Gael_2_31: 7573182859736767511
+      Gael_2_32: 6610019965784512305
+      Gael_2_33: -3199940353835363256
+      Gael_2_34: -3894614879739975117
+      Gael_2_35: 4861354852430675779
+      Gael_2_36: 7903224183985657841
+      Gael_2_37: -4914996408907421991
+      Gael_2_38: -4890641252100763281
+      Gael_2_39: -6740546692611212870
+      Gael_2_4: -656135626562201148
+      Gael_2_40: -4765278039864688498
+      Gael_2_41: -8715724501678723584
+      Gael_2_42: -7458512304636515589
+      Gael_2_43: -8124487432728524436
+      Gael_2_44: 7753903748012333657
+      Gael_2_45: -344628333550842479
+      Gael_2_46: -2504699982718178936
+      Gael_2_47: 3280375838597274525
+      Gael_2_48: 8273494078763565164
+      Gael_2_49: 4184342141115091291
+      Gael_2_5: 2952678168161828138
+      Gael_2_50: 6286942165687852686
+      Gael_2_51: -5852577464322623341
+      Gael_2_6: -4614527401124292097
+      Gael_2_7: 6343555665277336245
+      Gael_2_8: 4473171877758113571
+      Gael_2_9: 8289979355451367865
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

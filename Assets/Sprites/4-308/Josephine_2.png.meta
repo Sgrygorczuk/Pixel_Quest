@@ -1,0 +1,1651 @@
+fileFormatVersion: 2
+guid: 3f08d11cee12bcf4485520da0d2d323e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3421698883014608773
+    second: Josephine_2_0
+  - first:
+      213: 3006786147054678685
+    second: Josephine_2_1
+  - first:
+      213: -3799797686609136512
+    second: Josephine_2_2
+  - first:
+      213: 1920119783590196136
+    second: Josephine_2_3
+  - first:
+      213: -520939797397970939
+    second: Josephine_2_4
+  - first:
+      213: -2627279353597881421
+    second: Josephine_2_5
+  - first:
+      213: 4465196005661797851
+    second: Josephine_2_6
+  - first:
+      213: 2339685787945626649
+    second: Josephine_2_7
+  - first:
+      213: 918703942576531549
+    second: Josephine_2_8
+  - first:
+      213: 4477914647516300551
+    second: Josephine_2_9
+  - first:
+      213: 6319181693813164697
+    second: Josephine_2_10
+  - first:
+      213: -7262954987708152552
+    second: Josephine_2_11
+  - first:
+      213: 3995176664612540484
+    second: Josephine_2_12
+  - first:
+      213: -4010186873428913231
+    second: Josephine_2_13
+  - first:
+      213: -6095845741804633847
+    second: Josephine_2_14
+  - first:
+      213: 2248566216407569573
+    second: Josephine_2_15
+  - first:
+      213: 8772324421109684048
+    second: Josephine_2_16
+  - first:
+      213: 5152016521117979467
+    second: Josephine_2_17
+  - first:
+      213: 5997122919903205200
+    second: Josephine_2_18
+  - first:
+      213: 2356078760485986266
+    second: Josephine_2_19
+  - first:
+      213: 7883279150613620249
+    second: Josephine_2_20
+  - first:
+      213: 5382519615362684027
+    second: Josephine_2_21
+  - first:
+      213: -2946659859206356443
+    second: Josephine_2_22
+  - first:
+      213: -8278750605578705537
+    second: Josephine_2_23
+  - first:
+      213: 2447696127824868527
+    second: Josephine_2_24
+  - first:
+      213: -4577072478206592793
+    second: Josephine_2_25
+  - first:
+      213: -8425836319939644207
+    second: Josephine_2_26
+  - first:
+      213: 1496121278766200427
+    second: Josephine_2_27
+  - first:
+      213: -2475571140590882931
+    second: Josephine_2_28
+  - first:
+      213: -936305335620791318
+    second: Josephine_2_29
+  - first:
+      213: -7628196626812364827
+    second: Josephine_2_30
+  - first:
+      213: -4702838233540228995
+    second: Josephine_2_31
+  - first:
+      213: 2941850467592414154
+    second: Josephine_2_32
+  - first:
+      213: -790085201588079899
+    second: Josephine_2_33
+  - first:
+      213: 5427748097117936308
+    second: Josephine_2_34
+  - first:
+      213: 8387337460915443563
+    second: Josephine_2_35
+  - first:
+      213: -1800909010021165835
+    second: Josephine_2_36
+  - first:
+      213: 4586216488305290411
+    second: Josephine_2_37
+  - first:
+      213: -7404937023135718535
+    second: Josephine_2_38
+  - first:
+      213: 5719673910655473508
+    second: Josephine_2_39
+  - first:
+      213: 9106433807535482926
+    second: Josephine_2_40
+  - first:
+      213: 341966375604428306
+    second: Josephine_2_41
+  - first:
+      213: -3224828901828351018
+    second: Josephine_2_42
+  - first:
+      213: -7259484270477543558
+    second: Josephine_2_43
+  - first:
+      213: -4626677844812977850
+    second: Josephine_2_44
+  - first:
+      213: 5476368929490652230
+    second: Josephine_2_45
+  - first:
+      213: 6491232419412335888
+    second: Josephine_2_46
+  - first:
+      213: 5903996294309860227
+    second: Josephine_2_47
+  - first:
+      213: -8738715894633043677
+    second: Josephine_2_48
+  - first:
+      213: 8583145652728009146
+    second: Josephine_2_49
+  - first:
+      213: -7431029406186636758
+    second: Josephine_2_50
+  - first:
+      213: -4813067918271689810
+    second: Josephine_2_51
+  - first:
+      213: 2561625955145565329
+    second: Josephine_2_52
+  - first:
+      213: 633021512243125368
+    second: Josephine_2_53
+  - first:
+      213: 5826231294152400793
+    second: Josephine_2_54
+  - first:
+      213: -2709206722334178461
+    second: Josephine_2_55
+  - first:
+      213: 8303073296431125341
+    second: Josephine_2_56
+  - first:
+      213: 7403147003168430509
+    second: Josephine_2_57
+  - first:
+      213: 827347557348324394
+    second: Josephine_2_58
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Josephine_2_0
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 3043
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 587cf6251015c7f20800000000000000
+      internalID: 3421698883014608773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Josephine_2_1
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 3043
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9272c2f1104ab920800000000000000
+      internalID: 3006786147054678685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Josephine_2_2
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 3043
+        width: 60
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 084bf4fd228644bc0800000000000000
+      internalID: -3799797686609136512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Josephine_2_3
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 3036
+        width: 727
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a3f71b15c2a5aa10800000000000000
+      internalID: 1920119783590196136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Josephine_2_4
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 3049
+        width: 55
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 500eabaa30045c8f0800000000000000
+      internalID: -520939797397970939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Josephine_2_5
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 3049
+        width: 51
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b3941b09570a8bd0800000000000000
+      internalID: -2627279353597881421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Josephine_2_6
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 3069
+        width: 33
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdde6f90c1097fd30800000000000000
+      internalID: 4465196005661797851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Josephine_2_7
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 3050
+        width: 33
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91c6784f3db387020800000000000000
+      internalID: 2339685787945626649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Josephine_2_8
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 3059
+        width: 98
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5866074e54efbc00800000000000000
+      internalID: 918703942576531549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Josephine_2_9
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 3052
+        width: 193
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7054abb95afb42e30800000000000000
+      internalID: 4477914647516300551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Josephine_2_10
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 2837
+        width: 68
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99a82e2254e32b750800000000000000
+      internalID: 6319181693813164697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Josephine_2_11
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 2837
+        width: 17
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81501026becc43b90800000000000000
+      internalID: -7262954987708152552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Josephine_2_12
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 2845
+        width: 79
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44019255208b17730800000000000000
+      internalID: 3995176664612540484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Josephine_2_13
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 2916
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b3d5561944f858c0800000000000000
+      internalID: -4010186873428913231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Josephine_2_14
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 2847
+        width: 18
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90148225894376ba0800000000000000
+      internalID: -6095845741804633847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Josephine_2_15
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 2851
+        width: 82
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a4dae67f03843f10800000000000000
+      internalID: 2248566216407569573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Josephine_2_16
+      rect:
+        serializedVersion: 2
+        x: 1786
+        y: 2851
+        width: 58
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0571abe459e8db970800000000000000
+      internalID: 8772324421109684048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Josephine_2_17
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 2852
+        width: 55
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b435e2abab3af7740800000000000000
+      internalID: 5152016521117979467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Josephine_2_18
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 2852
+        width: 36
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0571f23858f0a3350800000000000000
+      internalID: 5997122919903205200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Josephine_2_19
+      rect:
+        serializedVersion: 2
+        x: 1934
+        y: 2852
+        width: 61
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adf1c9d462972b020800000000000000
+      internalID: 2356078760485986266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Josephine_2_20
+      rect:
+        serializedVersion: 2
+        x: 1996
+        y: 2854
+        width: 57
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 916619dbe98076d60800000000000000
+      internalID: 7883279150613620249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Josephine_2_21
+      rect:
+        serializedVersion: 2
+        x: 2053
+        y: 2855
+        width: 18
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b74d346821d82ba40800000000000000
+      internalID: 5382519615362684027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Josephine_2_22
+      rect:
+        serializedVersion: 2
+        x: 2076
+        y: 2855
+        width: 60
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5224a1a587c5b17d0800000000000000
+      internalID: -2946659859206356443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Josephine_2_23
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 2837
+        width: 61
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f756e6adf28fb1d80800000000000000
+      internalID: -8278750605578705537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Josephine_2_24
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 2817
+        width: 56
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa4b919e8a6f7f120800000000000000
+      internalID: 2447696127824868527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Josephine_2_25
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 2838
+        width: 61
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e87749d4d8fa70c0800000000000000
+      internalID: -4577072478206592793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Josephine_2_26
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 2840
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d4b96e428a611b80800000000000000
+      internalID: -8425836319939644207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Josephine_2_27
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2845
+        width: 61
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6633c1506a43c410800000000000000
+      internalID: 1496121278766200427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Josephine_2_28
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 2847
+        width: 56
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8f2fdce92105add0800000000000000
+      internalID: -2475571140590882931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Josephine_2_29
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 2186
+        width: 588
+        height: 581
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae3150d02439103f0800000000000000
+      internalID: -936305335620791318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Josephine_2_30
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 2206
+        width: 587
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e714067593332690800000000000000
+      internalID: -7628196626812364827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Josephine_2_31
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 2196
+        width: 588
+        height: 587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7885b51b892cbeb0800000000000000
+      internalID: -4702838233540228995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Josephine_2_32
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1981
+        width: 92
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac3a927e96d83d820800000000000000
+      internalID: 2941850467592414154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Josephine_2_33
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 1981
+        width: 62
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e2bc09f1bd0905f0800000000000000
+      internalID: -790085201588079899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Josephine_2_34
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 1982
+        width: 59
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ba540b032c335b40800000000000000
+      internalID: 5427748097117936308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Josephine_2_35
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 1982
+        width: 19
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6711319bfec56470800000000000000
+      internalID: 8387337460915443563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Josephine_2_36
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1992
+        width: 88
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f453e80cc2e107e0800000000000000
+      internalID: -1800909010021165835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Josephine_2_37
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 1992
+        width: 20
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bace978e89385af30800000000000000
+      internalID: 4586216488305290411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Josephine_2_38
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 1992
+        width: 61
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9736bdfa2016c3990800000000000000
+      internalID: -7404937023135718535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Josephine_2_39
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 1993
+        width: 71
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46750bb1e1d506f40800000000000000
+      internalID: 5719673910655473508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Josephine_2_40
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 1994
+        width: 61
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e28a2cccc4d806e70800000000000000
+      internalID: 9106433807535482926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Josephine_2_41
+      rect:
+        serializedVersion: 2
+        x: 1748
+        y: 1995
+        width: 37
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21e97075b98eeb400800000000000000
+      internalID: 341966375604428306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Josephine_2_42
+      rect:
+        serializedVersion: 2
+        x: 1785
+        y: 1995
+        width: 87
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dbab1d133b1f33d0800000000000000
+      internalID: -3224828901828351018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Josephine_2_43
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 1960
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7776a5b481214b90800000000000000
+      internalID: -7259484270477543558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Josephine_2_44
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 1379
+        width: 1308
+        height: 589
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 649a0c9630dbacfb0800000000000000
+      internalID: -4626677844812977850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Josephine_2_45
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1370
+        width: 587
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64cc64db688fffb40800000000000000
+      internalID: 5476368929490652230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Josephine_2_46
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 1125
+        width: 68
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01d52915e7d751a50800000000000000
+      internalID: 6491232419412335888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Josephine_2_47
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 1125
+        width: 60
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 383df8559553fe150800000000000000
+      internalID: 5903996294309860227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Josephine_2_48
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 1125
+        width: 57
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 329665b8138d9b680800000000000000
+      internalID: -8738715894633043677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Josephine_2_49
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 1127
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab19a46ee757d1770800000000000000
+      internalID: 8583145652728009146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Josephine_2_50
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 1127
+        width: 56
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2a73c8502eafd890800000000000000
+      internalID: -7431029406186636758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Josephine_2_51
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 1128
+        width: 60
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eab4693aa3c843db0800000000000000
+      internalID: -4813067918271689810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Josephine_2_52
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 1128
+        width: 37
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1944fdfeb39bc8320800000000000000
+      internalID: 2561625955145565329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Josephine_2_53
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 1129
+        width: 136
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87c9e6426b1f8c800800000000000000
+      internalID: 633021512243125368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Josephine_2_54
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 1130
+        width: 58
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99fd73b4e7eead050800000000000000
+      internalID: 5826231294152400793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Josephine_2_55
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 1131
+        width: 19
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 363cb2c07d6f66ad0800000000000000
+      internalID: -2709206722334178461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Josephine_2_56
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 1131
+        width: 18
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d531fc9eb217a3370800000000000000
+      internalID: 8303073296431125341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Josephine_2_57
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 1131
+        width: 53
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da91adfc9f24db660800000000000000
+      internalID: 7403147003168430509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Josephine_2_58
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 416
+        width: 2078
+        height: 617
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a24b88d48345b7b00800000000000000
+      internalID: 827347557348324394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Josephine_2_0: 3421698883014608773
+      Josephine_2_1: 3006786147054678685
+      Josephine_2_10: 6319181693813164697
+      Josephine_2_11: -7262954987708152552
+      Josephine_2_12: 3995176664612540484
+      Josephine_2_13: -4010186873428913231
+      Josephine_2_14: -6095845741804633847
+      Josephine_2_15: 2248566216407569573
+      Josephine_2_16: 8772324421109684048
+      Josephine_2_17: 5152016521117979467
+      Josephine_2_18: 5997122919903205200
+      Josephine_2_19: 2356078760485986266
+      Josephine_2_2: -3799797686609136512
+      Josephine_2_20: 7883279150613620249
+      Josephine_2_21: 5382519615362684027
+      Josephine_2_22: -2946659859206356443
+      Josephine_2_23: -8278750605578705537
+      Josephine_2_24: 2447696127824868527
+      Josephine_2_25: -4577072478206592793
+      Josephine_2_26: -8425836319939644207
+      Josephine_2_27: 1496121278766200427
+      Josephine_2_28: -2475571140590882931
+      Josephine_2_29: -936305335620791318
+      Josephine_2_3: 1920119783590196136
+      Josephine_2_30: -7628196626812364827
+      Josephine_2_31: -4702838233540228995
+      Josephine_2_32: 2941850467592414154
+      Josephine_2_33: -790085201588079899
+      Josephine_2_34: 5427748097117936308
+      Josephine_2_35: 8387337460915443563
+      Josephine_2_36: -1800909010021165835
+      Josephine_2_37: 4586216488305290411
+      Josephine_2_38: -7404937023135718535
+      Josephine_2_39: 5719673910655473508
+      Josephine_2_4: -520939797397970939
+      Josephine_2_40: 9106433807535482926
+      Josephine_2_41: 341966375604428306
+      Josephine_2_42: -3224828901828351018
+      Josephine_2_43: -7259484270477543558
+      Josephine_2_44: -4626677844812977850
+      Josephine_2_45: 5476368929490652230
+      Josephine_2_46: 6491232419412335888
+      Josephine_2_47: 5903996294309860227
+      Josephine_2_48: -8738715894633043677
+      Josephine_2_49: 8583145652728009146
+      Josephine_2_5: -2627279353597881421
+      Josephine_2_50: -7431029406186636758
+      Josephine_2_51: -4813067918271689810
+      Josephine_2_52: 2561625955145565329
+      Josephine_2_53: 633021512243125368
+      Josephine_2_54: 5826231294152400793
+      Josephine_2_55: -2709206722334178461
+      Josephine_2_56: 8303073296431125341
+      Josephine_2_57: 7403147003168430509
+      Josephine_2_58: 827347557348324394
+      Josephine_2_6: 4465196005661797851
+      Josephine_2_7: 2339685787945626649
+      Josephine_2_8: 918703942576531549
+      Josephine_2_9: 4477914647516300551
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

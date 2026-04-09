@@ -1,0 +1,515 @@
+fileFormatVersion: 2
+guid: 269aeda9b4e8979488d15a82c30bcff0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3484236933694844437
+    second: Jayden_2_0
+  - first:
+      213: 7919189405341990827
+    second: Jayden_2_1
+  - first:
+      213: 2991419036188812357
+    second: Jayden_2_2
+  - first:
+      213: 42107404439399699
+    second: Jayden_2_3
+  - first:
+      213: 1037796849420886531
+    second: Jayden_2_4
+  - first:
+      213: 2953193740022272087
+    second: Jayden_2_5
+  - first:
+      213: -1457667315637889114
+    second: Jayden_2_6
+  - first:
+      213: 8215223717107744493
+    second: Jayden_2_7
+  - first:
+      213: -5470267709873631100
+    second: Jayden_2_8
+  - first:
+      213: -4791031293908328629
+    second: Jayden_2_9
+  - first:
+      213: 8226538925097283334
+    second: Jayden_2_10
+  - first:
+      213: 2485641472280841612
+    second: Jayden_2_11
+  - first:
+      213: -1617176433046972124
+    second: Jayden_2_12
+  - first:
+      213: -6725519863024181419
+    second: Jayden_2_13
+  - first:
+      213: -1064807048257394338
+    second: Jayden_2_14
+  - first:
+      213: -3208108795929066955
+    second: Jayden_2_15
+  - first:
+      213: -3850895520261543348
+    second: Jayden_2_16
+  - first:
+      213: -3689692733038787517
+    second: Jayden_2_17
+  - first:
+      213: -2726040095948916363
+    second: Jayden_2_18
+  - first:
+      213: -7092683897442033367
+    second: Jayden_2_19
+  - first:
+      213: -4035763780819108635
+    second: Jayden_2_20
+  - first:
+      213: 4214742379214345544
+    second: Jayden_2_21
+  - first:
+      213: -3721999468149140821
+    second: Jayden_2_22
+  - first:
+      213: 8961439805924236891
+    second: Jayden_2_23
+  - first:
+      213: -3161127772336266314
+    second: Jayden_2_24
+  - first:
+      213: 689018489486200011
+    second: Jayden_2_25
+  - first:
+      213: 8069624254638590324
+    second: Jayden_2_26
+  - first:
+      213: 1124187823848483962
+    second: Jayden_2_27
+  - first:
+      213: -6332827704953270079
+    second: Jayden_2_28
+  - first:
+      213: -2222532171151667933
+    second: Jayden_2_29
+  - first:
+      213: -4541370966084528445
+    second: Jayden_2_30
+  - first:
+      213: -1017683515344226463
+    second: Jayden_2_31
+  - first:
+      213: 1167940921124825432
+    second: Jayden_2_32
+  - first:
+      213: -8468921410221278716
+    second: Jayden_2_33
+  - first:
+      213: 1846078201225337648
+    second: Jayden_2_34
+  - first:
+      213: 5447258612185871083
+    second: Jayden_2_35
+  - first:
+      213: 8755295679909807529
+    second: Jayden_2_36
+  - first:
+      213: 4572248785839080044
+    second: Jayden_2_37
+  - first:
+      213: 617411338287880172
+    second: Jayden_2_38
+  - first:
+      213: -5756286717830862620
+    second: Jayden_2_39
+  - first:
+      213: 4101545467241026146
+    second: Jayden_2_40
+  - first:
+      213: 3668217007100088525
+    second: Jayden_2_41
+  - first:
+      213: -5929761542591546705
+    second: Jayden_2_42
+  - first:
+      213: -8844252231352845492
+    second: Jayden_2_43
+  - first:
+      213: -8969989032462201227
+    second: Jayden_2_44
+  - first:
+      213: 2900983636960276870
+    second: Jayden_2_45
+  - first:
+      213: 3296864662465997971
+    second: Jayden_2_46
+  - first:
+      213: 7773333731306878141
+    second: Jayden_2_47
+  - first:
+      213: 9113954806412873259
+    second: Jayden_2_48
+  - first:
+      213: -5676434767982226637
+    second: Jayden_2_49
+  - first:
+      213: 6720712152653990652
+    second: Jayden_2_50
+  - first:
+      213: 6869511365222206570
+    second: Jayden_2_51
+  - first:
+      213: 2824383155606027949
+    second: Jayden_2_52
+  - first:
+      213: 5358146092696000772
+    second: Jayden_2_53
+  - first:
+      213: -1012762229764845460
+    second: Jayden_2_54
+  - first:
+      213: -280089661407111597
+    second: Jayden_2_55
+  - first:
+      213: -4819541010961098930
+    second: Jayden_2_56
+  - first:
+      213: -3365234816045438227
+    second: Jayden_2_57
+  - first:
+      213: -1984776633576210284
+    second: Jayden_2_58
+  - first:
+      213: 6106900080214989732
+    second: Jayden_2_59
+  - first:
+      213: -4201673473367442720
+    second: Jayden_2_60
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Jayden_2_31
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 2204
+        width: 149
+        height: 376
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 167f2261c3670e1f0800000000000000
+      internalID: -1017683515344226463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jayden_2_32
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 2359
+        width: 200
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 859a94a641c553010800000000000000
+      internalID: 1167940921124825432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jayden_2_33
+      rect:
+        serializedVersion: 2
+        x: 1903
+        y: 2200
+        width: 137
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40a7f0109d8587a80800000000000000
+      internalID: -8468921410221278716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jayden_2_45
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1602
+        width: 386
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 681fc3c6f3d524820800000000000000
+      internalID: 2900983636960276870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jayden_2_46
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 1461
+        width: 1205
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39ce2d661f0d0cd20800000000000000
+      internalID: 3296864662465997971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jayden_2_59
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 384
+        width: 2061
+        height: 598
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4abd408644110c450800000000000000
+      internalID: 6106900080214989732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jayden_2_60
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 742
+        width: 1098
+        height: 231
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ea70c5cc38a0b5c0800000000000000
+      internalID: -4201673473367442720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 4c580b42518a23444a7a76c99bf93d56
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Jayden_2_0: -3484236933694844437
+      Jayden_2_1: 7919189405341990827
+      Jayden_2_10: 8226538925097283334
+      Jayden_2_11: 2485641472280841612
+      Jayden_2_12: -1617176433046972124
+      Jayden_2_13: -6725519863024181419
+      Jayden_2_14: -1064807048257394338
+      Jayden_2_15: -3208108795929066955
+      Jayden_2_16: -3850895520261543348
+      Jayden_2_17: -3689692733038787517
+      Jayden_2_18: -2726040095948916363
+      Jayden_2_19: -7092683897442033367
+      Jayden_2_2: 2991419036188812357
+      Jayden_2_20: -4035763780819108635
+      Jayden_2_21: 4214742379214345544
+      Jayden_2_22: -3721999468149140821
+      Jayden_2_23: 8961439805924236891
+      Jayden_2_24: -3161127772336266314
+      Jayden_2_25: 689018489486200011
+      Jayden_2_26: 8069624254638590324
+      Jayden_2_27: 1124187823848483962
+      Jayden_2_28: -6332827704953270079
+      Jayden_2_29: -2222532171151667933
+      Jayden_2_3: 42107404439399699
+      Jayden_2_30: -4541370966084528445
+      Jayden_2_31: -1017683515344226463
+      Jayden_2_32: 1167940921124825432
+      Jayden_2_33: -8468921410221278716
+      Jayden_2_34: 1846078201225337648
+      Jayden_2_35: 5447258612185871083
+      Jayden_2_36: 8755295679909807529
+      Jayden_2_37: 4572248785839080044
+      Jayden_2_38: 617411338287880172
+      Jayden_2_39: -5756286717830862620
+      Jayden_2_4: 1037796849420886531
+      Jayden_2_40: 4101545467241026146
+      Jayden_2_41: 3668217007100088525
+      Jayden_2_42: -5929761542591546705
+      Jayden_2_43: -8844252231352845492
+      Jayden_2_44: -8969989032462201227
+      Jayden_2_45: 2900983636960276870
+      Jayden_2_46: 3296864662465997971
+      Jayden_2_47: 7773333731306878141
+      Jayden_2_48: 9113954806412873259
+      Jayden_2_49: -5676434767982226637
+      Jayden_2_5: 2953193740022272087
+      Jayden_2_50: 6720712152653990652
+      Jayden_2_51: 6869511365222206570
+      Jayden_2_52: 2824383155606027949
+      Jayden_2_53: 5358146092696000772
+      Jayden_2_54: -1012762229764845460
+      Jayden_2_55: -280089661407111597
+      Jayden_2_56: -4819541010961098930
+      Jayden_2_57: -3365234816045438227
+      Jayden_2_58: -1984776633576210284
+      Jayden_2_59: 6106900080214989732
+      Jayden_2_6: -1457667315637889114
+      Jayden_2_60: -4201673473367442720
+      Jayden_2_7: 8215223717107744493
+      Jayden_2_8: -5470267709873631100
+      Jayden_2_9: -4791031293908328629
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

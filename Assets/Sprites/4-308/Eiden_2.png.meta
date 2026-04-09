@@ -1,0 +1,1599 @@
+fileFormatVersion: 2
+guid: d4a981e7644174148bc30b964e296fac
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2517007421216239240
+    second: Eiden_2_0
+  - first:
+      213: 7080632165698914796
+    second: Eiden_2_1
+  - first:
+      213: 1220055778310446421
+    second: Eiden_2_2
+  - first:
+      213: -4427216201391053162
+    second: Eiden_2_3
+  - first:
+      213: -2207584861716288569
+    second: Eiden_2_4
+  - first:
+      213: -4243595398236322519
+    second: Eiden_2_5
+  - first:
+      213: -2834739195937744659
+    second: Eiden_2_6
+  - first:
+      213: -8129901198138944676
+    second: Eiden_2_7
+  - first:
+      213: -8351573670746632450
+    second: Eiden_2_8
+  - first:
+      213: 8801674284206657124
+    second: Eiden_2_9
+  - first:
+      213: -8326382821393542740
+    second: Eiden_2_10
+  - first:
+      213: 7540709017509476069
+    second: Eiden_2_11
+  - first:
+      213: -7499589678569178044
+    second: Eiden_2_12
+  - first:
+      213: 9044385472073020534
+    second: Eiden_2_13
+  - first:
+      213: -255352943996849471
+    second: Eiden_2_14
+  - first:
+      213: 6377732738959159011
+    second: Eiden_2_15
+  - first:
+      213: 3189348468064669205
+    second: Eiden_2_16
+  - first:
+      213: -7955694795649514613
+    second: Eiden_2_17
+  - first:
+      213: -1111185032822164388
+    second: Eiden_2_18
+  - first:
+      213: -5826797461324856493
+    second: Eiden_2_19
+  - first:
+      213: 685792245801633208
+    second: Eiden_2_20
+  - first:
+      213: -7107558870144987062
+    second: Eiden_2_21
+  - first:
+      213: -3889148558023528039
+    second: Eiden_2_22
+  - first:
+      213: -7795661082228819121
+    second: Eiden_2_23
+  - first:
+      213: -7523819674379815711
+    second: Eiden_2_24
+  - first:
+      213: -6578449053134635316
+    second: Eiden_2_25
+  - first:
+      213: 4543418317453674962
+    second: Eiden_2_26
+  - first:
+      213: -3557103826004719725
+    second: Eiden_2_27
+  - first:
+      213: 1550915478177841511
+    second: Eiden_2_28
+  - first:
+      213: 6395739173123414291
+    second: Eiden_2_29
+  - first:
+      213: -3762346054896763040
+    second: Eiden_2_30
+  - first:
+      213: 1448232599398661581
+    second: Eiden_2_31
+  - first:
+      213: 768120621173279638
+    second: Eiden_2_32
+  - first:
+      213: -8458456563290476749
+    second: Eiden_2_33
+  - first:
+      213: 1014211103427318050
+    second: Eiden_2_34
+  - first:
+      213: 6741799540854713368
+    second: Eiden_2_35
+  - first:
+      213: -2419939708051215697
+    second: Eiden_2_36
+  - first:
+      213: -1289770319588414927
+    second: Eiden_2_37
+  - first:
+      213: 1872786267313271437
+    second: Eiden_2_38
+  - first:
+      213: -2423728425966139773
+    second: Eiden_2_39
+  - first:
+      213: -5610053504541910618
+    second: Eiden_2_40
+  - first:
+      213: -7010067576638695677
+    second: Eiden_2_41
+  - first:
+      213: 3952014485944839118
+    second: Eiden_2_42
+  - first:
+      213: -4106259903583996263
+    second: Eiden_2_43
+  - first:
+      213: 9116313801876051890
+    second: Eiden_2_44
+  - first:
+      213: -3905718713807050613
+    second: Eiden_2_45
+  - first:
+      213: -8571565746971142763
+    second: Eiden_2_46
+  - first:
+      213: 3714692682735997521
+    second: Eiden_2_47
+  - first:
+      213: -7265028122316961720
+    second: Eiden_2_48
+  - first:
+      213: 8165161903894800451
+    second: Eiden_2_49
+  - first:
+      213: 5393313685301583737
+    second: Eiden_2_50
+  - first:
+      213: -611204058646942642
+    second: Eiden_2_51
+  - first:
+      213: -1038508973314043316
+    second: Eiden_2_52
+  - first:
+      213: -8017315234746580866
+    second: Eiden_2_53
+  - first:
+      213: -1363847570688316216
+    second: Eiden_2_54
+  - first:
+      213: -8933449341371626358
+    second: Eiden_2_55
+  - first:
+      213: 8693487585139415027
+    second: Eiden_2_56
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Eiden_2_0
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 3052
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88ead96f9e43ee220800000000000000
+      internalID: 2517007421216239240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eiden_2_1
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 3052
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce940bd9075734260800000000000000
+      internalID: 7080632165698914796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eiden_2_2
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 3052
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55d5b5824428ee010800000000000000
+      internalID: 1220055778310446421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eiden_2_3
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 3052
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6966b3c325e5f82c0800000000000000
+      internalID: -4427216201391053162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eiden_2_4
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 3044
+        width: 729
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cbeed9b3451d51e0800000000000000
+      internalID: -2207584861716288569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eiden_2_5
+      rect:
+        serializedVersion: 2
+        x: 1853
+        y: 3048
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92544a50878bb15c0800000000000000
+      internalID: -4243595398236322519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eiden_2_6
+      rect:
+        serializedVersion: 2
+        x: 1886
+        y: 3048
+        width: 57
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de8114b68bbf8a8d0800000000000000
+      internalID: -2834739195937744659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eiden_2_7
+      rect:
+        serializedVersion: 2
+        x: 1949
+        y: 3039
+        width: 202
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c53d7e13fe9cc2f80800000000000000
+      internalID: -8129901198138944676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eiden_2_8
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 2843
+        width: 68
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efe44a7beff391c80800000000000000
+      internalID: -8351573670746632450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eiden_2_9
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 2842
+        width: 18
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46e04d2d024d52a70800000000000000
+      internalID: 8801674284206657124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eiden_2_10
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 2842
+        width: 61
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca15ce260feb27c80800000000000000
+      internalID: -8326382821393542740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eiden_2_11
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 2842
+        width: 77
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e6bc3726eaf5a860800000000000000
+      internalID: 7540709017509476069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eiden_2_12
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 2912
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44cb2bffbea1ce790800000000000000
+      internalID: -7499589678569178044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eiden_2_13
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 2840
+        width: 84
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 674bd9aeaac148d70800000000000000
+      internalID: 9044385472073020534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eiden_2_14
+      rect:
+        serializedVersion: 2
+        x: 1788
+        y: 2840
+        width: 58
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c2b7b0b9ddc47cf0800000000000000
+      internalID: -255352943996849471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eiden_2_15
+      rect:
+        serializedVersion: 2
+        x: 1901
+        y: 2839
+        width: 35
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ee2a0aa222428850800000000000000
+      internalID: 6377732738959159011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eiden_2_16
+      rect:
+        serializedVersion: 2
+        x: 2056
+        y: 2840
+        width: 17
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51e4ee7a887d24c20800000000000000
+      internalID: 3189348468064669205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eiden_2_17
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 2819
+        width: 57
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8303e30cb1b79190800000000000000
+      internalID: -7955694795649514613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eiden_2_18
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 2842
+        width: 59
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5477e699174490f0800000000000000
+      internalID: -1111185032822164388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eiden_2_19
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 2843
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3538593a49e032fa0800000000000000
+      internalID: -5826797461324856493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eiden_2_20
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 2842
+        width: 60
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b549b00a6c648900800000000000000
+      internalID: 685792245801633208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eiden_2_21
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 2842
+        width: 16
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a40d4d47dd0ec5d90800000000000000
+      internalID: -7107558870144987062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eiden_2_22
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 2842
+        width: 55
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 991f848fdf7f60ac0800000000000000
+      internalID: -3889148558023528039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eiden_2_23
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 2839
+        width: 54
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4bf9648c8f30d390800000000000000
+      internalID: -7795661082228819121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eiden_2_24
+      rect:
+        serializedVersion: 2
+        x: 1937
+        y: 2839
+        width: 58
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e4fe7a7ed5069790800000000000000
+      internalID: -7523819674379815711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eiden_2_25
+      rect:
+        serializedVersion: 2
+        x: 1999
+        y: 2839
+        width: 56
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cceb7e6b077a4b4a0800000000000000
+      internalID: -6578449053134635316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eiden_2_26
+      rect:
+        serializedVersion: 2
+        x: 2077
+        y: 2839
+        width: 61
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d944dd33e67d0f30800000000000000
+      internalID: 4543418317453674962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eiden_2_27
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 2189
+        width: 583
+        height: 580
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3974ec5aae0a2aec0800000000000000
+      internalID: -3557103826004719725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eiden_2_28
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 2196
+        width: 580
+        height: 576
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76102790965f58510800000000000000
+      internalID: 1550915478177841511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eiden_2_29
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 2167
+        width: 582
+        height: 601
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 319521254ea32c850800000000000000
+      internalID: 6395739173123414291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eiden_2_30
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1981
+        width: 79
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06f39c3623679cbc0800000000000000
+      internalID: -3762346054896763040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eiden_2_31
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 1981
+        width: 62
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd3c4740e7291410800000000000000
+      internalID: 1448232599398661581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eiden_2_32
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 1981
+        width: 59
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69b8fa1a2a9e8aa00800000000000000
+      internalID: 768120621173279638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eiden_2_33
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 1983
+        width: 18
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33feffc02968d9a80800000000000000
+      internalID: -8458456563290476749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eiden_2_34
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 1984
+        width: 67
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 221da0300a3331e00800000000000000
+      internalID: 1014211103427318050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eiden_2_35
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 1983
+        width: 18
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81c698b76feaf8d50800000000000000
+      internalID: 6741799540854713368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eiden_2_36
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 1981
+        width: 58
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faaaebb28a5aa6ed0800000000000000
+      internalID: -2419939708051215697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eiden_2_37
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 1981
+        width: 72
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13a27135ab0d91ee0800000000000000
+      internalID: -1289770319588414927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eiden_2_38
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 1981
+        width: 60
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d82ff6b00397df910800000000000000
+      internalID: 1872786267313271437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eiden_2_39
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 1981
+        width: 37
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 386854a86df2d5ed0800000000000000
+      internalID: -2423728425966139773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eiden_2_40
+      rect:
+        serializedVersion: 2
+        x: 1777
+        y: 1981
+        width: 86
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a918da9f061522b0800000000000000
+      internalID: -5610053504541910618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eiden_2_41
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 1333
+        width: 583
+        height: 617
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30797f21eac37be90800000000000000
+      internalID: -7010067576638695677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eiden_2_42
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 1314
+        width: 1302
+        height: 636
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecba0fd7c3068d630800000000000000
+      internalID: 3952014485944839118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eiden_2_43
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 1272
+        width: 151
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9963273af52a307c0800000000000000
+      internalID: -4106259903583996263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eiden_2_44
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 1121
+        width: 66
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b710dd3a17a38e70800000000000000
+      internalID: 9116313801876051890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eiden_2_45
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 1120
+        width: 61
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b886feee5891cc9c0800000000000000
+      internalID: -3905718713807050613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eiden_2_46
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1120
+        width: 58
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59511e20e5eab0980800000000000000
+      internalID: -8571565746971142763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eiden_2_47
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 1121
+        width: 38
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 152d83c405d3d8330800000000000000
+      internalID: 3714692682735997521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eiden_2_48
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 1119
+        width: 57
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 848031e1a6f6d2b90800000000000000
+      internalID: -7265028122316961720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eiden_2_49
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 1120
+        width: 62
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 348a33f9d7b705170800000000000000
+      internalID: 8165161903894800451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eiden_2_50
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 1121
+        width: 37
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97f57a6c836e8da40800000000000000
+      internalID: 5393313685301583737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eiden_2_51
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 1119
+        width: 141
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4c621f95219487f0800000000000000
+      internalID: -611204058646942642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eiden_2_52
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 1120
+        width: 59
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c429f8d47997691f0800000000000000
+      internalID: -1038508973314043316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eiden_2_53
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 1120
+        width: 19
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e704a948546ccb090800000000000000
+      internalID: -8017315234746580866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eiden_2_54
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 1120
+        width: 17
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cce7554cd3a21de0800000000000000
+      internalID: -1363847570688316216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eiden_2_55
+      rect:
+        serializedVersion: 2
+        x: 1513
+        y: 1119
+        width: 54
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8cc89cc723060480800000000000000
+      internalID: -8933449341371626358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eiden_2_56
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 403
+        width: 2074
+        height: 596
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f7d08b06e875a870800000000000000
+      internalID: 8693487585139415027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Eiden_2_0: 2517007421216239240
+      Eiden_2_1: 7080632165698914796
+      Eiden_2_10: -8326382821393542740
+      Eiden_2_11: 7540709017509476069
+      Eiden_2_12: -7499589678569178044
+      Eiden_2_13: 9044385472073020534
+      Eiden_2_14: -255352943996849471
+      Eiden_2_15: 6377732738959159011
+      Eiden_2_16: 3189348468064669205
+      Eiden_2_17: -7955694795649514613
+      Eiden_2_18: -1111185032822164388
+      Eiden_2_19: -5826797461324856493
+      Eiden_2_2: 1220055778310446421
+      Eiden_2_20: 685792245801633208
+      Eiden_2_21: -7107558870144987062
+      Eiden_2_22: -3889148558023528039
+      Eiden_2_23: -7795661082228819121
+      Eiden_2_24: -7523819674379815711
+      Eiden_2_25: -6578449053134635316
+      Eiden_2_26: 4543418317453674962
+      Eiden_2_27: -3557103826004719725
+      Eiden_2_28: 1550915478177841511
+      Eiden_2_29: 6395739173123414291
+      Eiden_2_3: -4427216201391053162
+      Eiden_2_30: -3762346054896763040
+      Eiden_2_31: 1448232599398661581
+      Eiden_2_32: 768120621173279638
+      Eiden_2_33: -8458456563290476749
+      Eiden_2_34: 1014211103427318050
+      Eiden_2_35: 6741799540854713368
+      Eiden_2_36: -2419939708051215697
+      Eiden_2_37: -1289770319588414927
+      Eiden_2_38: 1872786267313271437
+      Eiden_2_39: -2423728425966139773
+      Eiden_2_4: -2207584861716288569
+      Eiden_2_40: -5610053504541910618
+      Eiden_2_41: -7010067576638695677
+      Eiden_2_42: 3952014485944839118
+      Eiden_2_43: -4106259903583996263
+      Eiden_2_44: 9116313801876051890
+      Eiden_2_45: -3905718713807050613
+      Eiden_2_46: -8571565746971142763
+      Eiden_2_47: 3714692682735997521
+      Eiden_2_48: -7265028122316961720
+      Eiden_2_49: 8165161903894800451
+      Eiden_2_5: -4243595398236322519
+      Eiden_2_50: 5393313685301583737
+      Eiden_2_51: -611204058646942642
+      Eiden_2_52: -1038508973314043316
+      Eiden_2_53: -8017315234746580866
+      Eiden_2_54: -1363847570688316216
+      Eiden_2_55: -8933449341371626358
+      Eiden_2_56: 8693487585139415027
+      Eiden_2_6: -2834739195937744659
+      Eiden_2_7: -8129901198138944676
+      Eiden_2_8: -8351573670746632450
+      Eiden_2_9: 8801674284206657124
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,473 @@
+fileFormatVersion: 2
+guid: 67db0a1c8c5d4894d9b625b2150e95e2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3795783980793354589
+    second: Fatima_2_0
+  - first:
+      213: -8504143702234994761
+    second: Fatima_2_1
+  - first:
+      213: -8838600604574649381
+    second: Fatima_2_2
+  - first:
+      213: -7055793966095740672
+    second: Fatima_2_3
+  - first:
+      213: 5306541437398341285
+    second: Fatima_2_4
+  - first:
+      213: -2807263840242754590
+    second: Fatima_2_5
+  - first:
+      213: 5736730628322007715
+    second: Fatima_2_6
+  - first:
+      213: 9063943182113941127
+    second: Fatima_2_7
+  - first:
+      213: 1107291852908141318
+    second: Fatima_2_8
+  - first:
+      213: -6642944017277756794
+    second: Fatima_2_9
+  - first:
+      213: -3538521601865633736
+    second: Fatima_2_10
+  - first:
+      213: -2935855569564083719
+    second: Fatima_2_11
+  - first:
+      213: 4934893641907956230
+    second: Fatima_2_12
+  - first:
+      213: 3383460182905110177
+    second: Fatima_2_13
+  - first:
+      213: 6392480715784577141
+    second: Fatima_2_14
+  - first:
+      213: 7498732661301176187
+    second: Fatima_2_15
+  - first:
+      213: -6895940969854914085
+    second: Fatima_2_16
+  - first:
+      213: 6056632035637885756
+    second: Fatima_2_17
+  - first:
+      213: -5660426741621158259
+    second: Fatima_2_18
+  - first:
+      213: -4870257177936462792
+    second: Fatima_2_19
+  - first:
+      213: -1167869126087125437
+    second: Fatima_2_20
+  - first:
+      213: -7949959563079519961
+    second: Fatima_2_21
+  - first:
+      213: -8910266421946886013
+    second: Fatima_2_22
+  - first:
+      213: -4570196963485255739
+    second: Fatima_2_23
+  - first:
+      213: 4049186073579531116
+    second: Fatima_2_24
+  - first:
+      213: 8846519465271053472
+    second: Fatima_2_25
+  - first:
+      213: -3842684399644355375
+    second: Fatima_2_26
+  - first:
+      213: -2049950306066188769
+    second: Fatima_2_27
+  - first:
+      213: -6394998887700182975
+    second: Fatima_2_28
+  - first:
+      213: 4433726557896336362
+    second: Fatima_2_29
+  - first:
+      213: -948402912060371588
+    second: Fatima_2_30
+  - first:
+      213: 4655273787754220171
+    second: Fatima_2_31
+  - first:
+      213: -99776436380525469
+    second: Fatima_2_32
+  - first:
+      213: -8195254001919561113
+    second: Fatima_2_33
+  - first:
+      213: 5445407609155239075
+    second: Fatima_2_34
+  - first:
+      213: -1816689868053686437
+    second: Fatima_2_35
+  - first:
+      213: -8285017438078450118
+    second: Fatima_2_36
+  - first:
+      213: 7694574725786687961
+    second: Fatima_2_37
+  - first:
+      213: -6593288340915514110
+    second: Fatima_2_38
+  - first:
+      213: 9011179323237396183
+    second: Fatima_2_39
+  - first:
+      213: 3957443393836056828
+    second: Fatima_2_40
+  - first:
+      213: -1989963543686151724
+    second: Fatima_2_41
+  - first:
+      213: -549753871825014562
+    second: Fatima_2_42
+  - first:
+      213: 9168722665700169393
+    second: Fatima_2_43
+  - first:
+      213: -8462750235218592693
+    second: Fatima_2_44
+  - first:
+      213: 2505053880629054918
+    second: Fatima_2_45
+  - first:
+      213: -3947653214897035867
+    second: Fatima_2_46
+  - first:
+      213: -746763431281466109
+    second: Fatima_2_47
+  - first:
+      213: -5842278274889028373
+    second: Fatima_2_48
+  - first:
+      213: -7138031493967721164
+    second: Fatima_2_49
+  - first:
+      213: -4923605836639024104
+    second: Fatima_2_50
+  - first:
+      213: 4539339565346856572
+    second: Fatima_2_51
+  - first:
+      213: -8514440565603776399
+    second: Fatima_2_52
+  - first:
+      213: 810839755969219190
+    second: Fatima_2_53
+  - first:
+      213: 3895365589592956267
+    second: Fatima_2_54
+  - first:
+      213: 5226618230549779225
+    second: Fatima_2_55
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fatima_2_27
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 2191
+        width: 284
+        height: 481
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f16b8b7ce0d1d83e0800000000000000
+      internalID: -2049950306066188769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fatima_2_28
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 2348
+        width: 255
+        height: 339
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 148cc9fc4666047a0800000000000000
+      internalID: -6394998887700182975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fatima_2_29
+      rect:
+        serializedVersion: 2
+        x: 1862
+        y: 2201
+        width: 191
+        height: 484
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae360a240d2c78d30800000000000000
+      internalID: 4433726557896336362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fatima_2_41
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1491
+        width: 349
+        height: 317
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d10c9643ba3264e0800000000000000
+      internalID: -1989963543686151724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fatima_2_42
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 1446
+        width: 1062
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed079fb24c1ee58f0800000000000000
+      internalID: -549753871825014562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fatima_2_55
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 451
+        width: 1574
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9131080c69da88840800000000000000
+      internalID: 5226618230549779225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 3e22314e12ad28f4a98792c0f4628096
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Fatima_2_0: -3795783980793354589
+      Fatima_2_1: -8504143702234994761
+      Fatima_2_10: -3538521601865633736
+      Fatima_2_11: -2935855569564083719
+      Fatima_2_12: 4934893641907956230
+      Fatima_2_13: 3383460182905110177
+      Fatima_2_14: 6392480715784577141
+      Fatima_2_15: 7498732661301176187
+      Fatima_2_16: -6895940969854914085
+      Fatima_2_17: 6056632035637885756
+      Fatima_2_18: -5660426741621158259
+      Fatima_2_19: -4870257177936462792
+      Fatima_2_2: -8838600604574649381
+      Fatima_2_20: -1167869126087125437
+      Fatima_2_21: -7949959563079519961
+      Fatima_2_22: -8910266421946886013
+      Fatima_2_23: -4570196963485255739
+      Fatima_2_24: 4049186073579531116
+      Fatima_2_25: 8846519465271053472
+      Fatima_2_26: -3842684399644355375
+      Fatima_2_27: -2049950306066188769
+      Fatima_2_28: -6394998887700182975
+      Fatima_2_29: 4433726557896336362
+      Fatima_2_3: -7055793966095740672
+      Fatima_2_30: -948402912060371588
+      Fatima_2_31: 4655273787754220171
+      Fatima_2_32: -99776436380525469
+      Fatima_2_33: -8195254001919561113
+      Fatima_2_34: 5445407609155239075
+      Fatima_2_35: -1816689868053686437
+      Fatima_2_36: -8285017438078450118
+      Fatima_2_37: 7694574725786687961
+      Fatima_2_38: -6593288340915514110
+      Fatima_2_39: 9011179323237396183
+      Fatima_2_4: 5306541437398341285
+      Fatima_2_40: 3957443393836056828
+      Fatima_2_41: -1989963543686151724
+      Fatima_2_42: -549753871825014562
+      Fatima_2_43: 9168722665700169393
+      Fatima_2_44: -8462750235218592693
+      Fatima_2_45: 2505053880629054918
+      Fatima_2_46: -3947653214897035867
+      Fatima_2_47: -746763431281466109
+      Fatima_2_48: -5842278274889028373
+      Fatima_2_49: -7138031493967721164
+      Fatima_2_5: -2807263840242754590
+      Fatima_2_50: -4923605836639024104
+      Fatima_2_51: 4539339565346856572
+      Fatima_2_52: -8514440565603776399
+      Fatima_2_53: 810839755969219190
+      Fatima_2_54: 3895365589592956267
+      Fatima_2_55: 5226618230549779225
+      Fatima_2_6: 5736730628322007715
+      Fatima_2_7: 9063943182113941127
+      Fatima_2_8: 1107291852908141318
+      Fatima_2_9: -6642944017277756794
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

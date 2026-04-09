@@ -1,0 +1,475 @@
+fileFormatVersion: 2
+guid: c4298797ef7f57a479bf31537c5789cc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7007333704990842190
+    second: Diana_2_0
+  - first:
+      213: 2890411009276338013
+    second: Diana_2_1
+  - first:
+      213: -3060012556895771516
+    second: Diana_2_2
+  - first:
+      213: 7220299934692046754
+    second: Diana_2_3
+  - first:
+      213: -5986418440035160085
+    second: Diana_2_4
+  - first:
+      213: -2305069785547093696
+    second: Diana_2_5
+  - first:
+      213: 252693741220776244
+    second: Diana_2_6
+  - first:
+      213: -7981497076548859259
+    second: Diana_2_7
+  - first:
+      213: 445623488944868208
+    second: Diana_2_8
+  - first:
+      213: 8540089587748798848
+    second: Diana_2_9
+  - first:
+      213: -2598147996672727137
+    second: Diana_2_10
+  - first:
+      213: 2537124737717007780
+    second: Diana_2_11
+  - first:
+      213: 1110887577551351524
+    second: Diana_2_12
+  - first:
+      213: 8139413679227232758
+    second: Diana_2_13
+  - first:
+      213: 4995478226291404096
+    second: Diana_2_14
+  - first:
+      213: -1366301761413956717
+    second: Diana_2_15
+  - first:
+      213: 7548594576515414525
+    second: Diana_2_16
+  - first:
+      213: -1110386817018553032
+    second: Diana_2_17
+  - first:
+      213: -6401973558712630698
+    second: Diana_2_18
+  - first:
+      213: 603379635454785206
+    second: Diana_2_19
+  - first:
+      213: 6278253431719950746
+    second: Diana_2_20
+  - first:
+      213: 1605237633359804200
+    second: Diana_2_21
+  - first:
+      213: 7439033967896221428
+    second: Diana_2_22
+  - first:
+      213: -8529233641341605460
+    second: Diana_2_23
+  - first:
+      213: -7816856510331579911
+    second: Diana_2_24
+  - first:
+      213: 559551808363352385
+    second: Diana_2_25
+  - first:
+      213: -3980104647885246113
+    second: Diana_2_26
+  - first:
+      213: -4428032525466839325
+    second: Diana_2_27
+  - first:
+      213: -5133406765236096322
+    second: Diana_2_28
+  - first:
+      213: -1290794274132059143
+    second: Diana_2_29
+  - first:
+      213: 2656844837046229937
+    second: Diana_2_30
+  - first:
+      213: -2584802030829393923
+    second: Diana_2_31
+  - first:
+      213: 3412896800713885333
+    second: Diana_2_32
+  - first:
+      213: -2668622468517842431
+    second: Diana_2_33
+  - first:
+      213: -6056530729506270924
+    second: Diana_2_34
+  - first:
+      213: -6496323030883250955
+    second: Diana_2_35
+  - first:
+      213: 6710942827898960939
+    second: Diana_2_36
+  - first:
+      213: 5658723240816276745
+    second: Diana_2_37
+  - first:
+      213: 495028526654148093
+    second: Diana_2_38
+  - first:
+      213: 5926179016563625016
+    second: Diana_2_39
+  - first:
+      213: -3824449789906970541
+    second: Diana_2_40
+  - first:
+      213: 1352717577325817860
+    second: Diana_2_41
+  - first:
+      213: 3239295980463097151
+    second: Diana_2_42
+  - first:
+      213: 8799216321592535989
+    second: Diana_2_43
+  - first:
+      213: -681388755088212803
+    second: Diana_2_44
+  - first:
+      213: 4421028652156790797
+    second: Diana_2_45
+  - first:
+      213: 4324090423266425430
+    second: Diana_2_46
+  - first:
+      213: -4076394718095820666
+    second: Diana_2_47
+  - first:
+      213: -3439917777576736454
+    second: Diana_2_48
+  - first:
+      213: 5754088286174816945
+    second: Diana_2_49
+  - first:
+      213: -6073521968019583793
+    second: Diana_2_50
+  - first:
+      213: -7967904014172924005
+    second: Diana_2_51
+  - first:
+      213: -2966122002919046797
+    second: Diana_2_52
+  - first:
+      213: 4510195229127751011
+    second: Diana_2_53
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Diana_2_25
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 2366
+        width: 186
+        height: 246
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 141dce2b76de3c700800000000000000
+      internalID: 559551808363352385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_2_26
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 2341
+        width: 248
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f513be509e3d3c8c0800000000000000
+      internalID: -3980104647885246113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_2_27
+      rect:
+        serializedVersion: 2
+        x: 1971
+        y: 2225
+        width: 163
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 47.5, y: 13.5}
+        - {x: 27.5, y: 18.5}
+        - {x: -12.5, y: 24.5}
+        - {x: -47.5, y: 19.5}
+        - {x: -66.5, y: -0.5}
+        - {x: -42.5, y: -31.5}
+        - {x: -43.5, y: -55.5}
+        - {x: 15.5, y: -56.5}
+        - {x: 21.5, y: -33.5}
+        - {x: 59.5, y: -25.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e65ca9f0e77c82c0800000000000000
+      internalID: -4428032525466839325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_2_39
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1419
+        width: 307
+        height: 350
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c06a5da640e3250800000000000000
+      internalID: 5926179016563625016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_2_40
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 1421
+        width: 1245
+        height: 423
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 358174bcd23dceac0800000000000000
+      internalID: -3824449789906970541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_2_53
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 469
+        width: 1900
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36532d33aae679e30800000000000000
+      internalID: 4510195229127751011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e471c4f6ae4e72840b619288c4a2d89d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Diana_2_0: -7007333704990842190
+      Diana_2_1: 2890411009276338013
+      Diana_2_10: -2598147996672727137
+      Diana_2_11: 2537124737717007780
+      Diana_2_12: 1110887577551351524
+      Diana_2_13: 8139413679227232758
+      Diana_2_14: 4995478226291404096
+      Diana_2_15: -1366301761413956717
+      Diana_2_16: 7548594576515414525
+      Diana_2_17: -1110386817018553032
+      Diana_2_18: -6401973558712630698
+      Diana_2_19: 603379635454785206
+      Diana_2_2: -3060012556895771516
+      Diana_2_20: 6278253431719950746
+      Diana_2_21: 1605237633359804200
+      Diana_2_22: 7439033967896221428
+      Diana_2_23: -8529233641341605460
+      Diana_2_24: -7816856510331579911
+      Diana_2_25: 559551808363352385
+      Diana_2_26: -3980104647885246113
+      Diana_2_27: -4428032525466839325
+      Diana_2_28: -5133406765236096322
+      Diana_2_29: -1290794274132059143
+      Diana_2_3: 7220299934692046754
+      Diana_2_30: 2656844837046229937
+      Diana_2_31: -2584802030829393923
+      Diana_2_32: 3412896800713885333
+      Diana_2_33: -2668622468517842431
+      Diana_2_34: -6056530729506270924
+      Diana_2_35: -6496323030883250955
+      Diana_2_36: 6710942827898960939
+      Diana_2_37: 5658723240816276745
+      Diana_2_38: 495028526654148093
+      Diana_2_39: 5926179016563625016
+      Diana_2_4: -5986418440035160085
+      Diana_2_40: -3824449789906970541
+      Diana_2_41: 1352717577325817860
+      Diana_2_42: 3239295980463097151
+      Diana_2_43: 8799216321592535989
+      Diana_2_44: -681388755088212803
+      Diana_2_45: 4421028652156790797
+      Diana_2_46: 4324090423266425430
+      Diana_2_47: -4076394718095820666
+      Diana_2_48: -3439917777576736454
+      Diana_2_49: 5754088286174816945
+      Diana_2_5: -2305069785547093696
+      Diana_2_50: -6073521968019583793
+      Diana_2_51: -7967904014172924005
+      Diana_2_52: -2966122002919046797
+      Diana_2_53: 4510195229127751011
+      Diana_2_6: 252693741220776244
+      Diana_2_7: -7981497076548859259
+      Diana_2_8: 445623488944868208
+      Diana_2_9: 8540089587748798848
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

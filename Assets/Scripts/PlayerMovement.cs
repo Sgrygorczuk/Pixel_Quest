@@ -7,7 +7,8 @@ public class PlayerMovement : MonoBehaviour
 {
     private Rigidbody2D _rigidbody2D;           // Controls player physics 
     private SpriteRenderer _spriteRenderer;     // Controls player image 
-    public float xMultiplier = 4;                // Controls player X speed 
+    public float xMultiplier = 4;                // Controls player X speed     
+    public bool facingRight = true; 
 
     // Start is called before the first frame update
     private void Start(){
@@ -21,8 +22,8 @@ public class PlayerMovement : MonoBehaviour
         float xMovement = Input.GetAxis("Horizontal");
 
         // Flips the sprite if movement is 0 or more, keep it flipped if it's less than 0
-        if (xMovement >= 0){ _spriteRenderer.flipX = true;}
-        else { _spriteRenderer.flipX = false;}
+        if (xMovement >= 0){ _spriteRenderer.flipX = facingRight;}
+        else { _spriteRenderer.flipX = !facingRight;}
 
         // Give the speed to the rigidbody  
         _rigidbody2D.linearVelocity = new Vector2(xMultiplier * xMovement, _rigidbody2D.linearVelocity.y);

@@ -1,0 +1,1625 @@
+fileFormatVersion: 2
+guid: d12c08adab5e3414fb44f0ddf4bb4d13
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6030894887412301337
+    second: Arianny_2_0
+  - first:
+      213: -5839460201535524841
+    second: Arianny_2_1
+  - first:
+      213: -4747145057177877078
+    second: Arianny_2_2
+  - first:
+      213: 3747048641455672733
+    second: Arianny_2_3
+  - first:
+      213: -415660620087485053
+    second: Arianny_2_4
+  - first:
+      213: 6180045272982928165
+    second: Arianny_2_5
+  - first:
+      213: 7297892047638740071
+    second: Arianny_2_6
+  - first:
+      213: -7924598123955649190
+    second: Arianny_2_7
+  - first:
+      213: -5684625001215115812
+    second: Arianny_2_8
+  - first:
+      213: 5261246548295582552
+    second: Arianny_2_9
+  - first:
+      213: 5805179912942869921
+    second: Arianny_2_10
+  - first:
+      213: -1897728826395015043
+    second: Arianny_2_11
+  - first:
+      213: 3982481124957070317
+    second: Arianny_2_12
+  - first:
+      213: 1185875536016809822
+    second: Arianny_2_13
+  - first:
+      213: -5044077853294430142
+    second: Arianny_2_14
+  - first:
+      213: -7732317049572394414
+    second: Arianny_2_15
+  - first:
+      213: -1717057880265601091
+    second: Arianny_2_16
+  - first:
+      213: -7136303251636582311
+    second: Arianny_2_17
+  - first:
+      213: -9144182332771161488
+    second: Arianny_2_18
+  - first:
+      213: -5352870372895947939
+    second: Arianny_2_19
+  - first:
+      213: 1705770455908518241
+    second: Arianny_2_20
+  - first:
+      213: -8795219316246371637
+    second: Arianny_2_21
+  - first:
+      213: 6161102588793497039
+    second: Arianny_2_22
+  - first:
+      213: 3541239938780388210
+    second: Arianny_2_23
+  - first:
+      213: -8131799718082149073
+    second: Arianny_2_24
+  - first:
+      213: -6002948461945726808
+    second: Arianny_2_25
+  - first:
+      213: -6327776078203655381
+    second: Arianny_2_26
+  - first:
+      213: -2164390884892597340
+    second: Arianny_2_27
+  - first:
+      213: 2823024869198874111
+    second: Arianny_2_28
+  - first:
+      213: 7802615533566096663
+    second: Arianny_2_29
+  - first:
+      213: 8072867052747319453
+    second: Arianny_2_30
+  - first:
+      213: 1393694943469713972
+    second: Arianny_2_31
+  - first:
+      213: 1859525429652917977
+    second: Arianny_2_32
+  - first:
+      213: 7445616003822970153
+    second: Arianny_2_33
+  - first:
+      213: 5782686631662883704
+    second: Arianny_2_34
+  - first:
+      213: -9157993962192996554
+    second: Arianny_2_35
+  - first:
+      213: 7848476237585780037
+    second: Arianny_2_36
+  - first:
+      213: -2071670046473682382
+    second: Arianny_2_37
+  - first:
+      213: 3801768268590643958
+    second: Arianny_2_38
+  - first:
+      213: 306511311016159651
+    second: Arianny_2_39
+  - first:
+      213: -4810713528578834421
+    second: Arianny_2_40
+  - first:
+      213: 5813640504712885415
+    second: Arianny_2_41
+  - first:
+      213: -6681399141848975371
+    second: Arianny_2_42
+  - first:
+      213: 3619282454888886848
+    second: Arianny_2_43
+  - first:
+      213: 4381574485835944436
+    second: Arianny_2_44
+  - first:
+      213: 6957908912192442883
+    second: Arianny_2_45
+  - first:
+      213: -7467807721324371095
+    second: Arianny_2_46
+  - first:
+      213: -1676295430760760703
+    second: Arianny_2_47
+  - first:
+      213: 7939214000885364122
+    second: Arianny_2_48
+  - first:
+      213: -420428995647746388
+    second: Arianny_2_49
+  - first:
+      213: -2042798863900693717
+    second: Arianny_2_50
+  - first:
+      213: -5406953286218283388
+    second: Arianny_2_51
+  - first:
+      213: 2301789811020044326
+    second: Arianny_2_52
+  - first:
+      213: 126632773313392701
+    second: Arianny_2_53
+  - first:
+      213: -8557496997006254232
+    second: Arianny_2_54
+  - first:
+      213: -3480808166098672315
+    second: Arianny_2_55
+  - first:
+      213: 3998055675107890656
+    second: Arianny_2_56
+  - first:
+      213: -6723461243143519638
+    second: Arianny_2_57
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Arianny_2_0
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 2995
+        width: 728
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e1021e8d05fd4ca0800000000000000
+      internalID: -6030894887412301337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arianny_2_1
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 3043
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 710b17fa2e116fea0800000000000000
+      internalID: -5839460201535524841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arianny_2_2
+      rect:
+        serializedVersion: 2
+        x: 1859
+        y: 3074
+        width: 106
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa549a1d8b0ce1eb0800000000000000
+      internalID: -4747145057177877078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arianny_2_3
+      rect:
+        serializedVersion: 2
+        x: 1938
+        y: 3084
+        width: 251
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9d431ef2e0300430800000000000000
+      internalID: 3747048641455672733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arianny_2_4
+      rect:
+        serializedVersion: 2
+        x: 2195
+        y: 3105
+        width: 236
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38d11984ed64b3af0800000000000000
+      internalID: -415660620087485053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arianny_2_5
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 3067
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52bbaf7be6ee3c550800000000000000
+      internalID: 6180045272982928165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arianny_2_6
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 3066
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76cb7a4c622574560800000000000000
+      internalID: 7297892047638740071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arianny_2_7
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 3066
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5585e91efb260290800000000000000
+      internalID: -7924598123955649190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arianny_2_8
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 3067
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cddb4490ea72c11b0800000000000000
+      internalID: -5684625001215115812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arianny_2_9
+      rect:
+        serializedVersion: 2
+        x: 1954
+        y: 3067
+        width: 204
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85388e24cd3b30940800000000000000
+      internalID: 5261246548295582552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arianny_2_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 2859
+        width: 67
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ad5138af54209050800000000000000
+      internalID: 5805179912942869921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arianny_2_11
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 2860
+        width: 17
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d78c4bedfa9e9a5e0800000000000000
+      internalID: -1897728826395015043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arianny_2_12
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 2859
+        width: 61
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de3a3c9ab7d944730800000000000000
+      internalID: 3982481124957070317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arianny_2_13
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 2838
+        width: 56
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5f9b185483157010800000000000000
+      internalID: 1185875536016809822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arianny_2_14
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 2861
+        width: 61
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24878f6cae5dff9b0800000000000000
+      internalID: -5044077853294430142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arianny_2_15
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 2859
+        width: 37
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25a7a896c9a41b490800000000000000
+      internalID: -7732317049572394414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arianny_2_16
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 2856
+        width: 523
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbfcbfb84f8cb28e0800000000000000
+      internalID: -1717057880265601091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arianny_2_17
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 2863
+        width: 79
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9588cbc9002c6fc90800000000000000
+      internalID: -7136303251636582311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arianny_2_18
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 2864
+        width: 62
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07aa5c5cd96591180800000000000000
+      internalID: -9144182332771161488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arianny_2_19
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 2865
+        width: 19
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5303dea1c8c6b5b0800000000000000
+      internalID: -5352870372895947939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arianny_2_20
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 2865
+        width: 56
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16988cc213d1ca710800000000000000
+      internalID: 1705770455908518241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arianny_2_21
+      rect:
+        serializedVersion: 2
+        x: 1706
+        y: 2866
+        width: 85
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc22b7581aa11f580800000000000000
+      internalID: -8795219316246371637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arianny_2_22
+      rect:
+        serializedVersion: 2
+        x: 1796
+        y: 2867
+        width: 59
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc5a6cd5922a08550800000000000000
+      internalID: 6161102588793497039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arianny_2_23
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 2868
+        width: 53
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27b5e6746f2052130800000000000000
+      internalID: 3541239938780388210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arianny_2_24
+      rect:
+        serializedVersion: 2
+        x: 1910
+        y: 2868
+        width: 36
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2587139d3b062f80800000000000000
+      internalID: -8131799718082149073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arianny_2_25
+      rect:
+        serializedVersion: 2
+        x: 1946
+        y: 2868
+        width: 59
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a85fb8cd2e31bca0800000000000000
+      internalID: -6002948461945726808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arianny_2_26
+      rect:
+        serializedVersion: 2
+        x: 2007
+        y: 2868
+        width: 57
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2be470de293f28a0800000000000000
+      internalID: -6327776078203655381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arianny_2_27
+      rect:
+        serializedVersion: 2
+        x: 2064
+        y: 2869
+        width: 18
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a322e625f986f1e0800000000000000
+      internalID: -2164390884892597340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arianny_2_28
+      rect:
+        serializedVersion: 2
+        x: 2086
+        y: 2869
+        width: 61
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff541b859266d2720800000000000000
+      internalID: 2823024869198874111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arianny_2_29
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 2761
+        width: 77
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 715f62ddc75784c60800000000000000
+      internalID: 7802615533566096663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arianny_2_30
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 2220
+        width: 585
+        height: 576
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9865f500d5980070800000000000000
+      internalID: 8072867052747319453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arianny_2_31
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 2217
+        width: 586
+        height: 580
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43a35ceba26675310800000000000000
+      internalID: 1393694943469713972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arianny_2_32
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 2000
+        width: 80
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9de844da68c5ec910800000000000000
+      internalID: 1859525429652917977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arianny_2_33
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 2002
+        width: 62
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 925e4d19e44245760800000000000000
+      internalID: 7445616003822970153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arianny_2_34
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 2002
+        width: 59
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8739aaf7ada304050800000000000000
+      internalID: 5782686631662883704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arianny_2_35
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 2003
+        width: 18
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6377054330548e080800000000000000
+      internalID: -9157993962192996554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arianny_2_36
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 2009
+        width: 69
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54d05691e836bec60800000000000000
+      internalID: 7848476237585780037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arianny_2_37
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 2009
+        width: 18
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2328e14a113ff33e0800000000000000
+      internalID: -2071670046473682382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arianny_2_38
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 2009
+        width: 60
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fa72bff81892c430800000000000000
+      internalID: 3801768268590643958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arianny_2_39
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 2009
+        width: 71
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a9e1c4d962f04400800000000000000
+      internalID: 306511311016159651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arianny_2_40
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 2009
+        width: 61
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0084e4b889ec3db0800000000000000
+      internalID: -4810713528578834421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arianny_2_41
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 2010
+        width: 40
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a4fb3fac333ea050800000000000000
+      internalID: 5813640504712885415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arianny_2_42
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 1999
+        width: 87
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f7fd7b41e6e643a0800000000000000
+      internalID: -6681399141848975371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arianny_2_43
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1387
+        width: 586
+        height: 588
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 042b47987364a3230800000000000000
+      internalID: 3619282454888886848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arianny_2_44
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 1394
+        width: 1306
+        height: 588
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f19a21c7ca7ecc30800000000000000
+      internalID: 4381574485835944436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arianny_2_45
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 1143
+        width: 68
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30251c28a457f8060800000000000000
+      internalID: 6957908912192442883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arianny_2_46
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 1143
+        width: 61
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 963aa8f81740d5890800000000000000
+      internalID: -7467807721324371095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arianny_2_47
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 1143
+        width: 58
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18af4e6ef2a9cb8e0800000000000000
+      internalID: -1676295430760760703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arianny_2_48
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 1144
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a95749ee111cd2e60800000000000000
+      internalID: 7939214000885364122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arianny_2_49
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 1143
+        width: 57
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cae44255e065a2af0800000000000000
+      internalID: -420428995647746388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arianny_2_50
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 1143
+        width: 61
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2ba0a9a14586a3e0800000000000000
+      internalID: -2042798863900693717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arianny_2_51
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 1144
+        width: 39
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48604d922a4a6f4b0800000000000000
+      internalID: -5406953286218283388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arianny_2_52
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 1143
+        width: 140
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 628967143a991ff10800000000000000
+      internalID: 2301789811020044326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arianny_2_53
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 1145
+        width: 58
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d30744e16d3e1c100800000000000000
+      internalID: 126632773313392701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arianny_2_54
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 1146
+        width: 18
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86f58fe12d9ad3980800000000000000
+      internalID: -8557496997006254232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arianny_2_55
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 1146
+        width: 18
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 545e8604a6fa1bfc0800000000000000
+      internalID: -3480808166098672315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arianny_2_56
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 1146
+        width: 53
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e55a033472fb7730800000000000000
+      internalID: 3998055675107890656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arianny_2_57
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 407
+        width: 2089
+        height: 626
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a62035d2f9771b2a0800000000000000
+      internalID: -6723461243143519638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Arianny_2_0: -6030894887412301337
+      Arianny_2_1: -5839460201535524841
+      Arianny_2_10: 5805179912942869921
+      Arianny_2_11: -1897728826395015043
+      Arianny_2_12: 3982481124957070317
+      Arianny_2_13: 1185875536016809822
+      Arianny_2_14: -5044077853294430142
+      Arianny_2_15: -7732317049572394414
+      Arianny_2_16: -1717057880265601091
+      Arianny_2_17: -7136303251636582311
+      Arianny_2_18: -9144182332771161488
+      Arianny_2_19: -5352870372895947939
+      Arianny_2_2: -4747145057177877078
+      Arianny_2_20: 1705770455908518241
+      Arianny_2_21: -8795219316246371637
+      Arianny_2_22: 6161102588793497039
+      Arianny_2_23: 3541239938780388210
+      Arianny_2_24: -8131799718082149073
+      Arianny_2_25: -6002948461945726808
+      Arianny_2_26: -6327776078203655381
+      Arianny_2_27: -2164390884892597340
+      Arianny_2_28: 2823024869198874111
+      Arianny_2_29: 7802615533566096663
+      Arianny_2_3: 3747048641455672733
+      Arianny_2_30: 8072867052747319453
+      Arianny_2_31: 1393694943469713972
+      Arianny_2_32: 1859525429652917977
+      Arianny_2_33: 7445616003822970153
+      Arianny_2_34: 5782686631662883704
+      Arianny_2_35: -9157993962192996554
+      Arianny_2_36: 7848476237585780037
+      Arianny_2_37: -2071670046473682382
+      Arianny_2_38: 3801768268590643958
+      Arianny_2_39: 306511311016159651
+      Arianny_2_4: -415660620087485053
+      Arianny_2_40: -4810713528578834421
+      Arianny_2_41: 5813640504712885415
+      Arianny_2_42: -6681399141848975371
+      Arianny_2_43: 3619282454888886848
+      Arianny_2_44: 4381574485835944436
+      Arianny_2_45: 6957908912192442883
+      Arianny_2_46: -7467807721324371095
+      Arianny_2_47: -1676295430760760703
+      Arianny_2_48: 7939214000885364122
+      Arianny_2_49: -420428995647746388
+      Arianny_2_5: 6180045272982928165
+      Arianny_2_50: -2042798863900693717
+      Arianny_2_51: -5406953286218283388
+      Arianny_2_52: 2301789811020044326
+      Arianny_2_53: 126632773313392701
+      Arianny_2_54: -8557496997006254232
+      Arianny_2_55: -3480808166098672315
+      Arianny_2_56: 3998055675107890656
+      Arianny_2_57: -6723461243143519638
+      Arianny_2_6: 7297892047638740071
+      Arianny_2_7: -7924598123955649190
+      Arianny_2_8: -5684625001215115812
+      Arianny_2_9: 5261246548295582552
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

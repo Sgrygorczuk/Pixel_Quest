@@ -1,0 +1,465 @@
+fileFormatVersion: 2
+guid: 6e24273f646e9b243b1b659fb1a38d84
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2991113099134674299
+    second: Kaylee_2_0
+  - first:
+      213: 169029277492420517
+    second: Kaylee_2_1
+  - first:
+      213: -3510875920924044232
+    second: Kaylee_2_2
+  - first:
+      213: -4230550882281531028
+    second: Kaylee_2_3
+  - first:
+      213: 5346955153685887551
+    second: Kaylee_2_4
+  - first:
+      213: -6915735304805896446
+    second: Kaylee_2_5
+  - first:
+      213: -8271361577859680454
+    second: Kaylee_2_6
+  - first:
+      213: -6311539192885831556
+    second: Kaylee_2_7
+  - first:
+      213: -2700576031224294546
+    second: Kaylee_2_8
+  - first:
+      213: 2258613980273471191
+    second: Kaylee_2_9
+  - first:
+      213: 3862611574373973885
+    second: Kaylee_2_10
+  - first:
+      213: -7126740924420585150
+    second: Kaylee_2_11
+  - first:
+      213: -1392416238439424677
+    second: Kaylee_2_12
+  - first:
+      213: 931630684569806343
+    second: Kaylee_2_13
+  - first:
+      213: -5801966661716254622
+    second: Kaylee_2_14
+  - first:
+      213: -2584465620583332945
+    second: Kaylee_2_15
+  - first:
+      213: -4388730053361138100
+    second: Kaylee_2_16
+  - first:
+      213: 7488264466042508175
+    second: Kaylee_2_17
+  - first:
+      213: -752078546018567201
+    second: Kaylee_2_18
+  - first:
+      213: 1476574603626623453
+    second: Kaylee_2_19
+  - first:
+      213: -6059327929506784875
+    second: Kaylee_2_20
+  - first:
+      213: 3267032179917641113
+    second: Kaylee_2_21
+  - first:
+      213: -3276157960572657544
+    second: Kaylee_2_22
+  - first:
+      213: 7955690111227611446
+    second: Kaylee_2_23
+  - first:
+      213: 3699058545504222318
+    second: Kaylee_2_24
+  - first:
+      213: -5040955067133432959
+    second: Kaylee_2_25
+  - first:
+      213: 8046122929493218081
+    second: Kaylee_2_26
+  - first:
+      213: -8441153444202742547
+    second: Kaylee_2_27
+  - first:
+      213: -6557367531196594403
+    second: Kaylee_2_28
+  - first:
+      213: -7119956686390766483
+    second: Kaylee_2_29
+  - first:
+      213: 1024370839638586267
+    second: Kaylee_2_30
+  - first:
+      213: -267902181068007307
+    second: Kaylee_2_31
+  - first:
+      213: 4248308642079283752
+    second: Kaylee_2_32
+  - first:
+      213: -8190890115019519855
+    second: Kaylee_2_33
+  - first:
+      213: 3764399304132492530
+    second: Kaylee_2_34
+  - first:
+      213: -1667899968330939582
+    second: Kaylee_2_35
+  - first:
+      213: -8696050295663414189
+    second: Kaylee_2_36
+  - first:
+      213: -2034701761610413140
+    second: Kaylee_2_37
+  - first:
+      213: 4718490396596768307
+    second: Kaylee_2_38
+  - first:
+      213: -1662489255523245128
+    second: Kaylee_2_39
+  - first:
+      213: -4448723811929427634
+    second: Kaylee_2_40
+  - first:
+      213: 6442898182812192684
+    second: Kaylee_2_41
+  - first:
+      213: 3157986881813058026
+    second: Kaylee_2_42
+  - first:
+      213: 8342052788016298301
+    second: Kaylee_2_43
+  - first:
+      213: 6810995151671616831
+    second: Kaylee_2_44
+  - first:
+      213: 797202708579114100
+    second: Kaylee_2_45
+  - first:
+      213: 4258578668745772612
+    second: Kaylee_2_46
+  - first:
+      213: 1572599994018714527
+    second: Kaylee_2_47
+  - first:
+      213: 3932694721859559223
+    second: Kaylee_2_48
+  - first:
+      213: -5468069500514884484
+    second: Kaylee_2_49
+  - first:
+      213: 2639367384371905431
+    second: Kaylee_2_50
+  - first:
+      213: -676232453629416081
+    second: Kaylee_2_51
+  - first:
+      213: 4655465378495666616
+    second: Kaylee_2_52
+  - first:
+      213: -2365495675181117526
+    second: Kaylee_2_53
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Kaylee_2_25
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 2175
+        width: 227
+        height: 433
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18b6ec6131eea0ab0800000000000000
+      internalID: -5040955067133432959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaylee_2_26
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 2207
+        width: 413
+        height: 451
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12391979c2299af60800000000000000
+      internalID: 8046122929493218081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaylee_2_27
+      rect:
+        serializedVersion: 2
+        x: 1834
+        y: 2181
+        width: 330
+        height: 418
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: decfab76aaffada80800000000000000
+      internalID: -8441153444202742547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaylee_2_39
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1410
+        width: 446
+        height: 490
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b322a194d6ade8e0800000000000000
+      internalID: -1662489255523245128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaylee_2_40
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 1522
+        width: 1114
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e41ff1e6345f242c0800000000000000
+      internalID: -4448723811929427634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaylee_2_53
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 421
+        width: 2014
+        height: 524
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaf4b1367321c2fd0800000000000000
+      internalID: -2365495675181117526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c232bd4c604f9664aa1bcf412f600794
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Kaylee_2_0: 2991113099134674299
+      Kaylee_2_1: 169029277492420517
+      Kaylee_2_10: 3862611574373973885
+      Kaylee_2_11: -7126740924420585150
+      Kaylee_2_12: -1392416238439424677
+      Kaylee_2_13: 931630684569806343
+      Kaylee_2_14: -5801966661716254622
+      Kaylee_2_15: -2584465620583332945
+      Kaylee_2_16: -4388730053361138100
+      Kaylee_2_17: 7488264466042508175
+      Kaylee_2_18: -752078546018567201
+      Kaylee_2_19: 1476574603626623453
+      Kaylee_2_2: -3510875920924044232
+      Kaylee_2_20: -6059327929506784875
+      Kaylee_2_21: 3267032179917641113
+      Kaylee_2_22: -3276157960572657544
+      Kaylee_2_23: 7955690111227611446
+      Kaylee_2_24: 3699058545504222318
+      Kaylee_2_25: -5040955067133432959
+      Kaylee_2_26: 8046122929493218081
+      Kaylee_2_27: -8441153444202742547
+      Kaylee_2_28: -6557367531196594403
+      Kaylee_2_29: -7119956686390766483
+      Kaylee_2_3: -4230550882281531028
+      Kaylee_2_30: 1024370839638586267
+      Kaylee_2_31: -267902181068007307
+      Kaylee_2_32: 4248308642079283752
+      Kaylee_2_33: -8190890115019519855
+      Kaylee_2_34: 3764399304132492530
+      Kaylee_2_35: -1667899968330939582
+      Kaylee_2_36: -8696050295663414189
+      Kaylee_2_37: -2034701761610413140
+      Kaylee_2_38: 4718490396596768307
+      Kaylee_2_39: -1662489255523245128
+      Kaylee_2_4: 5346955153685887551
+      Kaylee_2_40: -4448723811929427634
+      Kaylee_2_41: 6442898182812192684
+      Kaylee_2_42: 3157986881813058026
+      Kaylee_2_43: 8342052788016298301
+      Kaylee_2_44: 6810995151671616831
+      Kaylee_2_45: 797202708579114100
+      Kaylee_2_46: 4258578668745772612
+      Kaylee_2_47: 1572599994018714527
+      Kaylee_2_48: 3932694721859559223
+      Kaylee_2_49: -5468069500514884484
+      Kaylee_2_5: -6915735304805896446
+      Kaylee_2_50: 2639367384371905431
+      Kaylee_2_51: -676232453629416081
+      Kaylee_2_52: 4655465378495666616
+      Kaylee_2_53: -2365495675181117526
+      Kaylee_2_6: -8271361577859680454
+      Kaylee_2_7: -6311539192885831556
+      Kaylee_2_8: -2700576031224294546
+      Kaylee_2_9: 2258613980273471191
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

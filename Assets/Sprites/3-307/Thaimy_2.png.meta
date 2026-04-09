@@ -1,0 +1,473 @@
+fileFormatVersion: 2
+guid: b921c9f8dc128b842bbc464458fb5333
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5731324898598962760
+    second: Thaimy_2_0
+  - first:
+      213: 1300365183880546128
+    second: Thaimy_2_1
+  - first:
+      213: 5839861787504968471
+    second: Thaimy_2_2
+  - first:
+      213: 6289821053482368408
+    second: Thaimy_2_3
+  - first:
+      213: -4471260065600886496
+    second: Thaimy_2_4
+  - first:
+      213: 1578331683445788234
+    second: Thaimy_2_5
+  - first:
+      213: 4599026518888479533
+    second: Thaimy_2_6
+  - first:
+      213: 8606520308219990415
+    second: Thaimy_2_7
+  - first:
+      213: 844661606259784139
+    second: Thaimy_2_8
+  - first:
+      213: 2010353509031299418
+    second: Thaimy_2_9
+  - first:
+      213: 2090015415369863121
+    second: Thaimy_2_10
+  - first:
+      213: -6679247712672337706
+    second: Thaimy_2_11
+  - first:
+      213: -6138969532558322347
+    second: Thaimy_2_12
+  - first:
+      213: -4311772957622151072
+    second: Thaimy_2_13
+  - first:
+      213: -8680553261914689542
+    second: Thaimy_2_14
+  - first:
+      213: 8677228550111341628
+    second: Thaimy_2_15
+  - first:
+      213: -2181099273865883590
+    second: Thaimy_2_16
+  - first:
+      213: -1564743657998175401
+    second: Thaimy_2_17
+  - first:
+      213: 7595459621298981747
+    second: Thaimy_2_18
+  - first:
+      213: -7260033808047630011
+    second: Thaimy_2_19
+  - first:
+      213: -2725054835989502016
+    second: Thaimy_2_20
+  - first:
+      213: 6669012817617854014
+    second: Thaimy_2_21
+  - first:
+      213: -6716856722165491977
+    second: Thaimy_2_22
+  - first:
+      213: -2995476747480831602
+    second: Thaimy_2_23
+  - first:
+      213: -5130709671792765288
+    second: Thaimy_2_24
+  - first:
+      213: 9127434195943761722
+    second: Thaimy_2_25
+  - first:
+      213: 1678434130619199048
+    second: Thaimy_2_26
+  - first:
+      213: -3928434305161406108
+    second: Thaimy_2_27
+  - first:
+      213: 4019796824910415054
+    second: Thaimy_2_28
+  - first:
+      213: 6868950417921123978
+    second: Thaimy_2_29
+  - first:
+      213: 6641952349048877747
+    second: Thaimy_2_30
+  - first:
+      213: 7420148829856929984
+    second: Thaimy_2_31
+  - first:
+      213: 3242785779446243543
+    second: Thaimy_2_32
+  - first:
+      213: 6147597270307711694
+    second: Thaimy_2_33
+  - first:
+      213: -3785382213489263065
+    second: Thaimy_2_34
+  - first:
+      213: 4719840832984701497
+    second: Thaimy_2_35
+  - first:
+      213: -911984880657162692
+    second: Thaimy_2_36
+  - first:
+      213: -1010741270548236135
+    second: Thaimy_2_37
+  - first:
+      213: 6116411878684346899
+    second: Thaimy_2_38
+  - first:
+      213: -2527976671463432821
+    second: Thaimy_2_39
+  - first:
+      213: -2591140221423999104
+    second: Thaimy_2_40
+  - first:
+      213: 9152157505254946496
+    second: Thaimy_2_41
+  - first:
+      213: 19003479881843198
+    second: Thaimy_2_42
+  - first:
+      213: 6282518192936664727
+    second: Thaimy_2_43
+  - first:
+      213: 2427393787159975068
+    second: Thaimy_2_44
+  - first:
+      213: 2158234929409238150
+    second: Thaimy_2_45
+  - first:
+      213: -2520919868049855262
+    second: Thaimy_2_46
+  - first:
+      213: 8178194655810026576
+    second: Thaimy_2_47
+  - first:
+      213: 7955199231812057828
+    second: Thaimy_2_48
+  - first:
+      213: -1979876060963228470
+    second: Thaimy_2_49
+  - first:
+      213: -5400775454830157746
+    second: Thaimy_2_50
+  - first:
+      213: 1052635674482676214
+    second: Thaimy_2_51
+  - first:
+      213: 8669261075962152759
+    second: Thaimy_2_52
+  - first:
+      213: -556898981916194857
+    second: Thaimy_2_53
+  - first:
+      213: -1957547419856182235
+    second: Thaimy_2_54
+  - first:
+      213: -6524469941314639262
+    second: Thaimy_2_55
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Thaimy_2_27
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 2196
+        width: 522
+        height: 529
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 469556d20d56b79c0800000000000000
+      internalID: -3928434305161406108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thaimy_2_28
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 2329
+        width: 318
+        height: 281
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec4470a1aef29c730800000000000000
+      internalID: 4019796824910415054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thaimy_2_29
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 2188
+        width: 366
+        height: 243
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a86a5f7030a635f50800000000000000
+      internalID: 6868950417921123978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thaimy_2_41
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1370
+        width: 367
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c67525c2cef20f70800000000000000
+      internalID: 9152157505254946496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thaimy_2_42
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 1371
+        width: 1020
+        height: 495
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef18ad37093834000800000000000000
+      internalID: 19003479881843198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thaimy_2_55
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 518
+        width: 1823
+        height: 393
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26a2a30182d6475a0800000000000000
+      internalID: -6524469941314639262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 8124fe539e7575e4782e70deeaf57ea9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Thaimy_2_0: 5731324898598962760
+      Thaimy_2_1: 1300365183880546128
+      Thaimy_2_10: 2090015415369863121
+      Thaimy_2_11: -6679247712672337706
+      Thaimy_2_12: -6138969532558322347
+      Thaimy_2_13: -4311772957622151072
+      Thaimy_2_14: -8680553261914689542
+      Thaimy_2_15: 8677228550111341628
+      Thaimy_2_16: -2181099273865883590
+      Thaimy_2_17: -1564743657998175401
+      Thaimy_2_18: 7595459621298981747
+      Thaimy_2_19: -7260033808047630011
+      Thaimy_2_2: 5839861787504968471
+      Thaimy_2_20: -2725054835989502016
+      Thaimy_2_21: 6669012817617854014
+      Thaimy_2_22: -6716856722165491977
+      Thaimy_2_23: -2995476747480831602
+      Thaimy_2_24: -5130709671792765288
+      Thaimy_2_25: 9127434195943761722
+      Thaimy_2_26: 1678434130619199048
+      Thaimy_2_27: -3928434305161406108
+      Thaimy_2_28: 4019796824910415054
+      Thaimy_2_29: 6868950417921123978
+      Thaimy_2_3: 6289821053482368408
+      Thaimy_2_30: 6641952349048877747
+      Thaimy_2_31: 7420148829856929984
+      Thaimy_2_32: 3242785779446243543
+      Thaimy_2_33: 6147597270307711694
+      Thaimy_2_34: -3785382213489263065
+      Thaimy_2_35: 4719840832984701497
+      Thaimy_2_36: -911984880657162692
+      Thaimy_2_37: -1010741270548236135
+      Thaimy_2_38: 6116411878684346899
+      Thaimy_2_39: -2527976671463432821
+      Thaimy_2_4: -4471260065600886496
+      Thaimy_2_40: -2591140221423999104
+      Thaimy_2_41: 9152157505254946496
+      Thaimy_2_42: 19003479881843198
+      Thaimy_2_43: 6282518192936664727
+      Thaimy_2_44: 2427393787159975068
+      Thaimy_2_45: 2158234929409238150
+      Thaimy_2_46: -2520919868049855262
+      Thaimy_2_47: 8178194655810026576
+      Thaimy_2_48: 7955199231812057828
+      Thaimy_2_49: -1979876060963228470
+      Thaimy_2_5: 1578331683445788234
+      Thaimy_2_50: -5400775454830157746
+      Thaimy_2_51: 1052635674482676214
+      Thaimy_2_52: 8669261075962152759
+      Thaimy_2_53: -556898981916194857
+      Thaimy_2_54: -1957547419856182235
+      Thaimy_2_55: -6524469941314639262
+      Thaimy_2_6: 4599026518888479533
+      Thaimy_2_7: 8606520308219990415
+      Thaimy_2_8: 844661606259784139
+      Thaimy_2_9: 2010353509031299418
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

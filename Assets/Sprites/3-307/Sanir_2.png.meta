@@ -1,0 +1,481 @@
+fileFormatVersion: 2
+guid: 8d2d7a242ddf870478eed9fe58bd0af9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6167125642105495206
+    second: Sanir_2_0
+  - first:
+      213: 7478860311487485593
+    second: Sanir_2_1
+  - first:
+      213: 7316428264578917665
+    second: Sanir_2_2
+  - first:
+      213: 7005550679504326430
+    second: Sanir_2_3
+  - first:
+      213: -4377094859899217765
+    second: Sanir_2_4
+  - first:
+      213: -5634767139830580167
+    second: Sanir_2_5
+  - first:
+      213: -1328625361958790719
+    second: Sanir_2_6
+  - first:
+      213: -2719470002186059477
+    second: Sanir_2_7
+  - first:
+      213: 1765395225498203595
+    second: Sanir_2_8
+  - first:
+      213: -4529613538480569617
+    second: Sanir_2_9
+  - first:
+      213: -7786486355276745511
+    second: Sanir_2_10
+  - first:
+      213: 8725942960204669783
+    second: Sanir_2_11
+  - first:
+      213: -3854789251237454555
+    second: Sanir_2_12
+  - first:
+      213: -1622939051819647840
+    second: Sanir_2_13
+  - first:
+      213: 2310145169585885824
+    second: Sanir_2_14
+  - first:
+      213: -3746063172611874810
+    second: Sanir_2_15
+  - first:
+      213: 4154386426494779196
+    second: Sanir_2_16
+  - first:
+      213: -1939120695053757579
+    second: Sanir_2_17
+  - first:
+      213: -1713133338295156947
+    second: Sanir_2_18
+  - first:
+      213: 850892734369525228
+    second: Sanir_2_19
+  - first:
+      213: 6371054068365485911
+    second: Sanir_2_20
+  - first:
+      213: 4704539020775538006
+    second: Sanir_2_21
+  - first:
+      213: 3920605880935563098
+    second: Sanir_2_22
+  - first:
+      213: -5495720814930695049
+    second: Sanir_2_23
+  - first:
+      213: -3516995748634046879
+    second: Sanir_2_24
+  - first:
+      213: -7164470496445545490
+    second: Sanir_2_25
+  - first:
+      213: -3251723367450721428
+    second: Sanir_2_26
+  - first:
+      213: 4085750222941958265
+    second: Sanir_2_27
+  - first:
+      213: -4100444938877092694
+    second: Sanir_2_28
+  - first:
+      213: 2789307997757841424
+    second: Sanir_2_29
+  - first:
+      213: 5306505103134451593
+    second: Sanir_2_30
+  - first:
+      213: -4487309394762864530
+    second: Sanir_2_31
+  - first:
+      213: -9084909429101913468
+    second: Sanir_2_32
+  - first:
+      213: -3675306218533766874
+    second: Sanir_2_33
+  - first:
+      213: -7881937752070929472
+    second: Sanir_2_34
+  - first:
+      213: 6986332856412639472
+    second: Sanir_2_35
+  - first:
+      213: 5750968651491671778
+    second: Sanir_2_36
+  - first:
+      213: -1644112167597490081
+    second: Sanir_2_37
+  - first:
+      213: -3073328188170662915
+    second: Sanir_2_38
+  - first:
+      213: -8906119490673768759
+    second: Sanir_2_39
+  - first:
+      213: -5564644091166204124
+    second: Sanir_2_40
+  - first:
+      213: -5319461343927397567
+    second: Sanir_2_41
+  - first:
+      213: 3856766002932519813
+    second: Sanir_2_42
+  - first:
+      213: -4169697881130813776
+    second: Sanir_2_43
+  - first:
+      213: 7483871949311209613
+    second: Sanir_2_44
+  - first:
+      213: 1076577535490667180
+    second: Sanir_2_45
+  - first:
+      213: 6892459253025565782
+    second: Sanir_2_46
+  - first:
+      213: 7750742457363671361
+    second: Sanir_2_47
+  - first:
+      213: 1006142674159801172
+    second: Sanir_2_48
+  - first:
+      213: 5847321550150971285
+    second: Sanir_2_49
+  - first:
+      213: -1040963525307755145
+    second: Sanir_2_50
+  - first:
+      213: 688473404403095635
+    second: Sanir_2_51
+  - first:
+      213: 2453761786607306683
+    second: Sanir_2_52
+  - first:
+      213: 9212621014959863341
+    second: Sanir_2_53
+  - first:
+      213: -4016945164715593435
+    second: Sanir_2_54
+  - first:
+      213: 4162463602963592284
+    second: Sanir_2_55
+  - first:
+      213: -3577728329405322041
+    second: Sanir_2_56
+  - first:
+      213: 7421224606676377379
+    second: Sanir_2_57
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sanir_2_29
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 2256
+        width: 319
+        height: 419
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 010238778dc95b620800000000000000
+      internalID: 2789307997757841424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sanir_2_30
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 2356
+        width: 255
+        height: 246
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9876027b64e74a940800000000000000
+      internalID: 5306505103134451593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sanir_2_31
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 2286
+        width: 235
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e68e2e751efd9b1c0800000000000000
+      internalID: -4487309394762864530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sanir_2_43
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1384
+        width: 356
+        height: 399
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b6bf7e7ed14226c0800000000000000
+      internalID: -4169697881130813776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sanir_2_44
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 1383
+        width: 1243
+        height: 526
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d80743bf2ed0cd760800000000000000
+      internalID: 7483871949311209613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sanir_2_57
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 433
+        width: 1995
+        height: 382
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32f555fd57c7df660800000000000000
+      internalID: 7421224606676377379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 638e6fd41a66d9f4a99e0ee6c46fa3ed
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Sanir_2_0: -6167125642105495206
+      Sanir_2_1: 7478860311487485593
+      Sanir_2_10: -7786486355276745511
+      Sanir_2_11: 8725942960204669783
+      Sanir_2_12: -3854789251237454555
+      Sanir_2_13: -1622939051819647840
+      Sanir_2_14: 2310145169585885824
+      Sanir_2_15: -3746063172611874810
+      Sanir_2_16: 4154386426494779196
+      Sanir_2_17: -1939120695053757579
+      Sanir_2_18: -1713133338295156947
+      Sanir_2_19: 850892734369525228
+      Sanir_2_2: 7316428264578917665
+      Sanir_2_20: 6371054068365485911
+      Sanir_2_21: 4704539020775538006
+      Sanir_2_22: 3920605880935563098
+      Sanir_2_23: -5495720814930695049
+      Sanir_2_24: -3516995748634046879
+      Sanir_2_25: -7164470496445545490
+      Sanir_2_26: -3251723367450721428
+      Sanir_2_27: 4085750222941958265
+      Sanir_2_28: -4100444938877092694
+      Sanir_2_29: 2789307997757841424
+      Sanir_2_3: 7005550679504326430
+      Sanir_2_30: 5306505103134451593
+      Sanir_2_31: -4487309394762864530
+      Sanir_2_32: -9084909429101913468
+      Sanir_2_33: -3675306218533766874
+      Sanir_2_34: -7881937752070929472
+      Sanir_2_35: 6986332856412639472
+      Sanir_2_36: 5750968651491671778
+      Sanir_2_37: -1644112167597490081
+      Sanir_2_38: -3073328188170662915
+      Sanir_2_39: -8906119490673768759
+      Sanir_2_4: -4377094859899217765
+      Sanir_2_40: -5564644091166204124
+      Sanir_2_41: -5319461343927397567
+      Sanir_2_42: 3856766002932519813
+      Sanir_2_43: -4169697881130813776
+      Sanir_2_44: 7483871949311209613
+      Sanir_2_45: 1076577535490667180
+      Sanir_2_46: 6892459253025565782
+      Sanir_2_47: 7750742457363671361
+      Sanir_2_48: 1006142674159801172
+      Sanir_2_49: 5847321550150971285
+      Sanir_2_5: -5634767139830580167
+      Sanir_2_50: -1040963525307755145
+      Sanir_2_51: 688473404403095635
+      Sanir_2_52: 2453761786607306683
+      Sanir_2_53: 9212621014959863341
+      Sanir_2_54: -4016945164715593435
+      Sanir_2_55: 4162463602963592284
+      Sanir_2_56: -3577728329405322041
+      Sanir_2_57: 7421224606676377379
+      Sanir_2_6: -1328625361958790719
+      Sanir_2_7: -2719470002186059477
+      Sanir_2_8: 1765395225498203595
+      Sanir_2_9: -4529613538480569617
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

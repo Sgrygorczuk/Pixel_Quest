@@ -1,0 +1,477 @@
+fileFormatVersion: 2
+guid: f31a92fd48527164cbf064598e98543a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6989799960206938283
+    second: Miguel_2_0
+  - first:
+      213: 9113347609827644792
+    second: Miguel_2_1
+  - first:
+      213: -7502672231505147080
+    second: Miguel_2_2
+  - first:
+      213: -4716038575614923898
+    second: Miguel_2_3
+  - first:
+      213: -4080667567505935899
+    second: Miguel_2_4
+  - first:
+      213: -5487549667301526725
+    second: Miguel_2_5
+  - first:
+      213: 6261816625687353315
+    second: Miguel_2_6
+  - first:
+      213: -8463659419236043194
+    second: Miguel_2_7
+  - first:
+      213: -8207177345666869336
+    second: Miguel_2_8
+  - first:
+      213: 2090821198595313643
+    second: Miguel_2_9
+  - first:
+      213: 429352989297563747
+    second: Miguel_2_10
+  - first:
+      213: 7450299769422918794
+    second: Miguel_2_11
+  - first:
+      213: -569944441562141765
+    second: Miguel_2_12
+  - first:
+      213: -2633985537511106528
+    second: Miguel_2_13
+  - first:
+      213: 7209458301943955185
+    second: Miguel_2_14
+  - first:
+      213: -6120263447116260213
+    second: Miguel_2_15
+  - first:
+      213: -280280081043809348
+    second: Miguel_2_16
+  - first:
+      213: -8724675893104211601
+    second: Miguel_2_17
+  - first:
+      213: -8616711574054345625
+    second: Miguel_2_18
+  - first:
+      213: -5232845489260399584
+    second: Miguel_2_19
+  - first:
+      213: 2855897554753384310
+    second: Miguel_2_20
+  - first:
+      213: -4456987082896191465
+    second: Miguel_2_21
+  - first:
+      213: -5430118862697756698
+    second: Miguel_2_22
+  - first:
+      213: -8278316612672148500
+    second: Miguel_2_23
+  - first:
+      213: 833012799824631068
+    second: Miguel_2_24
+  - first:
+      213: -5914742000115581019
+    second: Miguel_2_25
+  - first:
+      213: -3684178657151350959
+    second: Miguel_2_26
+  - first:
+      213: -9033483452328923750
+    second: Miguel_2_27
+  - first:
+      213: 1637325548295470629
+    second: Miguel_2_28
+  - first:
+      213: -6868744309127456729
+    second: Miguel_2_29
+  - first:
+      213: 1161607864166304136
+    second: Miguel_2_30
+  - first:
+      213: 5086728024713208835
+    second: Miguel_2_31
+  - first:
+      213: -2929019822493816058
+    second: Miguel_2_32
+  - first:
+      213: -581515252310926850
+    second: Miguel_2_33
+  - first:
+      213: 9059599491725769515
+    second: Miguel_2_34
+  - first:
+      213: -799104375088793188
+    second: Miguel_2_35
+  - first:
+      213: -7651134607874809495
+    second: Miguel_2_36
+  - first:
+      213: -8321590568739225488
+    second: Miguel_2_37
+  - first:
+      213: 7725136679292740689
+    second: Miguel_2_38
+  - first:
+      213: 6158837703281580914
+    second: Miguel_2_39
+  - first:
+      213: -2948282342270918537
+    second: Miguel_2_40
+  - first:
+      213: -7687590919253547072
+    second: Miguel_2_41
+  - first:
+      213: -7617105125207368728
+    second: Miguel_2_42
+  - first:
+      213: 3367019747319868531
+    second: Miguel_2_43
+  - first:
+      213: 901826149064352244
+    second: Miguel_2_44
+  - first:
+      213: -6958549970220332783
+    second: Miguel_2_45
+  - first:
+      213: -878828653689510335
+    second: Miguel_2_46
+  - first:
+      213: 1180139416255070427
+    second: Miguel_2_47
+  - first:
+      213: -2119004365515172941
+    second: Miguel_2_48
+  - first:
+      213: 1783084600774429730
+    second: Miguel_2_49
+  - first:
+      213: 9116904168868237254
+    second: Miguel_2_50
+  - first:
+      213: 1233759110056214529
+    second: Miguel_2_51
+  - first:
+      213: -4361495290276974768
+    second: Miguel_2_52
+  - first:
+      213: 2232039186081522866
+    second: Miguel_2_53
+  - first:
+      213: -8101693852717812805
+    second: Miguel_2_54
+  - first:
+      213: 1091295355758724270
+    second: Miguel_2_55
+  - first:
+      213: -5603471051431896787
+    second: Miguel_2_56
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Miguel_2_28
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 2204
+        width: 407
+        height: 503
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52eb2d749e2f8b610800000000000000
+      internalID: 1637325548295470629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miguel_2_29
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 2211
+        width: 398
+        height: 509
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 728d87961715da0a0800000000000000
+      internalID: -6868744309127456729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miguel_2_30
+      rect:
+        serializedVersion: 2
+        x: 1828
+        y: 2185
+        width: 427
+        height: 530
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 889ceefa23cde1010800000000000000
+      internalID: 1161607864166304136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miguel_2_41
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1380
+        width: 332
+        height: 457
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c7af5f1ac0305590800000000000000
+      internalID: -7687590919253547072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miguel_2_42
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 1508
+        width: 1226
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eb153bee3b9a4690800000000000000
+      internalID: -7617105125207368728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miguel_2_55
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 433
+        width: 2003
+        height: 513
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea44809185f052f00800000000000000
+      internalID: 1091295355758724270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 04a2a8c158b936b41ac95150a31abda6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Miguel_2_0: -6989799960206938283
+      Miguel_2_1: 9113347609827644792
+      Miguel_2_10: 429352989297563747
+      Miguel_2_11: 7450299769422918794
+      Miguel_2_12: -569944441562141765
+      Miguel_2_13: -2633985537511106528
+      Miguel_2_14: 7209458301943955185
+      Miguel_2_15: -6120263447116260213
+      Miguel_2_16: -280280081043809348
+      Miguel_2_17: -8724675893104211601
+      Miguel_2_18: -8616711574054345625
+      Miguel_2_19: -5232845489260399584
+      Miguel_2_2: -7502672231505147080
+      Miguel_2_20: 2855897554753384310
+      Miguel_2_21: -4456987082896191465
+      Miguel_2_22: -5430118862697756698
+      Miguel_2_23: -8278316612672148500
+      Miguel_2_24: 833012799824631068
+      Miguel_2_25: -5914742000115581019
+      Miguel_2_26: -3684178657151350959
+      Miguel_2_27: -9033483452328923750
+      Miguel_2_28: 1637325548295470629
+      Miguel_2_29: -6868744309127456729
+      Miguel_2_3: -4716038575614923898
+      Miguel_2_30: 1161607864166304136
+      Miguel_2_31: 5086728024713208835
+      Miguel_2_32: -2929019822493816058
+      Miguel_2_33: -581515252310926850
+      Miguel_2_34: 9059599491725769515
+      Miguel_2_35: -799104375088793188
+      Miguel_2_36: -7651134607874809495
+      Miguel_2_37: -8321590568739225488
+      Miguel_2_38: 7725136679292740689
+      Miguel_2_39: 6158837703281580914
+      Miguel_2_4: -4080667567505935899
+      Miguel_2_40: -2948282342270918537
+      Miguel_2_41: -7687590919253547072
+      Miguel_2_42: -7617105125207368728
+      Miguel_2_43: 3367019747319868531
+      Miguel_2_44: 901826149064352244
+      Miguel_2_45: -6958549970220332783
+      Miguel_2_46: -878828653689510335
+      Miguel_2_47: 1180139416255070427
+      Miguel_2_48: -2119004365515172941
+      Miguel_2_49: 1783084600774429730
+      Miguel_2_5: -5487549667301526725
+      Miguel_2_50: 9116904168868237254
+      Miguel_2_51: 1233759110056214529
+      Miguel_2_52: -4361495290276974768
+      Miguel_2_53: 2232039186081522866
+      Miguel_2_54: -8101693852717812805
+      Miguel_2_55: 1091295355758724270
+      Miguel_2_56: -5603471051431896787
+      Miguel_2_6: 6261816625687353315
+      Miguel_2_7: -8463659419236043194
+      Miguel_2_8: -8207177345666869336
+      Miguel_2_9: 2090821198595313643
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

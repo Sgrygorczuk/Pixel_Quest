@@ -1,0 +1,1599 @@
+fileFormatVersion: 2
+guid: 7d3460a618c9fed46adeb97195c3b634
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1642543686065805298
+    second: Melody_2_0
+  - first:
+      213: 1999029688095421649
+    second: Melody_2_1
+  - first:
+      213: -2179902923800908058
+    second: Melody_2_2
+  - first:
+      213: 7264755155347964137
+    second: Melody_2_3
+  - first:
+      213: -5617454372896828346
+    second: Melody_2_4
+  - first:
+      213: 7544693909390671270
+    second: Melody_2_5
+  - first:
+      213: -1953582780619734527
+    second: Melody_2_6
+  - first:
+      213: -2400733605935651025
+    second: Melody_2_7
+  - first:
+      213: -6463442609411340430
+    second: Melody_2_8
+  - first:
+      213: 6279827920788803282
+    second: Melody_2_9
+  - first:
+      213: 1614013632551097274
+    second: Melody_2_10
+  - first:
+      213: -7243117057408652520
+    second: Melody_2_11
+  - first:
+      213: 5460943637027368620
+    second: Melody_2_12
+  - first:
+      213: -2633523909973022630
+    second: Melody_2_13
+  - first:
+      213: -5227805204749291211
+    second: Melody_2_14
+  - first:
+      213: -4478991426532537517
+    second: Melody_2_15
+  - first:
+      213: 7031875695193496664
+    second: Melody_2_16
+  - first:
+      213: 4217009660347386291
+    second: Melody_2_17
+  - first:
+      213: 505446248667873750
+    second: Melody_2_18
+  - first:
+      213: 1344427039345503007
+    second: Melody_2_19
+  - first:
+      213: -4547614752169295099
+    second: Melody_2_20
+  - first:
+      213: 5068192925732642481
+    second: Melody_2_21
+  - first:
+      213: -3925962270069983985
+    second: Melody_2_22
+  - first:
+      213: 1519698610335944343
+    second: Melody_2_23
+  - first:
+      213: 1712548895506650457
+    second: Melody_2_24
+  - first:
+      213: -8509768683193567215
+    second: Melody_2_25
+  - first:
+      213: -5008274835969177391
+    second: Melody_2_26
+  - first:
+      213: -2824949857426178859
+    second: Melody_2_27
+  - first:
+      213: -4278860142990647118
+    second: Melody_2_28
+  - first:
+      213: 5227283408403244251
+    second: Melody_2_29
+  - first:
+      213: -2819838026989696738
+    second: Melody_2_30
+  - first:
+      213: 9002900709536910742
+    second: Melody_2_31
+  - first:
+      213: -9188183785527394112
+    second: Melody_2_32
+  - first:
+      213: 255960704007716546
+    second: Melody_2_33
+  - first:
+      213: -7272096255491632950
+    second: Melody_2_34
+  - first:
+      213: -1126751437328277935
+    second: Melody_2_35
+  - first:
+      213: -3592262343910464819
+    second: Melody_2_36
+  - first:
+      213: -9202906642677677446
+    second: Melody_2_37
+  - first:
+      213: -6510894915143510842
+    second: Melody_2_38
+  - first:
+      213: -4582798389888370696
+    second: Melody_2_39
+  - first:
+      213: 4411806752236540529
+    second: Melody_2_40
+  - first:
+      213: -5563691266906452973
+    second: Melody_2_41
+  - first:
+      213: 807109260039529928
+    second: Melody_2_42
+  - first:
+      213: -3258729841928877877
+    second: Melody_2_43
+  - first:
+      213: 3103610395235373780
+    second: Melody_2_44
+  - first:
+      213: -3157092226176146232
+    second: Melody_2_45
+  - first:
+      213: 6623701505972733377
+    second: Melody_2_46
+  - first:
+      213: 7051402222557847874
+    second: Melody_2_47
+  - first:
+      213: -7556803713514056983
+    second: Melody_2_48
+  - first:
+      213: -2907981776453656679
+    second: Melody_2_49
+  - first:
+      213: 3343344666388540908
+    second: Melody_2_50
+  - first:
+      213: -8738265470626439653
+    second: Melody_2_51
+  - first:
+      213: -6719864293702089075
+    second: Melody_2_52
+  - first:
+      213: -9131438275464034731
+    second: Melody_2_53
+  - first:
+      213: -8080810029442432964
+    second: Melody_2_54
+  - first:
+      213: 9036031199327688341
+    second: Melody_2_55
+  - first:
+      213: 7312273970076911062
+    second: Melody_2_56
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Melody_2_0
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 3069
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f75308a7cc7bc610800000000000000
+      internalID: 1642543686065805298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melody_2_1
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 3068
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d43366f8eafdbb10800000000000000
+      internalID: 1999029688095421649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melody_2_2
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 3068
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eee20627dd6fb1e0800000000000000
+      internalID: -2179902923800908058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melody_2_3
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 3069
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e004bec25891d460800000000000000
+      internalID: 7264755155347964137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melody_2_4
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 3038
+        width: 730
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6441589a20bca02b0800000000000000
+      internalID: -5617454372896828346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melody_2_5
+      rect:
+        serializedVersion: 2
+        x: 1861
+        y: 3072
+        width: 93
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6adb848132324b860800000000000000
+      internalID: 7544693909390671270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melody_2_6
+      rect:
+        serializedVersion: 2
+        x: 1958
+        y: 3065
+        width: 203
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10247d1cfca73e4e0800000000000000
+      internalID: -1953582780619734527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melody_2_7
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 2862
+        width: 67
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f27ecd94181eeaed0800000000000000
+      internalID: -2400733605935651025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melody_2_8
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 2862
+        width: 18
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 277c9e7013d3d46a0800000000000000
+      internalID: -6463442609411340430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melody_2_9
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 2862
+        width: 78
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2de4235d83e662750800000000000000
+      internalID: 6279827920788803282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melody_2_10
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 2934
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab398dee8d0266610800000000000000
+      internalID: 1614013632551097274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melody_2_11
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 2863
+        width: 83
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81ba59679674b7b90800000000000000
+      internalID: -7243117057408652520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melody_2_12
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 2865
+        width: 58
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cae2277fd4b29cb40800000000000000
+      internalID: 5460943637027368620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melody_2_13
+      rect:
+        serializedVersion: 2
+        x: 1912
+        y: 2865
+        width: 36
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a586f86f4f7d37bd0800000000000000
+      internalID: -2633523909973022630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melody_2_14
+      rect:
+        serializedVersion: 2
+        x: 2066
+        y: 2866
+        width: 18
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 531faf74dda1377b0800000000000000
+      internalID: -5227805204749291211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melody_2_15
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 2862
+        width: 62
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35b028d370d67d1c0800000000000000
+      internalID: -4478991426532537517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melody_2_16
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 2840
+        width: 58
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85c16b430bd369160800000000000000
+      internalID: 7031875695193496664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melody_2_17
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 2862
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b9856381f3d58a30800000000000000
+      internalID: 4217009660347386291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melody_2_18
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 2863
+        width: 39
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d107e86fa4b30700800000000000000
+      internalID: 505446248667873750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melody_2_19
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 2863
+        width: 61
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1b6e9ae44d58a210800000000000000
+      internalID: 1344427039345503007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melody_2_20
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 2865
+        width: 19
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5038f992a70a3e0c0800000000000000
+      internalID: -4547614752169295099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melody_2_21
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 2865
+        width: 55
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1be117f0d96d55640800000000000000
+      internalID: 5068192925732642481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melody_2_22
+      rect:
+        serializedVersion: 2
+        x: 1859
+        y: 2865
+        width: 55
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0574e2bd1e2489c0800000000000000
+      internalID: -3925962270069983985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melody_2_23
+      rect:
+        serializedVersion: 2
+        x: 1946
+        y: 2865
+        width: 61
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79e8aba95dd071510800000000000000
+      internalID: 1519698610335944343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melody_2_24
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 2865
+        width: 58
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9555921a52234c710800000000000000
+      internalID: 1712548895506650457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melody_2_25
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 2866
+        width: 61
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 118f085287a37e980800000000000000
+      internalID: -8509768683193567215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melody_2_26
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 2211
+        width: 581
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d8878852980f7ab0800000000000000
+      internalID: -5008274835969177391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melody_2_27
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 2218
+        width: 583
+        height: 575
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dc72d76213cbc8d0800000000000000
+      internalID: -2824949857426178859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melody_2_28
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 2216
+        width: 581
+        height: 577
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b0277dce5f6e94c0800000000000000
+      internalID: -4278860142990647118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melody_2_29
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 2005
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd42b2a809a0b8840800000000000000
+      internalID: 5227283408403244251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melody_2_30
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 2005
+        width: 62
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e19042d214cedd8d0800000000000000
+      internalID: -2819838026989696738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melody_2_31
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 2005
+        width: 59
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69d4f04fe7ab0fc70800000000000000
+      internalID: 9002900709536910742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melody_2_32
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 2006
+        width: 18
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c0c2a437830d7080800000000000000
+      internalID: -9188183785527394112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melody_2_33
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 2007
+        width: 67
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ceb6d677ea5d8300800000000000000
+      internalID: 255960704007716546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melody_2_34
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 2007
+        width: 19
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac019fe1cf2541b90800000000000000
+      internalID: -7272096255491632950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melody_2_35
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 2007
+        width: 60
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15e13eb9989fc50f0800000000000000
+      internalID: -1126751437328277935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melody_2_36
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 2007
+        width: 71
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc2643b4e68b52ec0800000000000000
+      internalID: -3592262343910464819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melody_2_37
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 2007
+        width: 62
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a724d16ea25b84080800000000000000
+      internalID: -9202906642677677446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melody_2_38
+      rect:
+        serializedVersion: 2
+        x: 1753
+        y: 2009
+        width: 39
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c459f42297a4a5a0800000000000000
+      internalID: -6510894915143510842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melody_2_39
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 2009
+        width: 88
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f7b8752521a660c0800000000000000
+      internalID: -4582798389888370696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melody_2_40
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1392
+        width: 584
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1729abccdd2e93d30800000000000000
+      internalID: 4411806752236540529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melody_2_41
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 1395
+        width: 1303
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31c091c354cc9c2b0800000000000000
+      internalID: -5563691266906452973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melody_2_42
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 1144
+        width: 67
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c5a593889d633b00800000000000000
+      internalID: 807109260039529928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melody_2_43
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 1144
+        width: 61
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc84dd8697aa6c2d0800000000000000
+      internalID: -3258729841928877877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melody_2_44
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1143
+        width: 58
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d2d639f53d321b20800000000000000
+      internalID: 3103610395235373780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melody_2_45
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1144
+        width: 37
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c4af97e851cf24d0800000000000000
+      internalID: -3157092226176146232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melody_2_46
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 1144
+        width: 57
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c589b10d6d1ceb50800000000000000
+      internalID: 6623701505972733377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melody_2_47
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 1144
+        width: 61
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 241e5f326fc9bd160800000000000000
+      internalID: 7051402222557847874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melody_2_48
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 1144
+        width: 38
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e254aa6f07d02790800000000000000
+      internalID: -7556803713514056983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melody_2_49
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 1144
+        width: 139
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99f9b214bf5c4a7d0800000000000000
+      internalID: -2907981776453656679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melody_2_50
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 1144
+        width: 60
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ced29c1a242f56e20800000000000000
+      internalID: 3343344666388540908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melody_2_51
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 1145
+        width: 19
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1edf3e0ad17bb680800000000000000
+      internalID: -8738265470626439653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melody_2_52
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 1146
+        width: 19
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d864e0b370f3eb2a0800000000000000
+      internalID: -6719864293702089075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melody_2_53
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 1144
+        width: 53
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5568f86d44d964180800000000000000
+      internalID: -9131438275464034731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melody_2_54
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 438
+        width: 1020
+        height: 582
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c308ba997123bdf80800000000000000
+      internalID: -8080810029442432964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melody_2_55
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 487
+        width: 1477
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5961647308e666d70800000000000000
+      internalID: 9036031199327688341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melody_2_56
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 440
+        width: 408
+        height: 581
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d505c60f6a6a7560800000000000000
+      internalID: 7312273970076911062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Melody_2_0: 1642543686065805298
+      Melody_2_1: 1999029688095421649
+      Melody_2_10: 1614013632551097274
+      Melody_2_11: -7243117057408652520
+      Melody_2_12: 5460943637027368620
+      Melody_2_13: -2633523909973022630
+      Melody_2_14: -5227805204749291211
+      Melody_2_15: -4478991426532537517
+      Melody_2_16: 7031875695193496664
+      Melody_2_17: 4217009660347386291
+      Melody_2_18: 505446248667873750
+      Melody_2_19: 1344427039345503007
+      Melody_2_2: -2179902923800908058
+      Melody_2_20: -4547614752169295099
+      Melody_2_21: 5068192925732642481
+      Melody_2_22: -3925962270069983985
+      Melody_2_23: 1519698610335944343
+      Melody_2_24: 1712548895506650457
+      Melody_2_25: -8509768683193567215
+      Melody_2_26: -5008274835969177391
+      Melody_2_27: -2824949857426178859
+      Melody_2_28: -4278860142990647118
+      Melody_2_29: 5227283408403244251
+      Melody_2_3: 7264755155347964137
+      Melody_2_30: -2819838026989696738
+      Melody_2_31: 9002900709536910742
+      Melody_2_32: -9188183785527394112
+      Melody_2_33: 255960704007716546
+      Melody_2_34: -7272096255491632950
+      Melody_2_35: -1126751437328277935
+      Melody_2_36: -3592262343910464819
+      Melody_2_37: -9202906642677677446
+      Melody_2_38: -6510894915143510842
+      Melody_2_39: -4582798389888370696
+      Melody_2_4: -5617454372896828346
+      Melody_2_40: 4411806752236540529
+      Melody_2_41: -5563691266906452973
+      Melody_2_42: 807109260039529928
+      Melody_2_43: -3258729841928877877
+      Melody_2_44: 3103610395235373780
+      Melody_2_45: -3157092226176146232
+      Melody_2_46: 6623701505972733377
+      Melody_2_47: 7051402222557847874
+      Melody_2_48: -7556803713514056983
+      Melody_2_49: -2907981776453656679
+      Melody_2_5: 7544693909390671270
+      Melody_2_50: 3343344666388540908
+      Melody_2_51: -8738265470626439653
+      Melody_2_52: -6719864293702089075
+      Melody_2_53: -9131438275464034731
+      Melody_2_54: -8080810029442432964
+      Melody_2_55: 9036031199327688341
+      Melody_2_56: 7312273970076911062
+      Melody_2_6: -1953582780619734527
+      Melody_2_7: -2400733605935651025
+      Melody_2_8: -6463442609411340430
+      Melody_2_9: 6279827920788803282
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

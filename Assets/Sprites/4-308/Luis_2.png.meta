@@ -1,0 +1,1469 @@
+fileFormatVersion: 2
+guid: 89662080245a2f54286df4ebb3379429
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5481954720052561023
+    second: Luis_2_0
+  - first:
+      213: -3798257803275749070
+    second: Luis_2_1
+  - first:
+      213: -2715908309816318230
+    second: Luis_2_2
+  - first:
+      213: 2094802441659881298
+    second: Luis_2_3
+  - first:
+      213: 530927228348734511
+    second: Luis_2_4
+  - first:
+      213: -6523168197420974225
+    second: Luis_2_5
+  - first:
+      213: 6794738078220534194
+    second: Luis_2_6
+  - first:
+      213: -2173821779095039448
+    second: Luis_2_7
+  - first:
+      213: -4077958538275768323
+    second: Luis_2_8
+  - first:
+      213: -3416843102667537781
+    second: Luis_2_9
+  - first:
+      213: 7903365190323661453
+    second: Luis_2_10
+  - first:
+      213: -1633656153889100608
+    second: Luis_2_11
+  - first:
+      213: 9023303818901128734
+    second: Luis_2_12
+  - first:
+      213: -3227478961122068323
+    second: Luis_2_13
+  - first:
+      213: 2673205143360064279
+    second: Luis_2_14
+  - first:
+      213: 5051236246934682108
+    second: Luis_2_15
+  - first:
+      213: 1133016563063709446
+    second: Luis_2_16
+  - first:
+      213: -2202469242921807261
+    second: Luis_2_17
+  - first:
+      213: 1123994415185293080
+    second: Luis_2_18
+  - first:
+      213: 527416635184577433
+    second: Luis_2_19
+  - first:
+      213: -6765140196036477816
+    second: Luis_2_20
+  - first:
+      213: 713070393545565141
+    second: Luis_2_21
+  - first:
+      213: -5642062906657932489
+    second: Luis_2_22
+  - first:
+      213: -552746084293833774
+    second: Luis_2_23
+  - first:
+      213: 1993734165719160237
+    second: Luis_2_24
+  - first:
+      213: -511978182818380789
+    second: Luis_2_25
+  - first:
+      213: -4499695679938187895
+    second: Luis_2_26
+  - first:
+      213: -7517592419637616408
+    second: Luis_2_27
+  - first:
+      213: 8249175525513603554
+    second: Luis_2_28
+  - first:
+      213: 710892328478806548
+    second: Luis_2_29
+  - first:
+      213: -2124023529421961926
+    second: Luis_2_30
+  - first:
+      213: 5754715362540017613
+    second: Luis_2_31
+  - first:
+      213: -7165760262928794161
+    second: Luis_2_32
+  - first:
+      213: -6594133977906681032
+    second: Luis_2_33
+  - first:
+      213: 6054357337744550813
+    second: Luis_2_34
+  - first:
+      213: 7779061606791581009
+    second: Luis_2_35
+  - first:
+      213: 2797140570527717919
+    second: Luis_2_36
+  - first:
+      213: 4051198621184098138
+    second: Luis_2_37
+  - first:
+      213: -8813754677741286008
+    second: Luis_2_38
+  - first:
+      213: -1749445712353997192
+    second: Luis_2_39
+  - first:
+      213: -2601844436346948053
+    second: Luis_2_40
+  - first:
+      213: 2416617111408195618
+    second: Luis_2_41
+  - first:
+      213: -4987791255436507454
+    second: Luis_2_42
+  - first:
+      213: 3482561714658720979
+    second: Luis_2_43
+  - first:
+      213: 8143654062105855522
+    second: Luis_2_44
+  - first:
+      213: -2196159283822038972
+    second: Luis_2_45
+  - first:
+      213: 1458752393493860185
+    second: Luis_2_46
+  - first:
+      213: -7746271739535571571
+    second: Luis_2_47
+  - first:
+      213: 5421602787063783237
+    second: Luis_2_48
+  - first:
+      213: -8030942717802235221
+    second: Luis_2_49
+  - first:
+      213: -3905945100166762497
+    second: Luis_2_50
+  - first:
+      213: -5181116497192064674
+    second: Luis_2_51
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Luis_2_0
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 3010
+        width: 728
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f744283f5c0d31c40800000000000000
+      internalID: 5481954720052561023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luis_2_1
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 3105
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 239b466e6a0e94bc0800000000000000
+      internalID: -3798257803275749070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luis_2_2
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 2996
+        width: 237
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae6edde18c72f4ad0800000000000000
+      internalID: -2715908309816318230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luis_2_3
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 3017
+        width: 110
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25712c1d8bb321d10800000000000000
+      internalID: 2094802441659881298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luis_2_4
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 3014
+        width: 94
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2c1f4f408b3e5700800000000000000
+      internalID: 530927228348734511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luis_2_5
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 2813
+        width: 69
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6ff89ee51d0975a0800000000000000
+      internalID: -6523168197420974225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luis_2_6
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 2813
+        width: 19
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b1c7263842cb4e50800000000000000
+      internalID: 6794738078220534194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luis_2_7
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 2812
+        width: 61
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 822580cfb9805d1e0800000000000000
+      internalID: -2173821779095039448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luis_2_8
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 2793
+        width: 58
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df73d4db05e2867c0800000000000000
+      internalID: -4077958538275768323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luis_2_9
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 2813
+        width: 61
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8202442d4fe490d0800000000000000
+      internalID: -3416843102667537781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luis_2_10
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 2813
+        width: 34
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8aed6b44c46ead60800000000000000
+      internalID: 7903365190323661453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luis_2_11
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 2812
+        width: 78
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cc2f4e22661459e0800000000000000
+      internalID: -1633656153889100608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luis_2_12
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 2812
+        width: 62
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e16070a0407393d70800000000000000
+      internalID: 9023303818901128734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luis_2_13
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 2812
+        width: 19
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d98b54a1cf0b533d0800000000000000
+      internalID: -3227478961122068323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luis_2_14
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 2813
+        width: 56
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71b49b52ae1291520800000000000000
+      internalID: 2673205143360064279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luis_2_15
+      rect:
+        serializedVersion: 2
+        x: 1706
+        y: 2810
+        width: 84
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf97e1f9a98991640800000000000000
+      internalID: 5051236246934682108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luis_2_16
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 2810
+        width: 59
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60fdb06af8849bf00800000000000000
+      internalID: 1133016563063709446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luis_2_17
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 2810
+        width: 55
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3621cea84e14f61e0800000000000000
+      internalID: -2202469242921807261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luis_2_18
+      rect:
+        serializedVersion: 2
+        x: 1907
+        y: 2809
+        width: 38
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81f64a627fa399f00800000000000000
+      internalID: 1123994415185293080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luis_2_19
+      rect:
+        serializedVersion: 2
+        x: 1943
+        y: 2809
+        width: 61
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99bfec4a2a2c15700800000000000000
+      internalID: 527416635184577433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luis_2_20
+      rect:
+        serializedVersion: 2
+        x: 2005
+        y: 2809
+        width: 59
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88c778fb5d46d12a0800000000000000
+      internalID: -6765140196036477816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luis_2_21
+      rect:
+        serializedVersion: 2
+        x: 2064
+        y: 2809
+        width: 19
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d3a123beb555e900800000000000000
+      internalID: 713070393545565141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luis_2_22
+      rect:
+        serializedVersion: 2
+        x: 2087
+        y: 2809
+        width: 60
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73bfe38edad53b1b0800000000000000
+      internalID: -5642062906657932489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luis_2_23
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 2160
+        width: 583
+        height: 580
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2db8daa6d504458f0800000000000000
+      internalID: -552746084293833774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luis_2_24
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 2171
+        width: 581
+        height: 571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da5104419aa2bab10800000000000000
+      internalID: 1993734165719160237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luis_2_25
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 2157
+        width: 586
+        height: 583
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b044c582e8615e8f0800000000000000
+      internalID: -511978182818380789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luis_2_26
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1951
+        width: 82
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98dace79e9edd81c0800000000000000
+      internalID: -4499695679938187895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luis_2_27
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1951
+        width: 61
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e0a45536852ca790800000000000000
+      internalID: -7517592419637616408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luis_2_28
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 1951
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e9a5183f65fa7270800000000000000
+      internalID: 8249175525513603554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luis_2_29
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 1953
+        width: 18
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41297886ec89dd900800000000000000
+      internalID: 710892328478806548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luis_2_30
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 1953
+        width: 66
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a358b328ad3f582e0800000000000000
+      internalID: -2124023529421961926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luis_2_31
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 1951
+        width: 19
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc75ea7e12bdcdf40800000000000000
+      internalID: 5754715362540017613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luis_2_32
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 1950
+        width: 59
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcdf486b10b1e8c90800000000000000
+      internalID: -7165760262928794161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luis_2_33
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 1950
+        width: 72
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83be985951eec74a0800000000000000
+      internalID: -6594133977906681032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luis_2_34
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 1950
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9b2b8bdbe5650450800000000000000
+      internalID: 6054357337744550813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luis_2_35
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 1951
+        width: 39
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15d01bee057c4fb60800000000000000
+      internalID: 7779061606791581009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luis_2_36
+      rect:
+        serializedVersion: 2
+        x: 1785
+        y: 1950
+        width: 87
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1a532d678071d620800000000000000
+      internalID: 2797140570527717919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luis_2_37
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1339
+        width: 582
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5ffa3a8eafb83830800000000000000
+      internalID: 4051198621184098138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luis_2_38
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 1335
+        width: 1302
+        height: 598
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88d0bcf51d04fa580800000000000000
+      internalID: -8813754677741286008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luis_2_39
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 1088
+        width: 68
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87e4f41c468b8b7e0800000000000000
+      internalID: -1749445712353997192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luis_2_40
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 1087
+        width: 62
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b26b6b2354464ebd0800000000000000
+      internalID: -2601844436346948053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luis_2_41
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 1087
+        width: 58
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 228bd93857c898120800000000000000
+      internalID: 2416617111408195618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luis_2_42
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1087
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c648e5974ec7cab0800000000000000
+      internalID: -4987791255436507454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luis_2_43
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 1087
+        width: 57
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dcbb969d6b845030800000000000000
+      internalID: 3482561714658720979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luis_2_44
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 1087
+        width: 61
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2268c79f832140170800000000000000
+      internalID: 8143654062105855522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luis_2_45
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 1087
+        width: 39
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4407c9164cca581e0800000000000000
+      internalID: -2196159283822038972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luis_2_46
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 1087
+        width: 139
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95fc375b2978e3410800000000000000
+      internalID: 1458752393493860185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luis_2_47
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 1087
+        width: 58
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d85c557f4e6bf7490800000000000000
+      internalID: -7746271739535571571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luis_2_48
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 1087
+        width: 18
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54f543c82076d3b40800000000000000
+      internalID: 5421602787063783237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luis_2_49
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 1087
+        width: 17
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baa33edd52c5c8090800000000000000
+      internalID: -8030942717802235221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luis_2_50
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 1087
+        width: 53
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fffe16040ab4bc9c0800000000000000
+      internalID: -3905945100166762497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luis_2_51
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 386
+        width: 2063
+        height: 579
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5963fc1ff9f818b0800000000000000
+      internalID: -5181116497192064674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Luis_2_0: 5481954720052561023
+      Luis_2_1: -3798257803275749070
+      Luis_2_10: 7903365190323661453
+      Luis_2_11: -1633656153889100608
+      Luis_2_12: 9023303818901128734
+      Luis_2_13: -3227478961122068323
+      Luis_2_14: 2673205143360064279
+      Luis_2_15: 5051236246934682108
+      Luis_2_16: 1133016563063709446
+      Luis_2_17: -2202469242921807261
+      Luis_2_18: 1123994415185293080
+      Luis_2_19: 527416635184577433
+      Luis_2_2: -2715908309816318230
+      Luis_2_20: -6765140196036477816
+      Luis_2_21: 713070393545565141
+      Luis_2_22: -5642062906657932489
+      Luis_2_23: -552746084293833774
+      Luis_2_24: 1993734165719160237
+      Luis_2_25: -511978182818380789
+      Luis_2_26: -4499695679938187895
+      Luis_2_27: -7517592419637616408
+      Luis_2_28: 8249175525513603554
+      Luis_2_29: 710892328478806548
+      Luis_2_3: 2094802441659881298
+      Luis_2_30: -2124023529421961926
+      Luis_2_31: 5754715362540017613
+      Luis_2_32: -7165760262928794161
+      Luis_2_33: -6594133977906681032
+      Luis_2_34: 6054357337744550813
+      Luis_2_35: 7779061606791581009
+      Luis_2_36: 2797140570527717919
+      Luis_2_37: 4051198621184098138
+      Luis_2_38: -8813754677741286008
+      Luis_2_39: -1749445712353997192
+      Luis_2_4: 530927228348734511
+      Luis_2_40: -2601844436346948053
+      Luis_2_41: 2416617111408195618
+      Luis_2_42: -4987791255436507454
+      Luis_2_43: 3482561714658720979
+      Luis_2_44: 8143654062105855522
+      Luis_2_45: -2196159283822038972
+      Luis_2_46: 1458752393493860185
+      Luis_2_47: -7746271739535571571
+      Luis_2_48: 5421602787063783237
+      Luis_2_49: -8030942717802235221
+      Luis_2_5: -6523168197420974225
+      Luis_2_50: -3905945100166762497
+      Luis_2_51: -5181116497192064674
+      Luis_2_6: 6794738078220534194
+      Luis_2_7: -2173821779095039448
+      Luis_2_8: -4077958538275768323
+      Luis_2_9: -3416843102667537781
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

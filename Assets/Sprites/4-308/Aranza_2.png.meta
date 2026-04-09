@@ -1,0 +1,1599 @@
+fileFormatVersion: 2
+guid: f77f859dec2549e408c225bacdf02a7b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7652353556759937160
+    second: Aranza_2_0
+  - first:
+      213: -2214936797306794017
+    second: Aranza_2_1
+  - first:
+      213: -7522749379254864926
+    second: Aranza_2_2
+  - first:
+      213: 5350834506200653983
+    second: Aranza_2_3
+  - first:
+      213: 2304440331501871796
+    second: Aranza_2_4
+  - first:
+      213: -3630568101384255768
+    second: Aranza_2_5
+  - first:
+      213: -2511963367695002427
+    second: Aranza_2_6
+  - first:
+      213: 2903416007997632178
+    second: Aranza_2_7
+  - first:
+      213: 8636499990328450272
+    second: Aranza_2_8
+  - first:
+      213: 7475582109888633015
+    second: Aranza_2_9
+  - first:
+      213: -2124932487566345259
+    second: Aranza_2_10
+  - first:
+      213: 8626730189013229450
+    second: Aranza_2_11
+  - first:
+      213: -2714946092845927427
+    second: Aranza_2_12
+  - first:
+      213: 85166466471257245
+    second: Aranza_2_13
+  - first:
+      213: -8608247240335680191
+    second: Aranza_2_14
+  - first:
+      213: 6523792587590468669
+    second: Aranza_2_15
+  - first:
+      213: -7745165187466807736
+    second: Aranza_2_16
+  - first:
+      213: -6807676493400872056
+    second: Aranza_2_17
+  - first:
+      213: 5549312043712942454
+    second: Aranza_2_18
+  - first:
+      213: 9018094432701515164
+    second: Aranza_2_19
+  - first:
+      213: 1344451966848768136
+    second: Aranza_2_20
+  - first:
+      213: -4133986678023214181
+    second: Aranza_2_21
+  - first:
+      213: 4775747118386340743
+    second: Aranza_2_22
+  - first:
+      213: 4394045079475856329
+    second: Aranza_2_23
+  - first:
+      213: 1352769767421246302
+    second: Aranza_2_24
+  - first:
+      213: -7802842430055908525
+    second: Aranza_2_25
+  - first:
+      213: 6048368450637779425
+    second: Aranza_2_26
+  - first:
+      213: 1114468179720344719
+    second: Aranza_2_27
+  - first:
+      213: 6327780969243582881
+    second: Aranza_2_28
+  - first:
+      213: -4893887625158584939
+    second: Aranza_2_29
+  - first:
+      213: 8656884688683195283
+    second: Aranza_2_30
+  - first:
+      213: -7716850090058020343
+    second: Aranza_2_31
+  - first:
+      213: -5317073749940187516
+    second: Aranza_2_32
+  - first:
+      213: 3983947283112296235
+    second: Aranza_2_33
+  - first:
+      213: -7379261813572720967
+    second: Aranza_2_34
+  - first:
+      213: -1487034316503429070
+    second: Aranza_2_35
+  - first:
+      213: 8013526134660820777
+    second: Aranza_2_36
+  - first:
+      213: -5165138907891743450
+    second: Aranza_2_37
+  - first:
+      213: 5555766477302126383
+    second: Aranza_2_38
+  - first:
+      213: -6459827339323141954
+    second: Aranza_2_39
+  - first:
+      213: 6132459562478831826
+    second: Aranza_2_40
+  - first:
+      213: 5763688392080596340
+    second: Aranza_2_41
+  - first:
+      213: -1169700158209746160
+    second: Aranza_2_42
+  - first:
+      213: 7150184225240712030
+    second: Aranza_2_43
+  - first:
+      213: 7292502209069576033
+    second: Aranza_2_44
+  - first:
+      213: 1859674432620764138
+    second: Aranza_2_45
+  - first:
+      213: 817649377132928907
+    second: Aranza_2_46
+  - first:
+      213: 7818218357895119868
+    second: Aranza_2_47
+  - first:
+      213: -2641171028509440215
+    second: Aranza_2_48
+  - first:
+      213: 2826603139116909153
+    second: Aranza_2_49
+  - first:
+      213: 5853278788731845724
+    second: Aranza_2_50
+  - first:
+      213: 8005725319868468758
+    second: Aranza_2_51
+  - first:
+      213: -4455696350138904209
+    second: Aranza_2_52
+  - first:
+      213: -955579975557108088
+    second: Aranza_2_53
+  - first:
+      213: 6561104489726945490
+    second: Aranza_2_54
+  - first:
+      213: -4914425661167422774
+    second: Aranza_2_55
+  - first:
+      213: 7176044182853076878
+    second: Aranza_2_56
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Aranza_2_0
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 3067
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87f70a9ebf06dc590800000000000000
+      internalID: -7652353556759937160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aranza_2_1
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 3067
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdf4694d7b6f241e0800000000000000
+      internalID: -2214936797306794017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aranza_2_2
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 3067
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e3393bfb43d99790800000000000000
+      internalID: -7522749379254864926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aranza_2_3
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 3067
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f902ef922abf14a40800000000000000
+      internalID: 5350834506200653983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aranza_2_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 3060
+        width: 730
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b2a045a5440bff10800000000000000
+      internalID: 2304440331501871796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aranza_2_5
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 3072
+        width: 99
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e680202c81ad9dc0800000000000000
+      internalID: -3630568101384255768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aranza_2_6
+      rect:
+        serializedVersion: 2
+        x: 1962
+        y: 3064
+        width: 203
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c4deb340a6b32dd0800000000000000
+      internalID: -2511963367695002427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aranza_2_7
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 2861
+        width: 66
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bea1efe9710b4820800000000000000
+      internalID: 2903416007997632178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aranza_2_8
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 2860
+        width: 21
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ec113aabf20bd770800000000000000
+      internalID: 8636499990328450272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aranza_2_9
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 2862
+        width: 79
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b85d25525a9eb760800000000000000
+      internalID: 7475582109888633015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aranza_2_10
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 2934
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dbbbe23929b282e0800000000000000
+      internalID: -2124932487566345259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aranza_2_11
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 2864
+        width: 83
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f9549866d48b770800000000000000
+      internalID: 8626730189013229450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aranza_2_12
+      rect:
+        serializedVersion: 2
+        x: 1802
+        y: 2864
+        width: 59
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df37597b9e2925ad0800000000000000
+      internalID: -2714946092845927427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aranza_2_13
+      rect:
+        serializedVersion: 2
+        x: 1915
+        y: 2864
+        width: 37
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d946bc433729e2100800000000000000
+      internalID: 85166466471257245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aranza_2_14
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 2865
+        width: 18
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14d1e0d4ebc598880800000000000000
+      internalID: -8608247240335680191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aranza_2_15
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 2860
+        width: 62
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3408ab3bca298a50800000000000000
+      internalID: 6523792587590468669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aranza_2_16
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 2838
+        width: 58
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 846b1523c45a38490800000000000000
+      internalID: -7745165187466807736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aranza_2_17
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 2861
+        width: 62
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88b60114c464681a0800000000000000
+      internalID: -6807676493400872056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aranza_2_18
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 2862
+        width: 39
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6719e49f6ed130d40800000000000000
+      internalID: 5549312043712942454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aranza_2_19
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 2862
+        width: 61
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c950a1c4b15b62d70800000000000000
+      internalID: 9018094432701515164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aranza_2_20
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 2864
+        width: 18
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 888989dc0f378a210800000000000000
+      internalID: 1344451966848768136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aranza_2_21
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 2864
+        width: 57
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9baa36e40121a6c0800000000000000
+      internalID: -4133986678023214181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aranza_2_22
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 2864
+        width: 54
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 783638083bcd64240800000000000000
+      internalID: 4775747118386340743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aranza_2_23
+      rect:
+        serializedVersion: 2
+        x: 1951
+        y: 2864
+        width: 59
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c3263918b8cafc30800000000000000
+      internalID: 4394045079475856329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aranza_2_24
+      rect:
+        serializedVersion: 2
+        x: 2012
+        y: 2865
+        width: 58
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5bf70aafe006c210800000000000000
+      internalID: 1352769767421246302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aranza_2_25
+      rect:
+        serializedVersion: 2
+        x: 2093
+        y: 2865
+        width: 59
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35bfb2ea62cb6b390800000000000000
+      internalID: -7802842430055908525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aranza_2_26
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 2852
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e1d1fa6f0f10f350800000000000000
+      internalID: 6048368450637779425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aranza_2_27
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 2209
+        width: 585
+        height: 582
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8415bd97e2677f00800000000000000
+      internalID: 1114468179720344719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aranza_2_28
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 2217
+        width: 583
+        height: 577
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a1ad38f34bc0d750800000000000000
+      internalID: 6327780969243582881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aranza_2_29
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 2213
+        width: 585
+        height: 580
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5951eb3422b651cb0800000000000000
+      internalID: -4893887625158584939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aranza_2_30
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 2002
+        width: 81
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39bda7a12ce632870800000000000000
+      internalID: 8656884688683195283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aranza_2_31
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 2002
+        width: 62
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90a862d8abd38e490800000000000000
+      internalID: -7716850090058020343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aranza_2_32
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 2003
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48ec2427895f536b0800000000000000
+      internalID: -5317073749940187516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aranza_2_33
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 2004
+        width: 19
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2f7ac532f2d94730800000000000000
+      internalID: 3983947283112296235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aranza_2_34
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 2007
+        width: 67
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b6a4614a78979990800000000000000
+      internalID: -7379261813572720967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aranza_2_35
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 2007
+        width: 17
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2305ff3fa2efc5be0800000000000000
+      internalID: -1487034316503429070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aranza_2_36
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 2007
+        width: 60
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92f64cedf83c53f60800000000000000
+      internalID: 8013526134660820777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aranza_2_37
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 2007
+        width: 72
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6254093878db158b0800000000000000
+      internalID: -5165138907891743450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aranza_2_38
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 2007
+        width: 61
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f27dd96ec2c0a1d40800000000000000
+      internalID: 5555766477302126383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aranza_2_39
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 2008
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb09941b2451a56a0800000000000000
+      internalID: -6459827339323141954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aranza_2_40
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 2008
+        width: 87
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d88ffc1b7fda1550800000000000000
+      internalID: 6132459562478831826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aranza_2_41
+      rect:
+        serializedVersion: 2
+        x: 1796
+        y: 1992
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47d91062e0cbcff40800000000000000
+      internalID: 5763688392080596340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aranza_2_42
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1389
+        width: 586
+        height: 587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01b903847e364cfe0800000000000000
+      internalID: -1169700158209746160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aranza_2_43
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 1392
+        width: 1305
+        height: 589
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5303186bae8a3360800000000000000
+      internalID: 7150184225240712030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aranza_2_44
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 1143
+        width: 69
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16fe75f2f1c243560800000000000000
+      internalID: 7292502209069576033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aranza_2_45
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 1142
+        width: 60
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeb9c322b04eec910800000000000000
+      internalID: 1859674432620764138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aranza_2_46
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 1142
+        width: 59
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8fd3d2c6cfd85b00800000000000000
+      internalID: 817649377132928907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aranza_2_47
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 1144
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf3c6ce7c24ef7c60800000000000000
+      internalID: 7818218357895119868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aranza_2_48
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 1142
+        width: 58
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92744ae61fca85bd0800000000000000
+      internalID: -2641171028509440215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aranza_2_49
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 1143
+        width: 62
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 162411c349c1a3720800000000000000
+      internalID: 2826603139116909153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aranza_2_50
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 1144
+        width: 39
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5cb0bddb060b3150800000000000000
+      internalID: 5853278788731845724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aranza_2_51
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 1142
+        width: 141
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61e4c1423cc0a1f60800000000000000
+      internalID: 8005725319868468758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aranza_2_52
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 1144
+        width: 59
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6157fed6cf2a22c0800000000000000
+      internalID: -4455696350138904209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aranza_2_53
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 1145
+        width: 19
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88e217a33191db2f0800000000000000
+      internalID: -955579975557108088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aranza_2_54
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 1145
+        width: 19
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d8256c65c9bd0b50800000000000000
+      internalID: 6561104489726945490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aranza_2_55
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 1144
+        width: 53
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac23d0f16e37ccbb0800000000000000
+      internalID: -4914425661167422774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aranza_2_56
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 436
+        width: 2064
+        height: 588
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e87477bf92e669360800000000000000
+      internalID: 7176044182853076878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Aranza_2_0: -7652353556759937160
+      Aranza_2_1: -2214936797306794017
+      Aranza_2_10: -2124932487566345259
+      Aranza_2_11: 8626730189013229450
+      Aranza_2_12: -2714946092845927427
+      Aranza_2_13: 85166466471257245
+      Aranza_2_14: -8608247240335680191
+      Aranza_2_15: 6523792587590468669
+      Aranza_2_16: -7745165187466807736
+      Aranza_2_17: -6807676493400872056
+      Aranza_2_18: 5549312043712942454
+      Aranza_2_19: 9018094432701515164
+      Aranza_2_2: -7522749379254864926
+      Aranza_2_20: 1344451966848768136
+      Aranza_2_21: -4133986678023214181
+      Aranza_2_22: 4775747118386340743
+      Aranza_2_23: 4394045079475856329
+      Aranza_2_24: 1352769767421246302
+      Aranza_2_25: -7802842430055908525
+      Aranza_2_26: 6048368450637779425
+      Aranza_2_27: 1114468179720344719
+      Aranza_2_28: 6327780969243582881
+      Aranza_2_29: -4893887625158584939
+      Aranza_2_3: 5350834506200653983
+      Aranza_2_30: 8656884688683195283
+      Aranza_2_31: -7716850090058020343
+      Aranza_2_32: -5317073749940187516
+      Aranza_2_33: 3983947283112296235
+      Aranza_2_34: -7379261813572720967
+      Aranza_2_35: -1487034316503429070
+      Aranza_2_36: 8013526134660820777
+      Aranza_2_37: -5165138907891743450
+      Aranza_2_38: 5555766477302126383
+      Aranza_2_39: -6459827339323141954
+      Aranza_2_4: 2304440331501871796
+      Aranza_2_40: 6132459562478831826
+      Aranza_2_41: 5763688392080596340
+      Aranza_2_42: -1169700158209746160
+      Aranza_2_43: 7150184225240712030
+      Aranza_2_44: 7292502209069576033
+      Aranza_2_45: 1859674432620764138
+      Aranza_2_46: 817649377132928907
+      Aranza_2_47: 7818218357895119868
+      Aranza_2_48: -2641171028509440215
+      Aranza_2_49: 2826603139116909153
+      Aranza_2_5: -3630568101384255768
+      Aranza_2_50: 5853278788731845724
+      Aranza_2_51: 8005725319868468758
+      Aranza_2_52: -4455696350138904209
+      Aranza_2_53: -955579975557108088
+      Aranza_2_54: 6561104489726945490
+      Aranza_2_55: -4914425661167422774
+      Aranza_2_56: 7176044182853076878
+      Aranza_2_6: -2511963367695002427
+      Aranza_2_7: 2903416007997632178
+      Aranza_2_8: 8636499990328450272
+      Aranza_2_9: 7475582109888633015
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

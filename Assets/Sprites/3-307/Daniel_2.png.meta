@@ -1,0 +1,473 @@
+fileFormatVersion: 2
+guid: 7578dd3984b7659489946d4507f91a7d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9018871991060283129
+    second: Daniel_2_0
+  - first:
+      213: -8037004293239730952
+    second: Daniel_2_1
+  - first:
+      213: 947301872696132748
+    second: Daniel_2_2
+  - first:
+      213: -2879960135848505294
+    second: Daniel_2_3
+  - first:
+      213: -1866196390246018536
+    second: Daniel_2_4
+  - first:
+      213: 8455921884026817681
+    second: Daniel_2_5
+  - first:
+      213: 2674561334274811918
+    second: Daniel_2_6
+  - first:
+      213: 1795818910891097789
+    second: Daniel_2_7
+  - first:
+      213: 8991840356133685118
+    second: Daniel_2_8
+  - first:
+      213: -8086558568452296990
+    second: Daniel_2_9
+  - first:
+      213: 2778791641602849050
+    second: Daniel_2_10
+  - first:
+      213: -7787398572587482125
+    second: Daniel_2_11
+  - first:
+      213: 1000492751849128991
+    second: Daniel_2_12
+  - first:
+      213: -4762432250149357296
+    second: Daniel_2_13
+  - first:
+      213: 6861708765589380532
+    second: Daniel_2_14
+  - first:
+      213: 5065147245256918373
+    second: Daniel_2_15
+  - first:
+      213: -1326954026028154524
+    second: Daniel_2_16
+  - first:
+      213: 1212847855069279622
+    second: Daniel_2_17
+  - first:
+      213: 9188636068453701420
+    second: Daniel_2_18
+  - first:
+      213: 5016925477150055611
+    second: Daniel_2_19
+  - first:
+      213: 1361661848172063823
+    second: Daniel_2_20
+  - first:
+      213: -4956877861656899284
+    second: Daniel_2_21
+  - first:
+      213: -6244857777338204962
+    second: Daniel_2_22
+  - first:
+      213: -7087958074651994347
+    second: Daniel_2_23
+  - first:
+      213: 4622765644369097571
+    second: Daniel_2_24
+  - first:
+      213: -5553985440880895813
+    second: Daniel_2_25
+  - first:
+      213: 1232406887993478168
+    second: Daniel_2_26
+  - first:
+      213: -4623374822565304088
+    second: Daniel_2_27
+  - first:
+      213: -7123475418563916039
+    second: Daniel_2_28
+  - first:
+      213: -2412381052225718955
+    second: Daniel_2_29
+  - first:
+      213: 2096661442663845012
+    second: Daniel_2_30
+  - first:
+      213: 2762086499526572027
+    second: Daniel_2_31
+  - first:
+      213: -7681081066400126277
+    second: Daniel_2_32
+  - first:
+      213: 1244707594164215028
+    second: Daniel_2_33
+  - first:
+      213: -6144892686217226758
+    second: Daniel_2_34
+  - first:
+      213: -4266171141752327637
+    second: Daniel_2_35
+  - first:
+      213: 854882394738592135
+    second: Daniel_2_36
+  - first:
+      213: -1768531558816182600
+    second: Daniel_2_37
+  - first:
+      213: 2298933170733948777
+    second: Daniel_2_38
+  - first:
+      213: 2604134556245362997
+    second: Daniel_2_39
+  - first:
+      213: -7961821591354217646
+    second: Daniel_2_40
+  - first:
+      213: 4422034596970442078
+    second: Daniel_2_41
+  - first:
+      213: 3757265974687460972
+    second: Daniel_2_42
+  - first:
+      213: -2158401675589170608
+    second: Daniel_2_43
+  - first:
+      213: 3210144132357181778
+    second: Daniel_2_44
+  - first:
+      213: -8489938043368840164
+    second: Daniel_2_45
+  - first:
+      213: 8736966919235655917
+    second: Daniel_2_46
+  - first:
+      213: 745605850822463456
+    second: Daniel_2_47
+  - first:
+      213: 6467860380957478747
+    second: Daniel_2_48
+  - first:
+      213: -3778833209813095211
+    second: Daniel_2_49
+  - first:
+      213: -4645305169605670942
+    second: Daniel_2_50
+  - first:
+      213: 8435363294338970516
+    second: Daniel_2_51
+  - first:
+      213: -5746466825777981827
+    second: Daniel_2_52
+  - first:
+      213: 2654083893765060142
+    second: Daniel_2_53
+  - first:
+      213: -654204232572277312
+    second: Daniel_2_54
+  - first:
+      213: 3484969933300184103
+    second: Daniel_2_55
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Daniel_2_27
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 2203
+        width: 300
+        height: 490
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e8a285381976dfb0800000000000000
+      internalID: -4623374822565304088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daniel_2_28
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 2275
+        width: 318
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fe454e39d4542d90800000000000000
+      internalID: -7123475418563916039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daniel_2_29
+      rect:
+        serializedVersion: 2
+        x: 1779
+        y: 2205
+        width: 335
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 555f33fd630858ed0800000000000000
+      internalID: -2412381052225718955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daniel_2_41
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1386
+        width: 357
+        height: 529
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5d29e879093e5d30800000000000000
+      internalID: 4422034596970442078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daniel_2_42
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 1515
+        width: 921
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6e68e34f7d742430800000000000000
+      internalID: 3757265974687460972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daniel_2_55
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 423
+        width: 2018
+        height: 545
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 724364fa0b91d5030800000000000000
+      internalID: 3484969933300184103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 4106d9cbfec13c44882c92737a33dba9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Daniel_2_0: 9018871991060283129
+      Daniel_2_1: -8037004293239730952
+      Daniel_2_10: 2778791641602849050
+      Daniel_2_11: -7787398572587482125
+      Daniel_2_12: 1000492751849128991
+      Daniel_2_13: -4762432250149357296
+      Daniel_2_14: 6861708765589380532
+      Daniel_2_15: 5065147245256918373
+      Daniel_2_16: -1326954026028154524
+      Daniel_2_17: 1212847855069279622
+      Daniel_2_18: 9188636068453701420
+      Daniel_2_19: 5016925477150055611
+      Daniel_2_2: 947301872696132748
+      Daniel_2_20: 1361661848172063823
+      Daniel_2_21: -4956877861656899284
+      Daniel_2_22: -6244857777338204962
+      Daniel_2_23: -7087958074651994347
+      Daniel_2_24: 4622765644369097571
+      Daniel_2_25: -5553985440880895813
+      Daniel_2_26: 1232406887993478168
+      Daniel_2_27: -4623374822565304088
+      Daniel_2_28: -7123475418563916039
+      Daniel_2_29: -2412381052225718955
+      Daniel_2_3: -2879960135848505294
+      Daniel_2_30: 2096661442663845012
+      Daniel_2_31: 2762086499526572027
+      Daniel_2_32: -7681081066400126277
+      Daniel_2_33: 1244707594164215028
+      Daniel_2_34: -6144892686217226758
+      Daniel_2_35: -4266171141752327637
+      Daniel_2_36: 854882394738592135
+      Daniel_2_37: -1768531558816182600
+      Daniel_2_38: 2298933170733948777
+      Daniel_2_39: 2604134556245362997
+      Daniel_2_4: -1866196390246018536
+      Daniel_2_40: -7961821591354217646
+      Daniel_2_41: 4422034596970442078
+      Daniel_2_42: 3757265974687460972
+      Daniel_2_43: -2158401675589170608
+      Daniel_2_44: 3210144132357181778
+      Daniel_2_45: -8489938043368840164
+      Daniel_2_46: 8736966919235655917
+      Daniel_2_47: 745605850822463456
+      Daniel_2_48: 6467860380957478747
+      Daniel_2_49: -3778833209813095211
+      Daniel_2_5: 8455921884026817681
+      Daniel_2_50: -4645305169605670942
+      Daniel_2_51: 8435363294338970516
+      Daniel_2_52: -5746466825777981827
+      Daniel_2_53: 2654083893765060142
+      Daniel_2_54: -654204232572277312
+      Daniel_2_55: 3484969933300184103
+      Daniel_2_6: 2674561334274811918
+      Daniel_2_7: 1795818910891097789
+      Daniel_2_8: 8991840356133685118
+      Daniel_2_9: -8086558568452296990
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

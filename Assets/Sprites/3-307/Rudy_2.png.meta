@@ -1,0 +1,473 @@
+fileFormatVersion: 2
+guid: 268ec6a4682f6ed4982ba591a371a8b4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4167803575204411069
+    second: Rudy_2_0
+  - first:
+      213: 6061857664500884812
+    second: Rudy_2_1
+  - first:
+      213: -7595721493818256708
+    second: Rudy_2_2
+  - first:
+      213: -6289309961229351013
+    second: Rudy_2_3
+  - first:
+      213: 7140237148654041711
+    second: Rudy_2_4
+  - first:
+      213: 2479608963185061146
+    second: Rudy_2_5
+  - first:
+      213: 4925856018877707591
+    second: Rudy_2_6
+  - first:
+      213: 8355590883812243742
+    second: Rudy_2_7
+  - first:
+      213: 2157203405256912922
+    second: Rudy_2_8
+  - first:
+      213: 3101672011523620731
+    second: Rudy_2_9
+  - first:
+      213: -2045699873599616367
+    second: Rudy_2_10
+  - first:
+      213: -5210914221241935723
+    second: Rudy_2_11
+  - first:
+      213: -972628404885182729
+    second: Rudy_2_12
+  - first:
+      213: 2546009732277748877
+    second: Rudy_2_13
+  - first:
+      213: 668135334109888132
+    second: Rudy_2_14
+  - first:
+      213: 1188702540630689971
+    second: Rudy_2_15
+  - first:
+      213: 517379852765961617
+    second: Rudy_2_16
+  - first:
+      213: -3880609973417314975
+    second: Rudy_2_17
+  - first:
+      213: -5081867201876049737
+    second: Rudy_2_18
+  - first:
+      213: 1838650903783348101
+    second: Rudy_2_19
+  - first:
+      213: 3417279686240938916
+    second: Rudy_2_20
+  - first:
+      213: -7474500437640442844
+    second: Rudy_2_21
+  - first:
+      213: 208795126299230536
+    second: Rudy_2_22
+  - first:
+      213: 628021750749470823
+    second: Rudy_2_23
+  - first:
+      213: 2787229344744619376
+    second: Rudy_2_24
+  - first:
+      213: 67753384572955548
+    second: Rudy_2_25
+  - first:
+      213: 1044914300225759552
+    second: Rudy_2_26
+  - first:
+      213: -1976284536631821966
+    second: Rudy_2_27
+  - first:
+      213: 3772045431994774841
+    second: Rudy_2_28
+  - first:
+      213: -5529033324981572705
+    second: Rudy_2_29
+  - first:
+      213: 1307488951577110479
+    second: Rudy_2_30
+  - first:
+      213: -5192155211360386010
+    second: Rudy_2_31
+  - first:
+      213: 4061594782520013940
+    second: Rudy_2_32
+  - first:
+      213: 2847594497300880658
+    second: Rudy_2_33
+  - first:
+      213: 31894566904456844
+    second: Rudy_2_34
+  - first:
+      213: -2681507219760151122
+    second: Rudy_2_35
+  - first:
+      213: 7315171520636069253
+    second: Rudy_2_36
+  - first:
+      213: -7371663149542027380
+    second: Rudy_2_37
+  - first:
+      213: 7550112522129801964
+    second: Rudy_2_38
+  - first:
+      213: -450374201172255308
+    second: Rudy_2_39
+  - first:
+      213: -4370617716487338916
+    second: Rudy_2_40
+  - first:
+      213: -4208685596386659184
+    second: Rudy_2_41
+  - first:
+      213: 2152461881538868114
+    second: Rudy_2_42
+  - first:
+      213: 4947592890618459210
+    second: Rudy_2_43
+  - first:
+      213: 7462316416937339075
+    second: Rudy_2_44
+  - first:
+      213: 8828478214210703636
+    second: Rudy_2_45
+  - first:
+      213: 1924501193059976407
+    second: Rudy_2_46
+  - first:
+      213: 8264395889220512446
+    second: Rudy_2_47
+  - first:
+      213: 8889974028039862850
+    second: Rudy_2_48
+  - first:
+      213: -365015472418984067
+    second: Rudy_2_49
+  - first:
+      213: -5018205438235011980
+    second: Rudy_2_50
+  - first:
+      213: -1540017568960181795
+    second: Rudy_2_51
+  - first:
+      213: -8750912570160220319
+    second: Rudy_2_52
+  - first:
+      213: -4740557634122956735
+    second: Rudy_2_53
+  - first:
+      213: 8000114752263406852
+    second: Rudy_2_54
+  - first:
+      213: 7303645019192822765
+    second: Rudy_2_55
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Rudy_2_26
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 2204
+        width: 405
+        height: 497
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 049aea51508408e00800000000000000
+      internalID: 1044914300225759552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rudy_2_27
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 2268
+        width: 215
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27976fa4fa3d294e0800000000000000
+      internalID: -1976284536631821966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rudy_2_28
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 2208
+        width: 445
+        height: 299
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 935fea2d55ff85430800000000000000
+      internalID: 3772045431994774841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rudy_2_41
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1387
+        width: 331
+        height: 399
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 094f118afbeb795c0800000000000000
+      internalID: -4208685596386659184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rudy_2_42
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1377
+        width: 1247
+        height: 529
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29371b15da41fdd10800000000000000
+      internalID: 2152461881538868114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rudy_2_55
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 447
+        width: 1857
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deb0a86d272cb5560800000000000000
+      internalID: 7303645019192822765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ad8d34ce37f1f304fa72a7c211246295
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Rudy_2_0: -4167803575204411069
+      Rudy_2_1: 6061857664500884812
+      Rudy_2_10: -2045699873599616367
+      Rudy_2_11: -5210914221241935723
+      Rudy_2_12: -972628404885182729
+      Rudy_2_13: 2546009732277748877
+      Rudy_2_14: 668135334109888132
+      Rudy_2_15: 1188702540630689971
+      Rudy_2_16: 517379852765961617
+      Rudy_2_17: -3880609973417314975
+      Rudy_2_18: -5081867201876049737
+      Rudy_2_19: 1838650903783348101
+      Rudy_2_2: -7595721493818256708
+      Rudy_2_20: 3417279686240938916
+      Rudy_2_21: -7474500437640442844
+      Rudy_2_22: 208795126299230536
+      Rudy_2_23: 628021750749470823
+      Rudy_2_24: 2787229344744619376
+      Rudy_2_25: 67753384572955548
+      Rudy_2_26: 1044914300225759552
+      Rudy_2_27: -1976284536631821966
+      Rudy_2_28: 3772045431994774841
+      Rudy_2_29: -5529033324981572705
+      Rudy_2_3: -6289309961229351013
+      Rudy_2_30: 1307488951577110479
+      Rudy_2_31: -5192155211360386010
+      Rudy_2_32: 4061594782520013940
+      Rudy_2_33: 2847594497300880658
+      Rudy_2_34: 31894566904456844
+      Rudy_2_35: -2681507219760151122
+      Rudy_2_36: 7315171520636069253
+      Rudy_2_37: -7371663149542027380
+      Rudy_2_38: 7550112522129801964
+      Rudy_2_39: -450374201172255308
+      Rudy_2_4: 7140237148654041711
+      Rudy_2_40: -4370617716487338916
+      Rudy_2_41: -4208685596386659184
+      Rudy_2_42: 2152461881538868114
+      Rudy_2_43: 4947592890618459210
+      Rudy_2_44: 7462316416937339075
+      Rudy_2_45: 8828478214210703636
+      Rudy_2_46: 1924501193059976407
+      Rudy_2_47: 8264395889220512446
+      Rudy_2_48: 8889974028039862850
+      Rudy_2_49: -365015472418984067
+      Rudy_2_5: 2479608963185061146
+      Rudy_2_50: -5018205438235011980
+      Rudy_2_51: -1540017568960181795
+      Rudy_2_52: -8750912570160220319
+      Rudy_2_53: -4740557634122956735
+      Rudy_2_54: 8000114752263406852
+      Rudy_2_55: 7303645019192822765
+      Rudy_2_6: 4925856018877707591
+      Rudy_2_7: 8355590883812243742
+      Rudy_2_8: 2157203405256912922
+      Rudy_2_9: 3101672011523620731
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

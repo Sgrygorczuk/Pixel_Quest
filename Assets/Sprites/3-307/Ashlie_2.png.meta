@@ -1,0 +1,473 @@
+fileFormatVersion: 2
+guid: 9888bda914bbb7e479ee33829f2490f5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6317259039795790321
+    second: Ashlie_2_0
+  - first:
+      213: -628200911052665518
+    second: Ashlie_2_1
+  - first:
+      213: -5660274263840000980
+    second: Ashlie_2_2
+  - first:
+      213: -3563459771497064212
+    second: Ashlie_2_3
+  - first:
+      213: 3842710136138493590
+    second: Ashlie_2_4
+  - first:
+      213: 7938783024879914689
+    second: Ashlie_2_5
+  - first:
+      213: -6663556183760609448
+    second: Ashlie_2_6
+  - first:
+      213: -3378267420174986578
+    second: Ashlie_2_7
+  - first:
+      213: 638001261338169843
+    second: Ashlie_2_8
+  - first:
+      213: -497132609178744589
+    second: Ashlie_2_9
+  - first:
+      213: -7329363461001443706
+    second: Ashlie_2_10
+  - first:
+      213: 7583492322699010814
+    second: Ashlie_2_11
+  - first:
+      213: 7714211156011439853
+    second: Ashlie_2_12
+  - first:
+      213: -7777051863762439477
+    second: Ashlie_2_13
+  - first:
+      213: -8422973540801335422
+    second: Ashlie_2_14
+  - first:
+      213: -4122996659755621916
+    second: Ashlie_2_15
+  - first:
+      213: 687163891409115073
+    second: Ashlie_2_16
+  - first:
+      213: 8248863225854657154
+    second: Ashlie_2_17
+  - first:
+      213: 940788587182396253
+    second: Ashlie_2_18
+  - first:
+      213: -3205575475044704323
+    second: Ashlie_2_19
+  - first:
+      213: -8311675582860494909
+    second: Ashlie_2_20
+  - first:
+      213: 6415580001834424801
+    second: Ashlie_2_21
+  - first:
+      213: -1961519483493828046
+    second: Ashlie_2_22
+  - first:
+      213: -2987391734089364988
+    second: Ashlie_2_23
+  - first:
+      213: -6326166490268586788
+    second: Ashlie_2_24
+  - first:
+      213: 2045717754580438254
+    second: Ashlie_2_25
+  - first:
+      213: -3480128862062383647
+    second: Ashlie_2_26
+  - first:
+      213: -6863249011052188946
+    second: Ashlie_2_27
+  - first:
+      213: 4562039526684061082
+    second: Ashlie_2_28
+  - first:
+      213: 9126901259185465967
+    second: Ashlie_2_29
+  - first:
+      213: -4492679639900545183
+    second: Ashlie_2_30
+  - first:
+      213: 114939681332409921
+    second: Ashlie_2_31
+  - first:
+      213: -5332216766194702953
+    second: Ashlie_2_32
+  - first:
+      213: 462678511493312456
+    second: Ashlie_2_33
+  - first:
+      213: -8799830478492873414
+    second: Ashlie_2_34
+  - first:
+      213: -4958756305478948190
+    second: Ashlie_2_35
+  - first:
+      213: -1561610891758744987
+    second: Ashlie_2_36
+  - first:
+      213: 4044149365278051301
+    second: Ashlie_2_37
+  - first:
+      213: 937082746689988466
+    second: Ashlie_2_38
+  - first:
+      213: -2751088287221473326
+    second: Ashlie_2_39
+  - first:
+      213: 2827627808169325973
+    second: Ashlie_2_40
+  - first:
+      213: -2561710029999548659
+    second: Ashlie_2_41
+  - first:
+      213: -8080470756844223346
+    second: Ashlie_2_42
+  - first:
+      213: -4681637124682672772
+    second: Ashlie_2_43
+  - first:
+      213: -4833280171293379040
+    second: Ashlie_2_44
+  - first:
+      213: 1279062765497850662
+    second: Ashlie_2_45
+  - first:
+      213: -4193621431617309385
+    second: Ashlie_2_46
+  - first:
+      213: -8973328604966678174
+    second: Ashlie_2_47
+  - first:
+      213: 9070338685468586239
+    second: Ashlie_2_48
+  - first:
+      213: -7825059775621344474
+    second: Ashlie_2_49
+  - first:
+      213: 17877161099340660
+    second: Ashlie_2_50
+  - first:
+      213: 1565998825763453057
+    second: Ashlie_2_51
+  - first:
+      213: 5166311855374379778
+    second: Ashlie_2_52
+  - first:
+      213: -5299273977667259338
+    second: Ashlie_2_53
+  - first:
+      213: -272700073091651753
+    second: Ashlie_2_54
+  - first:
+      213: 1516571924695245734
+    second: Ashlie_2_55
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ashlie_2_27
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 2065
+        width: 410
+        height: 534
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeaee233367d0c0a0800000000000000
+      internalID: -6863249011052188946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashlie_2_28
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 2204
+        width: 437
+        height: 504
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9d6b4f57ce9f4f30800000000000000
+      internalID: 4562039526684061082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashlie_2_29
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 2202
+        width: 368
+        height: 483
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6aa0ddb65449ae70800000000000000
+      internalID: 9126901259185465967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashlie_2_41
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1415
+        width: 399
+        height: 406
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d07525cdc4af27cd0800000000000000
+      internalID: -2561710029999548659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashlie_2_42
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 1400
+        width: 1185
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e844e58a8a66cdf80800000000000000
+      internalID: -8080470756844223346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashlie_2_55
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 448
+        width: 1343
+        height: 499
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a36acf5122fb0510800000000000000
+      internalID: 1516571924695245734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 96479a9e37018ec41ba46f7dac253ef3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Ashlie_2_0: -6317259039795790321
+      Ashlie_2_1: -628200911052665518
+      Ashlie_2_10: -7329363461001443706
+      Ashlie_2_11: 7583492322699010814
+      Ashlie_2_12: 7714211156011439853
+      Ashlie_2_13: -7777051863762439477
+      Ashlie_2_14: -8422973540801335422
+      Ashlie_2_15: -4122996659755621916
+      Ashlie_2_16: 687163891409115073
+      Ashlie_2_17: 8248863225854657154
+      Ashlie_2_18: 940788587182396253
+      Ashlie_2_19: -3205575475044704323
+      Ashlie_2_2: -5660274263840000980
+      Ashlie_2_20: -8311675582860494909
+      Ashlie_2_21: 6415580001834424801
+      Ashlie_2_22: -1961519483493828046
+      Ashlie_2_23: -2987391734089364988
+      Ashlie_2_24: -6326166490268586788
+      Ashlie_2_25: 2045717754580438254
+      Ashlie_2_26: -3480128862062383647
+      Ashlie_2_27: -6863249011052188946
+      Ashlie_2_28: 4562039526684061082
+      Ashlie_2_29: 9126901259185465967
+      Ashlie_2_3: -3563459771497064212
+      Ashlie_2_30: -4492679639900545183
+      Ashlie_2_31: 114939681332409921
+      Ashlie_2_32: -5332216766194702953
+      Ashlie_2_33: 462678511493312456
+      Ashlie_2_34: -8799830478492873414
+      Ashlie_2_35: -4958756305478948190
+      Ashlie_2_36: -1561610891758744987
+      Ashlie_2_37: 4044149365278051301
+      Ashlie_2_38: 937082746689988466
+      Ashlie_2_39: -2751088287221473326
+      Ashlie_2_4: 3842710136138493590
+      Ashlie_2_40: 2827627808169325973
+      Ashlie_2_41: -2561710029999548659
+      Ashlie_2_42: -8080470756844223346
+      Ashlie_2_43: -4681637124682672772
+      Ashlie_2_44: -4833280171293379040
+      Ashlie_2_45: 1279062765497850662
+      Ashlie_2_46: -4193621431617309385
+      Ashlie_2_47: -8973328604966678174
+      Ashlie_2_48: 9070338685468586239
+      Ashlie_2_49: -7825059775621344474
+      Ashlie_2_5: 7938783024879914689
+      Ashlie_2_50: 17877161099340660
+      Ashlie_2_51: 1565998825763453057
+      Ashlie_2_52: 5166311855374379778
+      Ashlie_2_53: -5299273977667259338
+      Ashlie_2_54: -272700073091651753
+      Ashlie_2_55: 1516571924695245734
+      Ashlie_2_6: -6663556183760609448
+      Ashlie_2_7: -3378267420174986578
+      Ashlie_2_8: 638001261338169843
+      Ashlie_2_9: -497132609178744589
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

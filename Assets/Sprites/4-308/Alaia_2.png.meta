@@ -1,0 +1,1521 @@
+fileFormatVersion: 2
+guid: 7996d446e6319a34ab0de18b3cae221d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1137144482217562119
+    second: Alaia_2_0
+  - first:
+      213: 3704336038604868370
+    second: Alaia_2_1
+  - first:
+      213: -7704796473198092015
+    second: Alaia_2_2
+  - first:
+      213: 3910446145881120386
+    second: Alaia_2_3
+  - first:
+      213: 2395793404143506932
+    second: Alaia_2_4
+  - first:
+      213: -2515616863250222010
+    second: Alaia_2_5
+  - first:
+      213: -8980226608193143643
+    second: Alaia_2_6
+  - first:
+      213: 6418791349078882973
+    second: Alaia_2_7
+  - first:
+      213: 7693916690330488174
+    second: Alaia_2_8
+  - first:
+      213: -5659890074808803736
+    second: Alaia_2_9
+  - first:
+      213: 3252661881064134752
+    second: Alaia_2_10
+  - first:
+      213: 1377200028846494862
+    second: Alaia_2_11
+  - first:
+      213: -5746000574865324636
+    second: Alaia_2_12
+  - first:
+      213: -2361031131399654882
+    second: Alaia_2_13
+  - first:
+      213: 4851354983068798118
+    second: Alaia_2_14
+  - first:
+      213: -614229881343696974
+    second: Alaia_2_15
+  - first:
+      213: -4857068536418410370
+    second: Alaia_2_16
+  - first:
+      213: 5580287157067695380
+    second: Alaia_2_17
+  - first:
+      213: 7521966354110926264
+    second: Alaia_2_18
+  - first:
+      213: 517016483404800843
+    second: Alaia_2_19
+  - first:
+      213: -9067315626894187046
+    second: Alaia_2_20
+  - first:
+      213: -664019085136647002
+    second: Alaia_2_21
+  - first:
+      213: -6904313068644607676
+    second: Alaia_2_22
+  - first:
+      213: 6012980709095101345
+    second: Alaia_2_23
+  - first:
+      213: 38721925892571153
+    second: Alaia_2_24
+  - first:
+      213: -6517199568028502140
+    second: Alaia_2_25
+  - first:
+      213: 1858363043669359192
+    second: Alaia_2_26
+  - first:
+      213: 1146182383356667490
+    second: Alaia_2_27
+  - first:
+      213: 9180798664535813168
+    second: Alaia_2_28
+  - first:
+      213: 406159638287517777
+    second: Alaia_2_29
+  - first:
+      213: -6331489873702114366
+    second: Alaia_2_30
+  - first:
+      213: 8351848184554675511
+    second: Alaia_2_31
+  - first:
+      213: -247372164445222609
+    second: Alaia_2_32
+  - first:
+      213: -5097041306437108923
+    second: Alaia_2_33
+  - first:
+      213: -1056694736764823451
+    second: Alaia_2_34
+  - first:
+      213: -8483823577933248261
+    second: Alaia_2_35
+  - first:
+      213: -2508867407462266991
+    second: Alaia_2_36
+  - first:
+      213: 8719935474041247805
+    second: Alaia_2_37
+  - first:
+      213: -5667264897274257100
+    second: Alaia_2_38
+  - first:
+      213: 1790635524522086545
+    second: Alaia_2_39
+  - first:
+      213: -6228948407210593741
+    second: Alaia_2_40
+  - first:
+      213: 5140668710602612527
+    second: Alaia_2_41
+  - first:
+      213: 5249879718395390593
+    second: Alaia_2_42
+  - first:
+      213: 8694786758915786529
+    second: Alaia_2_43
+  - first:
+      213: -4066060287802034585
+    second: Alaia_2_44
+  - first:
+      213: 8964712545651408565
+    second: Alaia_2_45
+  - first:
+      213: 4488345260811834875
+    second: Alaia_2_46
+  - first:
+      213: 5938881371187459056
+    second: Alaia_2_47
+  - first:
+      213: -5862732955784514346
+    second: Alaia_2_48
+  - first:
+      213: -2228835592843163025
+    second: Alaia_2_49
+  - first:
+      213: -4066112371485963528
+    second: Alaia_2_50
+  - first:
+      213: -2361701540085305606
+    second: Alaia_2_51
+  - first:
+      213: -1189110221573803140
+    second: Alaia_2_52
+  - first:
+      213: -2088657107748642217
+    second: Alaia_2_53
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Alaia_2_0
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 3067
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ff60274e1d0830f0800000000000000
+      internalID: -1137144482217562119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alaia_2_1
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 3066
+        width: 81
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21b88bd2002786330800000000000000
+      internalID: 3704336038604868370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alaia_2_2
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 3043
+        width: 729
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 111685ced60131590800000000000000
+      internalID: -7704796473198092015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alaia_2_3
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 2968
+        width: 123
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28e1a8e1d02b44630800000000000000
+      internalID: 3910446145881120386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alaia_2_4
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 3058
+        width: 321
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f5923958619f3120800000000000000
+      internalID: 2395793404143506932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alaia_2_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 2858
+        width: 67
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 644fcfa8acbb61dd0800000000000000
+      internalID: -2515616863250222010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alaia_2_6
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 2858
+        width: 19
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5acf228aa73df5380800000000000000
+      internalID: -8980226608193143643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alaia_2_7
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 2860
+        width: 80
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9a723949b0241950800000000000000
+      internalID: 6418791349078882973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alaia_2_8
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 2931
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6d099a377846ca60800000000000000
+      internalID: 7693916690330488174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alaia_2_9
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 2861
+        width: 84
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86e134fd6f70471b0800000000000000
+      internalID: -5659890074808803736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alaia_2_10
+      rect:
+        serializedVersion: 2
+        x: 1796
+        y: 2861
+        width: 60
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 068184b5fb6c32d20800000000000000
+      internalID: 3252661881064134752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alaia_2_11
+      rect:
+        serializedVersion: 2
+        x: 1910
+        y: 2861
+        width: 37
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e849d08212ccc1310800000000000000
+      internalID: 1377200028846494862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alaia_2_12
+      rect:
+        serializedVersion: 2
+        x: 2064
+        y: 2862
+        width: 18
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a546f7bbea1240b0800000000000000
+      internalID: -5746000574865324636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alaia_2_13
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 2848
+        width: 63
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e12f84df1beeb3fd0800000000000000
+      internalID: -2361031131399654882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alaia_2_14
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 2836
+        width: 58
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ac032d47a9735340800000000000000
+      internalID: 4851354983068798118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alaia_2_15
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 2858
+        width: 62
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bf14106d21d977f0800000000000000
+      internalID: -614229881343696974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alaia_2_16
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 2860
+        width: 40
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e70ed0566e9389cb0800000000000000
+      internalID: -4857068536418410370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alaia_2_17
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 2860
+        width: 62
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 415c1bd8a99217d40800000000000000
+      internalID: 5580287157067695380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alaia_2_18
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 2861
+        width: 18
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bdc835cb84636860800000000000000
+      internalID: 7521966354110926264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alaia_2_19
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 2861
+        width: 57
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b436d5c90cfcc2700800000000000000
+      internalID: 517016483404800843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alaia_2_20
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 2861
+        width: 55
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad5af906a7c6a2280800000000000000
+      internalID: -9067315626894187046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alaia_2_21
+      rect:
+        serializedVersion: 2
+        x: 1945
+        y: 2861
+        width: 61
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aca952092ee8c6f0800000000000000
+      internalID: -664019085136647002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alaia_2_22
+      rect:
+        serializedVersion: 2
+        x: 2007
+        y: 2861
+        width: 58
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 449d95d38d3fe20a0800000000000000
+      internalID: -6904313068644607676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alaia_2_23
+      rect:
+        serializedVersion: 2
+        x: 2086
+        y: 2861
+        width: 61
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a3d3e6c816627350800000000000000
+      internalID: 6012980709095101345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alaia_2_24
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 2206
+        width: 585
+        height: 581
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11088dde261998000800000000000000
+      internalID: 38721925892571153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alaia_2_25
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 2216
+        width: 584
+        height: 575
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 487f451c5814e85a0800000000000000
+      internalID: -6517199568028502140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alaia_2_26
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 2212
+        width: 585
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85a30a9975b3ac910800000000000000
+      internalID: 1858363043669359192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alaia_2_27
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 2000
+        width: 81
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 266e8cf0ece08ef00800000000000000
+      internalID: 1146182383356667490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alaia_2_28
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 2000
+        width: 64
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03ca9025ebfb86f70800000000000000
+      internalID: 9180798664535813168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alaia_2_29
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 2001
+        width: 59
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1588a320a08f2a500800000000000000
+      internalID: 406159638287517777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alaia_2_30
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 2001
+        width: 18
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cba00b61870228a0800000000000000
+      internalID: -6331489873702114366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alaia_2_31
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 2004
+        width: 68
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73d5f528ca9b7e370800000000000000
+      internalID: 8351848184554675511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alaia_2_32
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 2004
+        width: 19
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f294ceab358219cf0800000000000000
+      internalID: -247372164445222609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alaia_2_33
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 2004
+        width: 59
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54bb254efeba349b0800000000000000
+      internalID: -5097041306437108923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alaia_2_34
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 2004
+        width: 73
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5689b1b4cbdd551f0800000000000000
+      internalID: -1056694736764823451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alaia_2_35
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 2004
+        width: 61
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf88434b767634a80800000000000000
+      internalID: -8483823577933248261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alaia_2_36
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 2006
+        width: 40
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19708ada266be2dd0800000000000000
+      internalID: -2508867407462266991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alaia_2_37
+      rect:
+        serializedVersion: 2
+        x: 1789
+        y: 2003
+        width: 87
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d385e8a0d1f630970800000000000000
+      internalID: 8719935474041247805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alaia_2_38
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 1979
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4316de53a94d951b0800000000000000
+      internalID: -5667264897274257100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alaia_2_39
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1389
+        width: 587
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1909559b58d99d810800000000000000
+      internalID: 1790635524522086545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alaia_2_40
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 1392
+        width: 1305
+        height: 585
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3323aff0d645e89a0800000000000000
+      internalID: -6228948407210593741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alaia_2_41
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 1140
+        width: 68
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2f1f63b4f2575740800000000000000
+      internalID: 5140668710602612527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alaia_2_42
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 1140
+        width: 62
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18a2c70f9c15bd840800000000000000
+      internalID: 5249879718395390593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alaia_2_43
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 1140
+        width: 59
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12702f28d761aa870800000000000000
+      internalID: 8694786758915786529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alaia_2_44
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 1142
+        width: 39
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 766bc3e06b37297c0800000000000000
+      internalID: -4066060287802034585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alaia_2_45
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 1140
+        width: 58
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5be3a0d209e096c70800000000000000
+      internalID: 8964712545651408565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alaia_2_46
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 1140
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf55ff30c3ec94e30800000000000000
+      internalID: 4488345260811834875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alaia_2_47
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 1142
+        width: 40
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f330dc34252b6250800000000000000
+      internalID: 5938881371187459056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alaia_2_48
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 1140
+        width: 141
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d4fc75507363aea0800000000000000
+      internalID: -5862732955784514346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alaia_2_49
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 1141
+        width: 59
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6a06d156d59111e0800000000000000
+      internalID: -2228835592843163025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alaia_2_50
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 1142
+        width: 19
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fa02c067544297c0800000000000000
+      internalID: -4066112371485963528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alaia_2_51
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 1142
+        width: 18
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afee8bd46fc893fd0800000000000000
+      internalID: -2361701540085305606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alaia_2_52
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 1142
+        width: 54
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c73be4cbd8e6f7fe0800000000000000
+      internalID: -1189110221573803140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alaia_2_53
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 435
+        width: 2064
+        height: 585
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7522c0b3d699303e0800000000000000
+      internalID: -2088657107748642217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Alaia_2_0: -1137144482217562119
+      Alaia_2_1: 3704336038604868370
+      Alaia_2_10: 3252661881064134752
+      Alaia_2_11: 1377200028846494862
+      Alaia_2_12: -5746000574865324636
+      Alaia_2_13: -2361031131399654882
+      Alaia_2_14: 4851354983068798118
+      Alaia_2_15: -614229881343696974
+      Alaia_2_16: -4857068536418410370
+      Alaia_2_17: 5580287157067695380
+      Alaia_2_18: 7521966354110926264
+      Alaia_2_19: 517016483404800843
+      Alaia_2_2: -7704796473198092015
+      Alaia_2_20: -9067315626894187046
+      Alaia_2_21: -664019085136647002
+      Alaia_2_22: -6904313068644607676
+      Alaia_2_23: 6012980709095101345
+      Alaia_2_24: 38721925892571153
+      Alaia_2_25: -6517199568028502140
+      Alaia_2_26: 1858363043669359192
+      Alaia_2_27: 1146182383356667490
+      Alaia_2_28: 9180798664535813168
+      Alaia_2_29: 406159638287517777
+      Alaia_2_3: 3910446145881120386
+      Alaia_2_30: -6331489873702114366
+      Alaia_2_31: 8351848184554675511
+      Alaia_2_32: -247372164445222609
+      Alaia_2_33: -5097041306437108923
+      Alaia_2_34: -1056694736764823451
+      Alaia_2_35: -8483823577933248261
+      Alaia_2_36: -2508867407462266991
+      Alaia_2_37: 8719935474041247805
+      Alaia_2_38: -5667264897274257100
+      Alaia_2_39: 1790635524522086545
+      Alaia_2_4: 2395793404143506932
+      Alaia_2_40: -6228948407210593741
+      Alaia_2_41: 5140668710602612527
+      Alaia_2_42: 5249879718395390593
+      Alaia_2_43: 8694786758915786529
+      Alaia_2_44: -4066060287802034585
+      Alaia_2_45: 8964712545651408565
+      Alaia_2_46: 4488345260811834875
+      Alaia_2_47: 5938881371187459056
+      Alaia_2_48: -5862732955784514346
+      Alaia_2_49: -2228835592843163025
+      Alaia_2_5: -2515616863250222010
+      Alaia_2_50: -4066112371485963528
+      Alaia_2_51: -2361701540085305606
+      Alaia_2_52: -1189110221573803140
+      Alaia_2_53: -2088657107748642217
+      Alaia_2_6: -8980226608193143643
+      Alaia_2_7: 6418791349078882973
+      Alaia_2_8: 7693916690330488174
+      Alaia_2_9: -5659890074808803736
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1443 @@
+fileFormatVersion: 2
+guid: 67fd997f54bef7845bb5316386a0b04a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7260497787379762986
+    second: Aitana_2_0
+  - first:
+      213: 8211107826153369771
+    second: Aitana_2_1
+  - first:
+      213: -4174211353881874284
+    second: Aitana_2_2
+  - first:
+      213: 1832659819890562319
+    second: Aitana_2_3
+  - first:
+      213: 6774802949645473593
+    second: Aitana_2_4
+  - first:
+      213: 8248646988643849423
+    second: Aitana_2_5
+  - first:
+      213: -2603824232944296101
+    second: Aitana_2_6
+  - first:
+      213: -6998121265734273419
+    second: Aitana_2_7
+  - first:
+      213: -2785730631796377629
+    second: Aitana_2_8
+  - first:
+      213: -8921527152451694131
+    second: Aitana_2_9
+  - first:
+      213: 8913679343387922538
+    second: Aitana_2_10
+  - first:
+      213: -7852731014805961768
+    second: Aitana_2_11
+  - first:
+      213: -3514759219294856401
+    second: Aitana_2_12
+  - first:
+      213: -8038510493578874634
+    second: Aitana_2_13
+  - first:
+      213: -4229789790861055888
+    second: Aitana_2_14
+  - first:
+      213: -8911489159754276274
+    second: Aitana_2_15
+  - first:
+      213: 4384748059496253744
+    second: Aitana_2_16
+  - first:
+      213: -2404772051501077130
+    second: Aitana_2_17
+  - first:
+      213: 5667688575504764307
+    second: Aitana_2_18
+  - first:
+      213: 4666769468703136495
+    second: Aitana_2_19
+  - first:
+      213: -8016359391629130264
+    second: Aitana_2_20
+  - first:
+      213: 6839652716508025347
+    second: Aitana_2_21
+  - first:
+      213: -6964010521686840054
+    second: Aitana_2_22
+  - first:
+      213: -7152913193664413787
+    second: Aitana_2_23
+  - first:
+      213: 538513462557132583
+    second: Aitana_2_24
+  - first:
+      213: 3290776814562354156
+    second: Aitana_2_25
+  - first:
+      213: 1367464674724886825
+    second: Aitana_2_26
+  - first:
+      213: -2783472055018669935
+    second: Aitana_2_27
+  - first:
+      213: -3764987525517498733
+    second: Aitana_2_28
+  - first:
+      213: -5828534851864660144
+    second: Aitana_2_29
+  - first:
+      213: -4292564642564408607
+    second: Aitana_2_30
+  - first:
+      213: 3414006133279409814
+    second: Aitana_2_31
+  - first:
+      213: -2599909194819663404
+    second: Aitana_2_32
+  - first:
+      213: 6078459249223763137
+    second: Aitana_2_33
+  - first:
+      213: 1605779986254530038
+    second: Aitana_2_34
+  - first:
+      213: -4148127187067159875
+    second: Aitana_2_35
+  - first:
+      213: 3889397299191942961
+    second: Aitana_2_36
+  - first:
+      213: 6748242707479862537
+    second: Aitana_2_37
+  - first:
+      213: 3077500127449071896
+    second: Aitana_2_38
+  - first:
+      213: 2786633245038572372
+    second: Aitana_2_39
+  - first:
+      213: 4853398308132827698
+    second: Aitana_2_40
+  - first:
+      213: -7620199154708104823
+    second: Aitana_2_41
+  - first:
+      213: 1451501827897401566
+    second: Aitana_2_42
+  - first:
+      213: 6762258342400139428
+    second: Aitana_2_43
+  - first:
+      213: 4565608064728220301
+    second: Aitana_2_44
+  - first:
+      213: 4835302595209742622
+    second: Aitana_2_45
+  - first:
+      213: -6477233763512549307
+    second: Aitana_2_46
+  - first:
+      213: -6998575219906910780
+    second: Aitana_2_47
+  - first:
+      213: -4527276372762312157
+    second: Aitana_2_48
+  - first:
+      213: 3321971124840636386
+    second: Aitana_2_49
+  - first:
+      213: 1542137063514710073
+    second: Aitana_2_50
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Aitana_2_0
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 3102
+        width: 49
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d838baeab78d3b90800000000000000
+      internalID: -7260497787379762986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aitana_2_1
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 3100
+        width: 59
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba03d464017b3f170800000000000000
+      internalID: 8211107826153369771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aitana_2_2
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 3090
+        width: 730
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 490f77ab3e83216c0800000000000000
+      internalID: -4174211353881874284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aitana_2_3
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 3094
+        width: 108
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0555b6756aee6910800000000000000
+      internalID: 1832659819890562319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aitana_2_4
+      rect:
+        serializedVersion: 2
+        x: 1981
+        y: 3086
+        width: 203
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93713e4636fe40e50800000000000000
+      internalID: 6774802949645473593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aitana_2_5
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 2901
+        width: 67
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc456b3abb4197270800000000000000
+      internalID: 8248646988643849423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aitana_2_6
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 2895
+        width: 19
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5f1dc1e7ab5ddbd0800000000000000
+      internalID: -2603824232944296101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aitana_2_7
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 2895
+        width: 62
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5763dc459cda1ee90800000000000000
+      internalID: -6998121265734273419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aitana_2_8
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 2872
+        width: 58
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e73ad3ffb81759d0800000000000000
+      internalID: -2785730631796377629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aitana_2_9
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 2894
+        width: 61
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc15d18b25e503480800000000000000
+      internalID: -8921527152451694131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aitana_2_10
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 2895
+        width: 40
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a60df58d220c3bb70800000000000000
+      internalID: 8913679343387922538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aitana_2_11
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 2891
+        width: 79
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d34cc16fbe750390800000000000000
+      internalID: -7852731014805961768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aitana_2_12
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 2891
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2b96eeac11193fc0800000000000000
+      internalID: -3514759219294856401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aitana_2_13
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 2891
+        width: 21
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f03bf2cb49717090800000000000000
+      internalID: -8038510493578874634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aitana_2_14
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 2891
+        width: 57
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07827297894cc45c0800000000000000
+      internalID: -4229789790861055888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aitana_2_15
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 2888
+        width: 84
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e422a1503d7045480800000000000000
+      internalID: -8911489159754276274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aitana_2_16
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 2888
+        width: 60
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0398bd3f021c9dc30800000000000000
+      internalID: 4384748059496253744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aitana_2_17
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 2888
+        width: 55
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67dad786f8880aed0800000000000000
+      internalID: -2404772051501077130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aitana_2_18
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 2887
+        width: 38
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39d40801bbca7ae40800000000000000
+      internalID: 5667688575504764307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aitana_2_19
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 2887
+        width: 61
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea50be2b12b3c040800000000000000
+      internalID: 4666769468703136495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aitana_2_20
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 2886
+        width: 58
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e544161b9b20c090800000000000000
+      internalID: -8016359391629130264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aitana_2_21
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 2887
+        width: 18
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3021f7a58e35bee50800000000000000
+      internalID: 6839652716508025347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aitana_2_22
+      rect:
+        serializedVersion: 2
+        x: 2110
+        y: 2887
+        width: 61
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0de5c2d35dda5f90800000000000000
+      internalID: -6964010521686840054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aitana_2_23
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 2243
+        width: 581
+        height: 580
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5af7d6e195fbbbc90800000000000000
+      internalID: -7152913193664413787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aitana_2_24
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 2243
+        width: 580
+        height: 580
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 727cb7a142f297700800000000000000
+      internalID: 538513462557132583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aitana_2_25
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 2235
+        width: 583
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce3a41bd3103bad20800000000000000
+      internalID: 3290776814562354156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aitana_2_26
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 2037
+        width: 81
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9293fd360e53af210800000000000000
+      internalID: 1367464674724886825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aitana_2_27
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 2038
+        width: 63
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 198b266d9ee1f59d0800000000000000
+      internalID: -2783472055018669935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aitana_2_28
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 2037
+        width: 60
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 396a0c51bc310cbc0800000000000000
+      internalID: -3764987525517498733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aitana_2_29
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 2038
+        width: 20
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0577f91ee62ec1fa0800000000000000
+      internalID: -5828534851864660144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aitana_2_30
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 2035
+        width: 68
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eafb88533fbd64c0800000000000000
+      internalID: -4292564642564408607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aitana_2_31
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 2035
+        width: 19
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 696cf137d7cf06f20800000000000000
+      internalID: 3414006133279409814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aitana_2_32
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 2033
+        width: 59
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d9808abc544bebd0800000000000000
+      internalID: -2599909194819663404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aitana_2_33
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 2033
+        width: 73
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c48bab6b760b5450800000000000000
+      internalID: 6078459249223763137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aitana_2_34
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 2032
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f50224c360e84610800000000000000
+      internalID: 1605779986254530038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aitana_2_35
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 2032
+        width: 125
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbab8b31d44ee66c0800000000000000
+      internalID: -4148127187067159875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aitana_2_36
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1424
+        width: 582
+        height: 586
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13f03b89c3ae9f530800000000000000
+      internalID: 3889397299191942961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aitana_2_37
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 1418
+        width: 1303
+        height: 588
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90d157d1df296ad50800000000000000
+      internalID: 6748242707479862537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aitana_2_38
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 1174
+        width: 67
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81142d48f0a75ba20800000000000000
+      internalID: 3077500127449071896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aitana_2_39
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 1173
+        width: 62
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45371d11c2c1ca620800000000000000
+      internalID: 2786633245038572372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aitana_2_40
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 1173
+        width: 59
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2323dbdfb0cba5340800000000000000
+      internalID: 4853398308132827698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aitana_2_41
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 1174
+        width: 40
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98934e90e3d9f3690800000000000000
+      internalID: -7620199154708104823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aitana_2_42
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 1173
+        width: 58
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed0a7aad835c42410800000000000000
+      internalID: 1451501827897401566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aitana_2_43
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 1173
+        width: 62
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a0ae2a622e58dd50800000000000000
+      internalID: 6762258342400139428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aitana_2_44
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 1173
+        width: 39
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d82c8c1685c4c5f30800000000000000
+      internalID: 4565608064728220301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aitana_2_45
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 1171
+        width: 140
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e19400187127a1340800000000000000
+      internalID: 4835302595209742622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aitana_2_46
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 1171
+        width: 60
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5400baeb53e3c16a0800000000000000
+      internalID: -6477233763512549307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aitana_2_47
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 1171
+        width: 19
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c5e893eae010ee90800000000000000
+      internalID: -6998575219906910780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aitana_2_48
+      rect:
+        serializedVersion: 2
+        x: 1516
+        y: 1172
+        width: 18
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 322cb712022eb21c0800000000000000
+      internalID: -4527276372762312157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aitana_2_49
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 1171
+        width: 54
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ef1b3233230a1e20800000000000000
+      internalID: 3321971124840636386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aitana_2_50
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 464
+        width: 2062
+        height: 591
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93022c91d75c66510800000000000000
+      internalID: 1542137063514710073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Aitana_2_0: -7260497787379762986
+      Aitana_2_1: 8211107826153369771
+      Aitana_2_10: 8913679343387922538
+      Aitana_2_11: -7852731014805961768
+      Aitana_2_12: -3514759219294856401
+      Aitana_2_13: -8038510493578874634
+      Aitana_2_14: -4229789790861055888
+      Aitana_2_15: -8911489159754276274
+      Aitana_2_16: 4384748059496253744
+      Aitana_2_17: -2404772051501077130
+      Aitana_2_18: 5667688575504764307
+      Aitana_2_19: 4666769468703136495
+      Aitana_2_2: -4174211353881874284
+      Aitana_2_20: -8016359391629130264
+      Aitana_2_21: 6839652716508025347
+      Aitana_2_22: -6964010521686840054
+      Aitana_2_23: -7152913193664413787
+      Aitana_2_24: 538513462557132583
+      Aitana_2_25: 3290776814562354156
+      Aitana_2_26: 1367464674724886825
+      Aitana_2_27: -2783472055018669935
+      Aitana_2_28: -3764987525517498733
+      Aitana_2_29: -5828534851864660144
+      Aitana_2_3: 1832659819890562319
+      Aitana_2_30: -4292564642564408607
+      Aitana_2_31: 3414006133279409814
+      Aitana_2_32: -2599909194819663404
+      Aitana_2_33: 6078459249223763137
+      Aitana_2_34: 1605779986254530038
+      Aitana_2_35: -4148127187067159875
+      Aitana_2_36: 3889397299191942961
+      Aitana_2_37: 6748242707479862537
+      Aitana_2_38: 3077500127449071896
+      Aitana_2_39: 2786633245038572372
+      Aitana_2_4: 6774802949645473593
+      Aitana_2_40: 4853398308132827698
+      Aitana_2_41: -7620199154708104823
+      Aitana_2_42: 1451501827897401566
+      Aitana_2_43: 6762258342400139428
+      Aitana_2_44: 4565608064728220301
+      Aitana_2_45: 4835302595209742622
+      Aitana_2_46: -6477233763512549307
+      Aitana_2_47: -6998575219906910780
+      Aitana_2_48: -4527276372762312157
+      Aitana_2_49: 3321971124840636386
+      Aitana_2_5: 8248646988643849423
+      Aitana_2_50: 1542137063514710073
+      Aitana_2_6: -2603824232944296101
+      Aitana_2_7: -6998121265734273419
+      Aitana_2_8: -2785730631796377629
+      Aitana_2_9: -8921527152451694131
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

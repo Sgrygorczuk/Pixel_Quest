@@ -1,0 +1,1495 @@
+fileFormatVersion: 2
+guid: d4c120dd9424ee742ab34d621d53ffef
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1544340399537417897
+    second: Italo_2_0
+  - first:
+      213: -5555407263820407729
+    second: Italo_2_1
+  - first:
+      213: -1166898771391166507
+    second: Italo_2_2
+  - first:
+      213: -1012383607694373880
+    second: Italo_2_3
+  - first:
+      213: 4677754397182536398
+    second: Italo_2_4
+  - first:
+      213: -2831503543831635523
+    second: Italo_2_5
+  - first:
+      213: 180367618059813162
+    second: Italo_2_6
+  - first:
+      213: 6134470609932925838
+    second: Italo_2_7
+  - first:
+      213: -6728727315026147129
+    second: Italo_2_8
+  - first:
+      213: 2623842628630291603
+    second: Italo_2_9
+  - first:
+      213: -5449598515897716357
+    second: Italo_2_10
+  - first:
+      213: 605536267469291089
+    second: Italo_2_11
+  - first:
+      213: 5841848380988372266
+    second: Italo_2_12
+  - first:
+      213: 4093558490256886746
+    second: Italo_2_13
+  - first:
+      213: 6201725322916807685
+    second: Italo_2_14
+  - first:
+      213: -6696939854810657980
+    second: Italo_2_15
+  - first:
+      213: -2545488018310011921
+    second: Italo_2_16
+  - first:
+      213: 172027651356866556
+    second: Italo_2_17
+  - first:
+      213: -3815332470685547985
+    second: Italo_2_18
+  - first:
+      213: 5004860843998381933
+    second: Italo_2_19
+  - first:
+      213: -4556568709693317932
+    second: Italo_2_20
+  - first:
+      213: -5132138775558217557
+    second: Italo_2_21
+  - first:
+      213: -4022262185177818417
+    second: Italo_2_22
+  - first:
+      213: -7663439584628538746
+    second: Italo_2_23
+  - first:
+      213: -4615492113317671109
+    second: Italo_2_24
+  - first:
+      213: 927523415296983337
+    second: Italo_2_25
+  - first:
+      213: -8431288005543925463
+    second: Italo_2_26
+  - first:
+      213: 8209900697077574011
+    second: Italo_2_27
+  - first:
+      213: 6544470850716785473
+    second: Italo_2_28
+  - first:
+      213: 7436945648056662827
+    second: Italo_2_29
+  - first:
+      213: 8961236874383863477
+    second: Italo_2_30
+  - first:
+      213: -2611790020576051282
+    second: Italo_2_31
+  - first:
+      213: -1824019778628771209
+    second: Italo_2_32
+  - first:
+      213: -7658195543850869976
+    second: Italo_2_33
+  - first:
+      213: -1682504597184717389
+    second: Italo_2_34
+  - first:
+      213: -8104611428581484577
+    second: Italo_2_35
+  - first:
+      213: -3270538522088883006
+    second: Italo_2_36
+  - first:
+      213: -4203732670297241573
+    second: Italo_2_37
+  - first:
+      213: -7384076635701847206
+    second: Italo_2_38
+  - first:
+      213: -5606391174055775942
+    second: Italo_2_39
+  - first:
+      213: 1133445374664066774
+    second: Italo_2_40
+  - first:
+      213: -5342168506436636828
+    second: Italo_2_41
+  - first:
+      213: -4451979820875578699
+    second: Italo_2_42
+  - first:
+      213: -1944231517334390895
+    second: Italo_2_43
+  - first:
+      213: -6271218054667864877
+    second: Italo_2_44
+  - first:
+      213: -3285587531632403594
+    second: Italo_2_45
+  - first:
+      213: -8865560368022029088
+    second: Italo_2_46
+  - first:
+      213: -9117972547981800536
+    second: Italo_2_47
+  - first:
+      213: -5539515840199118185
+    second: Italo_2_48
+  - first:
+      213: 1158732120080691916
+    second: Italo_2_49
+  - first:
+      213: 6777137325923897881
+    second: Italo_2_50
+  - first:
+      213: 5778861686313506284
+    second: Italo_2_51
+  - first:
+      213: 615973021425155392
+    second: Italo_2_52
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Italo_2_0
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 3065
+        width: 108
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ae66be39699e6510800000000000000
+      internalID: 1544340399537417897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Italo_2_1
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 3052
+        width: 731
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4c1c51078a37e2b0800000000000000
+      internalID: -5555407263820407729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Italo_2_2
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 3076
+        width: 178
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d7c36affb75ecfe0800000000000000
+      internalID: -1166898771391166507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Italo_2_3
+      rect:
+        serializedVersion: 2
+        x: 1877
+        y: 3059
+        width: 99
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80cc2fef87a43f1f0800000000000000
+      internalID: -1012383607694373880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Italo_2_4
+      rect:
+        serializedVersion: 2
+        x: 1972
+        y: 3052
+        width: 204
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eca269627d8bae040800000000000000
+      internalID: 4677754397182536398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Italo_2_5
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 2859
+        width: 68
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db9d7a1678a74b8d0800000000000000
+      internalID: -2831503543831635523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Italo_2_6
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 2859
+        width: 19
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a21407b946bc08200800000000000000
+      internalID: 180367618059813162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Italo_2_7
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 2858
+        width: 62
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8b30269484022550800000000000000
+      internalID: 6134470609932925838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Italo_2_8
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 2836
+        width: 59
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c806654822ce92a0800000000000000
+      internalID: -6728727315026147129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Italo_2_9
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 2858
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 394290218f2c96420800000000000000
+      internalID: 2623842628630291603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Italo_2_10
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 2859
+        width: 39
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b71bb63e5032f54b0800000000000000
+      internalID: -5449598515897716357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Italo_2_11
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 2856
+        width: 79
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15e7f19e60c476800800000000000000
+      internalID: 605536267469291089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Italo_2_12
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 2856
+        width: 62
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a25b08ca62a621150800000000000000
+      internalID: 5841848380988372266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Italo_2_13
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 2856
+        width: 19
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adbcb0f12cd3fc830800000000000000
+      internalID: 4093558490256886746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Italo_2_14
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 2924
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5044003b254f01650800000000000000
+      internalID: 6201725322916807685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Italo_2_15
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 2856
+        width: 58
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44bcad71fa0bf03a0800000000000000
+      internalID: -6696939854810657980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Italo_2_16
+      rect:
+        serializedVersion: 2
+        x: 1723
+        y: 2853
+        width: 84
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe36e98422c9cacd0800000000000000
+      internalID: -2545488018310011921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Italo_2_17
+      rect:
+        serializedVersion: 2
+        x: 1812
+        y: 2853
+        width: 60
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf7bbaacc3a236200800000000000000
+      internalID: 172027651356866556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Italo_2_18
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 2853
+        width: 38
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2246c815573d0bc0800000000000000
+      internalID: -3815332470685547985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Italo_2_19
+      rect:
+        serializedVersion: 2
+        x: 2079
+        y: 2853
+        width: 19
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6709c4bb66d47540800000000000000
+      internalID: 5004860843998381933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Italo_2_20
+      rect:
+        serializedVersion: 2
+        x: 1873
+        y: 2853
+        width: 55
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dcd11876e0d3c0c0800000000000000
+      internalID: -4556568709693317932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Italo_2_21
+      rect:
+        serializedVersion: 2
+        x: 1961
+        y: 2853
+        width: 61
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba028d099faf6c8b0800000000000000
+      internalID: -5132138775558217557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Italo_2_22
+      rect:
+        serializedVersion: 2
+        x: 2022
+        y: 2853
+        width: 59
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fca5dfa7add0e28c0800000000000000
+      internalID: -4022262185177818417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Italo_2_23
+      rect:
+        serializedVersion: 2
+        x: 2102
+        y: 2853
+        width: 61
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6828c88ec4ef5a590800000000000000
+      internalID: -7663439584628538746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Italo_2_24
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 2209
+        width: 583
+        height: 583
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3f451a706a72ffb0800000000000000
+      internalID: -4615492113317671109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Italo_2_25
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 2211
+        width: 580
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92142a9c1a93fdc00800000000000000
+      internalID: 927523415296983337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Italo_2_26
+      rect:
+        serializedVersion: 2
+        x: 1694
+        y: 2203
+        width: 584
+        height: 580
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 929ea86da3c0efa80800000000000000
+      internalID: -8431288005543925463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Italo_2_27
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 2000
+        width: 82
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b796a82af2d6fe170800000000000000
+      internalID: 8209900697077574011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Italo_2_28
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 2000
+        width: 64
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14b5fdb8091a2da50800000000000000
+      internalID: 6544470850716785473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Italo_2_29
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 2000
+        width: 61
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2bfd4e0aa6553760800000000000000
+      internalID: 7436945648056662827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Italo_2_30
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 2000
+        width: 21
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5be28c56575bc5c70800000000000000
+      internalID: 8961236874383863477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Italo_2_31
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 1999
+        width: 66
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaf77ab60de01cbd0800000000000000
+      internalID: -2611790020576051282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Italo_2_32
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 1999
+        width: 19
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 772ab87eca7cfa6e0800000000000000
+      internalID: -1824019778628771209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Italo_2_33
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 1998
+        width: 61
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82b1a4c4abf98b590800000000000000
+      internalID: -7658195543850869976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Italo_2_34
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 1998
+        width: 72
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bdd7dfabfa86a8e0800000000000000
+      internalID: -1682504597184717389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Italo_2_35
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 1997
+        width: 62
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd754d488d2a68f80800000000000000
+      internalID: -8104611428581484577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Italo_2_36
+      rect:
+        serializedVersion: 2
+        x: 1762
+        y: 1999
+        width: 39
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cc39aeca86bc92d0800000000000000
+      internalID: -3270538522088883006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Italo_2_37
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1998
+        width: 88
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b188a30a86759a5c0800000000000000
+      internalID: -4203732670297241573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Italo_2_38
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1388
+        width: 584
+        height: 587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5bdabe1c6d768990800000000000000
+      internalID: -7384076635701847206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Italo_2_39
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 1385
+        width: 1301
+        height: 587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a31358e5ee81232b0800000000000000
+      internalID: -5606391174055775942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Italo_2_40
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1139
+        width: 68
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d64921209ecabf00800000000000000
+      internalID: 1133445374664066774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Italo_2_41
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 1139
+        width: 60
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46fa0932c0eccd5b0800000000000000
+      internalID: -5342168506436636828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Italo_2_42
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 1139
+        width: 58
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b20185c0f36732c0800000000000000
+      internalID: -4451979820875578699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Italo_2_43
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 1139
+        width: 38
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1973a286cb3b405e0800000000000000
+      internalID: -1944231517334390895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Italo_2_44
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 1139
+        width: 57
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d47186d76828f8a0800000000000000
+      internalID: -6271218054667864877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Italo_2_45
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 1139
+        width: 62
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67b199a3c8f3762d0800000000000000
+      internalID: -3285587531632403594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Italo_2_46
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 1139
+        width: 38
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ecf34921d337f480800000000000000
+      internalID: -8865560368022029088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Italo_2_47
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 1137
+        width: 141
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ab08c5d644767180800000000000000
+      internalID: -9117972547981800536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Italo_2_48
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 1138
+        width: 59
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 792384561bfaf13b0800000000000000
+      internalID: -5539515840199118185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Italo_2_49
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 1139
+        width: 19
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc2be3759b4a41010800000000000000
+      internalID: 1158732120080691916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Italo_2_50
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 1139
+        width: 18
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9121cb9bd7a3d0e50800000000000000
+      internalID: 6777137325923897881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Italo_2_51
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 1137
+        width: 54
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce5d4d20614a23050800000000000000
+      internalID: 5778861686313506284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Italo_2_52
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 433
+        width: 2064
+        height: 587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04d354d03306c8800800000000000000
+      internalID: 615973021425155392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Italo_2_0: 1544340399537417897
+      Italo_2_1: -5555407263820407729
+      Italo_2_10: -5449598515897716357
+      Italo_2_11: 605536267469291089
+      Italo_2_12: 5841848380988372266
+      Italo_2_13: 4093558490256886746
+      Italo_2_14: 6201725322916807685
+      Italo_2_15: -6696939854810657980
+      Italo_2_16: -2545488018310011921
+      Italo_2_17: 172027651356866556
+      Italo_2_18: -3815332470685547985
+      Italo_2_19: 5004860843998381933
+      Italo_2_2: -1166898771391166507
+      Italo_2_20: -4556568709693317932
+      Italo_2_21: -5132138775558217557
+      Italo_2_22: -4022262185177818417
+      Italo_2_23: -7663439584628538746
+      Italo_2_24: -4615492113317671109
+      Italo_2_25: 927523415296983337
+      Italo_2_26: -8431288005543925463
+      Italo_2_27: 8209900697077574011
+      Italo_2_28: 6544470850716785473
+      Italo_2_29: 7436945648056662827
+      Italo_2_3: -1012383607694373880
+      Italo_2_30: 8961236874383863477
+      Italo_2_31: -2611790020576051282
+      Italo_2_32: -1824019778628771209
+      Italo_2_33: -7658195543850869976
+      Italo_2_34: -1682504597184717389
+      Italo_2_35: -8104611428581484577
+      Italo_2_36: -3270538522088883006
+      Italo_2_37: -4203732670297241573
+      Italo_2_38: -7384076635701847206
+      Italo_2_39: -5606391174055775942
+      Italo_2_4: 4677754397182536398
+      Italo_2_40: 1133445374664066774
+      Italo_2_41: -5342168506436636828
+      Italo_2_42: -4451979820875578699
+      Italo_2_43: -1944231517334390895
+      Italo_2_44: -6271218054667864877
+      Italo_2_45: -3285587531632403594
+      Italo_2_46: -8865560368022029088
+      Italo_2_47: -9117972547981800536
+      Italo_2_48: -5539515840199118185
+      Italo_2_49: 1158732120080691916
+      Italo_2_5: -2831503543831635523
+      Italo_2_50: 6777137325923897881
+      Italo_2_51: 5778861686313506284
+      Italo_2_52: 615973021425155392
+      Italo_2_6: 180367618059813162
+      Italo_2_7: 6134470609932925838
+      Italo_2_8: -6728727315026147129
+      Italo_2_9: 2623842628630291603
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
