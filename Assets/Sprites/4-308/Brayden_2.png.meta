@@ -131,6 +131,12 @@ TextureImporter:
   - first:
       213: 5041213934012132784
     second: Brayden_2_42
+  - first:
+      213: -8403185354657671696
+    second: Brayden_2_43
+  - first:
+      213: -1798950276001418837
+    second: Brayden_2_44
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -163,7 +169,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -174,7 +180,7 @@ TextureImporter:
   compressionQuality: 50
   spriteMode: 2
   spriteExtrude: 1
-  spriteMeshType: 1
+  spriteMeshType: 0
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
@@ -226,543 +232,15 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Brayden_2_0
-      rect:
-        serializedVersion: 2
-        x: 297
-        y: 3070
-        width: 27
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9e03fe5238ad70ee0800000000000000
-      internalID: -1294826111033724695
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Brayden_2_1
-      rect:
-        serializedVersion: 2
-        x: 324
-        y: 3069
-        width: 22
-        height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8f4a63afa4215d730800000000000000
-      internalID: 4023141955360171256
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Brayden_2_2
-      rect:
-        serializedVersion: 2
-        x: 346
-        y: 3043
-        width: 792
-        height: 157
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 507a32bdcf17dcb20800000000000000
-      internalID: 3156304244678829829
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Brayden_2_3
-      rect:
-        serializedVersion: 2
-        x: 1874
-        y: 3070
-        width: 99
-        height: 37
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: cd7c9224afb0e9c50800000000000000
-      internalID: 6673784867289417692
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Brayden_2_4
-      rect:
-        serializedVersion: 2
-        x: 1970
-        y: 3056
-        width: 202
-        height: 19
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 377228b5aab563e60800000000000000
-      internalID: 7941635780152272755
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Brayden_2_5
-      rect:
-        serializedVersion: 2
-        x: 334
-        y: 2868
-        width: 67
-        height: 82
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e4b2ed8511b27a1e0800000000000000
-      internalID: -2186731740559692978
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Brayden_2_6
-      rect:
-        serializedVersion: 2
-        x: 407
-        y: 2865
-        width: 17
-        height: 85
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: bc645298255f0c7f0800000000000000
-      internalID: -594205415975860533
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Brayden_2_7
-      rect:
-        serializedVersion: 2
-        x: 1145
-        y: 2864
-        width: 78
-        height: 89
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 39d92d76a71b05180800000000000000
-      internalID: -9128601305394012781
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Brayden_2_8
-      rect:
-        serializedVersion: 2
-        x: 1290
-        y: 2934
-        width: 18
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9b3f9f2d604bb3cc0800000000000000
-      internalID: -3730189924943924295
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Brayden_2_9
-      rect:
-        serializedVersion: 2
-        x: 1721
-        y: 2864
-        width: 83
-        height: 89
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6e9ba72f8c1045080800000000000000
-      internalID: -9199726176237864474
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Brayden_2_10
-      rect:
-        serializedVersion: 2
-        x: 1810
-        y: 2864
-        width: 59
-        height: 88
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b1e720c8eb9e373a0800000000000000
-      internalID: -6668729618603540965
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Brayden_2_11
-      rect:
-        serializedVersion: 2
-        x: 1923
-        y: 2864
-        width: 36
-        height: 85
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 410853b9291dc0de0800000000000000
-      internalID: -1365486159400697836
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Brayden_2_12
-      rect:
-        serializedVersion: 2
-        x: 2078
-        y: 2865
-        width: 18
-        height: 88
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 00024c69bb9b27df0800000000000000
-      internalID: -183880419429310464
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Brayden_2_13
-      rect:
-        serializedVersion: 2
-        x: 429
-        y: 2864
-        width: 61
-        height: 66
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c86ae7eb82a733e90800000000000000
-      internalID: -7047154676491442548
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Brayden_2_14
-      rect:
-        serializedVersion: 2
-        x: 492
-        y: 2841
-        width: 56
-        height: 89
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5685f5baab720d630800000000000000
-      internalID: 3949700555896477797
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Brayden_2_15
-      rect:
-        serializedVersion: 2
-        x: 548
-        y: 2864
-        width: 59
-        height: 66
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 042113a67551a78e0800000000000000
-      internalID: -1695018844563631552
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Brayden_2_16
-      rect:
-        serializedVersion: 2
-        x: 613
-        y: 2865
-        width: 37
-        height: 65
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0509ae92c6e5db450800000000000000
-      internalID: 6106140488436977744
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Brayden_2_17
-      rect:
-        serializedVersion: 2
-        x: 1224
-        y: 2865
-        width: 61
-        height: 65
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d805fabe8e9a64b00800000000000000
-      internalID: 812523600638595213
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Brayden_2_18
-      rect:
-        serializedVersion: 2
-        x: 1290
-        y: 2865
-        width: 18
-        height: 65
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9f3d36b61c8c0da00800000000000000
-      internalID: 779343468591043577
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Brayden_2_19
-      rect:
-        serializedVersion: 2
-        x: 1316
-        y: 2865
-        width: 55
-        height: 65
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6966a72867ddcd520800000000000000
-      internalID: 2728298975344617110
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Brayden_2_20
-      rect:
-        serializedVersion: 2
-        x: 1871
-        y: 2864
-        width: 54
-        height: 66
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 067e5f70cac455d50800000000000000
-      internalID: 6725365920299345760
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Brayden_2_21
-      rect:
-        serializedVersion: 2
-        x: 1959
-        y: 2864
-        width: 59
-        height: 67
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f79368710ffe621d0800000000000000
-      internalID: -3375747056201746049
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Brayden_2_22
-      rect:
-        serializedVersion: 2
-        x: 2021
-        y: 2864
-        width: 56
-        height: 66
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: fd8c460fcd2bbd7f0800000000000000
-      internalID: -586678664446031649
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Brayden_2_23
-      rect:
-        serializedVersion: 2
-        x: 2100
-        y: 2864
-        width: 59
-        height: 67
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 13e6dc4b98cd77980800000000000000
-      internalID: -8541115684282864079
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: Brayden_2_24
       rect:
         serializedVersion: 2
-        x: 209
-        y: 2212
-        width: 583
-        height: 579
+        x: 329
+        y: 2321
+        width: 221
+        height: 335
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -779,12 +257,12 @@ TextureImporter:
       name: Brayden_2_25
       rect:
         serializedVersion: 2
-        x: 973
-        y: 2218
-        width: 587
-        height: 587
+        x: 1114
+        y: 2382
+        width: 253
+        height: 307
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -801,12 +279,12 @@ TextureImporter:
       name: Brayden_2_26
       rect:
         serializedVersion: 2
-        x: 1695
-        y: 2216
-        width: 582
-        height: 576
+        x: 1875
+        y: 2322
+        width: 136
+        height: 326
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -823,12 +301,12 @@ TextureImporter:
       name: Brayden_2_27
       rect:
         serializedVersion: 2
-        x: 211
-        y: 1393
-        width: 583
-        height: 699
+        x: 364
+        y: 1548
+        width: 277
+        height: 377
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -842,81 +320,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Brayden_2_28
-      rect:
-        serializedVersion: 2
-        x: 367
-        y: 2004
-        width: 80
-        height: 89
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: eed3a80b91138f490800000000000000
-      internalID: -7712360375466181138
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Brayden_2_29
-      rect:
-        serializedVersion: 2
-        x: 979
-        y: 1393
-        width: 1303
-        height: 701
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 847f0f9c21cb501e0800000000000000
-      internalID: -2232171251408767160
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Brayden_2_30
-      rect:
-        serializedVersion: 2
-        x: 897
-        y: 1143
-        width: 68
-        height: 88
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 985972b3bc7460df0800000000000000
-      internalID: -214404994057136759
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: Brayden_2_31
       rect:
         serializedVersion: 2
-        x: 967
-        y: 1143
-        width: 61
-        height: 67
+        x: 1157
+        y: 1567
+        width: 1027
+        height: 324
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -930,243 +342,23 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Brayden_2_32
+      name: Brayden_2_44
       rect:
         serializedVersion: 2
-        x: 1032
-        y: 1143
-        width: 56
-        height: 66
+        x: 410
+        y: 679
+        width: 1706
+        height: 224
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fa8d380f33560ad40800000000000000
-      internalID: 5593582010947066031
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Brayden_2_33
-      rect:
-        serializedVersion: 2
-        x: 1095
-        y: 1143
-        width: 37
-        height: 66
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: faa8cfedc81ca71f0800000000000000
-      internalID: -1046311152629544273
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Brayden_2_34
-      rect:
-        serializedVersion: 2
-        x: 1129
-        y: 1143
-        width: 57
-        height: 87
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 92bdd2c491706f0d0800000000000000
-      internalID: -3389513864316069079
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Brayden_2_35
-      rect:
-        serializedVersion: 2
-        x: 1191
-        y: 1143
-        width: 61
-        height: 67
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 57be005805daca000800000000000000
-      internalID: 48604257334651765
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Brayden_2_36
-      rect:
-        serializedVersion: 2
-        x: 1256
-        y: 1143
-        width: 38
-        height: 67
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c7f1b5d2a5ae98dd0800000000000000
-      internalID: -2483196046489215108
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Brayden_2_37
-      rect:
-        serializedVersion: 2
-        x: 1288
-        y: 1143
-        width: 139
-        height: 88
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9a454d6b819af6f00800000000000000
-      internalID: 1112293556595479721
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Brayden_2_38
-      rect:
-        serializedVersion: 2
-        x: 1425
-        y: 1143
-        width: 58
-        height: 67
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0c5d2456ce0abdbd0800000000000000
-      internalID: -2604311022332095040
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Brayden_2_39
-      rect:
-        serializedVersion: 2
-        x: 1488
-        y: 1143
-        width: 18
-        height: 88
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1c1ed6d41970e6e30800000000000000
-      internalID: 4498541398440403393
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Brayden_2_40
-      rect:
-        serializedVersion: 2
-        x: 1513
-        y: 1143
-        width: 19
-        height: 88
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a5ee381e8288d82a0800000000000000
-      internalID: -6733576158685434278
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Brayden_2_41
-      rect:
-        serializedVersion: 2
-        x: 1537
-        y: 1143
-        width: 52
-        height: 67
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9745675d2e52b1200800000000000000
-      internalID: 151756668621182073
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Brayden_2_42
-      rect:
-        serializedVersion: 2
-        x: 219
-        y: 437
-        width: 2066
-        height: 583
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0bdea8d0d5df5f540800000000000000
-      internalID: 5041213934012132784
+      spriteID: ba138565148d807e0800000000000000
+      internalID: -1798950276001418837
       vertices: []
       indices: 
       edges: []
@@ -1175,7 +367,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: f8592c6fbc8369d4eac8847442613e0b
     internalID: 0
     vertices: []
     indices: 
@@ -1223,6 +415,8 @@ TextureImporter:
       Brayden_2_40: -6733576158685434278
       Brayden_2_41: 151756668621182073
       Brayden_2_42: 5041213934012132784
+      Brayden_2_43: -8403185354657671696
+      Brayden_2_44: -1798950276001418837
       Brayden_2_5: -2186731740559692978
       Brayden_2_6: -594205415975860533
       Brayden_2_7: -9128601305394012781

@@ -37,7 +37,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -48,7 +48,7 @@ TextureImporter:
   compressionQuality: 50
   spriteMode: 2
   spriteExtrude: 1
-  spriteMeshType: 1
+  spriteMeshType: 0
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
@@ -103,12 +103,12 @@ TextureImporter:
       name: Jose_2_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 2500
-        height: 3277
+        x: 301
+        y: 2230
+        width: 289
+        height: 456
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -121,11 +121,121 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: Jose_2_1
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 2412
+        width: 270
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a096b61147e7d340bb4a1d907939b91
+      internalID: 332680470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jose_2_2
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 2447
+        width: 405
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25145804ab5f6d248950c7445d145dea
+      internalID: 571917053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jose_2_3
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1496
+        width: 280
+        height: 372
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 872c5826cb9ad4c48939d6f0f7374f7a
+      internalID: -182320349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jose_2_4
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 1569
+        width: 746
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c2e02e39929b6e4fa505e60abf3215d
+      internalID: -827856753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jose_2_5
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 702
+        width: 1209
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d1d9c35b73503b44abe60a2c21c39f5
+      internalID: -1151402962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 66173fad2a7853f4b97dbed483347aaf
     internalID: 0
     vertices: []
     indices: 
@@ -136,6 +246,11 @@ TextureImporter:
       entries: []
     nameFileIdTable:
       Jose_2_0: -762031521818023257
+      Jose_2_1: 332680470
+      Jose_2_2: 571917053
+      Jose_2_3: -182320349
+      Jose_2_4: -827856753
+      Jose_2_5: -1151402962
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
