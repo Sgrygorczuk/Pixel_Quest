@@ -90,7 +90,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7614462144513345286, guid: 1cf706498726803438db93b5e77aba93, type: 3}
       propertyPath: nextLevel
-      value: PS132_Example_With Art
+      value: Menu
       objectReference: {fileID: 0}
     - target: {fileID: 8837262210598298804, guid: 1cf706498726803438db93b5e77aba93, type: 3}
       propertyPath: m_Size.x

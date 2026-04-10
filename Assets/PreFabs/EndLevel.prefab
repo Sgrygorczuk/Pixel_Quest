@@ -46,7 +46,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fae53818d52942e4ba147b55f72f1a48, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  nextLevel: PS132_Example_With Art
+  nextLevel: Menu
 --- !u!61 &8837262210598298804
 BoxCollider2D:
   m_ObjectHideFlags: 0
