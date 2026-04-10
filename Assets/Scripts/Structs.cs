@@ -10,7 +10,8 @@ public class Structs
         public const string heart = "Heart";
         public const string death = "Death";
         public const string checkpoint = "Checkpoint";
-
+        public const string jump = "Jump";
+        public const string win = "Win";
     }
 
     public struct Tags

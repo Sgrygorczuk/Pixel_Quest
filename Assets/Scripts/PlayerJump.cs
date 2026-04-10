@@ -25,10 +25,13 @@ public class PlayerJump : MonoBehaviour
     public LayerMask groundMask;
     private bool _groundCheck;
 
+    private AudioSourceController _controller;
+    
     // Sets gravity vector and connects components 
     void Start() {
         _gravityVector = new Vector2(0, -Physics2D.gravity.y);
         _rigidbody2D = GetComponent<Rigidbody2D>();
+        _controller = GetComponent<AudioSourceController>();
     }
 
     // Update is called once per frame
@@ -40,6 +43,7 @@ public class PlayerJump : MonoBehaviour
         // Checks if player is trying to jump/can jump 
         if (Input.GetKeyDown(KeyCode.Space) && (_groundCheck || _waterCheck))
         {
+            _controller.PlaySFX(Structs.SoundEffects.jump);
             _rigidbody2D.linearVelocity = new Vector2(_rigidbody2D.linearVelocity.x, jumpForce);
         }
 

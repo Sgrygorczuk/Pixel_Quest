@@ -88,10 +88,5 @@ public class UIController : MonoBehaviour
         _sfxSlider.value = PlayerPrefs.GetFloat(Structs.Mixers.sfxVolume);
         _musicSlider.value = PlayerPrefs.GetFloat(Structs.Mixers.musicVolume);
     }
-
-    // Update SFX volume 
-    public void UpdateSFXSlider() { _audioSourceController.UpdateSFXGroup(_sfxSlider.value); }
-
-    // Update Music Volume 
-    public void UpdateMuiscSlider() {    _audioSourceController.UpdateMusicGroup(_musicSlider.value);}
+    
 }

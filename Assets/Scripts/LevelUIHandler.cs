@@ -1,3 +1,5 @@
+using System.Collections;
+using System.Collections.Generic;
 using System.IO;
 using UnityEngine;
 using UnityEngine.UI;
@@ -9,8 +11,15 @@ public class LevelUIHandler : MonoBehaviour
     public Transform logoUI;
     public Transform logoButtonContainer;
     public Transform levelSelectUI; // The object with the GridLayoutGroup
+    public Image fadeImage;
+    Color startColor = new Color(0,0,0,0);
+    Color endColor = new Color(0,0,0,1);
+    private AudioSource buttonSFX;
+    public AudioClip sfx;
+    public string levelName;
 
     private void Start() {
+        buttonSFX = GetComponent<AudioSource>();
         CreateCategoryButtons();
     }
 
@@ -31,6 +40,7 @@ public class LevelUIHandler : MonoBehaviour
     }
 
     private void SelectGroup(int index) {
+        PlayButtonSFX();
         logoUI.gameObject.SetActive(false);
         levelSelectUI.gameObject.SetActive(true);
         PopulateLevels(index);
@@ -84,14 +94,44 @@ public class LevelUIHandler : MonoBehaviour
             Destroy(child.gameObject);
         }
     }
+    
+    public float duration = 1.0f;
+
+    private void StartFadeIn() {
+        StartCoroutine(Fade());
+    }
+
+    private IEnumerator Fade()
+    {
+        fadeImage.gameObject.SetActive(true);
+        float counter = 0f;
+
+        while (counter < duration)
+        {
+            counter += Time.deltaTime;
+            fadeImage.color = Color.Lerp(startColor, endColor, counter / duration);            
+            yield return null;
+        }
+
+        fadeImage.color = endColor;
+        UnityEngine.SceneManagement.SceneManager.LoadScene(LevelManager.Instance.CurrentLevel);
+    }
+
 
     private void LoadLevel(string name)
     {
-        UnityEngine.SceneManagement.SceneManager.LoadScene(name);
+        PlayButtonSFX();
+        LevelManager.Instance.CurrentLevel = name;
+        StartFadeIn();
     }
 
     private void BackToMenu() {
+        PlayButtonSFX();
         logoUI.gameObject.SetActive(true);
         levelSelectUI.gameObject.SetActive(false);
+    }
+
+    private void PlayButtonSFX() {
+        buttonSFX.PlayOneShot(sfx);
     }
 }

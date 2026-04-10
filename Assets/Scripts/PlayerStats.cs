@@ -5,31 +5,13 @@ using UnityEngine.SceneManagement;
 
 public class PlayerStats : MonoBehaviour
 {
-    // Componets 
-    private Rigidbody2D _rigidbody2D;
-/*    private AudioSourceController _audioSourceController;
-    private UIController _uIController;*/
+    private InGameFadeOut fadeOut;
+    private AudioSourceController _controller;
 
-    // Resapwn 
-/*    public Transform _respawnPoint;*/
-
-    // Counters 
-    public int _playerLife = 1;
-/*    private float _maxHealth = 3.0f; 
-    public int _playerCoin = 0;
-*/
-    // Start is called before the first frame update
     void Start()
     {
-        _rigidbody2D = GetComponent<Rigidbody2D>();
-/*        _audioSourceController = GameObject.FindAnyObjectByType<AudioSourceController>();
-        _uIController = GameObject.FindAnyObjectByType<UIController>();*/
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
+        fadeOut = GetComponent<InGameFadeOut>(); 
+        _controller = GetComponent<AudioSourceController>();
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
@@ -38,58 +20,38 @@ public class PlayerStats : MonoBehaviour
         string colTag = collision.tag;
 
 
-        // Switches between diffrent actions 
+        // Switches between different actions 
         switch (colTag)
         {
             // Player dies 
             case Structs.Tags.deathTag:
                 {
-                    // Stops player from moving, moves them to the new positon and takes away one life 
-/*                    _rigidbody2D.linearVelocity = Vector2.zero;
-                    transform.position = _respawnPoint.position;
-                    _playerLife--;
-                    _uIController.HeartImageUpdate(_playerLife / _maxHealth);
-                    _audioSourceController.PlaySFX(Structs.SoundEffects.death);*/
-                    // If the player has 0 or less lives reset the level 
-                    string SceneName = SceneManager.GetActiveScene().name;
-                    SceneManager.LoadScene(SceneName);
+                    _controller.PlaySFX(Structs.SoundEffects.death);
+                    string sceneName = SceneManager.GetActiveScene().name;
+                    // Stops player from moving, moves them to the new position and takes away one life 
+                    fadeOut.StartFadeIn(() => {
+                        Debug.Log(sceneName);
+                        SceneManager.LoadScene(sceneName);
+                    });
                     return;
                 }
-            // Player gains health 
-/*            case Structs.Tags.healthTag:
-                {
-                    if (_playerLife >= 3) { return; }
-                    // Gain one health and destory the object 
-                    _playerLife++;
-                    _uIController.HeartImageUpdate(_playerLife / _maxHealth);
-                    _audioSourceController.PlaySFX(Structs.SoundEffects.heart);
-                    Destroy(collision.gameObject);
-                    return;
-                }*/
-            // Gain Coin 
             case Structs.Tags.coinTag:
                 {
-                    // Gain one coin and destory the object 
-/*                    _playerCoin++;
-*//*                    _uIController.CoinTextUpdate(_playerCoin);
-                    _audioSourceController.PlaySFX(Structs.SoundEffects.coin);*/
+                    _controller.PlaySFX(Structs.SoundEffects.coin);
                     Destroy(collision.gameObject);
                     return;
                 }
-            // Update Respawn Point 
-/*            case Structs.Tags.respawnTag:
-                {
-                    // Saves the collison points location to the respawn transform 
-                    _audioSourceController.PlaySFX(Structs.SoundEffects.checkpoint);
-                    _respawnPoint = collision.gameObject.transform.Find("Point").transform;
-                    return;
-                }*/
             // Player Ends Level 
             case Structs.Tags.finishTag:
                 {
+                    _controller.PlaySFX(Structs.SoundEffects.win);
+                    string levelName = collision.GetComponent<EndLevel>().nextLevel;
                     // Gets level name from the object and gets moved there 
-                    string nextLevel = collision.GetComponent<EndLevel>().nextLevel;
-                    SceneManager.LoadScene(nextLevel);
+                    fadeOut.StartFadeIn(() => 
+                    {
+                        Debug.Log(levelName);
+                        SceneManager.LoadScene(levelName);
+                    });
                     return;
                 }
         }

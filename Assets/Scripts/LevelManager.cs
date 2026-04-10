@@ -8,6 +8,7 @@ public class LevelManager : MonoBehaviour
     public static LevelManager Instance;
     public List<string> folderPath = new List<string>();
     public List<LevelData> levelData = new List<LevelData>();
+    public string CurrentLevel { get; set; } = "Level1";
     
     private void Awake() {
         // Ensure only one instance exists
