@@ -64,6 +64,10 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 0.21
       objectReference: {fileID: 0}
+    - target: {fileID: 1777317146710641304, guid: 44575cc98f71ac348855dc4ce691745d, type: 3}
+      propertyPath: blackFadePanel
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 3203785547804244697, guid: 44575cc98f71ac348855dc4ce691745d, type: 3}
       propertyPath: coinSFX
       value: 
@@ -99,7 +103,8 @@ PrefabInstance:
     m_RemovedComponents:
     - {fileID: 3803625911697025768, guid: 44575cc98f71ac348855dc4ce691745d, type: 3}
     - {fileID: 1416851721277543959, guid: 44575cc98f71ac348855dc4ce691745d, type: 3}
-    m_RemovedGameObjects: []
+    m_RemovedGameObjects:
+    - {fileID: 1889039008707866534, guid: 44575cc98f71ac348855dc4ce691745d, type: 3}
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 44575cc98f71ac348855dc4ce691745d, type: 3}
