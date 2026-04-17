@@ -1490,7 +1490,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5405078401680251984, guid: b7b9ca70a70479b4bb479fc4b108977b, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 11.56
+      value: 11.91
       objectReference: {fileID: 0}
     - target: {fileID: 5405078401680251984, guid: b7b9ca70a70479b4bb479fc4b108977b, type: 3}
       propertyPath: m_LocalPosition.y
@@ -1932,12 +1932,24 @@ PrefabInstance:
       value: Greyson - Coin (5)
       objectReference: {fileID: 0}
     - target: {fileID: 7032181858012322212, guid: fbb01e283593582429bc66606bcfcf58, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.420342
+      objectReference: {fileID: 0}
+    - target: {fileID: 7032181858012322212, guid: fbb01e283593582429bc66606bcfcf58, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.420342
+      objectReference: {fileID: 0}
+    - target: {fileID: 7032181858012322212, guid: fbb01e283593582429bc66606bcfcf58, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.420342
+      objectReference: {fileID: 0}
+    - target: {fileID: 7032181858012322212, guid: fbb01e283593582429bc66606bcfcf58, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -14.39
+      value: 5.13
       objectReference: {fileID: 0}
     - target: {fileID: 7032181858012322212, guid: fbb01e283593582429bc66606bcfcf58, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -11.04
+      value: -1.46
       objectReference: {fileID: 0}
     - target: {fileID: 7032181858012322212, guid: fbb01e283593582429bc66606bcfcf58, type: 3}
       propertyPath: m_LocalPosition.z

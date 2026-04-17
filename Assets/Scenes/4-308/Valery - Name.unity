@@ -326,7 +326,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: -1100
   m_Sprite: {fileID: 7134822910148168223, guid: eb59f112956863b439bf7ba5b11498de, type: 3}
-  m_Color: {r: 0.6367924, g: 0.61877, b: 0.61877, a: 1}
+  m_Color: {r: 0.9924528, g: 0.9793449, b: 0.9793449, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -381,6 +381,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1380691230}
+  - {fileID: 1830992011}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &639174301
@@ -852,6 +853,68 @@ Transform:
   - {fileID: 2128967414}
   m_Father: {fileID: 1496714847}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &1830992010
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 546295799}
+    m_Modifications:
+    - target: {fileID: 4072369642633632958, guid: 3553bb197364b2d4fb9136e65ff26517, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -8.03
+      objectReference: {fileID: 0}
+    - target: {fileID: 4072369642633632958, guid: 3553bb197364b2d4fb9136e65ff26517, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -9.38
+      objectReference: {fileID: 0}
+    - target: {fileID: 4072369642633632958, guid: 3553bb197364b2d4fb9136e65ff26517, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4072369642633632958, guid: 3553bb197364b2d4fb9136e65ff26517, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4072369642633632958, guid: 3553bb197364b2d4fb9136e65ff26517, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4072369642633632958, guid: 3553bb197364b2d4fb9136e65ff26517, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4072369642633632958, guid: 3553bb197364b2d4fb9136e65ff26517, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4072369642633632958, guid: 3553bb197364b2d4fb9136e65ff26517, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4072369642633632958, guid: 3553bb197364b2d4fb9136e65ff26517, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4072369642633632958, guid: 3553bb197364b2d4fb9136e65ff26517, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4973832795982422491, guid: 3553bb197364b2d4fb9136e65ff26517, type: 3}
+      propertyPath: m_Name
+      value: Dulce - Coin (1)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 3553bb197364b2d4fb9136e65ff26517, type: 3}
+--- !u!4 &1830992011 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4072369642633632958, guid: 3553bb197364b2d4fb9136e65ff26517, type: 3}
+  m_PrefabInstance: {fileID: 1830992010}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &1912351655 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 8544836225771039318, guid: 38e52526397f4f64a964c4ef57ba9547, type: 3}
@@ -1042,6 +1105,18 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1762156297}
     m_Modifications:
+    - target: {fileID: 2128478424531731314, guid: 8b4587ba07e1b23408a6524a3187b179, type: 3}
+      propertyPath: m_Color.b
+      value: 0.74549663
+      objectReference: {fileID: 0}
+    - target: {fileID: 2128478424531731314, guid: 8b4587ba07e1b23408a6524a3187b179, type: 3}
+      propertyPath: m_Color.g
+      value: 0.9019608
+      objectReference: {fileID: 0}
+    - target: {fileID: 2128478424531731314, guid: 8b4587ba07e1b23408a6524a3187b179, type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 4461248312713911794, guid: 8b4587ba07e1b23408a6524a3187b179, type: 3}
       propertyPath: m_Name
       value: ' Valery - Coin'
@@ -1103,6 +1178,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Valery -Square
       objectReference: {fileID: 0}
+    - target: {fileID: 5084173744835702266, guid: 39602b0bd37238947a3c31c910b2a833, type: 3}
+      propertyPath: m_Color.b
+      value: 0.5737629
+      objectReference: {fileID: 0}
+    - target: {fileID: 5084173744835702266, guid: 39602b0bd37238947a3c31c910b2a833, type: 3}
+      propertyPath: m_Color.g
+      value: 0.72350216
+      objectReference: {fileID: 0}
+    - target: {fileID: 5084173744835702266, guid: 39602b0bd37238947a3c31c910b2a833, type: 3}
+      propertyPath: m_Color.r
+      value: 0.85660374
+      objectReference: {fileID: 0}
     - target: {fileID: 5655499626081945532, guid: 39602b0bd37238947a3c31c910b2a833, type: 3}
       propertyPath: m_LocalPosition.x
       value: 4.29
@@ -1156,6 +1243,30 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 4234716309455886784, guid: 3856adcee4aab1840ab6c0bcc3fbc3ab, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.032
+      objectReference: {fileID: 0}
+    - target: {fileID: 4651629597065933755, guid: 3856adcee4aab1840ab6c0bcc3fbc3ab, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.04299996
+      objectReference: {fileID: 0}
+    - target: {fileID: 4651629597065933755, guid: 3856adcee4aab1840ab6c0bcc3fbc3ab, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.037000097
+      objectReference: {fileID: 0}
+    - target: {fileID: 4651629597065933755, guid: 3856adcee4aab1840ab6c0bcc3fbc3ab, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.99995935
+      objectReference: {fileID: 0}
+    - target: {fileID: 4651629597065933755, guid: 3856adcee4aab1840ab6c0bcc3fbc3ab, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.009017549
+      objectReference: {fileID: 0}
+    - target: {fileID: 4651629597065933755, guid: 3856adcee4aab1840ab6c0bcc3fbc3ab, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -1.033
+      objectReference: {fileID: 0}
     - target: {fileID: 4922692240073418626, guid: 3856adcee4aab1840ab6c0bcc3fbc3ab, type: 3}
       propertyPath: m_LocalPosition.x
       value: -10.7
@@ -1195,6 +1306,10 @@ PrefabInstance:
     - target: {fileID: 4922692240073418626, guid: 3856adcee4aab1840ab6c0bcc3fbc3ab, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6474230816944742335, guid: 3856adcee4aab1840ab6c0bcc3fbc3ab, type: 3}
+      propertyPath: MinDistance
+      value: 1.885149
       objectReference: {fileID: 0}
     - target: {fileID: 6494012683705097704, guid: 3856adcee4aab1840ab6c0bcc3fbc3ab, type: 3}
       propertyPath: m_Name
@@ -1257,6 +1372,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Valery - Triangle
       objectReference: {fileID: 0}
+    - target: {fileID: 2583160969698947943, guid: 8d4a3fe083ded5745aa8e3fb94bb5af3, type: 3}
+      propertyPath: m_Color.b
+      value: 0.25880376
+      objectReference: {fileID: 0}
+    - target: {fileID: 2583160969698947943, guid: 8d4a3fe083ded5745aa8e3fb94bb5af3, type: 3}
+      propertyPath: m_Color.g
+      value: 0.25880376
+      objectReference: {fileID: 0}
+    - target: {fileID: 2583160969698947943, guid: 8d4a3fe083ded5745aa8e3fb94bb5af3, type: 3}
+      propertyPath: m_Color.r
+      value: 0.8415094
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1270,9 +1397,33 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1496714847}
     m_Modifications:
+    - target: {fileID: 3317948147653031368, guid: 38e52526397f4f64a964c4ef57ba9547, type: 3}
+      propertyPath: m_Color.b
+      value: 0.37625483
+      objectReference: {fileID: 0}
+    - target: {fileID: 3317948147653031368, guid: 38e52526397f4f64a964c4ef57ba9547, type: 3}
+      propertyPath: m_Color.g
+      value: 0.5886382
+      objectReference: {fileID: 0}
+    - target: {fileID: 3317948147653031368, guid: 38e52526397f4f64a964c4ef57ba9547, type: 3}
+      propertyPath: m_Color.r
+      value: 0.735849
+      objectReference: {fileID: 0}
     - target: {fileID: 7856202235117600661, guid: 38e52526397f4f64a964c4ef57ba9547, type: 3}
       propertyPath: m_Name
       value: ' Valery - EndLevel'
+      objectReference: {fileID: 0}
+    - target: {fileID: 8544836225771039318, guid: 38e52526397f4f64a964c4ef57ba9547, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.524216
+      objectReference: {fileID: 0}
+    - target: {fileID: 8544836225771039318, guid: 38e52526397f4f64a964c4ef57ba9547, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.524216
+      objectReference: {fileID: 0}
+    - target: {fileID: 8544836225771039318, guid: 38e52526397f4f64a964c4ef57ba9547, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.524216
       objectReference: {fileID: 0}
     - target: {fileID: 8544836225771039318, guid: 38e52526397f4f64a964c4ef57ba9547, type: 3}
       propertyPath: m_LocalPosition.x
