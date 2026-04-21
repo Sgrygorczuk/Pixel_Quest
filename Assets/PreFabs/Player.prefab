@@ -119,10 +119,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::AudioSourceController
   _Source: {fileID: 0}
-  coinSFX: {fileID: 8300000, guid: d05270142551b20409033de05bf9854b, type: 3}
-  deathSFX: {fileID: 8300000, guid: d6120bc7153ecbd48a8189d188fbb5d8, type: 3}
+  coinSFX: {fileID: 8300000, guid: 38df651638b0e3e43b1195eda93c6b06, type: 3}
+  deathSFX: {fileID: 8300000, guid: 750e486891e96ef43a65966bd7f6a9c2, type: 3}
   jumpSFX: {fileID: 8300000, guid: 86726e181205dd444bed1bc7a085fdd1, type: 3}
-  winSFX: {fileID: 8300000, guid: 193b356f93584644aa459d1dbc84de64, type: 3}
+  winSFX: {fileID: 8300000, guid: 4feb9bc0eb1575d49bc7428a006aeb2c, type: 3}
 --- !u!61 &4379542632069120457
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -514,9 +514,9 @@ AudioSource:
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 0}
-  m_Resource: {fileID: 8300000, guid: d1daa05641fae1544bb89028930be1ca, type: 3}
+  m_Resource: {fileID: 8300000, guid: 8eec9acdbaff5bb40a858428d84a12f6, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 0.136
+  m_Volume: 0.061
   m_Pitch: 1
   Loop: 1
   Mute: 0

@@ -13,7 +13,7 @@ public class InGameFadeOut : MonoBehaviour
 
     private void Start() {
         TextMeshProUGUI text = namePanel.gameObject.GetComponentInChildren<TextMeshProUGUI>();
-        text.text = LevelManager.Instance.CurrentLevel;
+        if (LevelManager.Instance) { text.text = LevelManager.Instance.CurrentLevel; }
         StartCoroutine(FadeSequence());
     }
 

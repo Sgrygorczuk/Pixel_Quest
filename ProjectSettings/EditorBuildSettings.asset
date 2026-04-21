@@ -81,10 +81,10 @@ EditorBuildSettings:
     path: Assets/Scenes/4-308/Franciso - Name.unity
     guid: 8860b1ad9e5fa5c4a85ca5f556d25d52
   - enabled: 1
-    path: Assets/Scenes/4-308/Gael - Name.unity
+    path: Assets/Scenes/4-308/Gael - Geometry Meltdown.unity
     guid: fde190d17a2a46d48a7cd320ef814466
   - enabled: 1
-    path: Assets/Scenes/4-308/Greyson - Name.unity
+    path: Assets/Scenes/4-308/Greyson - crafting adventure.unity
     guid: 8616161a83a15ab4faee0b41594f3d6a
   - enabled: 1
     path: Assets/Scenes/4-308/Italo - Name.unity
