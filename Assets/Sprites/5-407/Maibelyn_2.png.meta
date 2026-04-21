@@ -1,0 +1,489 @@
+fileFormatVersion: 2
+guid: 8d401512e5f08f94dbc80b51d6f39149
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1416926048874593878
+    second: Maibelyn_2_0
+  - first:
+      213: -7608310765538085967
+    second: Maibelyn_2_1
+  - first:
+      213: -6534880276657021609
+    second: Maibelyn_2_2
+  - first:
+      213: -6421599755971358414
+    second: Maibelyn_2_3
+  - first:
+      213: -8766037704402857454
+    second: Maibelyn_2_4
+  - first:
+      213: 4443323364369797957
+    second: Maibelyn_2_5
+  - first:
+      213: 5112847766344515632
+    second: Maibelyn_2_6
+  - first:
+      213: -1025233933802567730
+    second: Maibelyn_2_7
+  - first:
+      213: 5077888217444603590
+    second: Maibelyn_2_8
+  - first:
+      213: 3680505433598480828
+    second: Maibelyn_2_9
+  - first:
+      213: -2844566625368545653
+    second: Maibelyn_2_10
+  - first:
+      213: 8532438117911925411
+    second: Maibelyn_2_11
+  - first:
+      213: 728408954403299823
+    second: Maibelyn_2_12
+  - first:
+      213: -4440054842409610928
+    second: Maibelyn_2_13
+  - first:
+      213: -8164851922282665446
+    second: Maibelyn_2_14
+  - first:
+      213: -56122177301606739
+    second: Maibelyn_2_15
+  - first:
+      213: 962966872507988135
+    second: Maibelyn_2_16
+  - first:
+      213: 1389459608384544367
+    second: Maibelyn_2_17
+  - first:
+      213: 3791607240487447499
+    second: Maibelyn_2_18
+  - first:
+      213: 4265260311798431938
+    second: Maibelyn_2_19
+  - first:
+      213: -6266495196656692125
+    second: Maibelyn_2_20
+  - first:
+      213: -7510342383454868723
+    second: Maibelyn_2_21
+  - first:
+      213: 6804828757645375731
+    second: Maibelyn_2_22
+  - first:
+      213: 3472230080405983295
+    second: Maibelyn_2_23
+  - first:
+      213: -2660195088530231623
+    second: Maibelyn_2_24
+  - first:
+      213: 5871997842874845763
+    second: Maibelyn_2_25
+  - first:
+      213: 2931149211529163066
+    second: Maibelyn_2_26
+  - first:
+      213: 4162502875553968124
+    second: Maibelyn_2_27
+  - first:
+      213: -5547277676498148031
+    second: Maibelyn_2_28
+  - first:
+      213: -6764372224990910176
+    second: Maibelyn_2_29
+  - first:
+      213: 7020229358368461709
+    second: Maibelyn_2_30
+  - first:
+      213: -207130211542792221
+    second: Maibelyn_2_31
+  - first:
+      213: -751162146170758647
+    second: Maibelyn_2_32
+  - first:
+      213: 7112793928692974773
+    second: Maibelyn_2_33
+  - first:
+      213: 4038519311341436131
+    second: Maibelyn_2_34
+  - first:
+      213: -1156448550940305691
+    second: Maibelyn_2_35
+  - first:
+      213: -7569111902837054191
+    second: Maibelyn_2_36
+  - first:
+      213: 6627141097925821169
+    second: Maibelyn_2_37
+  - first:
+      213: 471269091692644567
+    second: Maibelyn_2_38
+  - first:
+      213: -7827885136323962721
+    second: Maibelyn_2_39
+  - first:
+      213: 2987031804553678485
+    second: Maibelyn_2_40
+  - first:
+      213: 5694661134946264272
+    second: Maibelyn_2_41
+  - first:
+      213: 6897345690639751145
+    second: Maibelyn_2_42
+  - first:
+      213: 7764924100778458968
+    second: Maibelyn_2_43
+  - first:
+      213: 3999718912554253692
+    second: Maibelyn_2_44
+  - first:
+      213: -2880004134010474360
+    second: Maibelyn_2_45
+  - first:
+      213: -685034717123014409
+    second: Maibelyn_2_46
+  - first:
+      213: 8015129649963715742
+    second: Maibelyn_2_47
+  - first:
+      213: -8186072279647473405
+    second: Maibelyn_2_48
+  - first:
+      213: -8447568206347288242
+    second: Maibelyn_2_49
+  - first:
+      213: 8547719815007265538
+    second: Maibelyn_2_50
+  - first:
+      213: 7982612517841687358
+    second: Maibelyn_2_51
+  - first:
+      213: -39514363444994621
+    second: Maibelyn_2_52
+  - first:
+      213: -7123460760681229206
+    second: Maibelyn_2_53
+  - first:
+      213: -2892488639284916364
+    second: Maibelyn_2_54
+  - first:
+      213: 3494209751182331382
+    second: Maibelyn_2_55
+  - first:
+      213: 2630903538427901641
+    second: Maibelyn_2_56
+  - first:
+      213: -1140214662140478796
+    second: Maibelyn_2_57
+  - first:
+      213: -1751293500594747970
+    second: Maibelyn_2_58
+  - first:
+      213: 3816765436800909220
+    second: Maibelyn_2_59
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Maibelyn_2_30
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 2351
+        width: 292
+        height: 268
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d83125b186ddc6160800000000000000
+      internalID: 7020229358368461709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maibelyn_2_31
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 2322
+        width: 251
+        height: 213
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e78db68b20202df0800000000000000
+      internalID: -207130211542792221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maibelyn_2_32
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 2286
+        width: 309
+        height: 336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90a95c402065395f0800000000000000
+      internalID: -751162146170758647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maibelyn_2_43
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1426
+        width: 522
+        height: 519
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85ff4ce445d82cb60800000000000000
+      internalID: 7764924100778458968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maibelyn_2_44
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 1615
+        width: 812
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7d3538d82bd18730800000000000000
+      internalID: 3999718912554253692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maibelyn_2_59
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 469
+        width: 2018
+        height: 520
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4afb18351ffd7f430800000000000000
+      internalID: 3816765436800909220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: cd06d38cccd238745abd71996f42a35d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Maibelyn_2_0: 1416926048874593878
+      Maibelyn_2_1: -7608310765538085967
+      Maibelyn_2_10: -2844566625368545653
+      Maibelyn_2_11: 8532438117911925411
+      Maibelyn_2_12: 728408954403299823
+      Maibelyn_2_13: -4440054842409610928
+      Maibelyn_2_14: -8164851922282665446
+      Maibelyn_2_15: -56122177301606739
+      Maibelyn_2_16: 962966872507988135
+      Maibelyn_2_17: 1389459608384544367
+      Maibelyn_2_18: 3791607240487447499
+      Maibelyn_2_19: 4265260311798431938
+      Maibelyn_2_2: -6534880276657021609
+      Maibelyn_2_20: -6266495196656692125
+      Maibelyn_2_21: -7510342383454868723
+      Maibelyn_2_22: 6804828757645375731
+      Maibelyn_2_23: 3472230080405983295
+      Maibelyn_2_24: -2660195088530231623
+      Maibelyn_2_25: 5871997842874845763
+      Maibelyn_2_26: 2931149211529163066
+      Maibelyn_2_27: 4162502875553968124
+      Maibelyn_2_28: -5547277676498148031
+      Maibelyn_2_29: -6764372224990910176
+      Maibelyn_2_3: -6421599755971358414
+      Maibelyn_2_30: 7020229358368461709
+      Maibelyn_2_31: -207130211542792221
+      Maibelyn_2_32: -751162146170758647
+      Maibelyn_2_33: 7112793928692974773
+      Maibelyn_2_34: 4038519311341436131
+      Maibelyn_2_35: -1156448550940305691
+      Maibelyn_2_36: -7569111902837054191
+      Maibelyn_2_37: 6627141097925821169
+      Maibelyn_2_38: 471269091692644567
+      Maibelyn_2_39: -7827885136323962721
+      Maibelyn_2_4: -8766037704402857454
+      Maibelyn_2_40: 2987031804553678485
+      Maibelyn_2_41: 5694661134946264272
+      Maibelyn_2_42: 6897345690639751145
+      Maibelyn_2_43: 7764924100778458968
+      Maibelyn_2_44: 3999718912554253692
+      Maibelyn_2_45: -2880004134010474360
+      Maibelyn_2_46: -685034717123014409
+      Maibelyn_2_47: 8015129649963715742
+      Maibelyn_2_48: -8186072279647473405
+      Maibelyn_2_49: -8447568206347288242
+      Maibelyn_2_5: 4443323364369797957
+      Maibelyn_2_50: 8547719815007265538
+      Maibelyn_2_51: 7982612517841687358
+      Maibelyn_2_52: -39514363444994621
+      Maibelyn_2_53: -7123460760681229206
+      Maibelyn_2_54: -2892488639284916364
+      Maibelyn_2_55: 3494209751182331382
+      Maibelyn_2_56: 2630903538427901641
+      Maibelyn_2_57: -1140214662140478796
+      Maibelyn_2_58: -1751293500594747970
+      Maibelyn_2_59: 3816765436800909220
+      Maibelyn_2_6: 5112847766344515632
+      Maibelyn_2_7: -1025233933802567730
+      Maibelyn_2_8: 5077888217444603590
+      Maibelyn_2_9: 3680505433598480828
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,477 @@
+fileFormatVersion: 2
+guid: 87fe29241b33bd743b416565451df7f0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7127075445033775553
+    second: Nataly_2_0
+  - first:
+      213: 7872302466024107763
+    second: Nataly_2_1
+  - first:
+      213: 7683095042518553551
+    second: Nataly_2_2
+  - first:
+      213: 5735515753136688988
+    second: Nataly_2_3
+  - first:
+      213: 7082038163844620477
+    second: Nataly_2_4
+  - first:
+      213: 2849030217465728308
+    second: Nataly_2_5
+  - first:
+      213: -3028013771288491872
+    second: Nataly_2_6
+  - first:
+      213: 9158376010766780345
+    second: Nataly_2_7
+  - first:
+      213: 7133718351759776441
+    second: Nataly_2_8
+  - first:
+      213: 7808467920229107642
+    second: Nataly_2_9
+  - first:
+      213: -1718797161912611231
+    second: Nataly_2_10
+  - first:
+      213: 3250760762136901698
+    second: Nataly_2_11
+  - first:
+      213: 4129787523044922558
+    second: Nataly_2_12
+  - first:
+      213: -8411688213168862414
+    second: Nataly_2_13
+  - first:
+      213: 1332158187599018468
+    second: Nataly_2_14
+  - first:
+      213: -4699997216691109402
+    second: Nataly_2_15
+  - first:
+      213: 1294709982414371462
+    second: Nataly_2_16
+  - first:
+      213: -8532541182162371250
+    second: Nataly_2_17
+  - first:
+      213: 2664001879084334867
+    second: Nataly_2_18
+  - first:
+      213: 4363949891813487901
+    second: Nataly_2_19
+  - first:
+      213: -6823466885611440480
+    second: Nataly_2_20
+  - first:
+      213: 8754241756456574868
+    second: Nataly_2_21
+  - first:
+      213: 2753183267725855010
+    second: Nataly_2_22
+  - first:
+      213: -2739346405821537694
+    second: Nataly_2_23
+  - first:
+      213: -4462017335214954386
+    second: Nataly_2_24
+  - first:
+      213: 2221604057446633257
+    second: Nataly_2_25
+  - first:
+      213: -7302901327203651746
+    second: Nataly_2_26
+  - first:
+      213: 4159858945125376574
+    second: Nataly_2_27
+  - first:
+      213: 4012999570244034159
+    second: Nataly_2_28
+  - first:
+      213: 7513316170280189391
+    second: Nataly_2_29
+  - first:
+      213: 7839140783912519959
+    second: Nataly_2_30
+  - first:
+      213: -5778349040062165693
+    second: Nataly_2_31
+  - first:
+      213: -2308508863889419759
+    second: Nataly_2_32
+  - first:
+      213: -6405441695934518221
+    second: Nataly_2_33
+  - first:
+      213: -7732950073874077571
+    second: Nataly_2_34
+  - first:
+      213: -2527928647523247833
+    second: Nataly_2_35
+  - first:
+      213: 6694254942906083950
+    second: Nataly_2_36
+  - first:
+      213: 5880979120114452672
+    second: Nataly_2_37
+  - first:
+      213: 6899363936337177801
+    second: Nataly_2_38
+  - first:
+      213: -2565915498140477527
+    second: Nataly_2_39
+  - first:
+      213: -4668874039161237465
+    second: Nataly_2_40
+  - first:
+      213: 7381847006379142745
+    second: Nataly_2_41
+  - first:
+      213: -908898016431449992
+    second: Nataly_2_42
+  - first:
+      213: 5988164583370871913
+    second: Nataly_2_43
+  - first:
+      213: -8776354204038342556
+    second: Nataly_2_44
+  - first:
+      213: -8084901675479077132
+    second: Nataly_2_45
+  - first:
+      213: -8289459249807610064
+    second: Nataly_2_46
+  - first:
+      213: 3261569560611763869
+    second: Nataly_2_47
+  - first:
+      213: 6296164632418015093
+    second: Nataly_2_48
+  - first:
+      213: -995025084129490180
+    second: Nataly_2_49
+  - first:
+      213: 175769323385588187
+    second: Nataly_2_50
+  - first:
+      213: -5821509052629039932
+    second: Nataly_2_51
+  - first:
+      213: -2549485541575029725
+    second: Nataly_2_52
+  - first:
+      213: 1837221000120562570
+    second: Nataly_2_53
+  - first:
+      213: -8714089893324471808
+    second: Nataly_2_54
+  - first:
+      213: -6588593020393882245
+    second: Nataly_2_55
+  - first:
+      213: 3984059394608236769
+    second: Nataly_2_56
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Nataly_2_28
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 2265
+        width: 273
+        height: 367
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6ed03ce8d901b730800000000000000
+      internalID: 4012999570244034159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nataly_2_29
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 2346
+        width: 311
+        height: 274
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcdbfb6ef39a44860800000000000000
+      internalID: 7513316170280189391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nataly_2_30
+      rect:
+        serializedVersion: 2
+        x: 1906
+        y: 2384
+        width: 113
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 719026962093acc60800000000000000
+      internalID: 7839140783912519959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nataly_2_42
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1627
+        width: 294
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 878db81d112f263f0800000000000000
+      internalID: -908898016431449992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nataly_2_43
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 1424
+        width: 963
+        height: 305
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 964556046fb3a1350800000000000000
+      internalID: 5988164583370871913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nataly_2_56
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 488
+        width: 1528
+        height: 442
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e88ea339e83a4730800000000000000
+      internalID: 3984059394608236769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c26b7b1d9e08a584d87424c3d2a7fe7f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Nataly_2_0: -7127075445033775553
+      Nataly_2_1: 7872302466024107763
+      Nataly_2_10: -1718797161912611231
+      Nataly_2_11: 3250760762136901698
+      Nataly_2_12: 4129787523044922558
+      Nataly_2_13: -8411688213168862414
+      Nataly_2_14: 1332158187599018468
+      Nataly_2_15: -4699997216691109402
+      Nataly_2_16: 1294709982414371462
+      Nataly_2_17: -8532541182162371250
+      Nataly_2_18: 2664001879084334867
+      Nataly_2_19: 4363949891813487901
+      Nataly_2_2: 7683095042518553551
+      Nataly_2_20: -6823466885611440480
+      Nataly_2_21: 8754241756456574868
+      Nataly_2_22: 2753183267725855010
+      Nataly_2_23: -2739346405821537694
+      Nataly_2_24: -4462017335214954386
+      Nataly_2_25: 2221604057446633257
+      Nataly_2_26: -7302901327203651746
+      Nataly_2_27: 4159858945125376574
+      Nataly_2_28: 4012999570244034159
+      Nataly_2_29: 7513316170280189391
+      Nataly_2_3: 5735515753136688988
+      Nataly_2_30: 7839140783912519959
+      Nataly_2_31: -5778349040062165693
+      Nataly_2_32: -2308508863889419759
+      Nataly_2_33: -6405441695934518221
+      Nataly_2_34: -7732950073874077571
+      Nataly_2_35: -2527928647523247833
+      Nataly_2_36: 6694254942906083950
+      Nataly_2_37: 5880979120114452672
+      Nataly_2_38: 6899363936337177801
+      Nataly_2_39: -2565915498140477527
+      Nataly_2_4: 7082038163844620477
+      Nataly_2_40: -4668874039161237465
+      Nataly_2_41: 7381847006379142745
+      Nataly_2_42: -908898016431449992
+      Nataly_2_43: 5988164583370871913
+      Nataly_2_44: -8776354204038342556
+      Nataly_2_45: -8084901675479077132
+      Nataly_2_46: -8289459249807610064
+      Nataly_2_47: 3261569560611763869
+      Nataly_2_48: 6296164632418015093
+      Nataly_2_49: -995025084129490180
+      Nataly_2_5: 2849030217465728308
+      Nataly_2_50: 175769323385588187
+      Nataly_2_51: -5821509052629039932
+      Nataly_2_52: -2549485541575029725
+      Nataly_2_53: 1837221000120562570
+      Nataly_2_54: -8714089893324471808
+      Nataly_2_55: -6588593020393882245
+      Nataly_2_56: 3984059394608236769
+      Nataly_2_6: -3028013771288491872
+      Nataly_2_7: 9158376010766780345
+      Nataly_2_8: 7133718351759776441
+      Nataly_2_9: 7808467920229107642
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

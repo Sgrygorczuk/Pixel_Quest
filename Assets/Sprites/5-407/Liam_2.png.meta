@@ -1,0 +1,477 @@
+fileFormatVersion: 2
+guid: 4b53d13d56a06214e849868ba3ffed9a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2249871973366367305
+    second: Liam_2_0
+  - first:
+      213: 4400032574797257710
+    second: Liam_2_1
+  - first:
+      213: 995030998407288164
+    second: Liam_2_2
+  - first:
+      213: -4858219144038000936
+    second: Liam_2_3
+  - first:
+      213: 5018176855668915729
+    second: Liam_2_4
+  - first:
+      213: 5607307596934453726
+    second: Liam_2_5
+  - first:
+      213: 3104758096142611956
+    second: Liam_2_6
+  - first:
+      213: 8017530509077727308
+    second: Liam_2_7
+  - first:
+      213: 40938368040762733
+    second: Liam_2_8
+  - first:
+      213: 5082662946475756198
+    second: Liam_2_9
+  - first:
+      213: 8955732595547143446
+    second: Liam_2_10
+  - first:
+      213: 8178796190497041598
+    second: Liam_2_11
+  - first:
+      213: -4531518472343924275
+    second: Liam_2_12
+  - first:
+      213: 8720041746595846744
+    second: Liam_2_13
+  - first:
+      213: 3571926964155850029
+    second: Liam_2_14
+  - first:
+      213: -1488043088381863678
+    second: Liam_2_15
+  - first:
+      213: 2229297052788489704
+    second: Liam_2_16
+  - first:
+      213: 6624302585590362846
+    second: Liam_2_17
+  - first:
+      213: 2497050471284302848
+    second: Liam_2_18
+  - first:
+      213: -7816013354779317844
+    second: Liam_2_19
+  - first:
+      213: 5315388724681100339
+    second: Liam_2_20
+  - first:
+      213: -832756860185956250
+    second: Liam_2_21
+  - first:
+      213: -3215653339339600258
+    second: Liam_2_22
+  - first:
+      213: 3300415511262378294
+    second: Liam_2_23
+  - first:
+      213: -4675338928957343725
+    second: Liam_2_24
+  - first:
+      213: 7375127313637721755
+    second: Liam_2_25
+  - first:
+      213: 8780584404070320703
+    second: Liam_2_26
+  - first:
+      213: -4363352942065285370
+    second: Liam_2_27
+  - first:
+      213: 7212600401209479457
+    second: Liam_2_28
+  - first:
+      213: 7862700522047160732
+    second: Liam_2_29
+  - first:
+      213: -4549886409663128270
+    second: Liam_2_30
+  - first:
+      213: 5988627200506966521
+    second: Liam_2_31
+  - first:
+      213: 7000288298831928265
+    second: Liam_2_32
+  - first:
+      213: -6522919298733053615
+    second: Liam_2_33
+  - first:
+      213: -6841413587944256515
+    second: Liam_2_34
+  - first:
+      213: -8738434630267230165
+    second: Liam_2_35
+  - first:
+      213: -8069007643208634922
+    second: Liam_2_36
+  - first:
+      213: -3771336732145479581
+    second: Liam_2_37
+  - first:
+      213: -5998986292268255853
+    second: Liam_2_38
+  - first:
+      213: -6208278126367692271
+    second: Liam_2_39
+  - first:
+      213: -7080032958119299050
+    second: Liam_2_40
+  - first:
+      213: 3316931586376636573
+    second: Liam_2_41
+  - first:
+      213: 9144625495557665842
+    second: Liam_2_42
+  - first:
+      213: -4384505681765282164
+    second: Liam_2_43
+  - first:
+      213: -8634832284962857492
+    second: Liam_2_44
+  - first:
+      213: 6782035995751925369
+    second: Liam_2_45
+  - first:
+      213: -3483222957191059799
+    second: Liam_2_46
+  - first:
+      213: 1632752531720301708
+    second: Liam_2_47
+  - first:
+      213: 2579588568486706923
+    second: Liam_2_48
+  - first:
+      213: 3828586779131086760
+    second: Liam_2_49
+  - first:
+      213: 7822566093486084911
+    second: Liam_2_50
+  - first:
+      213: 8219770822142451049
+    second: Liam_2_51
+  - first:
+      213: -4993135852380824233
+    second: Liam_2_52
+  - first:
+      213: 7873723268727827270
+    second: Liam_2_53
+  - first:
+      213: 4720212751507446991
+    second: Liam_2_54
+  - first:
+      213: -1551212034204309855
+    second: Liam_2_55
+  - first:
+      213: -8089562769396252318
+    second: Liam_2_56
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Liam_2_28
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 2310
+        width: 320
+        height: 353
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1215ee4d9dd481460800000000000000
+      internalID: 7212600401209479457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Liam_2_29
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 2417
+        width: 229
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9146e7677ced1d60800000000000000
+      internalID: 7862700522047160732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Liam_2_30
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 2397
+        width: 331
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23dd6afaa6e8bd0c0800000000000000
+      internalID: -4549886409663128270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Liam_2_42
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1708
+        width: 380
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 234f1ba107c38ee70800000000000000
+      internalID: 9144625495557665842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Liam_2_43
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 1535
+        width: 550
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8ec2b2005b1723c0800000000000000
+      internalID: -4384505681765282164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Liam_2_56
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 454
+        width: 1999
+        height: 538
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26149e585891cbf80800000000000000
+      internalID: -8089562769396252318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ee1d30004005fbb448966a789668cfef
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Liam_2_0: -2249871973366367305
+      Liam_2_1: 4400032574797257710
+      Liam_2_10: 8955732595547143446
+      Liam_2_11: 8178796190497041598
+      Liam_2_12: -4531518472343924275
+      Liam_2_13: 8720041746595846744
+      Liam_2_14: 3571926964155850029
+      Liam_2_15: -1488043088381863678
+      Liam_2_16: 2229297052788489704
+      Liam_2_17: 6624302585590362846
+      Liam_2_18: 2497050471284302848
+      Liam_2_19: -7816013354779317844
+      Liam_2_2: 995030998407288164
+      Liam_2_20: 5315388724681100339
+      Liam_2_21: -832756860185956250
+      Liam_2_22: -3215653339339600258
+      Liam_2_23: 3300415511262378294
+      Liam_2_24: -4675338928957343725
+      Liam_2_25: 7375127313637721755
+      Liam_2_26: 8780584404070320703
+      Liam_2_27: -4363352942065285370
+      Liam_2_28: 7212600401209479457
+      Liam_2_29: 7862700522047160732
+      Liam_2_3: -4858219144038000936
+      Liam_2_30: -4549886409663128270
+      Liam_2_31: 5988627200506966521
+      Liam_2_32: 7000288298831928265
+      Liam_2_33: -6522919298733053615
+      Liam_2_34: -6841413587944256515
+      Liam_2_35: -8738434630267230165
+      Liam_2_36: -8069007643208634922
+      Liam_2_37: -3771336732145479581
+      Liam_2_38: -5998986292268255853
+      Liam_2_39: -6208278126367692271
+      Liam_2_4: 5018176855668915729
+      Liam_2_40: -7080032958119299050
+      Liam_2_41: 3316931586376636573
+      Liam_2_42: 9144625495557665842
+      Liam_2_43: -4384505681765282164
+      Liam_2_44: -8634832284962857492
+      Liam_2_45: 6782035995751925369
+      Liam_2_46: -3483222957191059799
+      Liam_2_47: 1632752531720301708
+      Liam_2_48: 2579588568486706923
+      Liam_2_49: 3828586779131086760
+      Liam_2_5: 5607307596934453726
+      Liam_2_50: 7822566093486084911
+      Liam_2_51: 8219770822142451049
+      Liam_2_52: -4993135852380824233
+      Liam_2_53: 7873723268727827270
+      Liam_2_54: 4720212751507446991
+      Liam_2_55: -1551212034204309855
+      Liam_2_56: -8089562769396252318
+      Liam_2_6: 3104758096142611956
+      Liam_2_7: 8017530509077727308
+      Liam_2_8: 40938368040762733
+      Liam_2_9: 5082662946475756198
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,491 @@
+fileFormatVersion: 2
+guid: a899383a0d0ae344fb7925b41b1d0f61
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3420609552639604035
+    second: Miranda_2_0
+  - first:
+      213: 1022395858809146796
+    second: Miranda_2_1
+  - first:
+      213: -6863595011121568062
+    second: Miranda_2_2
+  - first:
+      213: -3567598525615531463
+    second: Miranda_2_3
+  - first:
+      213: -128319092315541468
+    second: Miranda_2_4
+  - first:
+      213: 5517501310471894534
+    second: Miranda_2_5
+  - first:
+      213: 7376904514098936974
+    second: Miranda_2_6
+  - first:
+      213: -4387948810725965395
+    second: Miranda_2_7
+  - first:
+      213: -7978032988390879262
+    second: Miranda_2_8
+  - first:
+      213: -6693980585270078812
+    second: Miranda_2_9
+  - first:
+      213: 2983824592652289610
+    second: Miranda_2_10
+  - first:
+      213: 2076592791536124483
+    second: Miranda_2_11
+  - first:
+      213: 6536225750285849929
+    second: Miranda_2_12
+  - first:
+      213: 4627947851668061647
+    second: Miranda_2_13
+  - first:
+      213: -7067450665482107829
+    second: Miranda_2_14
+  - first:
+      213: -2509950481936763497
+    second: Miranda_2_15
+  - first:
+      213: 3617730230025275202
+    second: Miranda_2_16
+  - first:
+      213: -604453014720346016
+    second: Miranda_2_17
+  - first:
+      213: 3544080191813912106
+    second: Miranda_2_18
+  - first:
+      213: 1294874091057103759
+    second: Miranda_2_19
+  - first:
+      213: 5822644338749970407
+    second: Miranda_2_20
+  - first:
+      213: 48413368729997222
+    second: Miranda_2_21
+  - first:
+      213: 233319941194474955
+    second: Miranda_2_22
+  - first:
+      213: 8689878439483954274
+    second: Miranda_2_23
+  - first:
+      213: 5594153154865392386
+    second: Miranda_2_24
+  - first:
+      213: 398316967838106273
+    second: Miranda_2_25
+  - first:
+      213: 4989854799374192198
+    second: Miranda_2_26
+  - first:
+      213: -536169159622294063
+    second: Miranda_2_27
+  - first:
+      213: -5737571197579505581
+    second: Miranda_2_28
+  - first:
+      213: 5983380852622093869
+    second: Miranda_2_29
+  - first:
+      213: 5834364082369589438
+    second: Miranda_2_30
+  - first:
+      213: 6929662615850923480
+    second: Miranda_2_31
+  - first:
+      213: 4112560979848659051
+    second: Miranda_2_32
+  - first:
+      213: -5918250324877226511
+    second: Miranda_2_33
+  - first:
+      213: 6159458447061355799
+    second: Miranda_2_34
+  - first:
+      213: -876010434061432896
+    second: Miranda_2_35
+  - first:
+      213: -5217329814411306037
+    second: Miranda_2_36
+  - first:
+      213: -483204938641122737
+    second: Miranda_2_37
+  - first:
+      213: 67066684813309286
+    second: Miranda_2_38
+  - first:
+      213: 731587650170954293
+    second: Miranda_2_39
+  - first:
+      213: -3924289880726602186
+    second: Miranda_2_40
+  - first:
+      213: -666484866944883333
+    second: Miranda_2_41
+  - first:
+      213: -1885942155404272715
+    second: Miranda_2_42
+  - first:
+      213: 2432887199337762224
+    second: Miranda_2_43
+  - first:
+      213: 2988209802185183709
+    second: Miranda_2_44
+  - first:
+      213: -5669967440318969278
+    second: Miranda_2_45
+  - first:
+      213: 7875206863925286044
+    second: Miranda_2_46
+  - first:
+      213: -6724371740487306147
+    second: Miranda_2_47
+  - first:
+      213: 5428352274244859423
+    second: Miranda_2_48
+  - first:
+      213: -2142577402340199287
+    second: Miranda_2_49
+  - first:
+      213: 3348793423242890130
+    second: Miranda_2_50
+  - first:
+      213: 8341135896944405138
+    second: Miranda_2_51
+  - first:
+      213: -6990315802955289317
+    second: Miranda_2_52
+  - first:
+      213: 39624104360897360
+    second: Miranda_2_53
+  - first:
+      213: 3606393437887217314
+    second: Miranda_2_54
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Miranda_2_24
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 2229
+        width: 375
+        height: 393
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20be1eeb7ac62ad40800000000000000
+      internalID: 5594153154865392386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miranda_2_25
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 2395
+        width: 190
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a240000c2b178500800000000000000
+      internalID: 398316967838106273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miranda_2_26
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 2258
+        width: 110
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64e0a7da0868f3540800000000000000
+      internalID: 4989854799374192198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miranda_2_38
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1490
+        width: 265
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6657f846bc44ee000800000000000000
+      internalID: 67066684813309286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miranda_2_39
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 1434
+        width: 742
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 532a08a771f172a00800000000000000
+      internalID: 731587650170954293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miranda_2_52
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 440
+        width: 1975
+        height: 559
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1dec0140d86dfe90800000000000000
+      internalID: -6990315802955289317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miranda_2_54
+      rect:
+        serializedVersion: 2
+        x: 2362
+        y: 19
+        width: 133
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ae319969bb7c0230800000000000000
+      internalID: 3606393437887217314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 40a0ccdde30f1df4b97773f5f7863d69
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Miranda_2_0: -3420609552639604035
+      Miranda_2_1: 1022395858809146796
+      Miranda_2_10: 2983824592652289610
+      Miranda_2_11: 2076592791536124483
+      Miranda_2_12: 6536225750285849929
+      Miranda_2_13: 4627947851668061647
+      Miranda_2_14: -7067450665482107829
+      Miranda_2_15: -2509950481936763497
+      Miranda_2_16: 3617730230025275202
+      Miranda_2_17: -604453014720346016
+      Miranda_2_18: 3544080191813912106
+      Miranda_2_19: 1294874091057103759
+      Miranda_2_2: -6863595011121568062
+      Miranda_2_20: 5822644338749970407
+      Miranda_2_21: 48413368729997222
+      Miranda_2_22: 233319941194474955
+      Miranda_2_23: 8689878439483954274
+      Miranda_2_24: 5594153154865392386
+      Miranda_2_25: 398316967838106273
+      Miranda_2_26: 4989854799374192198
+      Miranda_2_27: -536169159622294063
+      Miranda_2_28: -5737571197579505581
+      Miranda_2_29: 5983380852622093869
+      Miranda_2_3: -3567598525615531463
+      Miranda_2_30: 5834364082369589438
+      Miranda_2_31: 6929662615850923480
+      Miranda_2_32: 4112560979848659051
+      Miranda_2_33: -5918250324877226511
+      Miranda_2_34: 6159458447061355799
+      Miranda_2_35: -876010434061432896
+      Miranda_2_36: -5217329814411306037
+      Miranda_2_37: -483204938641122737
+      Miranda_2_38: 67066684813309286
+      Miranda_2_39: 731587650170954293
+      Miranda_2_4: -128319092315541468
+      Miranda_2_40: -3924289880726602186
+      Miranda_2_41: -666484866944883333
+      Miranda_2_42: -1885942155404272715
+      Miranda_2_43: 2432887199337762224
+      Miranda_2_44: 2988209802185183709
+      Miranda_2_45: -5669967440318969278
+      Miranda_2_46: 7875206863925286044
+      Miranda_2_47: -6724371740487306147
+      Miranda_2_48: 5428352274244859423
+      Miranda_2_49: -2142577402340199287
+      Miranda_2_5: 5517501310471894534
+      Miranda_2_50: 3348793423242890130
+      Miranda_2_51: 8341135896944405138
+      Miranda_2_52: -6990315802955289317
+      Miranda_2_53: 39624104360897360
+      Miranda_2_54: 3606393437887217314
+      Miranda_2_6: 7376904514098936974
+      Miranda_2_7: -4387948810725965395
+      Miranda_2_8: -7978032988390879262
+      Miranda_2_9: -6693980585270078812
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

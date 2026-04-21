@@ -1,0 +1,481 @@
+fileFormatVersion: 2
+guid: 5916dc6a7d21a2848a971b7317993df7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9001056181958516906
+    second: Ellery_2_0
+  - first:
+      213: -3115815591108566849
+    second: Ellery_2_1
+  - first:
+      213: 6622981919774919122
+    second: Ellery_2_2
+  - first:
+      213: -6405722539530693677
+    second: Ellery_2_3
+  - first:
+      213: -8235311350852663128
+    second: Ellery_2_4
+  - first:
+      213: -4507082932133521832
+    second: Ellery_2_5
+  - first:
+      213: 1358434008800044340
+    second: Ellery_2_6
+  - first:
+      213: 7465704961578421666
+    second: Ellery_2_7
+  - first:
+      213: 5660089829095432748
+    second: Ellery_2_8
+  - first:
+      213: -7875127318993955298
+    second: Ellery_2_9
+  - first:
+      213: 2434607422447179493
+    second: Ellery_2_10
+  - first:
+      213: -2711710486825172919
+    second: Ellery_2_11
+  - first:
+      213: 9204231836639224694
+    second: Ellery_2_12
+  - first:
+      213: -8247777914799211548
+    second: Ellery_2_13
+  - first:
+      213: 5344159717754206470
+    second: Ellery_2_14
+  - first:
+      213: -5468822722974046516
+    second: Ellery_2_15
+  - first:
+      213: -5711259504669364848
+    second: Ellery_2_16
+  - first:
+      213: 73833688537394734
+    second: Ellery_2_17
+  - first:
+      213: -5379993335732989281
+    second: Ellery_2_18
+  - first:
+      213: 6581280750705144500
+    second: Ellery_2_19
+  - first:
+      213: -6728344069524757831
+    second: Ellery_2_20
+  - first:
+      213: -380344246289094912
+    second: Ellery_2_21
+  - first:
+      213: 2723322351911164956
+    second: Ellery_2_22
+  - first:
+      213: -3433182270289043918
+    second: Ellery_2_23
+  - first:
+      213: 7960823219066623064
+    second: Ellery_2_24
+  - first:
+      213: 9097344338335344654
+    second: Ellery_2_25
+  - first:
+      213: -4772053611318071203
+    second: Ellery_2_26
+  - first:
+      213: 4770163935012884333
+    second: Ellery_2_27
+  - first:
+      213: 6472455323958344473
+    second: Ellery_2_28
+  - first:
+      213: 6279315399965938838
+    second: Ellery_2_29
+  - first:
+      213: -8769672525776697032
+    second: Ellery_2_30
+  - first:
+      213: 5357549864888151581
+    second: Ellery_2_31
+  - first:
+      213: 6649034588861742663
+    second: Ellery_2_32
+  - first:
+      213: 7312044823888065131
+    second: Ellery_2_33
+  - first:
+      213: 6223425799648831458
+    second: Ellery_2_34
+  - first:
+      213: 6218832053581215721
+    second: Ellery_2_35
+  - first:
+      213: -5909355973452805778
+    second: Ellery_2_36
+  - first:
+      213: 3834024911576363307
+    second: Ellery_2_37
+  - first:
+      213: -8963365500522967673
+    second: Ellery_2_38
+  - first:
+      213: 2872133834738398598
+    second: Ellery_2_39
+  - first:
+      213: -8756380425834871683
+    second: Ellery_2_40
+  - first:
+      213: 9087504142898051328
+    second: Ellery_2_41
+  - first:
+      213: -8688106978788371230
+    second: Ellery_2_42
+  - first:
+      213: -4423274705007430272
+    second: Ellery_2_43
+  - first:
+      213: -5764629557418079838
+    second: Ellery_2_44
+  - first:
+      213: 6044703337422678760
+    second: Ellery_2_45
+  - first:
+      213: -2229405457425958462
+    second: Ellery_2_46
+  - first:
+      213: -1712655571653698598
+    second: Ellery_2_47
+  - first:
+      213: 1929917220765466824
+    second: Ellery_2_48
+  - first:
+      213: 5738167661671824881
+    second: Ellery_2_49
+  - first:
+      213: -1850393302505462505
+    second: Ellery_2_50
+  - first:
+      213: 7249558611602790557
+    second: Ellery_2_51
+  - first:
+      213: 7377664028827036737
+    second: Ellery_2_52
+  - first:
+      213: 4295765639290721774
+    second: Ellery_2_53
+  - first:
+      213: -3112158027966456851
+    second: Ellery_2_54
+  - first:
+      213: -3990533328448051541
+    second: Ellery_2_55
+  - first:
+      213: 8933691711872206923
+    second: Ellery_2_56
+  - first:
+      213: 4475584341966216290
+    second: Ellery_2_57
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ellery_2_26
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 2209
+        width: 365
+        height: 630
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d503440268246cdb0800000000000000
+      internalID: -4772053611318071203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellery_2_28
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 2301
+        width: 262
+        height: 299
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91b7f1913d7c2d950800000000000000
+      internalID: 6472455323958344473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellery_2_29
+      rect:
+        serializedVersion: 2
+        x: 1706
+        y: 2327
+        width: 530
+        height: 272
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6941c97461c942750800000000000000
+      internalID: 6279315399965938838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellery_2_41
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 1548
+        width: 248
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 009345ccedc4d1e70800000000000000
+      internalID: 9087504142898051328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellery_2_42
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 1412
+        width: 1263
+        height: 530
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e41abefbb4ad6780800000000000000
+      internalID: -8688106978788371230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellery_2_56
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 451
+        width: 867
+        height: 533
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b488efa7749dafb70800000000000000
+      internalID: 8933691711872206923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 1c231dd1e2f82254fb3aa24516e3ecf9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Ellery_2_0: -9001056181958516906
+      Ellery_2_1: -3115815591108566849
+      Ellery_2_10: 2434607422447179493
+      Ellery_2_11: -2711710486825172919
+      Ellery_2_12: 9204231836639224694
+      Ellery_2_13: -8247777914799211548
+      Ellery_2_14: 5344159717754206470
+      Ellery_2_15: -5468822722974046516
+      Ellery_2_16: -5711259504669364848
+      Ellery_2_17: 73833688537394734
+      Ellery_2_18: -5379993335732989281
+      Ellery_2_19: 6581280750705144500
+      Ellery_2_2: 6622981919774919122
+      Ellery_2_20: -6728344069524757831
+      Ellery_2_21: -380344246289094912
+      Ellery_2_22: 2723322351911164956
+      Ellery_2_23: -3433182270289043918
+      Ellery_2_24: 7960823219066623064
+      Ellery_2_25: 9097344338335344654
+      Ellery_2_26: -4772053611318071203
+      Ellery_2_27: 4770163935012884333
+      Ellery_2_28: 6472455323958344473
+      Ellery_2_29: 6279315399965938838
+      Ellery_2_3: -6405722539530693677
+      Ellery_2_30: -8769672525776697032
+      Ellery_2_31: 5357549864888151581
+      Ellery_2_32: 6649034588861742663
+      Ellery_2_33: 7312044823888065131
+      Ellery_2_34: 6223425799648831458
+      Ellery_2_35: 6218832053581215721
+      Ellery_2_36: -5909355973452805778
+      Ellery_2_37: 3834024911576363307
+      Ellery_2_38: -8963365500522967673
+      Ellery_2_39: 2872133834738398598
+      Ellery_2_4: -8235311350852663128
+      Ellery_2_40: -8756380425834871683
+      Ellery_2_41: 9087504142898051328
+      Ellery_2_42: -8688106978788371230
+      Ellery_2_43: -4423274705007430272
+      Ellery_2_44: -5764629557418079838
+      Ellery_2_45: 6044703337422678760
+      Ellery_2_46: -2229405457425958462
+      Ellery_2_47: -1712655571653698598
+      Ellery_2_48: 1929917220765466824
+      Ellery_2_49: 5738167661671824881
+      Ellery_2_5: -4507082932133521832
+      Ellery_2_50: -1850393302505462505
+      Ellery_2_51: 7249558611602790557
+      Ellery_2_52: 7377664028827036737
+      Ellery_2_53: 4295765639290721774
+      Ellery_2_54: -3112158027966456851
+      Ellery_2_55: -3990533328448051541
+      Ellery_2_56: 8933691711872206923
+      Ellery_2_57: 4475584341966216290
+      Ellery_2_6: 1358434008800044340
+      Ellery_2_7: 7465704961578421666
+      Ellery_2_8: 5660089829095432748
+      Ellery_2_9: -7875127318993955298
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

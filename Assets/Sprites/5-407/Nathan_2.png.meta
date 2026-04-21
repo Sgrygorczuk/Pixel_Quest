@@ -1,0 +1,485 @@
+fileFormatVersion: 2
+guid: 2785d21694f4bc8489680a2b04d9b3cd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2998497527731316745
+    second: Nathan_2_0
+  - first:
+      213: 6172532032836508542
+    second: Nathan_2_1
+  - first:
+      213: 6207266971760680656
+    second: Nathan_2_2
+  - first:
+      213: 2666742683465219082
+    second: Nathan_2_3
+  - first:
+      213: -5736081959188205642
+    second: Nathan_2_4
+  - first:
+      213: -4318526141178563774
+    second: Nathan_2_5
+  - first:
+      213: -1641532540171084043
+    second: Nathan_2_6
+  - first:
+      213: 1759607854801879139
+    second: Nathan_2_7
+  - first:
+      213: -245979174661266754
+    second: Nathan_2_8
+  - first:
+      213: -8708838004771491790
+    second: Nathan_2_9
+  - first:
+      213: 2331743668880167528
+    second: Nathan_2_10
+  - first:
+      213: 137027743481482961
+    second: Nathan_2_11
+  - first:
+      213: 1457900636070747554
+    second: Nathan_2_12
+  - first:
+      213: -4356736263922872165
+    second: Nathan_2_13
+  - first:
+      213: -8982368977306435338
+    second: Nathan_2_14
+  - first:
+      213: 4747135729626414519
+    second: Nathan_2_15
+  - first:
+      213: -6290592157065906168
+    second: Nathan_2_16
+  - first:
+      213: 7126442952472635935
+    second: Nathan_2_17
+  - first:
+      213: -9095100426717102418
+    second: Nathan_2_18
+  - first:
+      213: -4684905672026856354
+    second: Nathan_2_19
+  - first:
+      213: -4966171551603513117
+    second: Nathan_2_20
+  - first:
+      213: -1750266722731486886
+    second: Nathan_2_21
+  - first:
+      213: -2069356739273121825
+    second: Nathan_2_22
+  - first:
+      213: 1644920958595081949
+    second: Nathan_2_23
+  - first:
+      213: -8027165332576707331
+    second: Nathan_2_24
+  - first:
+      213: 7782416087373524922
+    second: Nathan_2_25
+  - first:
+      213: 5962760444880951901
+    second: Nathan_2_26
+  - first:
+      213: 869134997907540214
+    second: Nathan_2_27
+  - first:
+      213: -631452834348564725
+    second: Nathan_2_28
+  - first:
+      213: 6672619941690488016
+    second: Nathan_2_29
+  - first:
+      213: -4608871483859120307
+    second: Nathan_2_30
+  - first:
+      213: 2014731641369659272
+    second: Nathan_2_31
+  - first:
+      213: 1058432820250761794
+    second: Nathan_2_32
+  - first:
+      213: 4139810246515489230
+    second: Nathan_2_33
+  - first:
+      213: 8521237054881694593
+    second: Nathan_2_34
+  - first:
+      213: -7669687607852180106
+    second: Nathan_2_35
+  - first:
+      213: -4574043274755719858
+    second: Nathan_2_36
+  - first:
+      213: 4678409892412762203
+    second: Nathan_2_37
+  - first:
+      213: -5569423081118657018
+    second: Nathan_2_38
+  - first:
+      213: 6438606481826114093
+    second: Nathan_2_39
+  - first:
+      213: 1100567762502462709
+    second: Nathan_2_40
+  - first:
+      213: 2427233025410710905
+    second: Nathan_2_41
+  - first:
+      213: 5634052403562933576
+    second: Nathan_2_42
+  - first:
+      213: 1113659534015817392
+    second: Nathan_2_43
+  - first:
+      213: -6993792327737038484
+    second: Nathan_2_44
+  - first:
+      213: -5036397584772249176
+    second: Nathan_2_45
+  - first:
+      213: 6540050364701084747
+    second: Nathan_2_46
+  - first:
+      213: 8346355648358904522
+    second: Nathan_2_47
+  - first:
+      213: 5952008029234398832
+    second: Nathan_2_48
+  - first:
+      213: -5823619870054707153
+    second: Nathan_2_49
+  - first:
+      213: 6933220626719964866
+    second: Nathan_2_50
+  - first:
+      213: -596931466441148280
+    second: Nathan_2_51
+  - first:
+      213: -8941320425607509897
+    second: Nathan_2_52
+  - first:
+      213: -6202929147648366015
+    second: Nathan_2_53
+  - first:
+      213: -7319105376464479804
+    second: Nathan_2_54
+  - first:
+      213: -5488287378763399232
+    second: Nathan_2_55
+  - first:
+      213: 4185208907054314038
+    second: Nathan_2_56
+  - first:
+      213: -3190774545224933764
+    second: Nathan_2_57
+  - first:
+      213: 4580118413866406173
+    second: Nathan_2_58
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Nathan_2_22
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 2286
+        width: 228
+        height: 428
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdf9012720b2843e0800000000000000
+      internalID: -2069356739273121825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nathan_2_23
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 2290
+        width: 448
+        height: 406
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd6a7ac85eee3d610800000000000000
+      internalID: 1644920958595081949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nathan_2_26
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 2258
+        width: 311
+        height: 412
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5a11e5580bffb250800000000000000
+      internalID: 5962760444880951901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nathan_2_43
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1584
+        width: 500
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b66dbd1273847f00800000000000000
+      internalID: 1113659534015817392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nathan_2_45
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 1510
+        width: 894
+        height: 292
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a9c304a41f1b1ab0800000000000000
+      internalID: -5036397584772249176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nathan_2_58
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 710
+        width: 1073
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d119bbf4e69df8f30800000000000000
+      internalID: 4580118413866406173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6e02a7de353dfec4e8d37582f6e8a345
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Nathan_2_0: -2998497527731316745
+      Nathan_2_1: 6172532032836508542
+      Nathan_2_10: 2331743668880167528
+      Nathan_2_11: 137027743481482961
+      Nathan_2_12: 1457900636070747554
+      Nathan_2_13: -4356736263922872165
+      Nathan_2_14: -8982368977306435338
+      Nathan_2_15: 4747135729626414519
+      Nathan_2_16: -6290592157065906168
+      Nathan_2_17: 7126442952472635935
+      Nathan_2_18: -9095100426717102418
+      Nathan_2_19: -4684905672026856354
+      Nathan_2_2: 6207266971760680656
+      Nathan_2_20: -4966171551603513117
+      Nathan_2_21: -1750266722731486886
+      Nathan_2_22: -2069356739273121825
+      Nathan_2_23: 1644920958595081949
+      Nathan_2_24: -8027165332576707331
+      Nathan_2_25: 7782416087373524922
+      Nathan_2_26: 5962760444880951901
+      Nathan_2_27: 869134997907540214
+      Nathan_2_28: -631452834348564725
+      Nathan_2_29: 6672619941690488016
+      Nathan_2_3: 2666742683465219082
+      Nathan_2_30: -4608871483859120307
+      Nathan_2_31: 2014731641369659272
+      Nathan_2_32: 1058432820250761794
+      Nathan_2_33: 4139810246515489230
+      Nathan_2_34: 8521237054881694593
+      Nathan_2_35: -7669687607852180106
+      Nathan_2_36: -4574043274755719858
+      Nathan_2_37: 4678409892412762203
+      Nathan_2_38: -5569423081118657018
+      Nathan_2_39: 6438606481826114093
+      Nathan_2_4: -5736081959188205642
+      Nathan_2_40: 1100567762502462709
+      Nathan_2_41: 2427233025410710905
+      Nathan_2_42: 5634052403562933576
+      Nathan_2_43: 1113659534015817392
+      Nathan_2_44: -6993792327737038484
+      Nathan_2_45: -5036397584772249176
+      Nathan_2_46: 6540050364701084747
+      Nathan_2_47: 8346355648358904522
+      Nathan_2_48: 5952008029234398832
+      Nathan_2_49: -5823619870054707153
+      Nathan_2_5: -4318526141178563774
+      Nathan_2_50: 6933220626719964866
+      Nathan_2_51: -596931466441148280
+      Nathan_2_52: -8941320425607509897
+      Nathan_2_53: -6202929147648366015
+      Nathan_2_54: -7319105376464479804
+      Nathan_2_55: -5488287378763399232
+      Nathan_2_56: 4185208907054314038
+      Nathan_2_57: -3190774545224933764
+      Nathan_2_58: 4580118413866406173
+      Nathan_2_6: -1641532540171084043
+      Nathan_2_7: 1759607854801879139
+      Nathan_2_8: -245979174661266754
+      Nathan_2_9: -8708838004771491790
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

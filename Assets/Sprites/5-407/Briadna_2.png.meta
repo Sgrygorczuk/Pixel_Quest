@@ -1,0 +1,485 @@
+fileFormatVersion: 2
+guid: 2b38e59b75ffd3e4989097e7c6b28bc6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3464252608059466924
+    second: Briadna_2_0
+  - first:
+      213: -2618338525981811045
+    second: Briadna_2_1
+  - first:
+      213: -5643414997236112125
+    second: Briadna_2_2
+  - first:
+      213: -7420827621094312951
+    second: Briadna_2_3
+  - first:
+      213: -1672706683277088877
+    second: Briadna_2_4
+  - first:
+      213: -1161705711645602570
+    second: Briadna_2_5
+  - first:
+      213: -3664042349658356565
+    second: Briadna_2_6
+  - first:
+      213: 4955207424841928250
+    second: Briadna_2_7
+  - first:
+      213: -3249487003930039262
+    second: Briadna_2_8
+  - first:
+      213: -8472828102675886010
+    second: Briadna_2_9
+  - first:
+      213: -68159621620580057
+    second: Briadna_2_10
+  - first:
+      213: -5397314559541364802
+    second: Briadna_2_11
+  - first:
+      213: 3793984242626059489
+    second: Briadna_2_12
+  - first:
+      213: 4689385558792986469
+    second: Briadna_2_13
+  - first:
+      213: -3309717968896580380
+    second: Briadna_2_14
+  - first:
+      213: -1097475559158640212
+    second: Briadna_2_15
+  - first:
+      213: 7606453273871025270
+    second: Briadna_2_16
+  - first:
+      213: -8300677254246268230
+    second: Briadna_2_17
+  - first:
+      213: 369718539499206485
+    second: Briadna_2_18
+  - first:
+      213: 2092349030280639510
+    second: Briadna_2_19
+  - first:
+      213: -8817751857115594279
+    second: Briadna_2_20
+  - first:
+      213: 9211706678057581917
+    second: Briadna_2_21
+  - first:
+      213: 8213978825670662868
+    second: Briadna_2_22
+  - first:
+      213: 3654078847624423864
+    second: Briadna_2_23
+  - first:
+      213: 2559958761169959593
+    second: Briadna_2_24
+  - first:
+      213: -5708445490201219138
+    second: Briadna_2_25
+  - first:
+      213: 6779096774479763362
+    second: Briadna_2_26
+  - first:
+      213: 4814081310840231711
+    second: Briadna_2_27
+  - first:
+      213: -716989608003128480
+    second: Briadna_2_28
+  - first:
+      213: -540853584843300782
+    second: Briadna_2_29
+  - first:
+      213: -6318142103134609479
+    second: Briadna_2_30
+  - first:
+      213: 3703261755387655758
+    second: Briadna_2_31
+  - first:
+      213: -8543286680807792729
+    second: Briadna_2_32
+  - first:
+      213: 6732188903399446416
+    second: Briadna_2_33
+  - first:
+      213: -789715328156953744
+    second: Briadna_2_34
+  - first:
+      213: -3500688508561151174
+    second: Briadna_2_35
+  - first:
+      213: 5272999087218977935
+    second: Briadna_2_36
+  - first:
+      213: 1040472783281967188
+    second: Briadna_2_37
+  - first:
+      213: 1561730341896865749
+    second: Briadna_2_38
+  - first:
+      213: -4276285124549014571
+    second: Briadna_2_39
+  - first:
+      213: 7119371704910737667
+    second: Briadna_2_40
+  - first:
+      213: 3710571950521451401
+    second: Briadna_2_41
+  - first:
+      213: 7807312355091667032
+    second: Briadna_2_42
+  - first:
+      213: 5941615171157122163
+    second: Briadna_2_43
+  - first:
+      213: -1139311370722223365
+    second: Briadna_2_44
+  - first:
+      213: 3413678565135592234
+    second: Briadna_2_45
+  - first:
+      213: 9093138527279188585
+    second: Briadna_2_46
+  - first:
+      213: -8985841739383120177
+    second: Briadna_2_47
+  - first:
+      213: -6867475547408801985
+    second: Briadna_2_48
+  - first:
+      213: -2104960327300315159
+    second: Briadna_2_49
+  - first:
+      213: 2196807782655452878
+    second: Briadna_2_50
+  - first:
+      213: -4997336493587967074
+    second: Briadna_2_51
+  - first:
+      213: -1826881001143416608
+    second: Briadna_2_52
+  - first:
+      213: -471416683463719970
+    second: Briadna_2_53
+  - first:
+      213: -7640401024672785537
+    second: Briadna_2_54
+  - first:
+      213: -6944693237653036865
+    second: Briadna_2_55
+  - first:
+      213: -4835112078307244197
+    second: Briadna_2_56
+  - first:
+      213: 1198341450692632636
+    second: Briadna_2_57
+  - first:
+      213: 351384529313338009
+    second: Briadna_2_58
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Briadna_2_30
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 2225
+        width: 364
+        height: 491
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bfd83e6b337158a0800000000000000
+      internalID: -6318142103134609479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Briadna_2_31
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 2409
+        width: 301
+        height: 336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e46bb2022f0a46330800000000000000
+      internalID: 3703261755387655758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Briadna_2_32
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 2240
+        width: 462
+        height: 491
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7af10203706207980800000000000000
+      internalID: -8543286680807792729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Briadna_2_44
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1463
+        width: 402
+        height: 476
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfad98b385a5030f0800000000000000
+      internalID: -1139311370722223365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Briadna_2_45
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 1540
+        width: 1047
+        height: 347
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2ba54c8192df5f20800000000000000
+      internalID: 3413678565135592234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Briadna_2_58
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 476
+        width: 2033
+        height: 537
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9921a412e5e50e400800000000000000
+      internalID: 351384529313338009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 9eaac5c340e4b9942a4d298b67d211f4
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Briadna_2_0: 3464252608059466924
+      Briadna_2_1: -2618338525981811045
+      Briadna_2_10: -68159621620580057
+      Briadna_2_11: -5397314559541364802
+      Briadna_2_12: 3793984242626059489
+      Briadna_2_13: 4689385558792986469
+      Briadna_2_14: -3309717968896580380
+      Briadna_2_15: -1097475559158640212
+      Briadna_2_16: 7606453273871025270
+      Briadna_2_17: -8300677254246268230
+      Briadna_2_18: 369718539499206485
+      Briadna_2_19: 2092349030280639510
+      Briadna_2_2: -5643414997236112125
+      Briadna_2_20: -8817751857115594279
+      Briadna_2_21: 9211706678057581917
+      Briadna_2_22: 8213978825670662868
+      Briadna_2_23: 3654078847624423864
+      Briadna_2_24: 2559958761169959593
+      Briadna_2_25: -5708445490201219138
+      Briadna_2_26: 6779096774479763362
+      Briadna_2_27: 4814081310840231711
+      Briadna_2_28: -716989608003128480
+      Briadna_2_29: -540853584843300782
+      Briadna_2_3: -7420827621094312951
+      Briadna_2_30: -6318142103134609479
+      Briadna_2_31: 3703261755387655758
+      Briadna_2_32: -8543286680807792729
+      Briadna_2_33: 6732188903399446416
+      Briadna_2_34: -789715328156953744
+      Briadna_2_35: -3500688508561151174
+      Briadna_2_36: 5272999087218977935
+      Briadna_2_37: 1040472783281967188
+      Briadna_2_38: 1561730341896865749
+      Briadna_2_39: -4276285124549014571
+      Briadna_2_4: -1672706683277088877
+      Briadna_2_40: 7119371704910737667
+      Briadna_2_41: 3710571950521451401
+      Briadna_2_42: 7807312355091667032
+      Briadna_2_43: 5941615171157122163
+      Briadna_2_44: -1139311370722223365
+      Briadna_2_45: 3413678565135592234
+      Briadna_2_46: 9093138527279188585
+      Briadna_2_47: -8985841739383120177
+      Briadna_2_48: -6867475547408801985
+      Briadna_2_49: -2104960327300315159
+      Briadna_2_5: -1161705711645602570
+      Briadna_2_50: 2196807782655452878
+      Briadna_2_51: -4997336493587967074
+      Briadna_2_52: -1826881001143416608
+      Briadna_2_53: -471416683463719970
+      Briadna_2_54: -7640401024672785537
+      Briadna_2_55: -6944693237653036865
+      Briadna_2_56: -4835112078307244197
+      Briadna_2_57: 1198341450692632636
+      Briadna_2_58: 351384529313338009
+      Briadna_2_6: -3664042349658356565
+      Briadna_2_7: 4955207424841928250
+      Briadna_2_8: -3249487003930039262
+      Briadna_2_9: -8472828102675886010
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
