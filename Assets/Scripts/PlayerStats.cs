@@ -14,6 +14,14 @@ public class PlayerStats : MonoBehaviour
         _controller = GetComponent<AudioSourceController>();
     }
 
+    private void Update()
+    {
+        if (Input.GetKeyDown(KeyCode.Escape))
+        {
+            SceneManager.LoadScene("Menu");
+        }
+    }
+
     private void OnTriggerEnter2D(Collider2D collision)
     {
         // Gets what the tag is 
