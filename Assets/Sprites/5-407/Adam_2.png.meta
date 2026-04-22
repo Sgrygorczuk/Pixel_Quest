@@ -1,0 +1,435 @@
+fileFormatVersion: 2
+guid: c54193947cdecbd4587f6b34507c4fcc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8987753217529575415
+    second: Adam_2_0
+  - first:
+      213: -8700036312519780873
+    second: Adam_2_1
+  - first:
+      213: 6412559078897948400
+    second: Adam_2_2
+  - first:
+      213: 3060812857459126478
+    second: Adam_2_3
+  - first:
+      213: -8604719248915612855
+    second: Adam_2_4
+  - first:
+      213: 8308385803656790126
+    second: Adam_2_5
+  - first:
+      213: 2229220241747991072
+    second: Adam_2_6
+  - first:
+      213: 5110985516192354448
+    second: Adam_2_7
+  - first:
+      213: -288840407247164597
+    second: Adam_2_8
+  - first:
+      213: -2231180800396859812
+    second: Adam_2_9
+  - first:
+      213: -1798996153082845156
+    second: Adam_2_10
+  - first:
+      213: 4104069044496963332
+    second: Adam_2_11
+  - first:
+      213: 5625914790252428619
+    second: Adam_2_12
+  - first:
+      213: 8799401084843208606
+    second: Adam_2_13
+  - first:
+      213: -2983131856884002583
+    second: Adam_2_14
+  - first:
+      213: -7408739374007958111
+    second: Adam_2_15
+  - first:
+      213: -6838936046401760701
+    second: Adam_2_16
+  - first:
+      213: 1395567962407718097
+    second: Adam_2_17
+  - first:
+      213: 5343392477140187306
+    second: Adam_2_18
+  - first:
+      213: -8641671863642045560
+    second: Adam_2_19
+  - first:
+      213: 5450445423686616004
+    second: Adam_2_20
+  - first:
+      213: 8570105144301791562
+    second: Adam_2_21
+  - first:
+      213: 2187032164045140182
+    second: Adam_2_22
+  - first:
+      213: 2761211689904459617
+    second: Adam_2_23
+  - first:
+      213: -6328493190553021095
+    second: Adam_2_24
+  - first:
+      213: -2768899092354637759
+    second: Adam_2_25
+  - first:
+      213: 1998543870331443956
+    second: Adam_2_26
+  - first:
+      213: -1841430762284648327
+    second: Adam_2_27
+  - first:
+      213: 6884164619480668808
+    second: Adam_2_28
+  - first:
+      213: 7252607698510608713
+    second: Adam_2_29
+  - first:
+      213: -3318151244829936390
+    second: Adam_2_30
+  - first:
+      213: -6568832292025418833
+    second: Adam_2_31
+  - first:
+      213: 4665384033936789052
+    second: Adam_2_32
+  - first:
+      213: -4296848579427734404
+    second: Adam_2_33
+  - first:
+      213: 8751926288455266147
+    second: Adam_2_34
+  - first:
+      213: -7398698623343195438
+    second: Adam_2_35
+  - first:
+      213: 8467641464050497843
+    second: Adam_2_36
+  - first:
+      213: 293619755791648321
+    second: Adam_2_37
+  - first:
+      213: 1342664609057136751
+    second: Adam_2_38
+  - first:
+      213: -7574104444558856412
+    second: Adam_2_39
+  - first:
+      213: -8219201435479015132
+    second: Adam_2_40
+  - first:
+      213: -138450011493423981
+    second: Adam_2_41
+  - first:
+      213: -6037303794765653019
+    second: Adam_2_42
+  - first:
+      213: -2501824444884766916
+    second: Adam_2_43
+  - first:
+      213: -4094051266971064638
+    second: Adam_2_44
+  - first:
+      213: -301758208246718757
+    second: Adam_2_45
+  - first:
+      213: -4020764074848959808
+    second: Adam_2_46
+  - first:
+      213: -8031270425438734592
+    second: Adam_2_47
+  - first:
+      213: -764161522961852548
+    second: Adam_2_48
+  - first:
+      213: 3493232838152959120
+    second: Adam_2_49
+  - first:
+      213: 3897696598038404146
+    second: Adam_2_50
+  - first:
+      213: -7318305580676299316
+    second: Adam_2_51
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Adam_2_31
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 2329
+        width: 295
+        height: 366
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fabb5b465d1d6d4a0800000000000000
+      internalID: -6568832292025418833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adam_2_32
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 2406
+        width: 182
+        height: 265
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3ec4938f06ceb040800000000000000
+      internalID: 4665384033936789052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adam_2_33
+      rect:
+        serializedVersion: 2
+        x: 1743
+        y: 2387
+        width: 520
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7c61919bf68e54c0800000000000000
+      internalID: -4296848579427734404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adam_2_38
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 1415
+        width: 1265
+        height: 537
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f60e653295a12a210800000000000000
+      internalID: 1342664609057136751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adam_2_51
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 469
+        width: 2015
+        height: 521
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc5c70239d7207a90800000000000000
+      internalID: -7318305580676299316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 9a27c772a3356b64b93b79dbc2fe5ace
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Adam_2_0: -8987753217529575415
+      Adam_2_1: -8700036312519780873
+      Adam_2_10: -1798996153082845156
+      Adam_2_11: 4104069044496963332
+      Adam_2_12: 5625914790252428619
+      Adam_2_13: 8799401084843208606
+      Adam_2_14: -2983131856884002583
+      Adam_2_15: -7408739374007958111
+      Adam_2_16: -6838936046401760701
+      Adam_2_17: 1395567962407718097
+      Adam_2_18: 5343392477140187306
+      Adam_2_19: -8641671863642045560
+      Adam_2_2: 6412559078897948400
+      Adam_2_20: 5450445423686616004
+      Adam_2_21: 8570105144301791562
+      Adam_2_22: 2187032164045140182
+      Adam_2_23: 2761211689904459617
+      Adam_2_24: -6328493190553021095
+      Adam_2_25: -2768899092354637759
+      Adam_2_26: 1998543870331443956
+      Adam_2_27: -1841430762284648327
+      Adam_2_28: 6884164619480668808
+      Adam_2_29: 7252607698510608713
+      Adam_2_3: 3060812857459126478
+      Adam_2_30: -3318151244829936390
+      Adam_2_31: -6568832292025418833
+      Adam_2_32: 4665384033936789052
+      Adam_2_33: -4296848579427734404
+      Adam_2_34: 8751926288455266147
+      Adam_2_35: -7398698623343195438
+      Adam_2_36: 8467641464050497843
+      Adam_2_37: 293619755791648321
+      Adam_2_38: 1342664609057136751
+      Adam_2_39: -7574104444558856412
+      Adam_2_4: -8604719248915612855
+      Adam_2_40: -8219201435479015132
+      Adam_2_41: -138450011493423981
+      Adam_2_42: -6037303794765653019
+      Adam_2_43: -2501824444884766916
+      Adam_2_44: -4094051266971064638
+      Adam_2_45: -301758208246718757
+      Adam_2_46: -4020764074848959808
+      Adam_2_47: -8031270425438734592
+      Adam_2_48: -764161522961852548
+      Adam_2_49: 3493232838152959120
+      Adam_2_5: 8308385803656790126
+      Adam_2_50: 3897696598038404146
+      Adam_2_51: -7318305580676299316
+      Adam_2_6: 2229220241747991072
+      Adam_2_7: 5110985516192354448
+      Adam_2_8: -288840407247164597
+      Adam_2_9: -2231180800396859812
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

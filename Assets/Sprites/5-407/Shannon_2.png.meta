@@ -1,0 +1,413 @@
+fileFormatVersion: 2
+guid: 945f9b18bfbc233458c6ae83bb2bed76
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8104945921383095589
+    second: Shannon_2_0
+  - first:
+      213: 1021330355218360079
+    second: Shannon_2_1
+  - first:
+      213: 7187183422358743279
+    second: Shannon_2_2
+  - first:
+      213: -5869309427134080970
+    second: Shannon_2_3
+  - first:
+      213: -8480447758940794802
+    second: Shannon_2_4
+  - first:
+      213: -8698431558730786325
+    second: Shannon_2_5
+  - first:
+      213: 7903192396976826515
+    second: Shannon_2_6
+  - first:
+      213: -6606758288601812609
+    second: Shannon_2_7
+  - first:
+      213: 204131920199825655
+    second: Shannon_2_8
+  - first:
+      213: -3934711002796326041
+    second: Shannon_2_9
+  - first:
+      213: 5912324645666272303
+    second: Shannon_2_10
+  - first:
+      213: 2695482531813662323
+    second: Shannon_2_11
+  - first:
+      213: -6512617785536567176
+    second: Shannon_2_12
+  - first:
+      213: -2845931046246639777
+    second: Shannon_2_13
+  - first:
+      213: 5819519294833212802
+    second: Shannon_2_14
+  - first:
+      213: -1081688895762151481
+    second: Shannon_2_15
+  - first:
+      213: -4409913914952752053
+    second: Shannon_2_16
+  - first:
+      213: 5725621607695315426
+    second: Shannon_2_17
+  - first:
+      213: -8277321138622714445
+    second: Shannon_2_18
+  - first:
+      213: -561634592686436373
+    second: Shannon_2_19
+  - first:
+      213: 109834637177275966
+    second: Shannon_2_20
+  - first:
+      213: 5816001450008031153
+    second: Shannon_2_21
+  - first:
+      213: 792166690226801614
+    second: Shannon_2_22
+  - first:
+      213: -1408646799428719829
+    second: Shannon_2_23
+  - first:
+      213: 5295453361472407811
+    second: Shannon_2_24
+  - first:
+      213: 7589384611094876567
+    second: Shannon_2_25
+  - first:
+      213: 205305883930364158
+    second: Shannon_2_26
+  - first:
+      213: -5659369046424326920
+    second: Shannon_2_27
+  - first:
+      213: 11151031316543803
+    second: Shannon_2_28
+  - first:
+      213: -1559571552637924948
+    second: Shannon_2_29
+  - first:
+      213: 5629344420007974590
+    second: Shannon_2_30
+  - first:
+      213: 8415534941231384302
+    second: Shannon_2_31
+  - first:
+      213: -3103393073784043157
+    second: Shannon_2_32
+  - first:
+      213: -7336182136406674105
+    second: Shannon_2_33
+  - first:
+      213: -660390419496037235
+    second: Shannon_2_34
+  - first:
+      213: 1725821495207403342
+    second: Shannon_2_35
+  - first:
+      213: -4232790164343394860
+    second: Shannon_2_36
+  - first:
+      213: 5557344374941297516
+    second: Shannon_2_37
+  - first:
+      213: -7832245018662999936
+    second: Shannon_2_38
+  - first:
+      213: -2214138320685178944
+    second: Shannon_2_39
+  - first:
+      213: 5833243404012209418
+    second: Shannon_2_40
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Shannon_2_25
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 2382
+        width: 165
+        height: 243
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7915020f719e25960800000000000000
+      internalID: 7589384611094876567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shannon_2_26
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 2256
+        width: 360
+        height: 405
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef887f91d9469d200800000000000000
+      internalID: 205305883930364158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shannon_2_27
+      rect:
+        serializedVersion: 2
+        x: 1853
+        y: 2387
+        width: 143
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fc690f36d1e571b0800000000000000
+      internalID: -5659369046424326920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shannon_2_38
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1604
+        width: 351
+        height: 257
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 088e4cc07a64e4390800000000000000
+      internalID: -7832245018662999936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shannon_2_39
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 1580
+        width: 785
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cfdaf7adecc541e0800000000000000
+      internalID: -2214138320685178944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shannon_2_40
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 469
+        width: 2006
+        height: 507
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a05c98858f7d3f050800000000000000
+      internalID: 5833243404012209418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 2d83ab8ac7ede8943be6ed1908a784f3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Shannon_2_0: -8104945921383095589
+      Shannon_2_1: 1021330355218360079
+      Shannon_2_10: 5912324645666272303
+      Shannon_2_11: 2695482531813662323
+      Shannon_2_12: -6512617785536567176
+      Shannon_2_13: -2845931046246639777
+      Shannon_2_14: 5819519294833212802
+      Shannon_2_15: -1081688895762151481
+      Shannon_2_16: -4409913914952752053
+      Shannon_2_17: 5725621607695315426
+      Shannon_2_18: -8277321138622714445
+      Shannon_2_19: -561634592686436373
+      Shannon_2_2: 7187183422358743279
+      Shannon_2_20: 109834637177275966
+      Shannon_2_21: 5816001450008031153
+      Shannon_2_22: 792166690226801614
+      Shannon_2_23: -1408646799428719829
+      Shannon_2_24: 5295453361472407811
+      Shannon_2_25: 7589384611094876567
+      Shannon_2_26: 205305883930364158
+      Shannon_2_27: -5659369046424326920
+      Shannon_2_28: 11151031316543803
+      Shannon_2_29: -1559571552637924948
+      Shannon_2_3: -5869309427134080970
+      Shannon_2_30: 5629344420007974590
+      Shannon_2_31: 8415534941231384302
+      Shannon_2_32: -3103393073784043157
+      Shannon_2_33: -7336182136406674105
+      Shannon_2_34: -660390419496037235
+      Shannon_2_35: 1725821495207403342
+      Shannon_2_36: -4232790164343394860
+      Shannon_2_37: 5557344374941297516
+      Shannon_2_38: -7832245018662999936
+      Shannon_2_39: -2214138320685178944
+      Shannon_2_4: -8480447758940794802
+      Shannon_2_40: 5833243404012209418
+      Shannon_2_5: -8698431558730786325
+      Shannon_2_6: 7903192396976826515
+      Shannon_2_7: -6606758288601812609
+      Shannon_2_8: 204131920199825655
+      Shannon_2_9: -3934711002796326041
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,433 @@
+fileFormatVersion: 2
+guid: f6ef2f1b8c7c1c74f9dc20e3b2dda3a2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3011525592724300524
+    second: Margarita_2_0
+  - first:
+      213: 3058065354330729194
+    second: Margarita_2_1
+  - first:
+      213: -270423167758968937
+    second: Margarita_2_2
+  - first:
+      213: 7150997079718161774
+    second: Margarita_2_3
+  - first:
+      213: -6060069894342049885
+    second: Margarita_2_4
+  - first:
+      213: -3101198315746268791
+    second: Margarita_2_5
+  - first:
+      213: -6293123650399849194
+    second: Margarita_2_6
+  - first:
+      213: -1459018039134279047
+    second: Margarita_2_7
+  - first:
+      213: -7597279856458362165
+    second: Margarita_2_8
+  - first:
+      213: -6277170495445702539
+    second: Margarita_2_9
+  - first:
+      213: -7304190804736092861
+    second: Margarita_2_10
+  - first:
+      213: 438248869074509569
+    second: Margarita_2_11
+  - first:
+      213: 6505908027686655198
+    second: Margarita_2_12
+  - first:
+      213: 70569124257003686
+    second: Margarita_2_13
+  - first:
+      213: 6276369046202187045
+    second: Margarita_2_14
+  - first:
+      213: -7655377304378543394
+    second: Margarita_2_15
+  - first:
+      213: 1085272100215730819
+    second: Margarita_2_16
+  - first:
+      213: -7298951836877399677
+    second: Margarita_2_17
+  - first:
+      213: -308831870120697985
+    second: Margarita_2_18
+  - first:
+      213: 2590796533237104022
+    second: Margarita_2_19
+  - first:
+      213: -3087133628883652783
+    second: Margarita_2_20
+  - first:
+      213: -2011193249958647666
+    second: Margarita_2_21
+  - first:
+      213: -5174153791351008121
+    second: Margarita_2_22
+  - first:
+      213: 1746514349529415904
+    second: Margarita_2_23
+  - first:
+      213: 4615796283564583661
+    second: Margarita_2_24
+  - first:
+      213: 1760994100085462309
+    second: Margarita_2_25
+  - first:
+      213: -6073311047494641394
+    second: Margarita_2_26
+  - first:
+      213: -5734309282764360299
+    second: Margarita_2_27
+  - first:
+      213: 7766532719962539116
+    second: Margarita_2_28
+  - first:
+      213: 1881796107165062950
+    second: Margarita_2_29
+  - first:
+      213: 7744295535632504955
+    second: Margarita_2_30
+  - first:
+      213: 4420572755508141048
+    second: Margarita_2_31
+  - first:
+      213: 7356022484065144061
+    second: Margarita_2_32
+  - first:
+      213: 6983275619396263185
+    second: Margarita_2_33
+  - first:
+      213: -5008126544598965406
+    second: Margarita_2_34
+  - first:
+      213: -3518349331048740783
+    second: Margarita_2_35
+  - first:
+      213: 3059387029046689077
+    second: Margarita_2_36
+  - first:
+      213: 8536541646930729886
+    second: Margarita_2_37
+  - first:
+      213: -613480225125779845
+    second: Margarita_2_38
+  - first:
+      213: 3546185754565832557
+    second: Margarita_2_39
+  - first:
+      213: 221745125462828028
+    second: Margarita_2_40
+  - first:
+      213: 3678995245119528915
+    second: Margarita_2_41
+  - first:
+      213: 8693139079628246178
+    second: Margarita_2_42
+  - first:
+      213: 3617991277414669215
+    second: Margarita_2_43
+  - first:
+      213: 6656029104016675307
+    second: Margarita_2_44
+  - first:
+      213: -412657774896848623
+    second: Margarita_2_45
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Margarita_2_29
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 2217
+        width: 259
+        height: 514
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 627594bd69b7d1a10800000000000000
+      internalID: 1881796107165062950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Margarita_2_31
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 2283
+        width: 345
+        height: 397
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fb15dbff77095d30800000000000000
+      internalID: 4420572755508141048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Margarita_2_32
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 2316
+        width: 263
+        height: 402
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfc4d72b977d51660800000000000000
+      internalID: 7356022484065144061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Margarita_2_33
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1460
+        width: 573
+        height: 502
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11d92c64d2499e060800000000000000
+      internalID: 6983275619396263185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Margarita_2_36
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 1449
+        width: 490
+        height: 358
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53df3c82b40257a20800000000000000
+      internalID: 3059387029046689077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Margarita_2_45
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 508
+        width: 1022
+        height: 390
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1116879a0f1f54af0800000000000000
+      internalID: -412657774896848623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: b23ae563f0bbd4f4692f0af65c51004d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Margarita_2_0: -3011525592724300524
+      Margarita_2_1: 3058065354330729194
+      Margarita_2_10: -7304190804736092861
+      Margarita_2_11: 438248869074509569
+      Margarita_2_12: 6505908027686655198
+      Margarita_2_13: 70569124257003686
+      Margarita_2_14: 6276369046202187045
+      Margarita_2_15: -7655377304378543394
+      Margarita_2_16: 1085272100215730819
+      Margarita_2_17: -7298951836877399677
+      Margarita_2_18: -308831870120697985
+      Margarita_2_19: 2590796533237104022
+      Margarita_2_2: -270423167758968937
+      Margarita_2_20: -3087133628883652783
+      Margarita_2_21: -2011193249958647666
+      Margarita_2_22: -5174153791351008121
+      Margarita_2_23: 1746514349529415904
+      Margarita_2_24: 4615796283564583661
+      Margarita_2_25: 1760994100085462309
+      Margarita_2_26: -6073311047494641394
+      Margarita_2_27: -5734309282764360299
+      Margarita_2_28: 7766532719962539116
+      Margarita_2_29: 1881796107165062950
+      Margarita_2_3: 7150997079718161774
+      Margarita_2_30: 7744295535632504955
+      Margarita_2_31: 4420572755508141048
+      Margarita_2_32: 7356022484065144061
+      Margarita_2_33: 6983275619396263185
+      Margarita_2_34: -5008126544598965406
+      Margarita_2_35: -3518349331048740783
+      Margarita_2_36: 3059387029046689077
+      Margarita_2_37: 8536541646930729886
+      Margarita_2_38: -613480225125779845
+      Margarita_2_39: 3546185754565832557
+      Margarita_2_4: -6060069894342049885
+      Margarita_2_40: 221745125462828028
+      Margarita_2_41: 3678995245119528915
+      Margarita_2_42: 8693139079628246178
+      Margarita_2_43: 3617991277414669215
+      Margarita_2_44: 6656029104016675307
+      Margarita_2_45: -412657774896848623
+      Margarita_2_5: -3101198315746268791
+      Margarita_2_6: -6293123650399849194
+      Margarita_2_7: -1459018039134279047
+      Margarita_2_8: -7597279856458362165
+      Margarita_2_9: -6277170495445702539
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

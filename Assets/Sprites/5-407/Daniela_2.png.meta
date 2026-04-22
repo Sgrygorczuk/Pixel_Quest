@@ -1,0 +1,453 @@
+fileFormatVersion: 2
+guid: 71225eecb533863488578893c175b19f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4361554808282412311
+    second: Daniela_2_0
+  - first:
+      213: -5656076645000235830
+    second: Daniela_2_1
+  - first:
+      213: -2629388700696380504
+    second: Daniela_2_2
+  - first:
+      213: 3884068356146126770
+    second: Daniela_2_3
+  - first:
+      213: -352520240672465493
+    second: Daniela_2_4
+  - first:
+      213: 7820500793915886813
+    second: Daniela_2_5
+  - first:
+      213: 5563738058856139674
+    second: Daniela_2_6
+  - first:
+      213: -1909245544831690979
+    second: Daniela_2_7
+  - first:
+      213: -846175240277002178
+    second: Daniela_2_8
+  - first:
+      213: -1537869355900613738
+    second: Daniela_2_9
+  - first:
+      213: -2527613989556200029
+    second: Daniela_2_10
+  - first:
+      213: 8138099624473386326
+    second: Daniela_2_11
+  - first:
+      213: -379079714345195791
+    second: Daniela_2_12
+  - first:
+      213: 2644204092595695032
+    second: Daniela_2_13
+  - first:
+      213: 8058845960620645135
+    second: Daniela_2_14
+  - first:
+      213: -6873856563041166775
+    second: Daniela_2_15
+  - first:
+      213: 5620852985916954105
+    second: Daniela_2_16
+  - first:
+      213: -4814663215025762214
+    second: Daniela_2_17
+  - first:
+      213: -3985257695722876837
+    second: Daniela_2_18
+  - first:
+      213: 4890909490341635071
+    second: Daniela_2_19
+  - first:
+      213: 4393435585388740062
+    second: Daniela_2_20
+  - first:
+      213: -1227995979523580783
+    second: Daniela_2_21
+  - first:
+      213: -1428501165863074702
+    second: Daniela_2_22
+  - first:
+      213: 5644000778062486434
+    second: Daniela_2_23
+  - first:
+      213: 1819331808092643362
+    second: Daniela_2_24
+  - first:
+      213: -3557727801638923092
+    second: Daniela_2_25
+  - first:
+      213: -7911706616288196431
+    second: Daniela_2_26
+  - first:
+      213: 4976343698726843140
+    second: Daniela_2_27
+  - first:
+      213: 8832885987646641282
+    second: Daniela_2_28
+  - first:
+      213: -6578568208501465582
+    second: Daniela_2_29
+  - first:
+      213: -5523456147388462112
+    second: Daniela_2_30
+  - first:
+      213: -693768768707669673
+    second: Daniela_2_31
+  - first:
+      213: -3464029406265040090
+    second: Daniela_2_32
+  - first:
+      213: -1425320991048101601
+    second: Daniela_2_33
+  - first:
+      213: 3340398072117344344
+    second: Daniela_2_34
+  - first:
+      213: 6767634732003466204
+    second: Daniela_2_35
+  - first:
+      213: -3024599503149837988
+    second: Daniela_2_36
+  - first:
+      213: 2863224449336305755
+    second: Daniela_2_37
+  - first:
+      213: 566307400185872724
+    second: Daniela_2_38
+  - first:
+      213: 3646674964314374785
+    second: Daniela_2_39
+  - first:
+      213: -6080787078237893187
+    second: Daniela_2_40
+  - first:
+      213: -7754815712277278370
+    second: Daniela_2_41
+  - first:
+      213: 2951098171075868177
+    second: Daniela_2_42
+  - first:
+      213: 544091327933829638
+    second: Daniela_2_43
+  - first:
+      213: 4058948072851403707
+    second: Daniela_2_44
+  - first:
+      213: 1835667106256687910
+    second: Daniela_2_45
+  - first:
+      213: 657078866301300120
+    second: Daniela_2_46
+  - first:
+      213: -5532565476540833798
+    second: Daniela_2_47
+  - first:
+      213: 6930222716014940314
+    second: Daniela_2_48
+  - first:
+      213: -4951339289347826718
+    second: Daniela_2_49
+  - first:
+      213: 7761395290950934724
+    second: Daniela_2_50
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Daniela_2_23
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 2269
+        width: 345
+        height: 436
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab5170fdc4835e40800000000000000
+      internalID: 5644000778062486434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daniela_2_24
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 2442
+        width: 241
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2206ee5e3a09f3910800000000000000
+      internalID: 1819331808092643362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daniela_2_25
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 2393
+        width: 185
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca4d7cff96960aec0800000000000000
+      internalID: -3557727801638923092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daniela_2_36
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 1583
+        width: 241
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c515ee2e6c67606d0800000000000000
+      internalID: -3024599503149837988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daniela_2_37
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 1534
+        width: 833
+        height: 318
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5867e677773cb720800000000000000
+      internalID: 2863224449336305755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daniela_2_50
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 516
+        width: 1158
+        height: 336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c0258e35e306bb60800000000000000
+      internalID: 7761395290950934724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 9f48cc4d5008b5f42ac1b4c57acac18d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Daniela_2_0: 4361554808282412311
+      Daniela_2_1: -5656076645000235830
+      Daniela_2_10: -2527613989556200029
+      Daniela_2_11: 8138099624473386326
+      Daniela_2_12: -379079714345195791
+      Daniela_2_13: 2644204092595695032
+      Daniela_2_14: 8058845960620645135
+      Daniela_2_15: -6873856563041166775
+      Daniela_2_16: 5620852985916954105
+      Daniela_2_17: -4814663215025762214
+      Daniela_2_18: -3985257695722876837
+      Daniela_2_19: 4890909490341635071
+      Daniela_2_2: -2629388700696380504
+      Daniela_2_20: 4393435585388740062
+      Daniela_2_21: -1227995979523580783
+      Daniela_2_22: -1428501165863074702
+      Daniela_2_23: 5644000778062486434
+      Daniela_2_24: 1819331808092643362
+      Daniela_2_25: -3557727801638923092
+      Daniela_2_26: -7911706616288196431
+      Daniela_2_27: 4976343698726843140
+      Daniela_2_28: 8832885987646641282
+      Daniela_2_29: -6578568208501465582
+      Daniela_2_3: 3884068356146126770
+      Daniela_2_30: -5523456147388462112
+      Daniela_2_31: -693768768707669673
+      Daniela_2_32: -3464029406265040090
+      Daniela_2_33: -1425320991048101601
+      Daniela_2_34: 3340398072117344344
+      Daniela_2_35: 6767634732003466204
+      Daniela_2_36: -3024599503149837988
+      Daniela_2_37: 2863224449336305755
+      Daniela_2_38: 566307400185872724
+      Daniela_2_39: 3646674964314374785
+      Daniela_2_4: -352520240672465493
+      Daniela_2_40: -6080787078237893187
+      Daniela_2_41: -7754815712277278370
+      Daniela_2_42: 2951098171075868177
+      Daniela_2_43: 544091327933829638
+      Daniela_2_44: 4058948072851403707
+      Daniela_2_45: 1835667106256687910
+      Daniela_2_46: 657078866301300120
+      Daniela_2_47: -5532565476540833798
+      Daniela_2_48: 6930222716014940314
+      Daniela_2_49: -4951339289347826718
+      Daniela_2_5: 7820500793915886813
+      Daniela_2_50: 7761395290950934724
+      Daniela_2_6: 5563738058856139674
+      Daniela_2_7: -1909245544831690979
+      Daniela_2_8: -846175240277002178
+      Daniela_2_9: -1537869355900613738
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

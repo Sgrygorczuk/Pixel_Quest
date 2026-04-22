@@ -1,0 +1,461 @@
+fileFormatVersion: 2
+guid: b80e38c816953f041a3e27cbf1b84d9b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1093722263943316511
+    second: Untitled design(8)_0
+  - first:
+      213: -4379114002954867365
+    second: Untitled design(8)_1
+  - first:
+      213: 8646274712499187396
+    second: Untitled design(8)_2
+  - first:
+      213: 6508722453040364345
+    second: Untitled design(8)_3
+  - first:
+      213: -3777157863987428405
+    second: Untitled design(8)_4
+  - first:
+      213: -166769512981534054
+    second: Untitled design(8)_5
+  - first:
+      213: -3197048261451121087
+    second: Untitled design(8)_6
+  - first:
+      213: 2647577949101836635
+    second: Untitled design(8)_7
+  - first:
+      213: -900935109674402931
+    second: Untitled design(8)_8
+  - first:
+      213: 8995127207443631608
+    second: Untitled design(8)_9
+  - first:
+      213: -3460837124692848525
+    second: Untitled design(8)_10
+  - first:
+      213: -5253748361741316568
+    second: Untitled design(8)_11
+  - first:
+      213: -4036605590426181247
+    second: Untitled design(8)_12
+  - first:
+      213: 1210423901401562767
+    second: Untitled design(8)_13
+  - first:
+      213: 908845866548311604
+    second: Untitled design(8)_14
+  - first:
+      213: 8224652752139597268
+    second: Untitled design(8)_15
+  - first:
+      213: -3209410600758985420
+    second: Untitled design(8)_16
+  - first:
+      213: 1298788591136497652
+    second: Untitled design(8)_17
+  - first:
+      213: -678223485269068565
+    second: Untitled design(8)_18
+  - first:
+      213: 4210410379522039551
+    second: Untitled design(8)_19
+  - first:
+      213: -4134552097213484170
+    second: Untitled design(8)_20
+  - first:
+      213: 4099050602083119020
+    second: Untitled design(8)_21
+  - first:
+      213: 4337296148586920847
+    second: Untitled design(8)_22
+  - first:
+      213: -7690249629010042084
+    second: Untitled design(8)_23
+  - first:
+      213: -2172439409111663118
+    second: Untitled design(8)_24
+  - first:
+      213: -8537329831476997897
+    second: Untitled design(8)_25
+  - first:
+      213: -7185646625441163710
+    second: Untitled design(8)_26
+  - first:
+      213: 916351073152445701
+    second: Untitled design(8)_27
+  - first:
+      213: 7502040670461302034
+    second: Untitled design(8)_28
+  - first:
+      213: -5279078805372994750
+    second: Untitled design(8)_29
+  - first:
+      213: -3676897665073973402
+    second: Untitled design(8)_30
+  - first:
+      213: 6967070403081217676
+    second: Untitled design(8)_31
+  - first:
+      213: -4321597698387487587
+    second: Untitled design(8)_32
+  - first:
+      213: -6209169815713314876
+    second: Untitled design(8)_33
+  - first:
+      213: 641691609336580514
+    second: Untitled design(8)_34
+  - first:
+      213: -854097584063750207
+    second: Untitled design(8)_35
+  - first:
+      213: -5860548128557636833
+    second: Untitled design(8)_36
+  - first:
+      213: 5190839730940783945
+    second: Untitled design(8)_37
+  - first:
+      213: -2894949916491057737
+    second: Untitled design(8)_38
+  - first:
+      213: 1452213786750424360
+    second: Untitled design(8)_39
+  - first:
+      213: -1669207972527332790
+    second: Untitled design(8)_40
+  - first:
+      213: 2635480993333671274
+    second: Untitled design(8)_41
+  - first:
+      213: 1479448981180901678
+    second: Untitled design(8)_42
+  - first:
+      213: -2427542153346985509
+    second: Untitled design(8)_43
+  - first:
+      213: 7391079516162573443
+    second: Untitled design(8)_44
+  - first:
+      213: -2343253868485071559
+    second: Untitled design(8)_45
+  - first:
+      213: 7212194107805641835
+    second: Untitled design(8)_46
+  - first:
+      213: 9163682500664363471
+    second: Untitled design(8)_47
+  - first:
+      213: -6501223415696440833
+    second: Untitled design(8)_48
+  - first:
+      213: -3123594759578784869
+    second: Untitled design(8)_49
+  - first:
+      213: 64138915868953273
+    second: Untitled design(8)_50
+  - first:
+      213: -496009708247097973
+    second: Untitled design(8)_51
+  - first:
+      213: 4909722000191998477
+    second: Untitled design(8)_52
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Untitled design(8)_28
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 2311
+        width: 348
+        height: 429
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21511650e3a9c1860800000000000000
+      internalID: 7502040670461302034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled design(8)_29
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 2350
+        width: 317
+        height: 359
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24bf278dbc1fcb6b0800000000000000
+      internalID: -5279078805372994750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled design(8)_32
+      rect:
+        serializedVersion: 2
+        x: 1859
+        y: 2355
+        width: 207
+        height: 488
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d94d7754ac99604c0800000000000000
+      internalID: -4321597698387487587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled design(8)_38
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1531
+        width: 188
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b5f009936213d7d0800000000000000
+      internalID: -2894949916491057737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled design(8)_39
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 1405
+        width: 1238
+        height: 547
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8251f21bebc472410800000000000000
+      internalID: 1452213786750424360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled design(8)_52
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 464
+        width: 2009
+        height: 528
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0a4d577526d22440800000000000000
+      internalID: 4909722000191998477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 351332f2519308243b9a8683cf3c8a38
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Untitled design(8)_0: -1093722263943316511
+      Untitled design(8)_1: -4379114002954867365
+      Untitled design(8)_10: -3460837124692848525
+      Untitled design(8)_11: -5253748361741316568
+      Untitled design(8)_12: -4036605590426181247
+      Untitled design(8)_13: 1210423901401562767
+      Untitled design(8)_14: 908845866548311604
+      Untitled design(8)_15: 8224652752139597268
+      Untitled design(8)_16: -3209410600758985420
+      Untitled design(8)_17: 1298788591136497652
+      Untitled design(8)_18: -678223485269068565
+      Untitled design(8)_19: 4210410379522039551
+      Untitled design(8)_2: 8646274712499187396
+      Untitled design(8)_20: -4134552097213484170
+      Untitled design(8)_21: 4099050602083119020
+      Untitled design(8)_22: 4337296148586920847
+      Untitled design(8)_23: -7690249629010042084
+      Untitled design(8)_24: -2172439409111663118
+      Untitled design(8)_25: -8537329831476997897
+      Untitled design(8)_26: -7185646625441163710
+      Untitled design(8)_27: 916351073152445701
+      Untitled design(8)_28: 7502040670461302034
+      Untitled design(8)_29: -5279078805372994750
+      Untitled design(8)_3: 6508722453040364345
+      Untitled design(8)_30: -3676897665073973402
+      Untitled design(8)_31: 6967070403081217676
+      Untitled design(8)_32: -4321597698387487587
+      Untitled design(8)_33: -6209169815713314876
+      Untitled design(8)_34: 641691609336580514
+      Untitled design(8)_35: -854097584063750207
+      Untitled design(8)_36: -5860548128557636833
+      Untitled design(8)_37: 5190839730940783945
+      Untitled design(8)_38: -2894949916491057737
+      Untitled design(8)_39: 1452213786750424360
+      Untitled design(8)_4: -3777157863987428405
+      Untitled design(8)_40: -1669207972527332790
+      Untitled design(8)_41: 2635480993333671274
+      Untitled design(8)_42: 1479448981180901678
+      Untitled design(8)_43: -2427542153346985509
+      Untitled design(8)_44: 7391079516162573443
+      Untitled design(8)_45: -2343253868485071559
+      Untitled design(8)_46: 7212194107805641835
+      Untitled design(8)_47: 9163682500664363471
+      Untitled design(8)_48: -6501223415696440833
+      Untitled design(8)_49: -3123594759578784869
+      Untitled design(8)_5: -166769512981534054
+      Untitled design(8)_50: 64138915868953273
+      Untitled design(8)_51: -496009708247097973
+      Untitled design(8)_52: 4909722000191998477
+      Untitled design(8)_6: -3197048261451121087
+      Untitled design(8)_7: 2647577949101836635
+      Untitled design(8)_8: -900935109674402931
+      Untitled design(8)_9: 8995127207443631608
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

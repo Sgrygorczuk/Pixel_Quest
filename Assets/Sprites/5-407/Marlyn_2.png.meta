@@ -1,0 +1,505 @@
+fileFormatVersion: 2
+guid: 0da7b1ed3c221204f972e752c32510bf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1952155576958234915
+    second: Marlyn_2_0
+  - first:
+      213: -7735588524782442559
+    second: Marlyn_2_1
+  - first:
+      213: 2084511479003768063
+    second: Marlyn_2_2
+  - first:
+      213: 5130737147698205000
+    second: Marlyn_2_3
+  - first:
+      213: 4392781494684401780
+    second: Marlyn_2_4
+  - first:
+      213: 5407097189014113323
+    second: Marlyn_2_5
+  - first:
+      213: -6351104944584028734
+    second: Marlyn_2_6
+  - first:
+      213: -8912872744964255311
+    second: Marlyn_2_7
+  - first:
+      213: -3408093183599439226
+    second: Marlyn_2_8
+  - first:
+      213: 3370733502544109935
+    second: Marlyn_2_9
+  - first:
+      213: -2864918558395488653
+    second: Marlyn_2_10
+  - first:
+      213: 7841830245360400430
+    second: Marlyn_2_11
+  - first:
+      213: 3638071212901080962
+    second: Marlyn_2_12
+  - first:
+      213: 2593803166872627067
+    second: Marlyn_2_13
+  - first:
+      213: -2897804293961060782
+    second: Marlyn_2_14
+  - first:
+      213: -6564764808330727773
+    second: Marlyn_2_15
+  - first:
+      213: 7484795983850933227
+    second: Marlyn_2_16
+  - first:
+      213: -5150057516180357686
+    second: Marlyn_2_17
+  - first:
+      213: 2215779400383923167
+    second: Marlyn_2_18
+  - first:
+      213: 8142719678103699712
+    second: Marlyn_2_19
+  - first:
+      213: -763221329113809367
+    second: Marlyn_2_20
+  - first:
+      213: 6528514363034117374
+    second: Marlyn_2_21
+  - first:
+      213: -6121695159018600709
+    second: Marlyn_2_22
+  - first:
+      213: -1779518389887508610
+    second: Marlyn_2_23
+  - first:
+      213: -2053084786951370375
+    second: Marlyn_2_24
+  - first:
+      213: -2411675480662389532
+    second: Marlyn_2_25
+  - first:
+      213: 4912061948458928982
+    second: Marlyn_2_26
+  - first:
+      213: -5259629559395981532
+    second: Marlyn_2_27
+  - first:
+      213: 1640315087365276793
+    second: Marlyn_2_28
+  - first:
+      213: -2616149889144488438
+    second: Marlyn_2_29
+  - first:
+      213: 6512955509154870991
+    second: Marlyn_2_30
+  - first:
+      213: 2163618189077333332
+    second: Marlyn_2_31
+  - first:
+      213: -9205711953860368878
+    second: Marlyn_2_32
+  - first:
+      213: -3619103156208564102
+    second: Marlyn_2_33
+  - first:
+      213: -2502561032298334302
+    second: Marlyn_2_34
+  - first:
+      213: 2237374349958740499
+    second: Marlyn_2_35
+  - first:
+      213: 3291073873444583934
+    second: Marlyn_2_36
+  - first:
+      213: -3137860095848309833
+    second: Marlyn_2_37
+  - first:
+      213: 7040078509180838314
+    second: Marlyn_2_38
+  - first:
+      213: -1492182154264606292
+    second: Marlyn_2_39
+  - first:
+      213: -3003564986107146319
+    second: Marlyn_2_40
+  - first:
+      213: -4814409375073786966
+    second: Marlyn_2_41
+  - first:
+      213: -3658847104865432814
+    second: Marlyn_2_42
+  - first:
+      213: 6444688457083776133
+    second: Marlyn_2_43
+  - first:
+      213: 8756460542220473890
+    second: Marlyn_2_44
+  - first:
+      213: 7378483261375141847
+    second: Marlyn_2_45
+  - first:
+      213: -4561351712552847999
+    second: Marlyn_2_46
+  - first:
+      213: -6380943746649867845
+    second: Marlyn_2_47
+  - first:
+      213: 5360571885908567125
+    second: Marlyn_2_48
+  - first:
+      213: -672862960042460759
+    second: Marlyn_2_49
+  - first:
+      213: -5180324291562262919
+    second: Marlyn_2_50
+  - first:
+      213: -1836282806177549950
+    second: Marlyn_2_51
+  - first:
+      213: -2430303194327033802
+    second: Marlyn_2_52
+  - first:
+      213: 2280748630997813532
+    second: Marlyn_2_53
+  - first:
+      213: 792789159411645687
+    second: Marlyn_2_54
+  - first:
+      213: -425899342574131590
+    second: Marlyn_2_55
+  - first:
+      213: 9195941707853647897
+    second: Marlyn_2_56
+  - first:
+      213: -7300922343964927344
+    second: Marlyn_2_57
+  - first:
+      213: 4173345895282337007
+    second: Marlyn_2_58
+  - first:
+      213: -6485874832716141047
+    second: Marlyn_2_59
+  - first:
+      213: 968127801618604659
+    second: Marlyn_2_60
+  - first:
+      213: -8203156578123650828
+    second: Marlyn_2_61
+  - first:
+      213: 297144466947589331
+    second: Marlyn_2_62
+  - first:
+      213: -809948918721387275
+    second: Marlyn_2_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Marlyn_2_30
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 2245
+        width: 327
+        height: 460
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc67919478aa26a50800000000000000
+      internalID: 6512955509154870991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marlyn_2_31
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 2436
+        width: 245
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45547859747b60e10800000000000000
+      internalID: 2163618189077333332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marlyn_2_32
+      rect:
+        serializedVersion: 2
+        x: 1907
+        y: 2284
+        width: 296
+        height: 399
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 216e59d70cdbe3080800000000000000
+      internalID: -9205711953860368878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marlyn_2_44
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1475
+        width: 259
+        height: 395
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22696cc2872358970800000000000000
+      internalID: 8756460542220473890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marlyn_2_45
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 1581
+        width: 1089
+        height: 299
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d75e6fee63a56660800000000000000
+      internalID: 7378483261375141847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marlyn_2_61
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 586
+        width: 1672
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f8e70ced88882e80800000000000000
+      internalID: -8203156578123650828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 091a6dec71a96da4daafab414e327f2b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Marlyn_2_0: -1952155576958234915
+      Marlyn_2_1: -7735588524782442559
+      Marlyn_2_10: -2864918558395488653
+      Marlyn_2_11: 7841830245360400430
+      Marlyn_2_12: 3638071212901080962
+      Marlyn_2_13: 2593803166872627067
+      Marlyn_2_14: -2897804293961060782
+      Marlyn_2_15: -6564764808330727773
+      Marlyn_2_16: 7484795983850933227
+      Marlyn_2_17: -5150057516180357686
+      Marlyn_2_18: 2215779400383923167
+      Marlyn_2_19: 8142719678103699712
+      Marlyn_2_2: 2084511479003768063
+      Marlyn_2_20: -763221329113809367
+      Marlyn_2_21: 6528514363034117374
+      Marlyn_2_22: -6121695159018600709
+      Marlyn_2_23: -1779518389887508610
+      Marlyn_2_24: -2053084786951370375
+      Marlyn_2_25: -2411675480662389532
+      Marlyn_2_26: 4912061948458928982
+      Marlyn_2_27: -5259629559395981532
+      Marlyn_2_28: 1640315087365276793
+      Marlyn_2_29: -2616149889144488438
+      Marlyn_2_3: 5130737147698205000
+      Marlyn_2_30: 6512955509154870991
+      Marlyn_2_31: 2163618189077333332
+      Marlyn_2_32: -9205711953860368878
+      Marlyn_2_33: -3619103156208564102
+      Marlyn_2_34: -2502561032298334302
+      Marlyn_2_35: 2237374349958740499
+      Marlyn_2_36: 3291073873444583934
+      Marlyn_2_37: -3137860095848309833
+      Marlyn_2_38: 7040078509180838314
+      Marlyn_2_39: -1492182154264606292
+      Marlyn_2_4: 4392781494684401780
+      Marlyn_2_40: -3003564986107146319
+      Marlyn_2_41: -4814409375073786966
+      Marlyn_2_42: -3658847104865432814
+      Marlyn_2_43: 6444688457083776133
+      Marlyn_2_44: 8756460542220473890
+      Marlyn_2_45: 7378483261375141847
+      Marlyn_2_46: -4561351712552847999
+      Marlyn_2_47: -6380943746649867845
+      Marlyn_2_48: 5360571885908567125
+      Marlyn_2_49: -672862960042460759
+      Marlyn_2_5: 5407097189014113323
+      Marlyn_2_50: -5180324291562262919
+      Marlyn_2_51: -1836282806177549950
+      Marlyn_2_52: -2430303194327033802
+      Marlyn_2_53: 2280748630997813532
+      Marlyn_2_54: 792789159411645687
+      Marlyn_2_55: -425899342574131590
+      Marlyn_2_56: 9195941707853647897
+      Marlyn_2_57: -7300922343964927344
+      Marlyn_2_58: 4173345895282337007
+      Marlyn_2_59: -6485874832716141047
+      Marlyn_2_6: -6351104944584028734
+      Marlyn_2_60: 968127801618604659
+      Marlyn_2_61: -8203156578123650828
+      Marlyn_2_62: 297144466947589331
+      Marlyn_2_63: -809948918721387275
+      Marlyn_2_7: -8912872744964255311
+      Marlyn_2_8: -3408093183599439226
+      Marlyn_2_9: 3370733502544109935
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

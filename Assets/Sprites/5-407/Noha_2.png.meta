@@ -1,0 +1,613 @@
+fileFormatVersion: 2
+guid: 2735c0341753df14aab882ec5df02309
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7197360049244328004
+    second: Noha_2_0
+  - first:
+      213: 3555055309738066709
+    second: Noha_2_1
+  - first:
+      213: -2387977250170275034
+    second: Noha_2_2
+  - first:
+      213: 1725149147824063294
+    second: Noha_2_3
+  - first:
+      213: -1903517530820164708
+    second: Noha_2_4
+  - first:
+      213: -8355330373842110817
+    second: Noha_2_5
+  - first:
+      213: 2803075965405600276
+    second: Noha_2_6
+  - first:
+      213: -8487242066109611859
+    second: Noha_2_7
+  - first:
+      213: 4441712334844029777
+    second: Noha_2_8
+  - first:
+      213: 59486337191951521
+    second: Noha_2_9
+  - first:
+      213: -2586727858049952336
+    second: Noha_2_10
+  - first:
+      213: -7790455611889665990
+    second: Noha_2_11
+  - first:
+      213: 6523214046761463526
+    second: Noha_2_12
+  - first:
+      213: -3188330803480955898
+    second: Noha_2_13
+  - first:
+      213: -4095858301281103638
+    second: Noha_2_14
+  - first:
+      213: 4856267159971235252
+    second: Noha_2_15
+  - first:
+      213: 2083680109864164849
+    second: Noha_2_16
+  - first:
+      213: 4077199916319776513
+    second: Noha_2_17
+  - first:
+      213: 7397270518950967175
+    second: Noha_2_18
+  - first:
+      213: 8018900776728403007
+    second: Noha_2_19
+  - first:
+      213: 6411708682981684523
+    second: Noha_2_20
+  - first:
+      213: -5746398549227799680
+    second: Noha_2_21
+  - first:
+      213: 1221801290019747533
+    second: Noha_2_22
+  - first:
+      213: 3551080786260376712
+    second: Noha_2_23
+  - first:
+      213: -8525040519166992700
+    second: Noha_2_24
+  - first:
+      213: -6733872799072317146
+    second: Noha_2_25
+  - first:
+      213: -2180938472861745479
+    second: Noha_2_26
+  - first:
+      213: -6096163205487497076
+    second: Noha_2_27
+  - first:
+      213: -3134666622045165433
+    second: Noha_2_28
+  - first:
+      213: -2197089883217201877
+    second: Noha_2_29
+  - first:
+      213: -8846431289909788121
+    second: Noha_2_30
+  - first:
+      213: 1151099574504025718
+    second: Noha_2_31
+  - first:
+      213: -1750142890358773088
+    second: Noha_2_32
+  - first:
+      213: 5502665370321789670
+    second: Noha_2_33
+  - first:
+      213: 3853194870118171615
+    second: Noha_2_34
+  - first:
+      213: -7853248826199709390
+    second: Noha_2_35
+  - first:
+      213: 565097775882268427
+    second: Noha_2_36
+  - first:
+      213: -1563780844900638582
+    second: Noha_2_37
+  - first:
+      213: -2046159982235009106
+    second: Noha_2_38
+  - first:
+      213: -339717321527955676
+    second: Noha_2_39
+  - first:
+      213: -4895969328535575325
+    second: Noha_2_40
+  - first:
+      213: -1311684995782941498
+    second: Noha_2_41
+  - first:
+      213: 7798096130165763475
+    second: Noha_2_42
+  - first:
+      213: -8038503166411141791
+    second: Noha_2_43
+  - first:
+      213: 5392777863186742698
+    second: Noha_2_44
+  - first:
+      213: -677718294569952621
+    second: Noha_2_45
+  - first:
+      213: 5455993420818972537
+    second: Noha_2_46
+  - first:
+      213: -8964636821661403805
+    second: Noha_2_47
+  - first:
+      213: -6139843368349681591
+    second: Noha_2_48
+  - first:
+      213: -7795182690890558076
+    second: Noha_2_49
+  - first:
+      213: -5834919447809559035
+    second: Noha_2_50
+  - first:
+      213: 217448502502756738
+    second: Noha_2_51
+  - first:
+      213: -7897948735563759467
+    second: Noha_2_52
+  - first:
+      213: 7053643304473490815
+    second: Noha_2_53
+  - first:
+      213: 7550317433272632852
+    second: Noha_2_54
+  - first:
+      213: -8133663965030384378
+    second: Noha_2_55
+  - first:
+      213: -401913279096474488
+    second: Noha_2_56
+  - first:
+      213: -4219230470534723884
+    second: Noha_2_57
+  - first:
+      213: -4287744147030902382
+    second: Noha_2_58
+  - first:
+      213: -2249891907690309881
+    second: Noha_2_59
+  - first:
+      213: 8842876460132149346
+    second: Noha_2_60
+  - first:
+      213: 1114446675391950333
+    second: Noha_2_61
+  - first:
+      213: 2775035101333829834
+    second: Noha_2_62
+  - first:
+      213: -8323956898964445260
+    second: Noha_2_63
+  - first:
+      213: -1896594099774695516
+    second: Noha_2_64
+  - first:
+      213: 3133541167278922321
+    second: Noha_2_65
+  - first:
+      213: 4565449159907286387
+    second: Noha_2_66
+  - first:
+      213: 711804410206376015
+    second: Noha_2_67
+  - first:
+      213: -1909786452625297802
+    second: Noha_2_68
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Noha_2_0
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 2224
+        width: 190
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbf24302b27dd1c90800000000000000
+      internalID: -7197360049244328004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noha_2_1
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 2237
+        width: 246
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 513cdcdf7f7165130800000000000000
+      internalID: 3555055309738066709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noha_2_2
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 1473
+        width: 612
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62bf2efc7533cded0800000000000000
+      internalID: -2387977250170275034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noha_2_37
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 2492
+        width: 172
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8023295b955c4ae0800000000000000
+      internalID: -1563780844900638582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noha_2_38
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 2332
+        width: 402
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaf334156549a93e0800000000000000
+      internalID: -2046159982235009106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noha_2_39
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 2231
+        width: 363
+        height: 435
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42f674e55e4194bf0800000000000000
+      internalID: -339717321527955676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noha_2_51
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1529
+        width: 258
+        height: 402
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2811e9cc248840300800000000000000
+      internalID: 217448502502756738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noha_2_52
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 1415
+        width: 170
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5900a7a5879d46290800000000000000
+      internalID: -7897948735563759467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noha_2_54
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1047
+        width: 280
+        height: 221
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41687a7c3bd18c860800000000000000
+      internalID: 7550317433272632852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noha_2_67
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 450
+        width: 2012
+        height: 535
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4058ebf656d0e900800000000000000
+      internalID: 711804410206376015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a250feb512323e048b969fd042fc913b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Noha_2_0: -7197360049244328004
+      Noha_2_1: 3555055309738066709
+      Noha_2_10: -2586727858049952336
+      Noha_2_11: -7790455611889665990
+      Noha_2_12: 6523214046761463526
+      Noha_2_13: -3188330803480955898
+      Noha_2_14: -4095858301281103638
+      Noha_2_15: 4856267159971235252
+      Noha_2_16: 2083680109864164849
+      Noha_2_17: 4077199916319776513
+      Noha_2_18: 7397270518950967175
+      Noha_2_19: 8018900776728403007
+      Noha_2_2: -2387977250170275034
+      Noha_2_20: 6411708682981684523
+      Noha_2_21: -5746398549227799680
+      Noha_2_22: 1221801290019747533
+      Noha_2_23: 3551080786260376712
+      Noha_2_24: -8525040519166992700
+      Noha_2_25: -6733872799072317146
+      Noha_2_26: -2180938472861745479
+      Noha_2_27: -6096163205487497076
+      Noha_2_28: -3134666622045165433
+      Noha_2_29: -2197089883217201877
+      Noha_2_3: 1725149147824063294
+      Noha_2_30: -8846431289909788121
+      Noha_2_31: 1151099574504025718
+      Noha_2_32: -1750142890358773088
+      Noha_2_33: 5502665370321789670
+      Noha_2_34: 3853194870118171615
+      Noha_2_35: -7853248826199709390
+      Noha_2_36: 565097775882268427
+      Noha_2_37: -1563780844900638582
+      Noha_2_38: -2046159982235009106
+      Noha_2_39: -339717321527955676
+      Noha_2_4: -1903517530820164708
+      Noha_2_40: -4895969328535575325
+      Noha_2_41: -1311684995782941498
+      Noha_2_42: 7798096130165763475
+      Noha_2_43: -8038503166411141791
+      Noha_2_44: 5392777863186742698
+      Noha_2_45: -677718294569952621
+      Noha_2_46: 5455993420818972537
+      Noha_2_47: -8964636821661403805
+      Noha_2_48: -6139843368349681591
+      Noha_2_49: -7795182690890558076
+      Noha_2_5: -8355330373842110817
+      Noha_2_50: -5834919447809559035
+      Noha_2_51: 217448502502756738
+      Noha_2_52: -7897948735563759467
+      Noha_2_53: 7053643304473490815
+      Noha_2_54: 7550317433272632852
+      Noha_2_55: -8133663965030384378
+      Noha_2_56: -401913279096474488
+      Noha_2_57: -4219230470534723884
+      Noha_2_58: -4287744147030902382
+      Noha_2_59: -2249891907690309881
+      Noha_2_6: 2803075965405600276
+      Noha_2_60: 8842876460132149346
+      Noha_2_61: 1114446675391950333
+      Noha_2_62: 2775035101333829834
+      Noha_2_63: -8323956898964445260
+      Noha_2_64: -1896594099774695516
+      Noha_2_65: 3133541167278922321
+      Noha_2_66: 4565449159907286387
+      Noha_2_67: 711804410206376015
+      Noha_2_68: -1909786452625297802
+      Noha_2_7: -8487242066109611859
+      Noha_2_8: 4441712334844029777
+      Noha_2_9: 59486337191951521
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

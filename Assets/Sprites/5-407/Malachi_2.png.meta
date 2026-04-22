@@ -1,0 +1,481 @@
+fileFormatVersion: 2
+guid: 704eb855f05514a4aad72b10f24617c0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1396096880712741552
+    second: Malachi_2_0
+  - first:
+      213: 1229740046624830606
+    second: Malachi_2_1
+  - first:
+      213: 1960945620396672699
+    second: Malachi_2_2
+  - first:
+      213: -757219110854026796
+    second: Malachi_2_3
+  - first:
+      213: -8833697455768657445
+    second: Malachi_2_4
+  - first:
+      213: -7362918015405801716
+    second: Malachi_2_5
+  - first:
+      213: 5497974384609600388
+    second: Malachi_2_6
+  - first:
+      213: -5118807936204553427
+    second: Malachi_2_7
+  - first:
+      213: 5421004189011535737
+    second: Malachi_2_8
+  - first:
+      213: -6372293343951669123
+    second: Malachi_2_9
+  - first:
+      213: -130910763569143558
+    second: Malachi_2_10
+  - first:
+      213: 7052004980308372249
+    second: Malachi_2_11
+  - first:
+      213: -73199910881607392
+    second: Malachi_2_12
+  - first:
+      213: 4126596639693248478
+    second: Malachi_2_13
+  - first:
+      213: 7507377268125961361
+    second: Malachi_2_14
+  - first:
+      213: -7850484099203365894
+    second: Malachi_2_15
+  - first:
+      213: 2714268965178367214
+    second: Malachi_2_16
+  - first:
+      213: 6333773075195905917
+    second: Malachi_2_17
+  - first:
+      213: -3365610405496170103
+    second: Malachi_2_18
+  - first:
+      213: -7298877796216350630
+    second: Malachi_2_19
+  - first:
+      213: 8254964293546789013
+    second: Malachi_2_20
+  - first:
+      213: 8230915522362478587
+    second: Malachi_2_21
+  - first:
+      213: -2432107294794586518
+    second: Malachi_2_22
+  - first:
+      213: -3868655657883165791
+    second: Malachi_2_23
+  - first:
+      213: 7795962316868543217
+    second: Malachi_2_24
+  - first:
+      213: -6802405914228877831
+    second: Malachi_2_25
+  - first:
+      213: 1839721888030405563
+    second: Malachi_2_26
+  - first:
+      213: -2125816919499351111
+    second: Malachi_2_27
+  - first:
+      213: 8623824983120028315
+    second: Malachi_2_28
+  - first:
+      213: 4205746219863669270
+    second: Malachi_2_29
+  - first:
+      213: -6603268620841957862
+    second: Malachi_2_30
+  - first:
+      213: -8008693485011590658
+    second: Malachi_2_31
+  - first:
+      213: -763168047949332245
+    second: Malachi_2_32
+  - first:
+      213: -2399583353392659432
+    second: Malachi_2_33
+  - first:
+      213: -6551459001955720929
+    second: Malachi_2_34
+  - first:
+      213: -7484390096494407475
+    second: Malachi_2_35
+  - first:
+      213: -5801247573154826769
+    second: Malachi_2_36
+  - first:
+      213: -8628039346890062717
+    second: Malachi_2_37
+  - first:
+      213: -270663138718342462
+    second: Malachi_2_38
+  - first:
+      213: -1606638700418995113
+    second: Malachi_2_39
+  - first:
+      213: -7237343574922673979
+    second: Malachi_2_40
+  - first:
+      213: -6897147889437382835
+    second: Malachi_2_41
+  - first:
+      213: -727080695193293750
+    second: Malachi_2_42
+  - first:
+      213: 4171280815963460958
+    second: Malachi_2_43
+  - first:
+      213: 1377286998511123680
+    second: Malachi_2_44
+  - first:
+      213: -1251213342705036030
+    second: Malachi_2_45
+  - first:
+      213: 5044748610694879052
+    second: Malachi_2_46
+  - first:
+      213: -6894063480099410949
+    second: Malachi_2_47
+  - first:
+      213: -8104117142740774888
+    second: Malachi_2_48
+  - first:
+      213: 1519149035586174306
+    second: Malachi_2_49
+  - first:
+      213: -5500959542474836593
+    second: Malachi_2_50
+  - first:
+      213: 8090286155683970117
+    second: Malachi_2_51
+  - first:
+      213: 908706390618281366
+    second: Malachi_2_52
+  - first:
+      213: -9073411585657083213
+    second: Malachi_2_53
+  - first:
+      213: -9073627957432297830
+    second: Malachi_2_54
+  - first:
+      213: -4363198530652258401
+    second: Malachi_2_55
+  - first:
+      213: -3432918493946123442
+    second: Malachi_2_56
+  - first:
+      213: 4108894729931006602
+    second: Malachi_2_57
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Malachi_2_28
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 2341
+        width: 342
+        height: 314
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b922204912bfda770800000000000000
+      internalID: 8623824983120028315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malachi_2_29
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 2352
+        width: 312
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61a7a6a67efcd5a30800000000000000
+      internalID: 4205746219863669270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malachi_2_30
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 2254
+        width: 103
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a164b3acc2a7c54a0800000000000000
+      internalID: -6603268620841957862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malachi_2_42
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1532
+        width: 146
+        height: 303
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4ca5ffb5f3e8e5f0800000000000000
+      internalID: -727080695193293750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malachi_2_43
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 1762
+        width: 1097
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5557ed3dcd53e930800000000000000
+      internalID: 4171280815963460958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malachi_2_57
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 522
+        width: 1886
+        height: 396
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a82230dacf9b50930800000000000000
+      internalID: 4108894729931006602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 0109ffb6b93ea5a41aea522cd924a5e2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Malachi_2_0: 1396096880712741552
+      Malachi_2_1: 1229740046624830606
+      Malachi_2_10: -130910763569143558
+      Malachi_2_11: 7052004980308372249
+      Malachi_2_12: -73199910881607392
+      Malachi_2_13: 4126596639693248478
+      Malachi_2_14: 7507377268125961361
+      Malachi_2_15: -7850484099203365894
+      Malachi_2_16: 2714268965178367214
+      Malachi_2_17: 6333773075195905917
+      Malachi_2_18: -3365610405496170103
+      Malachi_2_19: -7298877796216350630
+      Malachi_2_2: 1960945620396672699
+      Malachi_2_20: 8254964293546789013
+      Malachi_2_21: 8230915522362478587
+      Malachi_2_22: -2432107294794586518
+      Malachi_2_23: -3868655657883165791
+      Malachi_2_24: 7795962316868543217
+      Malachi_2_25: -6802405914228877831
+      Malachi_2_26: 1839721888030405563
+      Malachi_2_27: -2125816919499351111
+      Malachi_2_28: 8623824983120028315
+      Malachi_2_29: 4205746219863669270
+      Malachi_2_3: -757219110854026796
+      Malachi_2_30: -6603268620841957862
+      Malachi_2_31: -8008693485011590658
+      Malachi_2_32: -763168047949332245
+      Malachi_2_33: -2399583353392659432
+      Malachi_2_34: -6551459001955720929
+      Malachi_2_35: -7484390096494407475
+      Malachi_2_36: -5801247573154826769
+      Malachi_2_37: -8628039346890062717
+      Malachi_2_38: -270663138718342462
+      Malachi_2_39: -1606638700418995113
+      Malachi_2_4: -8833697455768657445
+      Malachi_2_40: -7237343574922673979
+      Malachi_2_41: -6897147889437382835
+      Malachi_2_42: -727080695193293750
+      Malachi_2_43: 4171280815963460958
+      Malachi_2_44: 1377286998511123680
+      Malachi_2_45: -1251213342705036030
+      Malachi_2_46: 5044748610694879052
+      Malachi_2_47: -6894063480099410949
+      Malachi_2_48: -8104117142740774888
+      Malachi_2_49: 1519149035586174306
+      Malachi_2_5: -7362918015405801716
+      Malachi_2_50: -5500959542474836593
+      Malachi_2_51: 8090286155683970117
+      Malachi_2_52: 908706390618281366
+      Malachi_2_53: -9073411585657083213
+      Malachi_2_54: -9073627957432297830
+      Malachi_2_55: -4363198530652258401
+      Malachi_2_56: -3432918493946123442
+      Malachi_2_57: 4108894729931006602
+      Malachi_2_6: 5497974384609600388
+      Malachi_2_7: -5118807936204553427
+      Malachi_2_8: 5421004189011535737
+      Malachi_2_9: -6372293343951669123
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

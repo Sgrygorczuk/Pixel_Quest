@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: 42359f0bdfd6ba24492c08868e9a74b9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2216586609031456035
+    second: Sarah_2_0
+  - first:
+      213: 5304047997549203750
+    second: Sarah_2_1
+  - first:
+      213: -6500141861943425962
+    second: Sarah_2_2
+  - first:
+      213: -9024141509209040898
+    second: Sarah_2_3
+  - first:
+      213: -1638903818066069912
+    second: Sarah_2_4
+  - first:
+      213: -5526258796927551853
+    second: Sarah_2_5
+  - first:
+      213: 7139569833959728860
+    second: Sarah_2_6
+  - first:
+      213: 5482230084255524693
+    second: Sarah_2_7
+  - first:
+      213: 2791039119645722737
+    second: Sarah_2_8
+  - first:
+      213: -6195476408049172733
+    second: Sarah_2_9
+  - first:
+      213: 2232137345897762750
+    second: Sarah_2_10
+  - first:
+      213: 3464777475132135849
+    second: Sarah_2_11
+  - first:
+      213: 4178045825257100630
+    second: Sarah_2_12
+  - first:
+      213: -5199068507480375215
+    second: Sarah_2_13
+  - first:
+      213: -1506154499538479774
+    second: Sarah_2_14
+  - first:
+      213: 6207244825729162090
+    second: Sarah_2_15
+  - first:
+      213: 4468191934071614650
+    second: Sarah_2_16
+  - first:
+      213: -6153667454913963233
+    second: Sarah_2_17
+  - first:
+      213: 3015738470791822001
+    second: Sarah_2_18
+  - first:
+      213: -6274987636709761233
+    second: Sarah_2_19
+  - first:
+      213: 3094865608272313665
+    second: Sarah_2_20
+  - first:
+      213: 4433377984946531504
+    second: Sarah_2_21
+  - first:
+      213: 7038958014618036986
+    second: Sarah_2_22
+  - first:
+      213: 1389062262575706129
+    second: Sarah_2_23
+  - first:
+      213: -7102806564217501847
+    second: Sarah_2_24
+  - first:
+      213: 4440551809580136411
+    second: Sarah_2_25
+  - first:
+      213: 3350064115654969495
+    second: Sarah_2_26
+  - first:
+      213: 6667691796570566281
+    second: Sarah_2_27
+  - first:
+      213: -3317349589275357699
+    second: Sarah_2_28
+  - first:
+      213: -4943263565516620318
+    second: Sarah_2_29
+  - first:
+      213: 6323206680587916116
+    second: Sarah_2_30
+  - first:
+      213: -8099620349224389482
+    second: Sarah_2_31
+  - first:
+      213: 3110773508875797921
+    second: Sarah_2_32
+  - first:
+      213: -380246430946932166
+    second: Sarah_2_33
+  - first:
+      213: -1328154533139198233
+    second: Sarah_2_34
+  - first:
+      213: 6447711725151211808
+    second: Sarah_2_35
+  - first:
+      213: 7239639328297060009
+    second: Sarah_2_36
+  - first:
+      213: 7027124119896441617
+    second: Sarah_2_37
+  - first:
+      213: -1650157305575974036
+    second: Sarah_2_38
+  - first:
+      213: 8713477059238280185
+    second: Sarah_2_39
+  - first:
+      213: -960249997911945233
+    second: Sarah_2_40
+  - first:
+      213: 576257047329906067
+    second: Sarah_2_41
+  - first:
+      213: -4177013265766965829
+    second: Sarah_2_42
+  - first:
+      213: -5908116576721409016
+    second: Sarah_2_43
+  - first:
+      213: 4826059328452455141
+    second: Sarah_2_44
+  - first:
+      213: 7179277016895227325
+    second: Sarah_2_45
+  - first:
+      213: -8508624651209201873
+    second: Sarah_2_46
+  - first:
+      213: 2292151494151726017
+    second: Sarah_2_47
+  - first:
+      213: 3880692871786978867
+    second: Sarah_2_48
+  - first:
+      213: 7552455849546971494
+    second: Sarah_2_49
+  - first:
+      213: -1062133150290369315
+    second: Sarah_2_50
+  - first:
+      213: -4461060788662197605
+    second: Sarah_2_51
+  - first:
+      213: 7349600858554675169
+    second: Sarah_2_52
+  - first:
+      213: 1012347315188291250
+    second: Sarah_2_53
+  - first:
+      213: -4421518622817350458
+    second: Sarah_2_54
+  - first:
+      213: -4427278084090148368
+    second: Sarah_2_55
+  - first:
+      213: -692370404493361905
+    second: Sarah_2_56
+  - first:
+      213: -8599603913576938273
+    second: Sarah_2_57
+  - first:
+      213: 8624278635171908596
+    second: Sarah_2_58
+  - first:
+      213: -7637509023902212770
+    second: Sarah_2_59
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sarah_2_5
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 3059
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 396714057e8ce43b0800000000000000
+      internalID: -5526258796927551853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_2_25
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 2255
+        width: 269
+        height: 504
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd7fdb0085200ad30800000000000000
+      internalID: 4440551809580136411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_2_26
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 2382
+        width: 223
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 798c5645091dd7e20800000000000000
+      internalID: 3350064115654969495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_2_28
+      rect:
+        serializedVersion: 2
+        x: 1717
+        y: 2254
+        width: 148
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfd4477ef1866f1d0800000000000000
+      internalID: -3317349589275357699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_2_39
+      rect:
+        serializedVersion: 2
+        x: 1529
+        y: 2011
+        width: 19
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fbb96a283d7ce870800000000000000
+      internalID: 8713477059238280185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_2_45
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1565
+        width: 247
+        height: 267
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db58a20d86ae1a360800000000000000
+      internalID: 7179277016895227325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_2_46
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 1425
+        width: 866
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f272b89d5fa4be980800000000000000
+      internalID: -8508624651209201873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarah_2_59
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 473
+        width: 2013
+        height: 523
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5dd77d020e120690800000000000000
+      internalID: -7637509023902212770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 8bd9cf0caa9ef934baf024b771ad6e5f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Sarah_2_0: 2216586609031456035
+      Sarah_2_1: 5304047997549203750
+      Sarah_2_10: 2232137345897762750
+      Sarah_2_11: 3464777475132135849
+      Sarah_2_12: 4178045825257100630
+      Sarah_2_13: -5199068507480375215
+      Sarah_2_14: -1506154499538479774
+      Sarah_2_15: 6207244825729162090
+      Sarah_2_16: 4468191934071614650
+      Sarah_2_17: -6153667454913963233
+      Sarah_2_18: 3015738470791822001
+      Sarah_2_19: -6274987636709761233
+      Sarah_2_2: -6500141861943425962
+      Sarah_2_20: 3094865608272313665
+      Sarah_2_21: 4433377984946531504
+      Sarah_2_22: 7038958014618036986
+      Sarah_2_23: 1389062262575706129
+      Sarah_2_24: -7102806564217501847
+      Sarah_2_25: 4440551809580136411
+      Sarah_2_26: 3350064115654969495
+      Sarah_2_27: 6667691796570566281
+      Sarah_2_28: -3317349589275357699
+      Sarah_2_29: -4943263565516620318
+      Sarah_2_3: -9024141509209040898
+      Sarah_2_30: 6323206680587916116
+      Sarah_2_31: -8099620349224389482
+      Sarah_2_32: 3110773508875797921
+      Sarah_2_33: -380246430946932166
+      Sarah_2_34: -1328154533139198233
+      Sarah_2_35: 6447711725151211808
+      Sarah_2_36: 7239639328297060009
+      Sarah_2_37: 7027124119896441617
+      Sarah_2_38: -1650157305575974036
+      Sarah_2_39: 8713477059238280185
+      Sarah_2_4: -1638903818066069912
+      Sarah_2_40: -960249997911945233
+      Sarah_2_41: 576257047329906067
+      Sarah_2_42: -4177013265766965829
+      Sarah_2_43: -5908116576721409016
+      Sarah_2_44: 4826059328452455141
+      Sarah_2_45: 7179277016895227325
+      Sarah_2_46: -8508624651209201873
+      Sarah_2_47: 2292151494151726017
+      Sarah_2_48: 3880692871786978867
+      Sarah_2_49: 7552455849546971494
+      Sarah_2_5: -5526258796927551853
+      Sarah_2_50: -1062133150290369315
+      Sarah_2_51: -4461060788662197605
+      Sarah_2_52: 7349600858554675169
+      Sarah_2_53: 1012347315188291250
+      Sarah_2_54: -4421518622817350458
+      Sarah_2_55: -4427278084090148368
+      Sarah_2_56: -692370404493361905
+      Sarah_2_57: -8599603913576938273
+      Sarah_2_58: 8624278635171908596
+      Sarah_2_59: -7637509023902212770
+      Sarah_2_6: 7139569833959728860
+      Sarah_2_7: 5482230084255524693
+      Sarah_2_8: 2791039119645722737
+      Sarah_2_9: -6195476408049172733
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

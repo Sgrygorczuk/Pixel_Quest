@@ -1,0 +1,469 @@
+fileFormatVersion: 2
+guid: 40693ffdfdd5ca44595f0ea9e86a7f26
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4049095957534480574
+    second: Ronald_2_0
+  - first:
+      213: 2388646503134001894
+    second: Ronald_2_1
+  - first:
+      213: -2894888620204433752
+    second: Ronald_2_2
+  - first:
+      213: 2053973442278601132
+    second: Ronald_2_3
+  - first:
+      213: -3877221831440220998
+    second: Ronald_2_4
+  - first:
+      213: 6014401992168396
+    second: Ronald_2_5
+  - first:
+      213: 5327971693768652002
+    second: Ronald_2_6
+  - first:
+      213: -3782872949117132255
+    second: Ronald_2_7
+  - first:
+      213: 5069215625969937631
+    second: Ronald_2_8
+  - first:
+      213: -82220441214647367
+    second: Ronald_2_9
+  - first:
+      213: 991986839922750707
+    second: Ronald_2_10
+  - first:
+      213: -272570899071012611
+    second: Ronald_2_11
+  - first:
+      213: -2333021165589591521
+    second: Ronald_2_12
+  - first:
+      213: 5155708396415633133
+    second: Ronald_2_13
+  - first:
+      213: -2880388671727856896
+    second: Ronald_2_14
+  - first:
+      213: -4665213505301172573
+    second: Ronald_2_15
+  - first:
+      213: 4042877689457467211
+    second: Ronald_2_16
+  - first:
+      213: -6393901078306256724
+    second: Ronald_2_17
+  - first:
+      213: -6871243481677303321
+    second: Ronald_2_18
+  - first:
+      213: -8374870193423448051
+    second: Ronald_2_19
+  - first:
+      213: -6400904574032136154
+    second: Ronald_2_20
+  - first:
+      213: -2224010193411820657
+    second: Ronald_2_21
+  - first:
+      213: -5024207162746677462
+    second: Ronald_2_22
+  - first:
+      213: 3290067212711389314
+    second: Ronald_2_23
+  - first:
+      213: -6379563140574199589
+    second: Ronald_2_24
+  - first:
+      213: 2143649172901635890
+    second: Ronald_2_25
+  - first:
+      213: 4832869230159848955
+    second: Ronald_2_26
+  - first:
+      213: -7982467608220847433
+    second: Ronald_2_27
+  - first:
+      213: -3544971294973655749
+    second: Ronald_2_28
+  - first:
+      213: -3845562506835303237
+    second: Ronald_2_29
+  - first:
+      213: 8452780205357566243
+    second: Ronald_2_30
+  - first:
+      213: -990951509390381426
+    second: Ronald_2_31
+  - first:
+      213: 4142392902654799484
+    second: Ronald_2_32
+  - first:
+      213: 7341946059752964186
+    second: Ronald_2_33
+  - first:
+      213: 9056997943840723335
+    second: Ronald_2_34
+  - first:
+      213: -3510492430454008740
+    second: Ronald_2_35
+  - first:
+      213: 6581773397677970960
+    second: Ronald_2_36
+  - first:
+      213: -5346815898491208484
+    second: Ronald_2_37
+  - first:
+      213: 3754748875976408169
+    second: Ronald_2_38
+  - first:
+      213: 6351987869067755874
+    second: Ronald_2_39
+  - first:
+      213: -5455751998421499717
+    second: Ronald_2_40
+  - first:
+      213: 8289741482536569915
+    second: Ronald_2_41
+  - first:
+      213: 2359073255871856848
+    second: Ronald_2_42
+  - first:
+      213: -9035964605215688313
+    second: Ronald_2_43
+  - first:
+      213: -8470686247494948821
+    second: Ronald_2_44
+  - first:
+      213: -5270349393837268195
+    second: Ronald_2_45
+  - first:
+      213: 7007767443755189189
+    second: Ronald_2_46
+  - first:
+      213: -1375349191638443188
+    second: Ronald_2_47
+  - first:
+      213: -8483135802888429188
+    second: Ronald_2_48
+  - first:
+      213: 5012918569379022494
+    second: Ronald_2_49
+  - first:
+      213: -6436854805993487493
+    second: Ronald_2_50
+  - first:
+      213: 6896843686911037015
+    second: Ronald_2_51
+  - first:
+      213: -2880525099192079644
+    second: Ronald_2_52
+  - first:
+      213: -6784688548096309754
+    second: Ronald_2_53
+  - first:
+      213: 2655096073682698835
+    second: Ronald_2_54
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ronald_2_26
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 2406
+        width: 289
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf5e79d85fcc11340800000000000000
+      internalID: 4832869230159848955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ronald_2_27
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 2424
+        width: 161
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b23fe4d004983190800000000000000
+      internalID: -7982467608220847433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ronald_2_28
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 2395
+        width: 228
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b358328a36bbdcec0800000000000000
+      internalID: -3544971294973655749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ronald_2_39
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1587
+        width: 217
+        height: 294
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 261cf59005bc62850800000000000000
+      internalID: 6351987869067755874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ronald_2_40
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 1416
+        width: 1251
+        height: 467
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb0857796764944b0800000000000000
+      internalID: -5455751998421499717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ronald_2_54
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 457
+        width: 2010
+        height: 543
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 352446ccfcbc8d420800000000000000
+      internalID: 2655096073682698835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 9a0f6db851c3f7a4e9e396e028ccef24
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Ronald_2_0: 4049095957534480574
+      Ronald_2_1: 2388646503134001894
+      Ronald_2_10: 991986839922750707
+      Ronald_2_11: -272570899071012611
+      Ronald_2_12: -2333021165589591521
+      Ronald_2_13: 5155708396415633133
+      Ronald_2_14: -2880388671727856896
+      Ronald_2_15: -4665213505301172573
+      Ronald_2_16: 4042877689457467211
+      Ronald_2_17: -6393901078306256724
+      Ronald_2_18: -6871243481677303321
+      Ronald_2_19: -8374870193423448051
+      Ronald_2_2: -2894888620204433752
+      Ronald_2_20: -6400904574032136154
+      Ronald_2_21: -2224010193411820657
+      Ronald_2_22: -5024207162746677462
+      Ronald_2_23: 3290067212711389314
+      Ronald_2_24: -6379563140574199589
+      Ronald_2_25: 2143649172901635890
+      Ronald_2_26: 4832869230159848955
+      Ronald_2_27: -7982467608220847433
+      Ronald_2_28: -3544971294973655749
+      Ronald_2_29: -3845562506835303237
+      Ronald_2_3: 2053973442278601132
+      Ronald_2_30: 8452780205357566243
+      Ronald_2_31: -990951509390381426
+      Ronald_2_32: 4142392902654799484
+      Ronald_2_33: 7341946059752964186
+      Ronald_2_34: 9056997943840723335
+      Ronald_2_35: -3510492430454008740
+      Ronald_2_36: 6581773397677970960
+      Ronald_2_37: -5346815898491208484
+      Ronald_2_38: 3754748875976408169
+      Ronald_2_39: 6351987869067755874
+      Ronald_2_4: -3877221831440220998
+      Ronald_2_40: -5455751998421499717
+      Ronald_2_41: 8289741482536569915
+      Ronald_2_42: 2359073255871856848
+      Ronald_2_43: -9035964605215688313
+      Ronald_2_44: -8470686247494948821
+      Ronald_2_45: -5270349393837268195
+      Ronald_2_46: 7007767443755189189
+      Ronald_2_47: -1375349191638443188
+      Ronald_2_48: -8483135802888429188
+      Ronald_2_49: 5012918569379022494
+      Ronald_2_5: 6014401992168396
+      Ronald_2_50: -6436854805993487493
+      Ronald_2_51: 6896843686911037015
+      Ronald_2_52: -2880525099192079644
+      Ronald_2_53: -6784688548096309754
+      Ronald_2_54: 2655096073682698835
+      Ronald_2_6: 5327971693768652002
+      Ronald_2_7: -3782872949117132255
+      Ronald_2_8: 5069215625969937631
+      Ronald_2_9: -82220441214647367
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

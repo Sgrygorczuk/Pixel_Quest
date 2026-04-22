@@ -1,0 +1,453 @@
+fileFormatVersion: 2
+guid: 59de926a4e827c049983287ac1b393db
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4227416555607228485
+    second: Hansley_2_0
+  - first:
+      213: -4428622260155072459
+    second: Hansley_2_1
+  - first:
+      213: -4608026589983481613
+    second: Hansley_2_2
+  - first:
+      213: -2467285466772633018
+    second: Hansley_2_3
+  - first:
+      213: -2919566675449426282
+    second: Hansley_2_4
+  - first:
+      213: 8020723397149462301
+    second: Hansley_2_5
+  - first:
+      213: -5188860663641331324
+    second: Hansley_2_6
+  - first:
+      213: -730857057148213677
+    second: Hansley_2_7
+  - first:
+      213: 7927129495823202951
+    second: Hansley_2_8
+  - first:
+      213: -4412437021737320849
+    second: Hansley_2_9
+  - first:
+      213: 4547612279196469154
+    second: Hansley_2_10
+  - first:
+      213: -1667700038989018487
+    second: Hansley_2_11
+  - first:
+      213: 5782299067584928282
+    second: Hansley_2_12
+  - first:
+      213: -5578853451196836978
+    second: Hansley_2_13
+  - first:
+      213: -2386300538319219890
+    second: Hansley_2_14
+  - first:
+      213: -2964985588155486538
+    second: Hansley_2_15
+  - first:
+      213: 1864584249840616483
+    second: Hansley_2_16
+  - first:
+      213: 4782812839088427258
+    second: Hansley_2_17
+  - first:
+      213: -1418065596221528451
+    second: Hansley_2_18
+  - first:
+      213: -8382178260337729230
+    second: Hansley_2_19
+  - first:
+      213: 8826092493003908086
+    second: Hansley_2_20
+  - first:
+      213: 6895416351067658830
+    second: Hansley_2_21
+  - first:
+      213: 6463956800339803589
+    second: Hansley_2_22
+  - first:
+      213: -6325108865598675180
+    second: Hansley_2_23
+  - first:
+      213: 5288584869909155669
+    second: Hansley_2_24
+  - first:
+      213: 5808258856940740900
+    second: Hansley_2_25
+  - first:
+      213: 846772156552510517
+    second: Hansley_2_26
+  - first:
+      213: -7136932114240878191
+    second: Hansley_2_27
+  - first:
+      213: 2824255328943232897
+    second: Hansley_2_28
+  - first:
+      213: -2183449901184560058
+    second: Hansley_2_29
+  - first:
+      213: 2751827363746310982
+    second: Hansley_2_30
+  - first:
+      213: 3531179121144472133
+    second: Hansley_2_31
+  - first:
+      213: 3886499399688410975
+    second: Hansley_2_32
+  - first:
+      213: -5606330667701148066
+    second: Hansley_2_33
+  - first:
+      213: 9080941718664605845
+    second: Hansley_2_34
+  - first:
+      213: 7475364573486535995
+    second: Hansley_2_35
+  - first:
+      213: -7250052379435341591
+    second: Hansley_2_36
+  - first:
+      213: -4188842385857749283
+    second: Hansley_2_37
+  - first:
+      213: 6331547340187845059
+    second: Hansley_2_38
+  - first:
+      213: -7863265368670293274
+    second: Hansley_2_39
+  - first:
+      213: -6333770609919024092
+    second: Hansley_2_40
+  - first:
+      213: 646659434445156022
+    second: Hansley_2_41
+  - first:
+      213: 594426913502650773
+    second: Hansley_2_42
+  - first:
+      213: -4710333937497297655
+    second: Hansley_2_43
+  - first:
+      213: -6355627157330642195
+    second: Hansley_2_44
+  - first:
+      213: 3427056551168702236
+    second: Hansley_2_45
+  - first:
+      213: 8052313532651318406
+    second: Hansley_2_46
+  - first:
+      213: -1320330094770320466
+    second: Hansley_2_47
+  - first:
+      213: -8196451110709495586
+    second: Hansley_2_48
+  - first:
+      213: 2100625130257619265
+    second: Hansley_2_49
+  - first:
+      213: -3282988697705828991
+    second: Hansley_2_50
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hansley_2_0
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 2553
+        width: 131
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbffc6d5a033555c0800000000000000
+      internalID: -4227416555607228485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hansley_2_1
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1718
+        width: 310
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 530c11ba48f5a82c0800000000000000
+      internalID: -4428622260155072459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hansley_2_21
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 2235
+        width: 486
+        height: 552
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4adec743a071bf50800000000000000
+      internalID: 6895416351067658830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hansley_2_24
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 2282
+        width: 445
+        height: 494
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55fc0774be3d46940800000000000000
+      internalID: 5288584869909155669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hansley_2_36
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 1639
+        width: 312
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e8e7c8f5c3a26b90800000000000000
+      internalID: -7250052379435341591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hansley_2_49
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 533
+        width: 1058
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14993472d6be62d10800000000000000
+      internalID: 2100625130257619265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 312e131386e89844185f73988d2d78af
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Hansley_2_0: -4227416555607228485
+      Hansley_2_1: -4428622260155072459
+      Hansley_2_10: 4547612279196469154
+      Hansley_2_11: -1667700038989018487
+      Hansley_2_12: 5782299067584928282
+      Hansley_2_13: -5578853451196836978
+      Hansley_2_14: -2386300538319219890
+      Hansley_2_15: -2964985588155486538
+      Hansley_2_16: 1864584249840616483
+      Hansley_2_17: 4782812839088427258
+      Hansley_2_18: -1418065596221528451
+      Hansley_2_19: -8382178260337729230
+      Hansley_2_2: -4608026589983481613
+      Hansley_2_20: 8826092493003908086
+      Hansley_2_21: 6895416351067658830
+      Hansley_2_22: 6463956800339803589
+      Hansley_2_23: -6325108865598675180
+      Hansley_2_24: 5288584869909155669
+      Hansley_2_25: 5808258856940740900
+      Hansley_2_26: 846772156552510517
+      Hansley_2_27: -7136932114240878191
+      Hansley_2_28: 2824255328943232897
+      Hansley_2_29: -2183449901184560058
+      Hansley_2_3: -2467285466772633018
+      Hansley_2_30: 2751827363746310982
+      Hansley_2_31: 3531179121144472133
+      Hansley_2_32: 3886499399688410975
+      Hansley_2_33: -5606330667701148066
+      Hansley_2_34: 9080941718664605845
+      Hansley_2_35: 7475364573486535995
+      Hansley_2_36: -7250052379435341591
+      Hansley_2_37: -4188842385857749283
+      Hansley_2_38: 6331547340187845059
+      Hansley_2_39: -7863265368670293274
+      Hansley_2_4: -2919566675449426282
+      Hansley_2_40: -6333770609919024092
+      Hansley_2_41: 646659434445156022
+      Hansley_2_42: 594426913502650773
+      Hansley_2_43: -4710333937497297655
+      Hansley_2_44: -6355627157330642195
+      Hansley_2_45: 3427056551168702236
+      Hansley_2_46: 8052313532651318406
+      Hansley_2_47: -1320330094770320466
+      Hansley_2_48: -8196451110709495586
+      Hansley_2_49: 2100625130257619265
+      Hansley_2_5: 8020723397149462301
+      Hansley_2_50: -3282988697705828991
+      Hansley_2_6: -5188860663641331324
+      Hansley_2_7: -730857057148213677
+      Hansley_2_8: 7927129495823202951
+      Hansley_2_9: -4412437021737320849
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

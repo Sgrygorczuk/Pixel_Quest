@@ -1,0 +1,445 @@
+fileFormatVersion: 2
+guid: 8a3bff12416df90449c5039010fa04c9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2386861582244292624
+    second: Maricarmen_2_0
+  - first:
+      213: -1860111961371874179
+    second: Maricarmen_2_1
+  - first:
+      213: -2874733596366109
+    second: Maricarmen_2_2
+  - first:
+      213: -6262537009036896009
+    second: Maricarmen_2_3
+  - first:
+      213: 8654053862150476621
+    second: Maricarmen_2_4
+  - first:
+      213: 9048757149342420609
+    second: Maricarmen_2_5
+  - first:
+      213: -5408270760866352940
+    second: Maricarmen_2_6
+  - first:
+      213: 3121983111474745420
+    second: Maricarmen_2_7
+  - first:
+      213: -5205902175574285624
+    second: Maricarmen_2_8
+  - first:
+      213: 5500909142437013363
+    second: Maricarmen_2_9
+  - first:
+      213: -884145838081898147
+    second: Maricarmen_2_10
+  - first:
+      213: 2907722061460321965
+    second: Maricarmen_2_11
+  - first:
+      213: -2813747059652392469
+    second: Maricarmen_2_12
+  - first:
+      213: 9208728638385392884
+    second: Maricarmen_2_13
+  - first:
+      213: 2120909436438366671
+    second: Maricarmen_2_14
+  - first:
+      213: -8597822803559676366
+    second: Maricarmen_2_15
+  - first:
+      213: 3761531601408949222
+    second: Maricarmen_2_16
+  - first:
+      213: 4290263534988495432
+    second: Maricarmen_2_17
+  - first:
+      213: 448757212659274978
+    second: Maricarmen_2_18
+  - first:
+      213: 735365227355082539
+    second: Maricarmen_2_19
+  - first:
+      213: -8427180725775053882
+    second: Maricarmen_2_20
+  - first:
+      213: 1910472412223489874
+    second: Maricarmen_2_21
+  - first:
+      213: -4155126417450691153
+    second: Maricarmen_2_22
+  - first:
+      213: -8308611061071710420
+    second: Maricarmen_2_23
+  - first:
+      213: -3189287961414943604
+    second: Maricarmen_2_24
+  - first:
+      213: 3584904961241835065
+    second: Maricarmen_2_25
+  - first:
+      213: -7765869030993275393
+    second: Maricarmen_2_26
+  - first:
+      213: 2453755892286574852
+    second: Maricarmen_2_27
+  - first:
+      213: -2614687738043184325
+    second: Maricarmen_2_28
+  - first:
+      213: 5609750955000779500
+    second: Maricarmen_2_29
+  - first:
+      213: 6297587457326999443
+    second: Maricarmen_2_30
+  - first:
+      213: 7270108653812241412
+    second: Maricarmen_2_31
+  - first:
+      213: 6809760913506531245
+    second: Maricarmen_2_32
+  - first:
+      213: -5032377673761173736
+    second: Maricarmen_2_33
+  - first:
+      213: -6439082297025811352
+    second: Maricarmen_2_34
+  - first:
+      213: 8536426859220664858
+    second: Maricarmen_2_35
+  - first:
+      213: 2423409502044428888
+    second: Maricarmen_2_36
+  - first:
+      213: -5118247494184088179
+    second: Maricarmen_2_37
+  - first:
+      213: -3633335203628263957
+    second: Maricarmen_2_38
+  - first:
+      213: -7585031489853183831
+    second: Maricarmen_2_39
+  - first:
+      213: 5815591789321207160
+    second: Maricarmen_2_40
+  - first:
+      213: -1565969203391877887
+    second: Maricarmen_2_41
+  - first:
+      213: -4350491523375399496
+    second: Maricarmen_2_42
+  - first:
+      213: -8425674345994062870
+    second: Maricarmen_2_43
+  - first:
+      213: -6499923238622165117
+    second: Maricarmen_2_44
+  - first:
+      213: -578267797105416205
+    second: Maricarmen_2_45
+  - first:
+      213: 5902520473576991165
+    second: Maricarmen_2_46
+  - first:
+      213: 6115288265073342612
+    second: Maricarmen_2_47
+  - first:
+      213: 7793478087442403139
+    second: Maricarmen_2_48
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Maricarmen_2_22
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 2373
+        width: 179
+        height: 293
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa59203c9860656c0800000000000000
+      internalID: -4155126417450691153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maricarmen_2_23
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 2428
+        width: 271
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2770f7c242e1bc80800000000000000
+      internalID: -8308611061071710420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maricarmen_2_26
+      rect:
+        serializedVersion: 2
+        x: 1895
+        y: 2221
+        width: 129
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff5507bf2471a3490800000000000000
+      internalID: -7765869030993275393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maricarmen_2_37
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1414
+        width: 467
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8dcf9c850558f8b0800000000000000
+      internalID: -5118247494184088179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maricarmen_2_38
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 1411
+        width: 1260
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be5d0dde1ecc39dc0800000000000000
+      internalID: -3633335203628263957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maricarmen_2_48
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 464
+        width: 2004
+        height: 534
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34f8bc6670ff72c60800000000000000
+      internalID: 7793478087442403139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d6383021fd2d39d49b83097ecf5b4b3d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Maricarmen_2_0: -2386861582244292624
+      Maricarmen_2_1: -1860111961371874179
+      Maricarmen_2_10: -884145838081898147
+      Maricarmen_2_11: 2907722061460321965
+      Maricarmen_2_12: -2813747059652392469
+      Maricarmen_2_13: 9208728638385392884
+      Maricarmen_2_14: 2120909436438366671
+      Maricarmen_2_15: -8597822803559676366
+      Maricarmen_2_16: 3761531601408949222
+      Maricarmen_2_17: 4290263534988495432
+      Maricarmen_2_18: 448757212659274978
+      Maricarmen_2_19: 735365227355082539
+      Maricarmen_2_2: -2874733596366109
+      Maricarmen_2_20: -8427180725775053882
+      Maricarmen_2_21: 1910472412223489874
+      Maricarmen_2_22: -4155126417450691153
+      Maricarmen_2_23: -8308611061071710420
+      Maricarmen_2_24: -3189287961414943604
+      Maricarmen_2_25: 3584904961241835065
+      Maricarmen_2_26: -7765869030993275393
+      Maricarmen_2_27: 2453755892286574852
+      Maricarmen_2_28: -2614687738043184325
+      Maricarmen_2_29: 5609750955000779500
+      Maricarmen_2_3: -6262537009036896009
+      Maricarmen_2_30: 6297587457326999443
+      Maricarmen_2_31: 7270108653812241412
+      Maricarmen_2_32: 6809760913506531245
+      Maricarmen_2_33: -5032377673761173736
+      Maricarmen_2_34: -6439082297025811352
+      Maricarmen_2_35: 8536426859220664858
+      Maricarmen_2_36: 2423409502044428888
+      Maricarmen_2_37: -5118247494184088179
+      Maricarmen_2_38: -3633335203628263957
+      Maricarmen_2_39: -7585031489853183831
+      Maricarmen_2_4: 8654053862150476621
+      Maricarmen_2_40: 5815591789321207160
+      Maricarmen_2_41: -1565969203391877887
+      Maricarmen_2_42: -4350491523375399496
+      Maricarmen_2_43: -8425674345994062870
+      Maricarmen_2_44: -6499923238622165117
+      Maricarmen_2_45: -578267797105416205
+      Maricarmen_2_46: 5902520473576991165
+      Maricarmen_2_47: 6115288265073342612
+      Maricarmen_2_48: 7793478087442403139
+      Maricarmen_2_5: 9048757149342420609
+      Maricarmen_2_6: -5408270760866352940
+      Maricarmen_2_7: 3121983111474745420
+      Maricarmen_2_8: -5205902175574285624
+      Maricarmen_2_9: 5500909142437013363
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

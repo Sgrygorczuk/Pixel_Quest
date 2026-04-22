@@ -1,0 +1,423 @@
+fileFormatVersion: 2
+guid: 069505e8c13d4e64eb75f9000fb53ec5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3135527729779272675
+    second: Monserrat_2_0
+  - first:
+      213: -5425693031078226482
+    second: Monserrat_2_1
+  - first:
+      213: 816935030912846195
+    second: Monserrat_2_2
+  - first:
+      213: 6286614063561580142
+    second: Monserrat_2_3
+  - first:
+      213: -7252214643529114877
+    second: Monserrat_2_4
+  - first:
+      213: 6918171138391045597
+    second: Monserrat_2_5
+  - first:
+      213: 2416681858778532598
+    second: Monserrat_2_6
+  - first:
+      213: 4085536736815255807
+    second: Monserrat_2_7
+  - first:
+      213: 7384787827629964858
+    second: Monserrat_2_8
+  - first:
+      213: 7944206979499969674
+    second: Monserrat_2_9
+  - first:
+      213: 2801415127374191021
+    second: Monserrat_2_10
+  - first:
+      213: 4329932711957838748
+    second: Monserrat_2_11
+  - first:
+      213: 3169152040946038755
+    second: Monserrat_2_12
+  - first:
+      213: 3679072421595998425
+    second: Monserrat_2_13
+  - first:
+      213: -3425149426389026184
+    second: Monserrat_2_14
+  - first:
+      213: 6338221138833821798
+    second: Monserrat_2_15
+  - first:
+      213: 1252103334504960959
+    second: Monserrat_2_16
+  - first:
+      213: -4419345452968290432
+    second: Monserrat_2_17
+  - first:
+      213: 4631061336451609749
+    second: Monserrat_2_18
+  - first:
+      213: -8203642699159661230
+    second: Monserrat_2_19
+  - first:
+      213: 1976917776377429842
+    second: Monserrat_2_20
+  - first:
+      213: 2451723262185531825
+    second: Monserrat_2_21
+  - first:
+      213: 938931211844553172
+    second: Monserrat_2_22
+  - first:
+      213: 2548847624636003454
+    second: Monserrat_2_23
+  - first:
+      213: 5486631332200639047
+    second: Monserrat_2_24
+  - first:
+      213: -8489463599211334445
+    second: Monserrat_2_25
+  - first:
+      213: 887710560838952490
+    second: Monserrat_2_26
+  - first:
+      213: 1677912067776208164
+    second: Monserrat_2_27
+  - first:
+      213: -8554025798562362736
+    second: Monserrat_2_28
+  - first:
+      213: -6281562408226134551
+    second: Monserrat_2_29
+  - first:
+      213: 4899792257185481267
+    second: Monserrat_2_30
+  - first:
+      213: -1996891324926253588
+    second: Monserrat_2_31
+  - first:
+      213: 8359753160144725098
+    second: Monserrat_2_32
+  - first:
+      213: -8153981430511484654
+    second: Monserrat_2_33
+  - first:
+      213: -5971174929742824308
+    second: Monserrat_2_34
+  - first:
+      213: -7711535784743059024
+    second: Monserrat_2_35
+  - first:
+      213: -8969450770234167916
+    second: Monserrat_2_36
+  - first:
+      213: -5905827006497604550
+    second: Monserrat_2_37
+  - first:
+      213: 320679354719121515
+    second: Monserrat_2_38
+  - first:
+      213: 386708094135859360
+    second: Monserrat_2_39
+  - first:
+      213: 2383178550740785783
+    second: Monserrat_2_40
+  - first:
+      213: 2246580523625971801
+    second: Monserrat_2_41
+  - first:
+      213: 4440135332671673364
+    second: Monserrat_2_42
+  - first:
+      213: 1724968792300603589
+    second: Monserrat_2_43
+  - first:
+      213: 5911187955946198763
+    second: Monserrat_2_44
+  - first:
+      213: -7163438666307192465
+    second: Monserrat_2_45
+  - first:
+      213: 4190113547016753718
+    second: Monserrat_2_46
+  - first:
+      213: -5205278653084628500
+    second: Monserrat_2_47
+  - first:
+      213: -6097163228869737835
+    second: Monserrat_2_48
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Monserrat_2_21
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 2347
+        width: 208
+        height: 232
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b961223155460220800000000000000
+      internalID: 2451723262185531825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monserrat_2_22
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 2344
+        width: 112
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d9858666f0c70d00800000000000000
+      internalID: 938931211844553172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monserrat_2_34
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1464
+        width: 201
+        height: 296
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8cf5fcb900222da0800000000000000
+      internalID: -5971174929742824308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monserrat_2_35
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 1559
+        width: 807
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b14dadaf0f1bf490800000000000000
+      internalID: -7711535784743059024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monserrat_2_48
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 465
+        width: 2009
+        height: 520
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59245a5f856826ba0800000000000000
+      internalID: -6097163228869737835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ab0053e6ddf560a4bb4012586605c1aa
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Monserrat_2_0: -3135527729779272675
+      Monserrat_2_1: -5425693031078226482
+      Monserrat_2_10: 2801415127374191021
+      Monserrat_2_11: 4329932711957838748
+      Monserrat_2_12: 3169152040946038755
+      Monserrat_2_13: 3679072421595998425
+      Monserrat_2_14: -3425149426389026184
+      Monserrat_2_15: 6338221138833821798
+      Monserrat_2_16: 1252103334504960959
+      Monserrat_2_17: -4419345452968290432
+      Monserrat_2_18: 4631061336451609749
+      Monserrat_2_19: -8203642699159661230
+      Monserrat_2_2: 816935030912846195
+      Monserrat_2_20: 1976917776377429842
+      Monserrat_2_21: 2451723262185531825
+      Monserrat_2_22: 938931211844553172
+      Monserrat_2_23: 2548847624636003454
+      Monserrat_2_24: 5486631332200639047
+      Monserrat_2_25: -8489463599211334445
+      Monserrat_2_26: 887710560838952490
+      Monserrat_2_27: 1677912067776208164
+      Monserrat_2_28: -8554025798562362736
+      Monserrat_2_29: -6281562408226134551
+      Monserrat_2_3: 6286614063561580142
+      Monserrat_2_30: 4899792257185481267
+      Monserrat_2_31: -1996891324926253588
+      Monserrat_2_32: 8359753160144725098
+      Monserrat_2_33: -8153981430511484654
+      Monserrat_2_34: -5971174929742824308
+      Monserrat_2_35: -7711535784743059024
+      Monserrat_2_36: -8969450770234167916
+      Monserrat_2_37: -5905827006497604550
+      Monserrat_2_38: 320679354719121515
+      Monserrat_2_39: 386708094135859360
+      Monserrat_2_4: -7252214643529114877
+      Monserrat_2_40: 2383178550740785783
+      Monserrat_2_41: 2246580523625971801
+      Monserrat_2_42: 4440135332671673364
+      Monserrat_2_43: 1724968792300603589
+      Monserrat_2_44: 5911187955946198763
+      Monserrat_2_45: -7163438666307192465
+      Monserrat_2_46: 4190113547016753718
+      Monserrat_2_47: -5205278653084628500
+      Monserrat_2_48: -6097163228869737835
+      Monserrat_2_5: 6918171138391045597
+      Monserrat_2_6: 2416681858778532598
+      Monserrat_2_7: 4085536736815255807
+      Monserrat_2_8: 7384787827629964858
+      Monserrat_2_9: 7944206979499969674
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

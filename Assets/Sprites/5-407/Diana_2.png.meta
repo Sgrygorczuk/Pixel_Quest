@@ -1,0 +1,512 @@
+fileFormatVersion: 2
+guid: c53e9a4fa5065ef4da3949a60f9f7ec4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4274245239930613176
+    second: Untitled design(9)_0
+  - first:
+      213: 7587917186022831901
+    second: Untitled design(9)_1
+  - first:
+      213: 887477168702983164
+    second: Untitled design(9)_2
+  - first:
+      213: 6955817446116394255
+    second: Untitled design(9)_3
+  - first:
+      213: -6685153768387514206
+    second: Untitled design(9)_4
+  - first:
+      213: 7434574845662663691
+    second: Untitled design(9)_5
+  - first:
+      213: -7052637947556234373
+    second: Untitled design(9)_6
+  - first:
+      213: -8838169674846035541
+    second: Untitled design(9)_7
+  - first:
+      213: -2417963489793928460
+    second: Untitled design(9)_8
+  - first:
+      213: 1431387202456540801
+    second: Untitled design(9)_9
+  - first:
+      213: 8746136070773633909
+    second: Untitled design(9)_10
+  - first:
+      213: -7711702597273813769
+    second: Untitled design(9)_11
+  - first:
+      213: 1749036122084550187
+    second: Untitled design(9)_12
+  - first:
+      213: -8136666323321727518
+    second: Untitled design(9)_13
+  - first:
+      213: 7069295437953736709
+    second: Untitled design(9)_14
+  - first:
+      213: -1945012078950866324
+    second: Untitled design(9)_15
+  - first:
+      213: -5027058078395116082
+    second: Untitled design(9)_16
+  - first:
+      213: -3015670259459715433
+    second: Untitled design(9)_17
+  - first:
+      213: 5485562040324449217
+    second: Untitled design(9)_18
+  - first:
+      213: 8303349629805638277
+    second: Untitled design(9)_19
+  - first:
+      213: -5045185101540137672
+    second: Untitled design(9)_20
+  - first:
+      213: 7409033088764394924
+    second: Untitled design(9)_21
+  - first:
+      213: 453885199639311001
+    second: Untitled design(9)_22
+  - first:
+      213: -1149778419289816184
+    second: Untitled design(9)_23
+  - first:
+      213: -1005131357569464763
+    second: Untitled design(9)_24
+  - first:
+      213: -2335892798148654782
+    second: Untitled design(9)_25
+  - first:
+      213: -8127344892658741371
+    second: Untitled design(9)_26
+  - first:
+      213: 3791604974087860585
+    second: Untitled design(9)_27
+  - first:
+      213: 2405871192310505380
+    second: Untitled design(9)_28
+  - first:
+      213: 2985687151565513340
+    second: Untitled design(9)_29
+  - first:
+      213: 7610074542443766999
+    second: Untitled design(9)_30
+  - first:
+      213: -6189944183875297684
+    second: Untitled design(9)_31
+  - first:
+      213: 8105872634188725551
+    second: Untitled design(9)_32
+  - first:
+      213: 5327563125070428546
+    second: Untitled design(9)_33
+  - first:
+      213: -7713959961201792770
+    second: Untitled design(9)_34
+  - first:
+      213: -4442067125667550705
+    second: Untitled design(9)_35
+  - first:
+      213: -7408634097456503396
+    second: Untitled design(9)_36
+  - first:
+      213: 1586072690050508713
+    second: Untitled design(9)_37
+  - first:
+      213: 3301055714718882376
+    second: Untitled design(9)_38
+  - first:
+      213: -5300536985292232123
+    second: Untitled design(9)_39
+  - first:
+      213: 5915720799221280627
+    second: Untitled design(9)_40
+  - first:
+      213: -228569367704454588
+    second: Untitled design(9)_41
+  - first:
+      213: 4733052035671737555
+    second: Untitled design(9)_42
+  - first:
+      213: -5168934289555908481
+    second: Untitled design(9)_43
+  - first:
+      213: 729612299768343655
+    second: Untitled design(9)_44
+  - first:
+      213: -2073490675897338795
+    second: Untitled design(9)_45
+  - first:
+      213: -3338507627267694430
+    second: Untitled design(9)_46
+  - first:
+      213: -8019185475494603928
+    second: Untitled design(9)_47
+  - first:
+      213: 7171561294821791733
+    second: Untitled design(9)_48
+  - first:
+      213: 49525148660248904
+    second: Untitled design(9)_49
+  - first:
+      213: 3846147755085950439
+    second: Untitled design(9)_50
+  - first:
+      213: 5407528417829506058
+    second: Untitled design(9)_51
+  - first:
+      213: -8262376677631345286
+    second: Untitled design(9)_52
+  - first:
+      213: -8111870237894326093
+    second: Untitled design(9)_53
+  - first:
+      213: -1202693689080690988
+    second: Untitled design(9)_54
+  - first:
+      213: 5023685382344195628
+    second: Untitled design(9)_55
+  - first:
+      213: -4418080310846201209
+    second: Untitled design(9)_56
+  - first:
+      213: 1341597909236977126
+    second: Untitled design(9)_57
+  - first:
+      213: -6004815776175986570
+    second: Untitled design(9)_58
+  - first:
+      213: 6693986197793071401
+    second: Untitled design(9)_59
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Untitled design(9)_30
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 2228
+        width: 535
+        height: 528
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d4aa98f97a6c9960800000000000000
+      internalID: 7610074542443766999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled design(9)_31
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 2249
+        width: 545
+        height: 514
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6e1e9c7f86e81aa0800000000000000
+      internalID: -6189944183875297684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled design(9)_32
+      rect:
+        serializedVersion: 2
+        x: 1714
+        y: 2239
+        width: 537
+        height: 526
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2df06bc638dd7070800000000000000
+      internalID: 8105872634188725551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled design(9)_44
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 1984
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76ca27f558a102a00800000000000000
+      internalID: 729612299768343655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled design(9)_45
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 1405
+        width: 1239
+        height: 547
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 554fd02573b7933e0800000000000000
+      internalID: -2073490675897338795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled design(9)_46
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1417
+        width: 541
+        height: 507
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a0e6cc400d3ba1d0800000000000000
+      internalID: -3338507627267694430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled design(9)_59
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 470
+        width: 2022
+        height: 531
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 921e2da0bf0d5ec50800000000000000
+      internalID: 6693986197793071401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c2d3b8724b75ba94bae2f0948d73f11a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Diana_2_0: 743567674
+      Untitled design(9)_0: -4274245239930613176
+      Untitled design(9)_1: 7587917186022831901
+      Untitled design(9)_10: 8746136070773633909
+      Untitled design(9)_11: -7711702597273813769
+      Untitled design(9)_12: 1749036122084550187
+      Untitled design(9)_13: -8136666323321727518
+      Untitled design(9)_14: 7069295437953736709
+      Untitled design(9)_15: -1945012078950866324
+      Untitled design(9)_16: -5027058078395116082
+      Untitled design(9)_17: -3015670259459715433
+      Untitled design(9)_18: 5485562040324449217
+      Untitled design(9)_19: 8303349629805638277
+      Untitled design(9)_2: 887477168702983164
+      Untitled design(9)_20: -5045185101540137672
+      Untitled design(9)_21: 7409033088764394924
+      Untitled design(9)_22: 453885199639311001
+      Untitled design(9)_23: -1149778419289816184
+      Untitled design(9)_24: -1005131357569464763
+      Untitled design(9)_25: -2335892798148654782
+      Untitled design(9)_26: -8127344892658741371
+      Untitled design(9)_27: 3791604974087860585
+      Untitled design(9)_28: 2405871192310505380
+      Untitled design(9)_29: 2985687151565513340
+      Untitled design(9)_3: 6955817446116394255
+      Untitled design(9)_30: 7610074542443766999
+      Untitled design(9)_31: -6189944183875297684
+      Untitled design(9)_32: 8105872634188725551
+      Untitled design(9)_33: 5327563125070428546
+      Untitled design(9)_34: -7713959961201792770
+      Untitled design(9)_35: -4442067125667550705
+      Untitled design(9)_36: -7408634097456503396
+      Untitled design(9)_37: 1586072690050508713
+      Untitled design(9)_38: 3301055714718882376
+      Untitled design(9)_39: -5300536985292232123
+      Untitled design(9)_4: -6685153768387514206
+      Untitled design(9)_40: 5915720799221280627
+      Untitled design(9)_41: -228569367704454588
+      Untitled design(9)_42: 4733052035671737555
+      Untitled design(9)_43: -5168934289555908481
+      Untitled design(9)_44: 729612299768343655
+      Untitled design(9)_45: -2073490675897338795
+      Untitled design(9)_46: -3338507627267694430
+      Untitled design(9)_47: -8019185475494603928
+      Untitled design(9)_48: 7171561294821791733
+      Untitled design(9)_49: 49525148660248904
+      Untitled design(9)_5: 7434574845662663691
+      Untitled design(9)_50: 3846147755085950439
+      Untitled design(9)_51: 5407528417829506058
+      Untitled design(9)_52: -8262376677631345286
+      Untitled design(9)_53: -8111870237894326093
+      Untitled design(9)_54: -1202693689080690988
+      Untitled design(9)_55: 5023685382344195628
+      Untitled design(9)_56: -4418080310846201209
+      Untitled design(9)_57: 1341597909236977126
+      Untitled design(9)_58: -6004815776175986570
+      Untitled design(9)_59: 6693986197793071401
+      Untitled design(9)_6: -7052637947556234373
+      Untitled design(9)_7: -8838169674846035541
+      Untitled design(9)_8: -2417963489793928460
+      Untitled design(9)_9: 1431387202456540801
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
