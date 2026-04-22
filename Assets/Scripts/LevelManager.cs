@@ -1,7 +1,7 @@
 using System.IO;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.Serialization;
+using System.Linq;
 
 public class LevelManager : MonoBehaviour
 {
@@ -40,7 +40,13 @@ public class LevelManager : MonoBehaviour
             foreach (string file in files)
             {
                 // Get filename without extension
-                names.Add(Path.GetFileNameWithoutExtension(file));
+                string fileName = Path.GetFileNameWithoutExtension(file);
+
+                // Only add if the filename itself has no digits
+                if (!fileName.Any(char.IsDigit)) 
+                {
+                    names.Add(fileName);
+                }
             }
         }
         else {

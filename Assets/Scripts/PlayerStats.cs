@@ -27,11 +27,12 @@ public class PlayerStats : MonoBehaviour
             case Structs.Tags.deathTag:
                 {
                     _controller.PlaySFX(Structs.SoundEffects.death);
-                    string sceneName = SceneManager.GetActiveScene().name;
+                    int sceneIndex = SceneManager.GetActiveScene().buildIndex;
+
                     // Stops player from moving, moves them to the new position and takes away one life 
                     fadeOut.StartFadeIn(() => {
-                        Debug.Log(sceneName);
-                        SceneManager.LoadScene(sceneName);
+                        Debug.Log("Reloading Scene Index: " + sceneIndex);
+                        SceneManager.LoadScene(sceneIndex);
                     });
                     return;
                 }

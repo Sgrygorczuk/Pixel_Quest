@@ -48,7 +48,7 @@ TextureImporter:
   compressionQuality: 50
   spriteMode: 2
   spriteExtrude: 1
-  spriteMeshType: 1
+  spriteMeshType: 0
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
@@ -103,12 +103,12 @@ TextureImporter:
       name: Valeria_1_1_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 2514
-        height: 3294
+        x: 92
+        y: 1535
+        width: 2325
+        height: 1204
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -121,11 +121,33 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: Valeria_1_1_1
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 147
+        width: 2305
+        height: 1189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 840d0a4f99798204da5701b670b1a643
+      internalID: -1160367849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 1590c03fe91a7f4408720e26cc3c20e7
     internalID: 0
     vertices: []
     indices: 
@@ -136,6 +158,7 @@ TextureImporter:
       entries: []
     nameFileIdTable:
       Valeria_1_1_0: 3971963039111461866
+      Valeria_1_1_1: -1160367849
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

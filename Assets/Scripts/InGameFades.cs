@@ -12,6 +12,9 @@ public class InGameFadeOut : MonoBehaviour
     public float nameFadeDuration = 1.0f;
 
     private void Start() {
+        blackFadePanel = GameObject.Find("Fade Panel").GetComponent<CanvasGroup>();
+        blackFadePanel.alpha = 1;
+        namePanel = GameObject.Find("NamePanel").GetComponent<CanvasGroup>();
         TextMeshProUGUI text = namePanel.gameObject.GetComponentInChildren<TextMeshProUGUI>();
         if (LevelManager.Instance) { text.text = LevelManager.Instance.CurrentLevel; }
         StartCoroutine(FadeSequence());
