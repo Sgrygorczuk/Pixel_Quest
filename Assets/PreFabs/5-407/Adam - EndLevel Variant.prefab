@@ -68,6 +68,14 @@ PrefabInstance:
       propertyPath: m_ConstrainProportionsScale
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 6240031156922950938, guid: 1cf706498726803438db93b5e77aba93, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.x
+      value: 2.6599998
+      objectReference: {fileID: 0}
+    - target: {fileID: 6240031156922950938, guid: 1cf706498726803438db93b5e77aba93, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.y
+      value: 2.5506396
+      objectReference: {fileID: 0}
     - target: {fileID: 7019984245815331939, guid: 1cf706498726803438db93b5e77aba93, type: 3}
       propertyPath: m_Size.x
       value: 2.6599998
@@ -86,7 +94,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7614462144513345286, guid: 1cf706498726803438db93b5e77aba93, type: 3}
       propertyPath: nextLevel
-      value: PS132_Example_With Art
+      value: Menu
       objectReference: {fileID: 0}
     - target: {fileID: 8837262210598298804, guid: 1cf706498726803438db93b5e77aba93, type: 3}
       propertyPath: m_Size.x

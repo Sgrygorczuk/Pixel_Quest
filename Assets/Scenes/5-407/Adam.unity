@@ -1633,6 +1633,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2263217779322843950, guid: 2b399c01e3b6f23469adae5fe4404eb0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.827
+      objectReference: {fileID: 0}
     - target: {fileID: 3207585165386363522, guid: 2b399c01e3b6f23469adae5fe4404eb0, type: 3}
       propertyPath: m_Name
       value: Adam Player

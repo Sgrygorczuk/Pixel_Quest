@@ -68,6 +68,22 @@ PrefabInstance:
       propertyPath: m_ConstrainProportionsScale
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 6240031156922950938, guid: 1cf706498726803438db93b5e77aba93, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.x
+      value: 3.6804116
+      objectReference: {fileID: 0}
+    - target: {fileID: 6240031156922950938, guid: 1cf706498726803438db93b5e77aba93, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.y
+      value: 5.52
+      objectReference: {fileID: 0}
+    - target: {fileID: 6240031156922950938, guid: 1cf706498726803438db93b5e77aba93, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.x
+      value: 3.6804116
+      objectReference: {fileID: 0}
+    - target: {fileID: 6240031156922950938, guid: 1cf706498726803438db93b5e77aba93, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.y
+      value: 5.52
+      objectReference: {fileID: 0}
     - target: {fileID: 7019984245815331939, guid: 1cf706498726803438db93b5e77aba93, type: 3}
       propertyPath: m_Size.x
       value: 3.6804116

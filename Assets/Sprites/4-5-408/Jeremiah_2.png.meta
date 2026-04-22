@@ -1,0 +1,305 @@
+fileFormatVersion: 2
+guid: 090194e24c698844fa2b30ea66fa27c7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6332015183400403530
+    second: Jeremiah_2_0
+  - first:
+      213: -1454777618579778109
+    second: Jeremiah_2_1
+  - first:
+      213: 2616680071048943496
+    second: Jeremiah_2_2
+  - first:
+      213: 3366415865017448643
+    second: Jeremiah_2_3
+  - first:
+      213: -5917229732685377771
+    second: Jeremiah_2_4
+  - first:
+      213: 1465121778827328945
+    second: Jeremiah_2_5
+  - first:
+      213: 5933877904629759968
+    second: Jeremiah_2_6
+  - first:
+      213: 8080269001049075270
+    second: Jeremiah_2_7
+  - first:
+      213: -8876030023981420451
+    second: Jeremiah_2_8
+  - first:
+      213: 7228556081055160530
+    second: Jeremiah_2_9
+  - first:
+      213: 5514344480495922360
+    second: Jeremiah_2_10
+  - first:
+      213: -4018076891200081088
+    second: Jeremiah_2_11
+  - first:
+      213: -2475216174613926841
+    second: Jeremiah_2_12
+  - first:
+      213: 4417263231905690020
+    second: Jeremiah_2_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Jeremiah_2_1
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 2230
+        width: 338
+        height: 546
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c51d51b6779fcbe0800000000000000
+      internalID: -1454777618579778109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jeremiah_2_3
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 2271
+        width: 463
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c8ba98a469e7be20800000000000000
+      internalID: 3366415865017448643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jeremiah_2_4
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 2277
+        width: 366
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f88e0b8e6c1eda0800000000000000
+      internalID: -5917229732685377771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jeremiah_2_10
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1418
+        width: 415
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bc6819b613e68c40800000000000000
+      internalID: 5514344480495922360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jeremiah_2_11
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 1437
+        width: 419
+        height: 484
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04330db2b5cec38c0800000000000000
+      internalID: -4018076891200081088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jeremiah_2_13
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 455
+        width: 2012
+        height: 541
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a1f12971854d4d30800000000000000
+      internalID: 4417263231905690020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 9e3fc94a464a6cc41ab1c0ae719daa81
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Jeremiah_2_0: 6332015183400403530
+      Jeremiah_2_1: -1454777618579778109
+      Jeremiah_2_10: 5514344480495922360
+      Jeremiah_2_11: -4018076891200081088
+      Jeremiah_2_12: -2475216174613926841
+      Jeremiah_2_13: 4417263231905690020
+      Jeremiah_2_2: 2616680071048943496
+      Jeremiah_2_3: 3366415865017448643
+      Jeremiah_2_4: -5917229732685377771
+      Jeremiah_2_5: 1465121778827328945
+      Jeremiah_2_6: 5933877904629759968
+      Jeremiah_2_7: 8080269001049075270
+      Jeremiah_2_8: -8876030023981420451
+      Jeremiah_2_9: 7228556081055160530
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
