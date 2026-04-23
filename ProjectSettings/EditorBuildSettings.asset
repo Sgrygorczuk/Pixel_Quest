@@ -33,6 +33,30 @@ EditorBuildSettings:
     path: Assets/Scenes/3-307/Fodie.unity
     guid: 4c660ebf6d0432749ab97cb57f9b5ddc
   - enabled: 1
+    path: Assets/Scenes/4-5-408/Aiden.unity
+    guid: 6ea2ab7c463eb0145a54bcec05754b48
+  - enabled: 1
+    path: Assets/Scenes/4-5-408/Arielis.unity
+    guid: 08a69503983f9e14499838f61fcef432
+  - enabled: 1
+    path: Assets/Scenes/4-5-408/Jaithan.unity
+    guid: 9a4c011b342a3f74a907d087bca105e7
+  - enabled: 1
+    path: Assets/Scenes/4-5-408/Jayden.unity
+    guid: ae9dfd502403516428705f5a0464f578
+  - enabled: 1
+    path: Assets/Scenes/4-5-408/Jeremiah.unity
+    guid: b6d401e68ee92364aa27326a5463f41e
+  - enabled: 1
+    path: Assets/Scenes/4-5-408/Julian.unity
+    guid: e1b614dda6acb364eaf1a544d955850c
+  - enabled: 1
+    path: Assets/Scenes/4-5-408/Kyle.unity
+    guid: b550cfcca962e5349a2a654918d091f8
+  - enabled: 1
+    path: Assets/Scenes/4-5-408/Miguel.unity
+    guid: 2f7f7acd94230ca46b564adc8f4a65d8
+  - enabled: 1
     path: Assets/Scenes/3-307/Isacc.unity
     guid: 5dfcf07943b5e3947be8667c8946a233
   - enabled: 1
