@@ -1908,6 +1908,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1496714847}
     m_Modifications:
+    - target: {fileID: 144377258252759457, guid: a4f3ae2c5e21c8445a439c6239993bc2, type: 3}
+      propertyPath: nextLevel
+      value: Jaithan 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5317201761139912857, guid: a4f3ae2c5e21c8445a439c6239993bc2, type: 3}
       propertyPath: m_Name
       value: Jaithan  EndLevel
