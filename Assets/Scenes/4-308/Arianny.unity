@@ -3353,8 +3353,20 @@ PrefabInstance:
       value: Arianny  - Square (5)
       objectReference: {fileID: 0}
     - target: {fileID: 7973562081134598566, guid: 2e830451b0b8e1645b00dd17dd64ae7a, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.0939928
+      objectReference: {fileID: 0}
+    - target: {fileID: 7973562081134598566, guid: 2e830451b0b8e1645b00dd17dd64ae7a, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.0939928
+      objectReference: {fileID: 0}
+    - target: {fileID: 7973562081134598566, guid: 2e830451b0b8e1645b00dd17dd64ae7a, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.0939928
+      objectReference: {fileID: 0}
+    - target: {fileID: 7973562081134598566, guid: 2e830451b0b8e1645b00dd17dd64ae7a, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -1.69
+      value: -1.684
       objectReference: {fileID: 0}
     - target: {fileID: 7973562081134598566, guid: 2e830451b0b8e1645b00dd17dd64ae7a, type: 3}
       propertyPath: m_LocalPosition.y
@@ -5968,8 +5980,20 @@ PrefabInstance:
       value: Arianny  - Square (1)
       objectReference: {fileID: 0}
     - target: {fileID: 7973562081134598566, guid: 2e830451b0b8e1645b00dd17dd64ae7a, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.0815496
+      objectReference: {fileID: 0}
+    - target: {fileID: 7973562081134598566, guid: 2e830451b0b8e1645b00dd17dd64ae7a, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.0815496
+      objectReference: {fileID: 0}
+    - target: {fileID: 7973562081134598566, guid: 2e830451b0b8e1645b00dd17dd64ae7a, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.0815496
+      objectReference: {fileID: 0}
+    - target: {fileID: 7973562081134598566, guid: 2e830451b0b8e1645b00dd17dd64ae7a, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 1.69
+      value: 1.6966
       objectReference: {fileID: 0}
     - target: {fileID: 7973562081134598566, guid: 2e830451b0b8e1645b00dd17dd64ae7a, type: 3}
       propertyPath: m_LocalPosition.y
