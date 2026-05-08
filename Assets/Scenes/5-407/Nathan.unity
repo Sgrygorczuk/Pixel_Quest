@@ -1467,6 +1467,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Nathan Player
       objectReference: {fileID: 0}
+    - target: {fileID: 4336182346374858202, guid: 24cb477c6b3c9e8448f89b2fd06b3a97, type: 3}
+      propertyPath: jumpForce
+      value: 200
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
