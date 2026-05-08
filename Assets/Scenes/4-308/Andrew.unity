@@ -1371,7 +1371,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8336541245242399639, guid: 92c6f26a27473f7419b90f956cbf00a4, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -1.66
+      value: -1.6600001
       objectReference: {fileID: 0}
     - target: {fileID: 8336541245242399639, guid: 92c6f26a27473f7419b90f956cbf00a4, type: 3}
       propertyPath: m_LocalPosition.z
@@ -1379,31 +1379,31 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8336541245242399639, guid: 92c6f26a27473f7419b90f956cbf00a4, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.9980892
+      value: -0.002222358
       objectReference: {fileID: 0}
     - target: {fileID: 8336541245242399639, guid: 92c6f26a27473f7419b90f956cbf00a4, type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0.0043239202
+      value: -0.061636716
       objectReference: {fileID: 0}
     - target: {fileID: 8336541245242399639, guid: 92c6f26a27473f7419b90f956cbf00a4, type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0.061621267
+      value: 0.0040974785
       objectReference: {fileID: 0}
     - target: {fileID: 8336541245242399639, guid: 92c6f26a27473f7419b90f956cbf00a4, type: 3}
       propertyPath: m_LocalRotation.z
-      value: -0.0014459002
+      value: 0.99808776
       objectReference: {fileID: 0}
     - target: {fileID: 8336541245242399639, guid: 92c6f26a27473f7419b90f956cbf00a4, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
-      value: 0.505
+      value: -0.453
       objectReference: {fileID: 0}
     - target: {fileID: 8336541245242399639, guid: 92c6f26a27473f7419b90f956cbf00a4, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: 7.065
+      value: -7.069
       objectReference: {fileID: 0}
     - target: {fileID: 8336541245242399639, guid: 92c6f26a27473f7419b90f956cbf00a4, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
-      value: -0.135
+      value: 180.283
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1990,31 +1990,31 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8336541245242399639, guid: 92c6f26a27473f7419b90f956cbf00a4, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.9980892
+      value: -0.9972141
       objectReference: {fileID: 0}
     - target: {fileID: 8336541245242399639, guid: 92c6f26a27473f7419b90f956cbf00a4, type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0.0043239202
+      value: 0.01151166
       objectReference: {fileID: 0}
     - target: {fileID: 8336541245242399639, guid: 92c6f26a27473f7419b90f956cbf00a4, type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0.061621267
+      value: 0.071811974
       objectReference: {fileID: 0}
     - target: {fileID: 8336541245242399639, guid: 92c6f26a27473f7419b90f956cbf00a4, type: 3}
       propertyPath: m_LocalRotation.z
-      value: -0.0014459002
+      value: 0.016572792
       objectReference: {fileID: 0}
     - target: {fileID: 8336541245242399639, guid: 92c6f26a27473f7419b90f956cbf00a4, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
-      value: 0.505
+      value: -1.452
       objectReference: {fileID: 0}
     - target: {fileID: 8336541245242399639, guid: 92c6f26a27473f7419b90f956cbf00a4, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: 7.065
+      value: -8.215
       objectReference: {fileID: 0}
     - target: {fileID: 8336541245242399639, guid: 92c6f26a27473f7419b90f956cbf00a4, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
-      value: -0.135
+      value: -361.8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3899,6 +3899,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 468722904642774232, guid: 47ff60e48ef05944398c57b396ecb4f6, type: 3}
+      propertyPath: CapsuleRadius
+      value: 0.34
+      objectReference: {fileID: 0}
     - target: {fileID: 947290951006439151, guid: 47ff60e48ef05944398c57b396ecb4f6, type: 3}
       propertyPath: MinDistance
       value: 2.5477624
