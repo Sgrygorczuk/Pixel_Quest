@@ -42,6 +42,9 @@ EditorBuildSettings:
     path: Assets/Scenes/4-5-408/Jayden.unity
     guid: ae9dfd502403516428705f5a0464f578
   - enabled: 1
+    path: Assets/Scenes/4-308/Romnierly 1.unity
+    guid: 2f296a7a6911f344ca42bd9898308bfa
+  - enabled: 1
     path: Assets/Scenes/4-5-408/Jeremiah.unity
     guid: b6d401e68ee92364aa27326a5463f41e
   - enabled: 1
