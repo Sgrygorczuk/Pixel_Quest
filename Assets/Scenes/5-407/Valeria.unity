@@ -119,6 +119,120 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!1001 &24875673
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1762156297}
+    m_Modifications:
+    - target: {fileID: 127757469746816048, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_Name
+      value: Valeria Coin (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 2.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -7.44
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+--- !u!1001 &30174267
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1762156297}
+    m_Modifications:
+    - target: {fileID: 3631852184356509354, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_Name
+      value: Valeria Square (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 3.44
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -6.56
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
 --- !u!1 &61678240
 GameObject:
   m_ObjectHideFlags: 0
@@ -232,6 +346,524 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!4 &110363326 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+  m_PrefabInstance: {fileID: 727299147}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &111097923
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 765538186}
+    m_Modifications:
+    - target: {fileID: 6735261761196541118, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_Name
+      value: Valeria Triangle (28)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 9.14
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -6.52
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ad405c55074667e44863031d64c68440, type: 3}
+--- !u!1001 &114510407
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 546295799}
+    m_Modifications:
+    - target: {fileID: 3631852184356509354, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_Name
+      value: Valeria Square (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -13.08
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.78
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+--- !u!1001 &116162557
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 765538186}
+    m_Modifications:
+    - target: {fileID: 6735261761196541118, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_Name
+      value: Valeria Triangle (17)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 5.16
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -6.56
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ad405c55074667e44863031d64c68440, type: 3}
+--- !u!1001 &124059644
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 765538186}
+    m_Modifications:
+    - target: {fileID: 6735261761196541118, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_Name
+      value: Valeria Triangle (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -6.69
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -6.59
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ad405c55074667e44863031d64c68440, type: 3}
+--- !u!1001 &125588126
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1762156297}
+    m_Modifications:
+    - target: {fileID: 127757469746816048, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_Name
+      value: Valeria Coin (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -12.32
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -7.31
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+--- !u!1001 &176951742
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 765538186}
+    m_Modifications:
+    - target: {fileID: 6735261761196541118, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_Name
+      value: Valeria Triangle (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 2.89
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -6.56
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ad405c55074667e44863031d64c68440, type: 3}
+--- !u!1001 &184150692
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 765538186}
+    m_Modifications:
+    - target: {fileID: 6735261761196541118, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_Name
+      value: Valeria Triangle (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -5.71
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -6.55
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ad405c55074667e44863031d64c68440, type: 3}
+--- !u!1001 &234552252
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 765538186}
+    m_Modifications:
+    - target: {fileID: 6735261761196541118, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_Name
+      value: Valeria Triangle (31)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 12.28
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -6.52
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ad405c55074667e44863031d64c68440, type: 3}
+--- !u!1001 &239404117
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 765538186}
+    m_Modifications:
+    - target: {fileID: 6735261761196541118, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_Name
+      value: Valeria Triangle (24)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.77
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.74
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ad405c55074667e44863031d64c68440, type: 3}
 --- !u!1 &240110385
 GameObject:
   m_ObjectHideFlags: 0
@@ -325,6 +957,11 @@ CanvasRenderer:
 Transform:
   m_CorrespondingSourceObject: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
   m_PrefabInstance: {fileID: 9156200882075644371}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &251149155 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+  m_PrefabInstance: {fileID: 239404117}
   m_PrefabAsset: {fileID: 0}
 --- !u!1 &276162147
 GameObject:
@@ -463,6 +1100,78 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 90}
+--- !u!1001 &324266132
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1762156297}
+    m_Modifications:
+    - target: {fileID: 3631852184356509354, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_Name
+      value: Valeria Square (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 3.57
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -4.63
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+--- !u!4 &344789391 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+  m_PrefabInstance: {fileID: 184150692}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &345665587 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+  m_PrefabInstance: {fileID: 659015314}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &361419170 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+  m_PrefabInstance: {fileID: 1400313113}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &374020104
 GameObject:
   m_ObjectHideFlags: 0
@@ -600,6 +1309,383 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 90}
+--- !u!1001 &403894313
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1762156297}
+    m_Modifications:
+    - target: {fileID: 3631852184356509354, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_Name
+      value: Valeria Square (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -7.18
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+--- !u!1001 &411361665
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 765538186}
+    m_Modifications:
+    - target: {fileID: 6735261761196541118, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_Name
+      value: Valeria Triangle (32)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 13.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -6.52
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ad405c55074667e44863031d64c68440, type: 3}
+--- !u!4 &416397554 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+  m_PrefabInstance: {fileID: 920341357}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &416702548 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+  m_PrefabInstance: {fileID: 411361665}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &417161718 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+  m_PrefabInstance: {fileID: 124059644}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &434716505
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 765538186}
+    m_Modifications:
+    - target: {fileID: 6735261761196541118, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_Name
+      value: Valeria Triangle (26)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -10.59
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.62
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ad405c55074667e44863031d64c68440, type: 3}
+--- !u!1001 &434881506
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 765538186}
+    m_Modifications:
+    - target: {fileID: 6735261761196541118, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_Name
+      value: Valeria Triangle (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.28
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -6.56
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ad405c55074667e44863031d64c68440, type: 3}
+--- !u!4 &462969864 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+  m_PrefabInstance: {fileID: 1234639599}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &475347542 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+  m_PrefabInstance: {fileID: 494864240}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &475489525 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+  m_PrefabInstance: {fileID: 1028597735}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &484998294 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+  m_PrefabInstance: {fileID: 893726965}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &494864240
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 765538186}
+    m_Modifications:
+    - target: {fileID: 6735261761196541118, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_Name
+      value: Valeria Triangle (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 5.16
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -6.56
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ad405c55074667e44863031d64c68440, type: 3}
+--- !u!1001 &539866329
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 765538186}
+    m_Modifications:
+    - target: {fileID: 6735261761196541118, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_Name
+      value: Valeria Triangle (16)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 6.23
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -6.56
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ad405c55074667e44863031d64c68440, type: 3}
 --- !u!1 &546295798
 GameObject:
   m_ObjectHideFlags: 0
@@ -630,8 +1716,68 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1380691230}
+  - {fileID: 462969864}
+  - {fileID: 1175970693}
+  - {fileID: 597343692}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &577453124
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 765538186}
+    m_Modifications:
+    - target: {fileID: 6735261761196541118, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_Name
+      value: Valeria Triangle (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.75
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -6.52
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ad405c55074667e44863031d64c68440, type: 3}
 --- !u!1 &577910351
 GameObject:
   m_ObjectHideFlags: 0
@@ -735,6 +1881,63 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 0}
+--- !u!1001 &592955159
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 765538186}
+    m_Modifications:
+    - target: {fileID: 6735261761196541118, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_Name
+      value: Valeria Triangle (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.48
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -6.56
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ad405c55074667e44863031d64c68440, type: 3}
 --- !u!1 &595222161
 GameObject:
   m_ObjectHideFlags: 0
@@ -823,6 +2026,16 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 595222161}
   m_CullTransparentMesh: 1
+--- !u!4 &597343692 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+  m_PrefabInstance: {fileID: 1648707389}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &624155046 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+  m_PrefabInstance: {fileID: 324266132}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &639174301
 GameObject:
   m_ObjectHideFlags: 0
@@ -884,7 +2097,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 8
+  orthographic size: 8.67
   m_Depth: 0
   m_CullingMask:
     serializedVersion: 2
@@ -909,12 +2122,131 @@ Transform:
   m_GameObject: {fileID: 639174301}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 1.9999998, y: -0.79999995, z: -10}
+  m_LocalPosition: {x: 1.72, y: -0.73, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &659015314
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1762156297}
+    m_Modifications:
+    - target: {fileID: 127757469746816048, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_Name
+      value: Valeria Coin (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -13.86
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -7.27
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+--- !u!4 &677336383 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+  m_PrefabInstance: {fileID: 1758990057}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &727299147
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 765538186}
+    m_Modifications:
+    - target: {fileID: 6735261761196541118, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_Name
+      value: Valeria Triangle (20)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -10.76
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -6.56
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ad405c55074667e44863031d64c68440, type: 3}
 --- !u!1 &741507906
 GameObject:
   m_ObjectHideFlags: 0
@@ -1052,6 +2384,11 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &752644802 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+  m_PrefabInstance: {fileID: 1596052506}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &765538185
 GameObject:
   m_ObjectHideFlags: 0
@@ -1083,8 +2420,758 @@ Transform:
   m_Children:
   - {fileID: 247106966}
   - {fileID: 1284672502}
+  - {fileID: 2000452084}
+  - {fileID: 344789391}
+  - {fileID: 417161718}
+  - {fileID: 1982650219}
+  - {fileID: 1200920789}
+  - {fileID: 1055283024}
+  - {fileID: 1222954878}
+  - {fileID: 1665945922}
+  - {fileID: 1460890706}
+  - {fileID: 1602084483}
+  - {fileID: 1469131671}
+  - {fileID: 1345860953}
+  - {fileID: 1695169599}
+  - {fileID: 1828556779}
+  - {fileID: 1245291252}
+  - {fileID: 475347542}
+  - {fileID: 2109638684}
+  - {fileID: 844269081}
+  - {fileID: 1618397582}
+  - {fileID: 808892054}
+  - {fileID: 2074558022}
+  - {fileID: 1356339446}
+  - {fileID: 475489525}
+  - {fileID: 1677002218}
+  - {fileID: 416702548}
+  - {fileID: 1672501087}
+  - {fileID: 251149155}
+  - {fileID: 677336383}
+  - {fileID: 1904101235}
+  - {fileID: 1839206572}
+  - {fileID: 110363326}
   m_Father: {fileID: 1496714847}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &768199562
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 765538186}
+    m_Modifications:
+    - target: {fileID: 6735261761196541118, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_Name
+      value: Valeria Triangle (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -2.59
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -6.55
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ad405c55074667e44863031d64c68440, type: 3}
+--- !u!1001 &769129294
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1762156297}
+    m_Modifications:
+    - target: {fileID: 3631852184356509354, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_Name
+      value: Valeria Square (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -13.81
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+--- !u!1001 &778802079
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 765538186}
+    m_Modifications:
+    - target: {fileID: 6735261761196541118, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_Name
+      value: Valeria Triangle (18)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 7.21
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -6.52
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ad405c55074667e44863031d64c68440, type: 3}
+--- !u!4 &808892054 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+  m_PrefabInstance: {fileID: 1558316087}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &844269081 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+  m_PrefabInstance: {fileID: 116162557}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &850785429
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1762156297}
+    m_Modifications:
+    - target: {fileID: 127757469746816048, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_Name
+      value: Valeria Coin (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -6.71
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -8.81
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+--- !u!1001 &893726965
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1762156297}
+    m_Modifications:
+    - target: {fileID: 127757469746816048, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_Name
+      value: Valeria Coin (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -7.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -7.27
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+--- !u!1001 &920341357
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1762156297}
+    m_Modifications:
+    - target: {fileID: 3631852184356509354, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_Name
+      value: Valeria Square (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 3.44
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -8.23
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+--- !u!1001 &967331358
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 765538186}
+    m_Modifications:
+    - target: {fileID: 6735261761196541118, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_Name
+      value: Valeria Triangle (29)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 10.08
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -6.52
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ad405c55074667e44863031d64c68440, type: 3}
+--- !u!1001 &970533017
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 765538186}
+    m_Modifications:
+    - target: {fileID: 6735261761196541118, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_Name
+      value: Valeria Triangle (19)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 5.16
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -6.56
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ad405c55074667e44863031d64c68440, type: 3}
+--- !u!1001 &1003205625
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1762156297}
+    m_Modifications:
+    - target: {fileID: 127757469746816048, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_Name
+      value: Valeria Coin (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -13.86
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.51
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+--- !u!1001 &1028597735
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 765538186}
+    m_Modifications:
+    - target: {fileID: 6735261761196541118, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_Name
+      value: Valeria Triangle (30)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 11.16
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -6.52
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ad405c55074667e44863031d64c68440, type: 3}
+--- !u!4 &1055283024 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+  m_PrefabInstance: {fileID: 1711087009}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &1059646128 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+  m_PrefabInstance: {fileID: 1719206211}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1107523018
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1762156297}
+    m_Modifications:
+    - target: {fileID: 3631852184356509354, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_Name
+      value: Valeria Square (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -2.34
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.26
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+--- !u!4 &1159236504 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+  m_PrefabInstance: {fileID: 1873790297}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &1175970693 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+  m_PrefabInstance: {fileID: 114510407}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &1200920789 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+  m_PrefabInstance: {fileID: 2044781099}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1204479818
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 765538186}
+    m_Modifications:
+    - target: {fileID: 6735261761196541118, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_Name
+      value: Valeria Triangle (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.78
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -6.52
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ad405c55074667e44863031d64c68440, type: 3}
 --- !u!1 &1212465117
 GameObject:
   m_ObjectHideFlags: 0
@@ -1169,12 +3256,84 @@ Transform:
   m_GameObject: {fileID: 1212465117}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 2.06, y: -0.5978, z: 0}
+  m_LocalPosition: {x: 1.24, y: -1.03, z: 0}
   m_LocalScale: {x: 1.3717, y: 1.3357, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &1222954878 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+  m_PrefabInstance: {fileID: 768199562}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1234639599
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 546295799}
+    m_Modifications:
+    - target: {fileID: 3631852184356509354, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_Name
+      value: Valeria Square (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.44
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -4.51
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+--- !u!4 &1245291252 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+  m_PrefabInstance: {fileID: 1878693931}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &1252663655 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+  m_PrefabInstance: {fileID: 30174267}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1284672501
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1189,11 +3348,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 2.67
+      value: -3.79
       objectReference: {fileID: 0}
     - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -5.05
+      value: -6.51
       objectReference: {fileID: 0}
     - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
       propertyPath: m_LocalPosition.z
@@ -1237,11 +3396,135 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
   m_PrefabInstance: {fileID: 1284672501}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1293899768
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1762156297}
+    m_Modifications:
+    - target: {fileID: 3631852184356509354, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_Name
+      value: Valeria Square (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -17.02
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+--- !u!4 &1345860953 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+  m_PrefabInstance: {fileID: 577453124}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &1356339446 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+  m_PrefabInstance: {fileID: 967331358}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &1380691230 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
   m_PrefabInstance: {fileID: 5279914823432259994}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1400313113
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1762156297}
+    m_Modifications:
+    - target: {fileID: 127757469746816048, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_Name
+      value: Valeria Coin (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -7.23
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -8.04
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 27eadb225075e294997db138acd50ce3, type: 3}
 --- !u!1 &1423311567
 GameObject:
   m_ObjectHideFlags: 0
@@ -1379,6 +3662,16 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &1460890706 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+  m_PrefabInstance: {fileID: 1937780864}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &1469131671 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+  m_PrefabInstance: {fileID: 434881506}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1496714846
 GameObject:
   m_ObjectHideFlags: 0
@@ -1413,6 +3706,125 @@ Transform:
   - {fileID: 765538186}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &1558316087
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 765538186}
+    m_Modifications:
+    - target: {fileID: 6735261761196541118, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_Name
+      value: Valeria Triangle (27)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 8.11
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -6.52
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ad405c55074667e44863031d64c68440, type: 3}
+--- !u!1001 &1596052506
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1762156297}
+    m_Modifications:
+    - target: {fileID: 3631852184356509354, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_Name
+      value: Valeria Square (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -10.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+--- !u!4 &1602084483 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+  m_PrefabInstance: {fileID: 592955159}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1612621292
 GameObject:
   m_ObjectHideFlags: 0
@@ -1549,6 +3961,517 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1612621292}
   m_CullTransparentMesh: 1
+--- !u!4 &1618397582 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+  m_PrefabInstance: {fileID: 778802079}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &1625420528 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+  m_PrefabInstance: {fileID: 769129294}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &1629909484 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+  m_PrefabInstance: {fileID: 1293899768}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1647223828
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1762156297}
+    m_Modifications:
+    - target: {fileID: 127757469746816048, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_Name
+      value: Valeria Coin (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -13.26
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -6.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+--- !u!1001 &1648707389
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 546295799}
+    m_Modifications:
+    - target: {fileID: 3631852184356509354, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_Name
+      value: Valeria Square (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -8.88
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.71
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+--- !u!1001 &1664386928
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1762156297}
+    m_Modifications:
+    - target: {fileID: 127757469746816048, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_Name
+      value: Valeria Coin (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 2.57
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.46
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+--- !u!4 &1665945922 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+  m_PrefabInstance: {fileID: 1675651341}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &1670204610 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+  m_PrefabInstance: {fileID: 1003205625}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &1672501087 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+  m_PrefabInstance: {fileID: 2124966116}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1675651341
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 765538186}
+    m_Modifications:
+    - target: {fileID: 6735261761196541118, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_Name
+      value: Valeria Triangle (21)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 11.44
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.61
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ad405c55074667e44863031d64c68440, type: 3}
+--- !u!4 &1677002218 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+  m_PrefabInstance: {fileID: 234552252}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1687350655
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 765538186}
+    m_Modifications:
+    - target: {fileID: 6735261761196541118, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_Name
+      value: Valeria Triangle (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -7.72
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -6.59
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ad405c55074667e44863031d64c68440, type: 3}
+--- !u!4 &1695169599 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+  m_PrefabInstance: {fileID: 1204479818}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &1701258205 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+  m_PrefabInstance: {fileID: 24875673}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1711087009
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 765538186}
+    m_Modifications:
+    - target: {fileID: 6735261761196541118, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_Name
+      value: Valeria Triangle (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -9.81
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -6.55
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ad405c55074667e44863031d64c68440, type: 3}
+--- !u!1001 &1719206211
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1762156297}
+    m_Modifications:
+    - target: {fileID: 127757469746816048, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_Name
+      value: Valeria Coin (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -15.06
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.63
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+--- !u!4 &1740339194 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+  m_PrefabInstance: {fileID: 125588126}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1758990057
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 765538186}
+    m_Modifications:
+    - target: {fileID: 6735261761196541118, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_Name
+      value: Valeria Triangle (25)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -11.54
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.67
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ad405c55074667e44863031d64c68440, type: 3}
+--- !u!4 &1759973967 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+  m_PrefabInstance: {fileID: 1647223828}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1762156296
 GameObject:
   m_ObjectHideFlags: 0
@@ -1579,13 +4502,555 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 2128967414}
+  - {fileID: 1759973967}
+  - {fileID: 345665587}
+  - {fileID: 1740339194}
+  - {fileID: 484998294}
+  - {fileID: 361419170}
+  - {fileID: 1867601259}
+  - {fileID: 1059646128}
+  - {fileID: 1670204610}
+  - {fileID: 1906401290}
+  - {fileID: 1893996978}
+  - {fileID: 1701258205}
+  - {fileID: 2120064097}
+  - {fileID: 1159236504}
+  - {fileID: 416397554}
+  - {fileID: 1252663655}
+  - {fileID: 624155046}
+  - {fileID: 1781982297}
+  - {fileID: 1629909484}
+  - {fileID: 1625420528}
+  - {fileID: 752644802}
+  - {fileID: 1917794950}
   m_Father: {fileID: 1496714847}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &1781982297 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+  m_PrefabInstance: {fileID: 1107523018}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &1828556779 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+  m_PrefabInstance: {fileID: 176951742}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1830232568
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1762156297}
+    m_Modifications:
+    - target: {fileID: 127757469746816048, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_Name
+      value: Valeria Coin (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 4.24
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -5.51
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+--- !u!4 &1839206572 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+  m_PrefabInstance: {fileID: 970533017}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &1867601259 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+  m_PrefabInstance: {fileID: 850785429}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1873790297
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1762156297}
+    m_Modifications:
+    - target: {fileID: 3631852184356509354, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_Name
+      value: Valeria Square
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.33
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -9.26
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+--- !u!1001 &1878693931
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 765538186}
+    m_Modifications:
+    - target: {fileID: 6735261761196541118, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_Name
+      value: Valeria Triangle (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -6.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ad405c55074667e44863031d64c68440, type: 3}
+--- !u!4 &1893996978 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+  m_PrefabInstance: {fileID: 1830232568}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &1904101235 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+  m_PrefabInstance: {fileID: 434716505}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &1906401290 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+  m_PrefabInstance: {fileID: 2080613390}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &1912351655 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 7598724388510660878, guid: 2a81421d11c7cca48ab43ac55d7da5be, type: 3}
   m_PrefabInstance: {fileID: 5326113346563515413}
   m_PrefabAsset: {fileID: 0}
+--- !u!4 &1917794950 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
+  m_PrefabInstance: {fileID: 403894313}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1937780864
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 765538186}
+    m_Modifications:
+    - target: {fileID: 6735261761196541118, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_Name
+      value: Valeria Triangle (22)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 10.57
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.16
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ad405c55074667e44863031d64c68440, type: 3}
+--- !u!1001 &1962319978
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 765538186}
+    m_Modifications:
+    - target: {fileID: 6735261761196541118, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_Name
+      value: Valeria Triangle (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -4.73
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -6.55
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ad405c55074667e44863031d64c68440, type: 3}
+--- !u!4 &1982650219 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+  m_PrefabInstance: {fileID: 1687350655}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &2000452084 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+  m_PrefabInstance: {fileID: 1962319978}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2044781099
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 765538186}
+    m_Modifications:
+    - target: {fileID: 6735261761196541118, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_Name
+      value: Valeria Triangle (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -8.83
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -6.55
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ad405c55074667e44863031d64c68440, type: 3}
+--- !u!4 &2074558022 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+  m_PrefabInstance: {fileID: 111097923}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2080613390
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1762156297}
+    m_Modifications:
+    - target: {fileID: 127757469746816048, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_Name
+      value: Valeria Coin (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -12.71
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.46
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+--- !u!4 &2109638684 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+  m_PrefabInstance: {fileID: 539866329}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &2120064097 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
+  m_PrefabInstance: {fileID: 1664386928}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2124966116
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 765538186}
+    m_Modifications:
+    - target: {fileID: 6735261761196541118, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_Name
+      value: Valeria Triangle (23)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 11.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ad405c55074667e44863031d64c68440, type: 3}
 --- !u!4 &2128967414 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
@@ -1605,11 +5070,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2173533612897400989, guid: 1c5ee62ff44781d44965b379caaadf9d, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -11.46
+      value: -10.68
       objectReference: {fileID: 0}
     - target: {fileID: 2173533612897400989, guid: 1c5ee62ff44781d44965b379caaadf9d, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -7.32
+      value: -5.04
       objectReference: {fileID: 0}
     - target: {fileID: 2173533612897400989, guid: 1c5ee62ff44781d44965b379caaadf9d, type: 3}
       propertyPath: m_LocalPosition.z
@@ -1666,7 +5131,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -11
+      value: -9.03
       objectReference: {fileID: 0}
     - target: {fileID: 8953312961587452245, guid: 27eadb225075e294997db138acd50ce3, type: 3}
       propertyPath: m_LocalPosition.z
@@ -1719,11 +5184,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 9.00531
+      value: -5.42
       objectReference: {fileID: 0}
     - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -3.86245
+      value: -2.71
       objectReference: {fileID: 0}
     - target: {fileID: 4918148479157237744, guid: b4f2b34f5144208428e90a8e328a1b1a, type: 3}
       propertyPath: m_LocalPosition.z
@@ -1772,11 +5237,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 7598724388510660878, guid: 2a81421d11c7cca48ab43ac55d7da5be, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 4.23
+      value: -17.84
       objectReference: {fileID: 0}
     - target: {fileID: 7598724388510660878, guid: 2a81421d11c7cca48ab43ac55d7da5be, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -9.05
+      value: 0.41
       objectReference: {fileID: 0}
     - target: {fileID: 7598724388510660878, guid: 2a81421d11c7cca48ab43ac55d7da5be, type: 3}
       propertyPath: m_LocalPosition.z
@@ -1833,11 +5298,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -3
+      value: -6.55
       objectReference: {fileID: 0}
     - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -6.5
+      value: -3.08
       objectReference: {fileID: 0}
     - target: {fileID: 8998589521783880984, guid: ad405c55074667e44863031d64c68440, type: 3}
       propertyPath: m_LocalPosition.z
