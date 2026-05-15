@@ -1217,6 +1217,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Miguel - Triangle
       objectReference: {fileID: 0}
+    - target: {fileID: 2746152536146751439, guid: 3517bff1524b11a46b96ef0fc4588071, type: 3}
+      propertyPath: m_TagString
+      value: Coin
+      objectReference: {fileID: 0}
     - target: {fileID: 8080128204357374435, guid: 3517bff1524b11a46b96ef0fc4588071, type: 3}
       propertyPath: m_LocalPosition.x
       value: -3
