@@ -9,6 +9,7 @@ public class LevelManager : MonoBehaviour
     public List<string> folderPath = new List<string>();
     public List<LevelData> levelData = new List<LevelData>();
     public string CurrentLevel { get; set; } = "Level1";
+    public string CurrnetPath { get; set; } = "Level1";
     
     private void Awake() {
         // Ensure only one instance exists
@@ -22,7 +23,11 @@ public class LevelManager : MonoBehaviour
     private void Start() {
         foreach (string t in folderPath) {
             List<string> levels = GetSceneNamesFromFolder(t);
-            LevelData tempLevelData = new LevelData { levelNames = levels };
+            List<string> paths = GetPathsFromFolder(t);
+            LevelData tempLevelData = new LevelData {
+                levelPaths = paths,
+                levelNames = levels
+            };
             levelData.Add(tempLevelData);
         }
     }
@@ -41,11 +46,36 @@ public class LevelManager : MonoBehaviour
             {
                 // Get filename without extension
                 string fileName = Path.GetFileNameWithoutExtension(file);
-
                 // Only add if the filename itself has no digits
                 if (!fileName.Any(char.IsDigit)) 
                 {
                     names.Add(fileName);
+                }
+            }
+        }
+        else {
+            Debug.LogError("Directory not found: " + path);
+        }
+
+        return names;
+    }
+
+    private List<string> GetPathsFromFolder(string path) {
+        List<string> names = new List<string>();
+
+        // Verify the directory exists
+        if (Directory.Exists(path))
+        {
+            // Get all files ending in .unity
+            string[] files = Directory.GetFiles(path, "*.unity");
+
+            foreach (string file in files)
+            {
+                // Only add if the filename itself has no digits
+                if (!file.Contains(" ")) 
+                {
+                    string pathName = file.Replace("\\", "/");
+                    names.Add(pathName);
                 }
             }
         }
@@ -61,4 +91,5 @@ public class LevelManager : MonoBehaviour
 public class LevelData
 {
     public List<string> levelNames = new List<string>();
+    public List<string> levelPaths = new List<string>();
 }

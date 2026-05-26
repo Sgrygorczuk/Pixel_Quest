@@ -1498,6 +1498,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3905109866028455985, guid: 58147cb7cdd4b6f4dbd9b15bc7021ea1, type: 3}
+      propertyPath: jumpForce
+      value: 10.09
+      objectReference: {fileID: 0}
     - target: {fileID: 4491140909307312209, guid: 58147cb7cdd4b6f4dbd9b15bc7021ea1, type: 3}
       propertyPath: m_Name
       value: Daniel - Player
@@ -1631,11 +1635,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1550531440961316948, guid: 6dd8d93778e11d1408f658bfc0c11311, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -4.66
+      value: 1.03
       objectReference: {fileID: 0}
     - target: {fileID: 1550531440961316948, guid: 6dd8d93778e11d1408f658bfc0c11311, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -3.5
+      value: -4.36
       objectReference: {fileID: 0}
     - target: {fileID: 1550531440961316948, guid: 6dd8d93778e11d1408f658bfc0c11311, type: 3}
       propertyPath: m_LocalPosition.z
@@ -1686,17 +1690,21 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1496714847}
     m_Modifications:
+    - target: {fileID: 870068271602392128, guid: f06561b311e3f8f48b6e6c7617122957, type: 3}
+      propertyPath: nextLevel
+      value: Menu
+      objectReference: {fileID: 0}
     - target: {fileID: 5177322036865621368, guid: f06561b311e3f8f48b6e6c7617122957, type: 3}
       propertyPath: m_Name
       value: Daniel - Goal
       objectReference: {fileID: 0}
     - target: {fileID: 6650136593443440827, guid: f06561b311e3f8f48b6e6c7617122957, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -4.78
+      value: 0.17
       objectReference: {fileID: 0}
     - target: {fileID: 6650136593443440827, guid: f06561b311e3f8f48b6e6c7617122957, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -10.96
+      value: -10.54
       objectReference: {fileID: 0}
     - target: {fileID: 6650136593443440827, guid: f06561b311e3f8f48b6e6c7617122957, type: 3}
       propertyPath: m_LocalPosition.z

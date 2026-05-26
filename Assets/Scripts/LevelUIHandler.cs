@@ -60,18 +60,20 @@ public class LevelUIHandler : MonoBehaviour
         // Access the specific folder using the index
         LevelData folder = LevelManager.Instance.levelData[index];
 
-        foreach (string sceneName in folder.levelNames)
+        for (int i = 0; i < folder.levelNames.Count; i++)
         {
+            string sceneName = folder.levelNames[i];
+            string path = folder.levelPaths[i];
+    
             GameObject newButton = Instantiate(buttonPrefab, levelSelectUI);
-        
+
             TMP_Text btnText = newButton.GetComponentInChildren<TMP_Text>();
             if (btnText != null)
             {
                 btnText.text = sceneName;
             }
-
-            string nameCopy = sceneName; 
-            newButton.GetComponent<Button>().onClick.AddListener(() => LoadLevel(nameCopy));
+ 
+            newButton.GetComponent<Button>().onClick.AddListener(() => LoadLevel(path));
         }
         
         //Sets Up the back button 
@@ -114,14 +116,15 @@ public class LevelUIHandler : MonoBehaviour
         }
 
         fadeImage.color = endColor;
-        UnityEngine.SceneManagement.SceneManager.LoadScene(LevelManager.Instance.CurrentLevel);
+        UnityEngine.SceneManagement.SceneManager.LoadScene(LevelManager.Instance.CurrnetPath);
     }
 
 
     private void LoadLevel(string name)
     {
         PlayButtonSFX();
-        LevelManager.Instance.CurrentLevel = name;
+        LevelManager.Instance.CurrentLevel = Path.GetFileNameWithoutExtension(name);
+        LevelManager.Instance.CurrnetPath = name;
         StartFadeIn();
     }
 

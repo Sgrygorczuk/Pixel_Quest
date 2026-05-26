@@ -8367,6 +8367,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Jayden - EndLevel
       objectReference: {fileID: 0}
+    - target: {fileID: 6279639476896475052, guid: d50e1aec15407f94ea6bff03d27b96c4, type: 3}
+      propertyPath: nextLevel
+      value: Jayden 3
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []

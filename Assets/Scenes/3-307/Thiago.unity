@@ -1978,11 +1978,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5383902155641207306, guid: f0062e2bd85099f45b6b9d0fe3061f2d, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -5.61
+      value: -5.42
       objectReference: {fileID: 0}
     - target: {fileID: 5383902155641207306, guid: f0062e2bd85099f45b6b9d0fe3061f2d, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -7.68
+      value: -8.31
       objectReference: {fileID: 0}
     - target: {fileID: 5383902155641207306, guid: f0062e2bd85099f45b6b9d0fe3061f2d, type: 3}
       propertyPath: m_LocalPosition.z
@@ -2794,6 +2794,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5952420554536893297, guid: 4d03eff63570f694e8acba7ebdf47480, type: 3}
+      propertyPath: m_Size.x
+      value: 0.38484386
+      objectReference: {fileID: 0}
+    - target: {fileID: 5952420554536893297, guid: 4d03eff63570f694e8acba7ebdf47480, type: 3}
+      propertyPath: m_Offset.x
+      value: -0.0043794364
+      objectReference: {fileID: 0}
     - target: {fileID: 7179731723283821365, guid: 4d03eff63570f694e8acba7ebdf47480, type: 3}
       propertyPath: m_Name
       value: Miguel - Player Variant
@@ -3011,11 +3019,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5383902155641207306, guid: f0062e2bd85099f45b6b9d0fe3061f2d, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -1.33
+      value: -0.69
       objectReference: {fileID: 0}
     - target: {fileID: 5383902155641207306, guid: f0062e2bd85099f45b6b9d0fe3061f2d, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -7.6
+      value: -8.77
       objectReference: {fileID: 0}
     - target: {fileID: 5383902155641207306, guid: f0062e2bd85099f45b6b9d0fe3061f2d, type: 3}
       propertyPath: m_LocalPosition.z
