@@ -1488,23 +1488,23 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2921469125270594800, guid: 829b0e39ec6ab9a49bee8472b75ebcaa, type: 3}
       propertyPath: m_LocalScale.x
-      value: 0.952926
+      value: 0.68
       objectReference: {fileID: 0}
     - target: {fileID: 2921469125270594800, guid: 829b0e39ec6ab9a49bee8472b75ebcaa, type: 3}
       propertyPath: m_LocalScale.y
-      value: 0.952926
+      value: 0.68
       objectReference: {fileID: 0}
     - target: {fileID: 2921469125270594800, guid: 829b0e39ec6ab9a49bee8472b75ebcaa, type: 3}
       propertyPath: m_LocalScale.z
-      value: 0.952926
+      value: 0.68
       objectReference: {fileID: 0}
     - target: {fileID: 2921469125270594800, guid: 829b0e39ec6ab9a49bee8472b75ebcaa, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 4.52
+      value: 4.38
       objectReference: {fileID: 0}
     - target: {fileID: 2921469125270594800, guid: 829b0e39ec6ab9a49bee8472b75ebcaa, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.57
+      value: 0.33
       objectReference: {fileID: 0}
     - target: {fileID: 2921469125270594800, guid: 829b0e39ec6ab9a49bee8472b75ebcaa, type: 3}
       propertyPath: m_LocalPosition.z
@@ -2933,15 +2933,15 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2921469125270594800, guid: 829b0e39ec6ab9a49bee8472b75ebcaa, type: 3}
       propertyPath: m_LocalScale.x
-      value: 0.952926
+      value: 0.68
       objectReference: {fileID: 0}
     - target: {fileID: 2921469125270594800, guid: 829b0e39ec6ab9a49bee8472b75ebcaa, type: 3}
       propertyPath: m_LocalScale.y
-      value: 0.952926
+      value: 0.68
       objectReference: {fileID: 0}
     - target: {fileID: 2921469125270594800, guid: 829b0e39ec6ab9a49bee8472b75ebcaa, type: 3}
       propertyPath: m_LocalScale.z
-      value: 0.952926
+      value: 0.68
       objectReference: {fileID: 0}
     - target: {fileID: 2921469125270594800, guid: 829b0e39ec6ab9a49bee8472b75ebcaa, type: 3}
       propertyPath: m_LocalPosition.x

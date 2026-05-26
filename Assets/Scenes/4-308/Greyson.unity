@@ -2244,11 +2244,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5405078401680251984, guid: b7b9ca70a70479b4bb479fc4b108977b, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -9.24
+      value: -9.01
       objectReference: {fileID: 0}
     - target: {fileID: 5405078401680251984, guid: b7b9ca70a70479b4bb479fc4b108977b, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 3.99
+      value: 3.12
       objectReference: {fileID: 0}
     - target: {fileID: 5405078401680251984, guid: b7b9ca70a70479b4bb479fc4b108977b, type: 3}
       propertyPath: m_LocalPosition.z
@@ -2695,7 +2695,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8665325411553592112, guid: c0fe760a7801d43419b70f288a708bb7, type: 3}
       propertyPath: nextLevel
-      value: Greyson2
+      value: Greyson 2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
